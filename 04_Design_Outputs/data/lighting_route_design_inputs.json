@@ -1,0 +1,38 @@
+{
+  "DB_lighting_xy_mm": [
+    73000,
+    31488.1
+  ],
+  "voltage_V": 220,
+  "PF": 0.9,
+  "candidate_line_neutral_CPC_mm2": 2.5,
+  "candidate_B_RCBO_A": 10,
+  "RCD_mA": 30,
+  "ambient_C": 40,
+  "Ca": 0.87,
+  "grouped_lighting_circuits": 7,
+  "Cg": 0.54,
+  "methodB_It_A": 24,
+  "table_drop_mV_A_m": 18,
+  "common_vertical_allowance_m": 2,
+  "branch_drop_budget_V": 4.4,
+  "reference_B10_Zs_limit_ohm": 4.17,
+  "R20_2p5_ohm_km": 7.41,
+  "copper_temp_coefficient_per_C": 0.00393,
+  "operating_C": 70,
+  "R_reference_C": 20,
+  "PVC_CPC_k": 115,
+  "sources": {
+    "ampacity": "EMSD2025 Table A6(1) col4 printed281 PDF282",
+    "drop": "EMSD2025 Table A6(1)cont col3 printed282 PDF283",
+    "factors": "EMSD2025 A5(1) PDF274 and A5(3) bunched7 PDF275",
+    "Zs": "EMSD2025 Table11(10) printed105 PDF106; B10 220V",
+    "R20": "2.5mm2 copper maximum conductor resistance 7.41ohm/km is a design reference pending cable product verification"
+  },
+  "limitations": [
+    "DB location adopted from screened south-wall candidate; cabinet/access and incoming route to coordinate",
+    "2m vertical allowance and2% outgoing drop allocation are design assumptions",
+    "RCD/overcurrent device selection must meet inrush fault breaking and energy-let-through requirements",
+    "Ze at DB not measured; report permissible Ze rather than assuming a pass"
+  ]
+}
