@@ -1,36 +1,50 @@
-# BSE3124 电气设计作业
+# BSE3124 Electrical Installation Design
 
-最终交付入口：[Group 1 答案、图纸及计算说明](04_Design_Outputs/submission/README.md)。
+**English** | [简体中文](README.zh-CN.md)
 
-[最终答案PDF](04_Design_Outputs/submission/BSE3124_Answer_Sheets_v03.pdf) · [可编辑DWG](04_Design_Outputs/cad/assignment_submission_v01.dwg) · [逐项验收记录](04_Design_Outputs/submission/FINAL_ACCEPTANCE.md)
+Group 1 mini-design assignment for BSE3124 Electricity and Buildings, The Hong Kong Polytechnic University, 2026/27 Semester 1.
 
-[项目执行声明](PROJECT_SPEC.md)说明配置、设计步骤、数据规则和验收条件。
+## Final deliverables
 
-| 目录 | 内容 |
+- [Final answer sheets — 12-page PDF](04_Design_Outputs/submission/BSE3124_Answer_Sheets_v03.pdf)
+- [Editable AutoCAD drawing](04_Design_Outputs/cad/assignment_submission_v01.dwg)
+- [Requirement-by-requirement acceptance record](04_Design_Outputs/submission/FINAL_ACCEPTANCE.md)
+- [Calculation and drawing guide (Chinese)](04_Design_Outputs/submission/README.md)
+- [Editable LaTeX source and build instructions](04_Design_Outputs/submission/latex/README.md)
+
+Tasks 1–3 have been checked against the original assignment under the course-design assumptions stated in the answer. The package covers building load estimation, transformer/LV room layouts, Office 1 lighting and power layouts, the distribution-board schematic, and incoming/outgoing demand and cable sizing. It is a course submission, not certification of an installed system.
+
+## Repository layout
+
+| Directory | Contents |
 |---|---|
-| [01_Assignment](01_Assignment/) | 作业要求和原始答题纸 |
-| [02_Building_Drawings](02_Building_Drawings/) | 原始DWG和参考图，保留不改 |
-| [03_Technical_References](03_Technical_References/) | 课程资料；Official为官方规范和下载记录 |
-| [04_Design_Outputs](04_Design_Outputs/) | data为统一数据表，cad为工作图，calculations为计算，pdf为出图，submission为最终交付；00_Smoke_Test仅为工具测试 |
-| [05_Tools](05_Tools/) | 工具脚本、依赖快照和第三方MCP源码 |
-| [06_Research](06_Research/) | 资源目录、verification验证记录、background历史工作流及archive杂项 |
+| [01_Assignment](01_Assignment/) | Original assignment and answer-sheet template |
+| [02_Building_Drawings](02_Building_Drawings/) | Original DWG and reference drawing, preserved unchanged |
+| [03_Technical_References](03_Technical_References/) | Course references, official documents and download records |
+| [04_Design_Outputs](04_Design_Outputs/) | Shared data, calculation scripts, current CAD/PDF drawings, submission files and archived working outputs |
+| [05_Tools](05_Tools/) | Tool scripts, dependency snapshots and third-party AutoCAD MCP source |
+| [06_Research](06_Research/) | Resource catalog and environment-verification records |
 
-常用入口：
+The `cad` folder retains the submission DWG and current working DWG; `pdf` retains the three adopted Office 1 sheets. Superseded drafts, test plots and recovery copies are collected in the [dated output archive](04_Design_Outputs/archive/2026-11-07/README.md). Temporary QA files and crash logs remain local. Historical studies do not define the final adopted design.
 
-- [资源目录](06_Research/RESOURCE_CATALOG.md)
-- [环境验证](06_Research/verification/setup_verification.json)
-- [MCP测试](06_Research/verification/mcp_smoke_test.json)
-- [计算与绘图工作流](04_Design_Outputs/submission/README.md)（历史background/WORKFLOW.md当前缺失）
+## Working with the project
 
-隐藏目录`.venv`为Python环境，`.codex`为项目配置，`.agents`为skill。AGENTS.md是后续AI工作规则。
+Use AutoCAD 2027 for DWG files. The LaTeX report builds with XeLaTeX; MiKTeX is installed in the local Windows user profile, outside this repository. Run `04_Design_Outputs/submission/latex/build.ps1` to rebuild the answer from the shared data and included drawing assets.
 
-工具检查在根目录运行：
+The [project specification (Chinese)](PROJECT_SPEC.md) defines the execution contract, data rules and acceptance gates. [AGENTS.md](AGENTS.md) supplies instructions for subsequent agent work. `.venv` contains the local Python environment, `.codex` the project configuration, and `.agents` the project skills.
+
+Environment/tool checks, run from the repository root:
 
 ```powershell
 .venv/Scripts/python.exe 05_Tools/verify_setup.py
 .venv/Scripts/python.exe 05_Tools/smoke_mcp.py
 ```
 
-Task1–3课程作业已按原题验收，最终PDF共12页。历史工作图/候选计算不代表最终采用值；当前入口和条件见交付说明。
+These are setup checks; final design acceptance is recorded separately in the submission evidence.
 
-历史草稿、试验出图及恢复备份统一位于[输出归档](04_Design_Outputs/archive/2026-11-07/README.md)。当前cad目录只保留交付DWG与工作DWG，pdf目录只保留三张采用出图。
+## References and verification
+
+- [Resource catalog](06_Research/RESOURCE_CATALOG.md)
+- [Environment-verification record](06_Research/verification/setup_verification.json)
+- [MCP smoke-test record](06_Research/verification/mcp_smoke_test.json)
+- [Final artifact hashes and verification index](04_Design_Outputs/data/final_submission_manifest.json)
