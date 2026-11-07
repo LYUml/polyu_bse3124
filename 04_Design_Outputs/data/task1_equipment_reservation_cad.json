@@ -1,0 +1,66 @@
+{
+  "drawing": "C:\\Users\\lyuml-win\\Desktop\\polyu_bse3124\\04_Design_Outputs\\cad\\assignment_working_v02.dwg",
+  "handles": [
+    "79BE",
+    "79BF",
+    "79C0",
+    "79C1",
+    "79C2",
+    "79C3",
+    "79C4",
+    "79C5",
+    "79C6",
+    "79C7",
+    "79C8",
+    "79C9",
+    "79CA",
+    "79CB",
+    "79CC",
+    "79CD",
+    "79CE",
+    "79CF",
+    "79D0",
+    "79D1"
+  ],
+  "equipment_checks": [
+    {
+      "id": "HV-01",
+      "clearance_envelope_mm": [
+        9250.0,
+        17005.584,
+        13750.0,
+        20805.584
+      ],
+      "inside_room": true,
+      "basis": "3000 x 1000 mm assumed planning envelope; not manufacturer dimensions"
+    },
+    {
+      "id": "TX-A",
+      "clearance_envelope_mm": [
+        13950.0,
+        17705.584,
+        17650.0,
+        21155.584
+      ],
+      "inside_room": true,
+      "basis": "2200 x 1800 mm assumed planning envelope; not actual transformer or plinth"
+    },
+    {
+      "id": "TX-B",
+      "clearance_envelope_mm": [
+        17650.0,
+        17705.584,
+        21350.0,
+        21155.584
+      ],
+      "inside_room": true,
+      "basis": "2200 x 1800 mm assumed planning envelope; not actual transformer or plinth"
+    }
+  ],
+  "limitations": [
+    "Reservations are explicit design assumptions, not selected equipment dimensions",
+    "External access route and opening works require site confirmation",
+    "Overlapping clearance zones require coordinated operating and replacement procedures",
+    "Door leaves, wall openings, fire-rated construction, ventilation and trenches remain to detail"
+  ]
+}
