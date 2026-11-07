@@ -99,7 +99,7 @@ FB06,floor box 4x13A,typical,Office 1,71600,-30500,mm; power plan,,,P3,PROVISION
 FB07,floor box 4x13A,typical,Office 1,73800,-26500,mm; power plan,,,P4,PROVISIONAL: power_proposal_v2.csv; loading and circuit arrangement unverified
 FB08,floor box 4x13A,typical,Office 1,79200,-26700,mm; power plan,,,P4,PROVISIONAL: power_proposal_v2.csv; loading and circuit arrangement unverified
 FB09,floor box 4x13A,typical,Office 1,70000,-15100,mm; power plan,,,P6,PROVISIONAL: power_proposal_v3.csv; pantry grouping and loading unverified
-SO01,13A twin socket,typical,Office 1,64700,-14500,mm; power plan,,,P6,PROVISIONAL: power_proposal_v3.csv; pantry grouping and loading unverified
-SO02,13A twin socket,typical,Office 1,77500,-12800,mm; power plan,,,P5,PROVISIONAL: power_proposal_v2.csv; loading and circuit arrangement unverified
-SO03,13A twin socket,typical,Office 1,65000,-13000,mm; power plan,,,P6,PROVISIONAL: power_proposal_v2.csv; loading and circuit arrangement unverified
-FS01,13A fused spur,typical,Office 1,67000,-13000,mm; power plan,,,P6,PROVISIONAL: identify appliance; separate circuit if water heater
+SO01,13A twin socket,typical,Office 1,64525.932,-14500,mm; power plan,,,P6,"PROVISIONAL: power_proposal_v4.csv; wall line only, mounting, appliance and circuit unverified"
+SO02,13A twin socket,typical,Office 1,77500,-12782.416,mm; power plan,,,P5,"PROVISIONAL: power_proposal_v4.csv; wall line only, mounting, appliance and circuit unverified"
+SO03,13A twin socket,typical,Office 1,65000,-12782.416,mm; power plan,,,P6,"PROVISIONAL: power_proposal_v4.csv; wall line only, mounting, appliance and circuit unverified"
+FS01,13A fused spur,typical,Office 1,67000,-12782.416,mm; power plan,,,P6,"PROVISIONAL: power_proposal_v4.csv; wall line only, mounting, appliance and circuit unverified"

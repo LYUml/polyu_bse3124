@@ -1,0 +1,14 @@
+﻿device_id,type,x_mm,y_mm,design_basis,circuit_candidate,status
+FB01,floor box 4x13A,68000,-21350,north west desk group,P1,draft: field placement and load verification required
+FB02,floor box 4x13A,69500,-23200,centre north desk group,P1,draft: field placement and load verification required
+FB03,floor box 4x13A,68000,-26650,west desk group,P2,draft: field placement and load verification required
+FB04,floor box 4x13A,69500,-26600,centre south desk group,P2,draft: field placement and load verification required
+FB05,floor box 4x13A,66114.1,-30431.7,south west desk group; outside desk bounding box,P3,draft: field placement and load verification required
+FB06,floor box 4x13A,71600,-30500,south centre desk group,P3,draft: field placement and load verification required
+FB07,floor box 4x13A,73800,-26500,east desk group,P4,draft: field placement and load verification required
+FB08,floor box 4x13A,79200,-26700,east desk group boundary check,P4,draft: field placement and load verification required
+FB09,floor box 4x13A,70000,-15100,meeting table preliminary position,P6,"draft: provisional pantry group; table access, spur type and kitchen use require confirmation"
+SO01,13A twin socket,64525.932,-14500,meeting room wall verify wall face,P6,draft: inserted at west interior wall line; mounting and clearance unverified
+SO02,13A twin socket,77500,-12782.416,upper room wall verify wall face,P5,draft: inserted at north interior wall line; mounting and equipment unverified
+SO03,13A twin socket,65000,-12782.416,pantry wall verify equipment location,P6,draft: inserted at north interior wall line; mounting and equipment unverified
+FS01,13A fused spur,67000,-12782.416,pantry equipment assumed,P6,"draft: north wall; identify appliance, dedicated circuit required if water heater"
