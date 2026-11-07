@@ -4,8 +4,8 @@ LC-B,provisional office DB,L2,LED24;LED25;LED26;LED27;LED28;LED29;LED30;LED31;LE
 LC-C,provisional office DB,L3,LED43;LED44;LED45;LED49;LED50;LED51;LED52;LED53;LED57;LED58;LED59;LED60;LED61;LED65;LED66;LED67;LED68;LED69,396,,2.000,,,,,WORKING DESIGN PIL3117955 mixed22/28W;220V PF0.90; phase controls and protection pending
 LC-D,provisional office DB,L3,PN01;PN02;PN03;PN04;PN05;PN06;PN07;PN08;PN09;PN10;PN11,242,,1.222,,,,,PROVISIONAL: PIL 3117955 22W; PF >0.9 conservatively 0.9; 220V; phase and protection pending
 LC-E,provisional office DB,L2,LED82;LED83;LED84;LED85;LED86;LED87;LED88;LED89;LED91;LED92;LED93;LED94;LED95;LED96,392,,1.980,,,,,WORKING DESIGN: 14 PIL3117955 28W; 220V PF0.90; protection and space classification pending
-LC-F,provisional office DB,L1,UE01;UE02;UE03;UE04;UE05;UE06;UE07;UE08;UE09;UE10,225.0,,1.136,,,,,"PROVISIONAL: 220V and PF 0.9 steady-state for LEDs; voltage tolerance, demand and protection pending; phase candidate only"
-LC-G,provisional office DB,L3,SE01;SE02;SE03;SE04,90.0,,0.455,,,,,"PROVISIONAL: 220V and PF 0.9 steady-state for LEDs; voltage tolerance, demand and protection pending; phase candidate only"
+LC-F,provisional office DB,L1,UE01;UE02;UE03;UE04;UE05;UE06;UE07;UE08;UE09;UE10,280,,1.414,,,,,WORKING DESIGN PIL3117955 28W;220V PF0.90; area use control and protection pending
+LC-G,provisional office DB,L3,SE01;SE02;SE03;SE04,112,,0.566,,,,,WORKING DESIGN PIL3117955 28W;220V PF0.90; area use control and protection pending
 P1,provisional office DB,L1,FB01;FB02,,,,,,,,PROVISIONAL: loading and standard circuit area not established; phase candidate only
 P2,provisional office DB,L1,FB03;FB04,,,,,,,,PROVISIONAL: loading and standard circuit area not established; phase candidate only
 P3,provisional office DB,L2,FB05;FB06,,,,,,,,PROVISIONAL: loading and standard circuit area not established; phase candidate only

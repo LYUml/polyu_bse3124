@@ -66,20 +66,20 @@ LED93,LED panel (candidate),typical,Office 1,73508.432,35695.584,mm; lighting pl
 LED94,LED panel (candidate),typical,Office 1,75308.432,35695.584,mm; lighting plan,28,0.90,LC-E,WORKING DESIGN: PIL 3117955 MEDIUMLOW 28W/3555.30lm; PF >0.9 conservatively0.90; E-label map; room classification controls and protection pending
 LED95,LED panel (candidate),typical,Office 1,77108.432,35695.584,mm; lighting plan,28,0.90,LC-E,WORKING DESIGN: PIL 3117955 MEDIUMLOW 28W/3555.30lm; PF >0.9 conservatively0.90; E-label map; room classification controls and protection pending
 LED96,LED panel (candidate),typical,Office 1,78908.432,35695.584,mm; lighting plan,28,0.90,LC-E,WORKING DESIGN: PIL 3117955 MEDIUMLOW 28W/3555.30lm; PF >0.9 conservatively0.90; E-label map; room classification controls and protection pending
-UE01,LED panel (candidate),typical,Office 1,76508.432,25056.874,mm; lighting plan,22.5,0.90,LC-F,PROVISIONAL: RC132V G6 36S/UE840 PSU W60L60 OC; 911401800187; layout and controls unverified
-UE02,LED panel (candidate),typical,Office 1,78308.432,25056.874,mm; lighting plan,22.5,0.90,LC-F,PROVISIONAL: RC132V G6 36S/UE840 PSU W60L60 OC; 911401800187; layout and controls unverified
-UE03,LED panel (candidate),typical,Office 1,76508.432,26256.874,mm; lighting plan,22.5,0.90,LC-F,PROVISIONAL: RC132V G6 36S/UE840 PSU W60L60 OC; 911401800187; layout and controls unverified
-UE04,LED panel (candidate),typical,Office 1,78308.432,26256.874,mm; lighting plan,22.5,0.90,LC-F,PROVISIONAL: RC132V G6 36S/UE840 PSU W60L60 OC; 911401800187; layout and controls unverified
-UE05,LED panel (candidate),typical,Office 1,76508.432,28056.874,mm; lighting plan,22.5,0.90,LC-F,PROVISIONAL: RC132V G6 36S/UE840 PSU W60L60 OC; 911401800187; layout and controls unverified
-UE06,LED panel (candidate),typical,Office 1,78308.432,28056.874,mm; lighting plan,22.5,0.90,LC-F,PROVISIONAL: RC132V G6 36S/UE840 PSU W60L60 OC; 911401800187; layout and controls unverified
-UE07,LED panel (candidate),typical,Office 1,76508.432,29856.874,mm; lighting plan,22.5,0.90,LC-F,PROVISIONAL: RC132V G6 36S/UE840 PSU W60L60 OC; 911401800187; layout and controls unverified
-UE08,LED panel (candidate),typical,Office 1,78308.432,29856.874,mm; lighting plan,22.5,0.90,LC-F,PROVISIONAL: RC132V G6 36S/UE840 PSU W60L60 OC; 911401800187; layout and controls unverified
-UE09,LED panel (candidate),typical,Office 1,76508.432,31056.874,mm; lighting plan,22.5,0.90,LC-F,PROVISIONAL: RC132V G6 36S/UE840 PSU W60L60 OC; 911401800187; layout and controls unverified
-UE10,LED panel (candidate),typical,Office 1,78308.432,31056.874,mm; lighting plan,22.5,0.90,LC-F,PROVISIONAL: RC132V G6 36S/UE840 PSU W60L60 OC; 911401800187; layout and controls unverified
-SE01,LED panel (candidate),typical,Office 1,76114.962,17005.584,mm; lighting plan,22.5,0.90,LC-G,PROVISIONAL: RC132V G6 36S/UE840 PSU W60L60 OC; 911401800187; layout and controls unverified
-SE02,LED panel (candidate),typical,Office 1,77914.962,17005.584,mm; lighting plan,22.5,0.90,LC-G,PROVISIONAL: RC132V G6 36S/UE840 PSU W60L60 OC; 911401800187; layout and controls unverified
-SE03,LED panel (candidate),typical,Office 1,76114.962,18205.584,mm; lighting plan,22.5,0.90,LC-G,PROVISIONAL: RC132V G6 36S/UE840 PSU W60L60 OC; 911401800187; layout and controls unverified
-SE04,LED panel (candidate),typical,Office 1,77914.962,18205.584,mm; lighting plan,22.5,0.90,LC-G,PROVISIONAL: RC132V G6 36S/UE840 PSU W60L60 OC; 911401800187; layout and controls unverified
+UE01,LED panel (candidate),typical,Office 1,76508.432,25056.874,mm; lighting plan,28,0.90,LC-F,WORKING DESIGN PIL3117955 28W/3555.30lm;198-264V;PF>0.9 conservatively0.90; side-room area use and controls pending
+UE02,LED panel (candidate),typical,Office 1,78308.432,25056.874,mm; lighting plan,28,0.90,LC-F,WORKING DESIGN PIL3117955 28W/3555.30lm;198-264V;PF>0.9 conservatively0.90; side-room area use and controls pending
+UE03,LED panel (candidate),typical,Office 1,76508.432,26256.874,mm; lighting plan,28,0.90,LC-F,WORKING DESIGN PIL3117955 28W/3555.30lm;198-264V;PF>0.9 conservatively0.90; side-room area use and controls pending
+UE04,LED panel (candidate),typical,Office 1,78308.432,26256.874,mm; lighting plan,28,0.90,LC-F,WORKING DESIGN PIL3117955 28W/3555.30lm;198-264V;PF>0.9 conservatively0.90; side-room area use and controls pending
+UE05,LED panel (candidate),typical,Office 1,76508.432,28056.874,mm; lighting plan,28,0.90,LC-F,WORKING DESIGN PIL3117955 28W/3555.30lm;198-264V;PF>0.9 conservatively0.90; side-room area use and controls pending
+UE06,LED panel (candidate),typical,Office 1,78308.432,28056.874,mm; lighting plan,28,0.90,LC-F,WORKING DESIGN PIL3117955 28W/3555.30lm;198-264V;PF>0.9 conservatively0.90; side-room area use and controls pending
+UE07,LED panel (candidate),typical,Office 1,76508.432,29856.874,mm; lighting plan,28,0.90,LC-F,WORKING DESIGN PIL3117955 28W/3555.30lm;198-264V;PF>0.9 conservatively0.90; side-room area use and controls pending
+UE08,LED panel (candidate),typical,Office 1,78308.432,29856.874,mm; lighting plan,28,0.90,LC-F,WORKING DESIGN PIL3117955 28W/3555.30lm;198-264V;PF>0.9 conservatively0.90; side-room area use and controls pending
+UE09,LED panel (candidate),typical,Office 1,76508.432,31056.874,mm; lighting plan,28,0.90,LC-F,WORKING DESIGN PIL3117955 28W/3555.30lm;198-264V;PF>0.9 conservatively0.90; side-room area use and controls pending
+UE10,LED panel (candidate),typical,Office 1,78308.432,31056.874,mm; lighting plan,28,0.90,LC-F,WORKING DESIGN PIL3117955 28W/3555.30lm;198-264V;PF>0.9 conservatively0.90; side-room area use and controls pending
+SE01,LED panel (candidate),typical,Office 1,76114.962,17005.584,mm; lighting plan,28,0.90,LC-G,WORKING DESIGN PIL3117955 28W/3555.30lm;198-264V;PF>0.9 conservatively0.90; side-room area use and controls pending
+SE02,LED panel (candidate),typical,Office 1,77914.962,17005.584,mm; lighting plan,28,0.90,LC-G,WORKING DESIGN PIL3117955 28W/3555.30lm;198-264V;PF>0.9 conservatively0.90; side-room area use and controls pending
+SE03,LED panel (candidate),typical,Office 1,76114.962,18205.584,mm; lighting plan,28,0.90,LC-G,WORKING DESIGN PIL3117955 28W/3555.30lm;198-264V;PF>0.9 conservatively0.90; side-room area use and controls pending
+SE04,LED panel (candidate),typical,Office 1,77914.962,18205.584,mm; lighting plan,28,0.90,LC-G,WORKING DESIGN PIL3117955 28W/3555.30lm;198-264V;PF>0.9 conservatively0.90; side-room area use and controls pending
 FB01,floor box 4x13A,typical,Office 1,68000,-21350,mm; power plan,,,P1,PROVISIONAL: power_proposal_v2.csv; loading and circuit arrangement unverified
 FB02,floor box 4x13A,typical,Office 1,69500,-23200,mm; power plan,,,P1,PROVISIONAL: power_proposal_v2.csv; loading and circuit arrangement unverified
 FB03,floor box 4x13A,typical,Office 1,68000,-26650,mm; power plan,,,P2,PROVISIONAL: power_proposal_v2.csv; loading and circuit arrangement unverified

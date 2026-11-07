@@ -1,0 +1,3 @@
+circuit_id,count,area_assumed_m2,power_per_lamp_W,luminaire_lm,connected_W,LPD_W_m2,LPD_limit_assumed,mean_lux_UF06_MF08,status
+LC-F,10,33.68,28,3555.3,280,8.314,8.5,506.7,working design under explicit room area and use assumptions; uniformity controls and actual boundary pending
+LC-G,4,13.073111,28,3555.3,112,8.567,9.0,522.2,working design under explicit room area and use assumptions; uniformity controls and actual boundary pending

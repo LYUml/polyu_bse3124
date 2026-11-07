@@ -3,7 +3,7 @@ AS01,Number of identical typical floors,10,floors,Assignment statement,adopted
 AS02,Use drawing office areas as UFA provisionally,yes,,Drawing annotations 6EFD 6F00 6F03,boundary verification required
 AS03,Air conditioning reference system,packaged air cooled,,COP215 Rev07 Appendix 7,provisional
 AS04,Air conditioning power factor,0.90,,Design assumption,provisional
-AS05,Non-pantry lighting candidate manufacturer model,RC132V G6 36S/UE840 PSU W60L60 OC,,Signify product 911401800187,provisional: rated minimum 220 V does not cover CLP 220 V -6%; manufacturer clarification or alternative required
+AS05,Non-pantry lighting candidate manufacturer model,PIL PLATO600 MP3117955 mixed22/28W,,manufacturer198-264VAC; data/photometry; zone calculations in design record,working design; lighting layout controls installation and protection checks pending
 AS06,Lighting design target,500,lx,Design assumption not confirmed as assignment or legal requirement,provisional
 AS07,Lighting utilisation factor,0.60,,Sensitivity assumption not based on room-specific photometric calculation,provisional
 AS08,Lighting maintenance factor,0.80,,Sensitivity assumption pending maintenance plan,provisional
