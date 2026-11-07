@@ -37,6 +37,14 @@ The proposed perimeter location can support direct external access, short interf
 
 COP101 clauses 6.1–6.4 require ventilation design. For the proposed total 3000 kVA capacity, the cited effective inlet-louvre area reference is at least 1.12 m²; effective area is not the gross louvre frame area. Actual transformer losses, airflow, outlet arrangements and any mechanical ventilation must be coordinated. Service openings between rooms require the relevant fire-resisting sealing under clause 9.3.3.
 
+## Equipment and room coordination criteria
+
+COP101 v16 clause 4.3 (printed page 4, PDF page 6) gives HV panel clearances of 1000 mm at the rear, 1800 mm at the front and 750 mm on the other sides. Distribution transformers require 900 mm around LV terminals and 750 mm on the other sides. These requirements must be checked against actual equipment and take precedence over treating isolated typical-layout dimensions as general clearances.
+
+Clause 4.4.3 gives a minimum transformer plinth of 1800 × 1350 mm; the actual foundation depends on transformer type and rating. This is not the transformer equipment footprint. The foundation requires at least 9000 kg support capacity under clause 4.4.1. Clause 5.1.2 requires at least 3 m plant-delivery width and no more than 20 m from the nearest loading/unloading area. Under clause 5.1.5, minimum clear headroom is 3.6 m with transformers and 630 mm exhaust fans, or 3.8 m with 800 mm fans. The actual building section and external site arrangement must be coordinated.
+
+The customer LV room currently contains six planning cabinet envelopes: three for Zone A and three for Zone B. Each is assumed 1140 mm wide and uses the course ABB MD190 rear-access reference depth of 1010 mm. The combined envelope is 6840 mm long, at x=10000–16840 and y=23055.584–24065.584 mm. The room envelope provides nominal front/rear allowances of 1500/990 mm before wall construction and door checks. Panel widths and quantities are planning allowances requiring confirmation from the actual feeder schedule and switchboard supplier.
+
 ## Work required before final submission
 
 Complete the actual transformer/HV equipment outlines, LV switchboard sections, doors, maintenance clearances, external route and ventilation indications on the ground-floor drawing; verify them against the CLP standard drawing and selected equipment. Reconcile the UFA assumption and public-services/AC overlap, allocate loads between sections, and visually inspect the final plotted sheet. Current room rectangles and schematic labels alone do not establish these checks.
