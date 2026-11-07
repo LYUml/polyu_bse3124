@@ -80,19 +80,19 @@ SE01,LED panel (candidate),typical,Office 1,76114.962,17005.584,mm; lighting pla
 SE02,LED panel (candidate),typical,Office 1,77914.962,17005.584,mm; lighting plan,28,0.90,LC-G,WORKING DESIGN PIL3117955 28W/3555.30lm;198-264V;PF>0.9 conservatively0.90; side-room area use and controls pending
 SE03,LED panel (candidate),typical,Office 1,76114.962,18205.584,mm; lighting plan,28,0.90,LC-G,WORKING DESIGN PIL3117955 28W/3555.30lm;198-264V;PF>0.9 conservatively0.90; side-room area use and controls pending
 SE04,LED panel (candidate),typical,Office 1,77914.962,18205.584,mm; lighting plan,28,0.90,LC-G,WORKING DESIGN PIL3117955 28W/3555.30lm;198-264V;PF>0.9 conservatively0.90; side-room area use and controls pending
-FB01,floor box 4x13A,typical,Office 1,68000,-21350,mm; power plan,,,P1,PROVISIONAL: power_proposal_v2.csv; loading and circuit arrangement unverified
-FB02,floor box 4x13A,typical,Office 1,69500,-23200,mm; power plan,,,P1,PROVISIONAL: power_proposal_v2.csv; loading and circuit arrangement unverified
-FB03,floor box 4x13A,typical,Office 1,68000,-26650,mm; power plan,,,P2,PROVISIONAL: power_proposal_v2.csv; loading and circuit arrangement unverified
-FB04,floor box 4x13A,typical,Office 1,69100,-26600,mm; power plan,,,P2,PROVISIONAL: power_proposal_v5.csv; moved after furniture geometry screen; mounting and circuit unverified
-FB05,floor box 4x13A,typical,Office 1,66114.1,-30431.7,mm; power plan,,,P3,PROVISIONAL: power_proposal_v2.csv; loading and circuit arrangement unverified
-FB06,floor box 4x13A,typical,Office 1,71600,-30500,mm; power plan,,,P3,PROVISIONAL: power_proposal_v2.csv; loading and circuit arrangement unverified
-FB07,floor box 4x13A,typical,Office 1,73800,-26500,mm; power plan,,,P4,PROVISIONAL: power_proposal_v2.csv; loading and circuit arrangement unverified
-FB08,floor box 4x13A,typical,Office 1,79200,-26300,mm; power plan,,,P4,PROVISIONAL: power_proposal_v5.csv; moved after furniture geometry screen; mounting and circuit unverified
-FB09,floor box 4x13A,typical,Office 1,70000,-15100,mm; power plan,,,P6,PROVISIONAL: power_proposal_v3.csv; pantry grouping and loading unverified
-SO01,13A twin socket,typical,Office 1,64525.932,-14500,mm; power plan,,,P6,"PROVISIONAL: power_proposal_v4.csv; wall line only, mounting, appliance and circuit unverified"
-SO02,13A twin socket,typical,Office 1,77500,-12782.416,mm; power plan,,,P5,"PROVISIONAL: power_proposal_v4.csv; wall line only, mounting, appliance and circuit unverified"
-SO03,13A twin socket,typical,Office 1,65000,-12782.416,mm; power plan,,,P8,"PROVISIONAL: power_proposal_v4.csv; wall line only, mounting, appliance and circuit unverified"
-FS01,13A fused spur,typical,Office 1,67000,-12782.416,mm; power plan,,,P7,"PROVISIONAL: power_proposal_v4.csv; wall line only, mounting, appliance and circuit unverified; dedicated P7 reserved; appliance identity and rating TBD"
+FB01,floor box 4x13A,typical,Office 1,68000,-21350,mm; power plan,,,P1,"WORKING DESIGN: individually13A fused point, 4mm2 local connection, assumed0.5m spur; actual appliance watts unknown; power_route_design_inputs.json"
+FB02,floor box 4x13A,typical,Office 1,69500,-23200,mm; power plan,,,P1,"WORKING DESIGN: individually13A fused point, 4mm2 local connection, assumed0.5m spur; actual appliance watts unknown; power_route_design_inputs.json"
+FB03,floor box 4x13A,typical,Office 1,68000,-26650,mm; power plan,,,P2,"WORKING DESIGN: individually13A fused point, 4mm2 local connection, assumed0.5m spur; actual appliance watts unknown; power_route_design_inputs.json"
+FB04,floor box 4x13A,typical,Office 1,69100,-26600,mm; power plan,,,P2,"WORKING DESIGN: individually13A fused point, 4mm2 local connection, assumed0.5m spur; actual appliance watts unknown; power_route_design_inputs.json"
+FB05,floor box 4x13A,typical,Office 1,66114.1,-30431.7,mm; power plan,,,P3,"WORKING DESIGN: individually13A fused point, 4mm2 local connection, assumed0.5m spur; actual appliance watts unknown; power_route_design_inputs.json"
+FB06,floor box 4x13A,typical,Office 1,71600,-30500,mm; power plan,,,P3,"WORKING DESIGN: individually13A fused point, 4mm2 local connection, assumed0.5m spur; actual appliance watts unknown; power_route_design_inputs.json"
+FB07,floor box 4x13A,typical,Office 1,73800,-26500,mm; power plan,,,P4,"WORKING DESIGN: individually13A fused point, 4mm2 local connection, assumed0.5m spur; actual appliance watts unknown; power_route_design_inputs.json"
+FB08,floor box 4x13A,typical,Office 1,79200,-26300,mm; power plan,,,P4,"WORKING DESIGN: individually13A fused point, 4mm2 local connection, assumed0.5m spur; actual appliance watts unknown; power_route_design_inputs.json"
+FB09,floor box 4x13A,typical,Office 1,70000,-15100,mm; power plan,,,P6,"WORKING DESIGN: individually13A fused point, 4mm2 local connection, assumed0.5m spur; actual appliance watts unknown; power_route_design_inputs.json"
+SO01,13A twin socket,typical,Office 1,64525.932,-14500,mm; power plan,,,P6,"WORKING DESIGN: individually13A fused point, 4mm2 local connection, assumed0.5m spur; actual appliance watts unknown; power_route_design_inputs.json"
+SO02,13A twin socket,typical,Office 1,77500,-12782.416,mm; power plan,,,P5,"WORKING DESIGN: individually13A fused point, 4mm2 local connection, assumed0.5m spur; actual appliance watts unknown; power_route_design_inputs.json"
+SO03,13A twin socket,typical,Office 1,65000,-12782.416,mm; power plan,,,P8,"WORKING DESIGN: individually13A fused point, 4mm2 local connection, assumed0.5m spur; actual appliance watts unknown; power_route_design_inputs.json"
+FS01,13A fused spur,typical,Office 1,67000,-12782.416,mm; power plan,,,P7,"WORKING DESIGN: individually13A fused point, 4mm2 local connection, assumed0.5m spur; actual appliance watts unknown; power_route_design_inputs.json"
 PN01,LED panel (candidate),typical,Office 1,65425.932,32095.584,mm; lighting plan,22,0.90,LC-D,"PROVISIONAL: PIL 3117955 22W/2843lm; PF >0.9 treated as 0.90; installation, lighting and voltage drop pending"
 PN02,LED panel (candidate),typical,Office 1,66625.932,32095.584,mm; lighting plan,22,0.90,LC-D,"PROVISIONAL: PIL 3117955 22W/2843lm; PF >0.9 treated as 0.90; installation, lighting and voltage drop pending"
 PN03,LED panel (candidate),typical,Office 1,68425.932,32095.584,mm; lighting plan,22,0.90,LC-D,"PROVISIONAL: PIL 3117955 22W/2843lm; PF >0.9 treated as 0.90; installation, lighting and voltage drop pending"

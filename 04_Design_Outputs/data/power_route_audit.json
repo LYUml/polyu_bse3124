@@ -1,0 +1,33 @@
+{
+  "rings": [
+    {
+      "circuit": "P1",
+      "KCL_pass": true,
+      "loss_balance_pass": true,
+      "max_leg_A": 14.657919930678325
+    },
+    {
+      "circuit": "P2",
+      "KCL_pass": true,
+      "loss_balance_pass": true,
+      "max_leg_A": 14.884842990748911
+    },
+    {
+      "circuit": "P3",
+      "KCL_pass": true,
+      "loss_balance_pass": true,
+      "max_leg_A": 15.198030968461
+    },
+    {
+      "circuit": "P4",
+      "KCL_pass": true,
+      "loss_balance_pass": true,
+      "max_leg_A": 15.203376952793962
+    }
+  ],
+  "native_main_route_lengths_checked": 8,
+  "native_service_areas_checked": 7,
+  "device_assignments": 105,
+  "duplicate_or_missing_assignments": 0,
+  "limitation": "Geometry capacity/drop model only; fault protective-device fuse characteristics installation and print acceptance not yet complete"
+}
