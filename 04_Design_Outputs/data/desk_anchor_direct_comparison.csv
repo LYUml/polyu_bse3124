@@ -1,0 +1,7 @@
+main_lamp_W,NE_lamp_W,height_above_workplane_m,anchor_count,mean_direct_lux,minimum_direct_lux,min_x_mm,min_y_mm,min_mean,status
+22,28,1.7,11,671.8,465.4,79000.4,22656.7,0.693,"desk BLOCK INSERTION anchors only, not validated workplanes; direct point-source screen"
+22,28,1.9,11,650.7,417.6,79000.4,22656.7,0.642,"desk BLOCK INSERTION anchors only, not validated workplanes; direct point-source screen"
+22,28,2.2,11,626.5,369.0,79000.4,22656.7,0.589,"desk BLOCK INSERTION anchors only, not validated workplanes; direct point-source screen"
+28,28,1.7,11,839.6,581.5,79000.4,22656.7,0.693,"desk BLOCK INSERTION anchors only, not validated workplanes; direct point-source screen"
+28,28,1.9,11,813.3,521.9,79000.4,22656.7,0.642,"desk BLOCK INSERTION anchors only, not validated workplanes; direct point-source screen"
+28,28,2.2,11,783.0,461.0,79000.4,22656.7,0.589,"desk BLOCK INSERTION anchors only, not validated workplanes; direct point-source screen"
