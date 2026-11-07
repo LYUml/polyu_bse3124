@@ -23,6 +23,18 @@ Use the supplied CLP COP215 Rev07 (September 2012) as the course load-assessment
 
 The public-services reference includes lobby air conditioning, as well as public lighting, lifts, pumps and fire services. As the specified cooling capacity is for the whole building, the sum may contain overlapping lobby AC load. Let X kVA be the duplicated share. The reconciled assessed load for the proposed two-zone arrangement is `1.1 × (2429.288 − X)` kVA, with X requiring confirmation from the mechanical-services schedule. For preliminary space and capacity reservation, retain X = 0 as a conservative envelope. This does not mean the true overlap is zero, or that the envelope is a verified maximum demand. No additional public lighting/pump/fire-service allowance is added on top of the aggregate reference.
 
+The possible duplicated share is bounded by the smaller of the two overlapping allowances: `0 ≤ X ≤ min(584.488, 200) = 200 kVA`. Thus this course assessment model gives a two-zone load between 2452.216 and 2672.216 kVA. This is a mathematical bound, not a prediction that the lobby consumes 200 kVA. Adopt the upper bound, 2672.216 kVA, for the proposed transformer capacity reservation. Resolving lobby AC overlap would reduce the assessment within this range and does not change the proposed two-transformer capacity under the equal-zone assumption. Other assumptions, including UFA, plant type and public-services assessment, remain applicable.
+
+| Capacity check | Lower load bound | Adopted upper load bound |
+|---|---:|---:|
+| Building assessment | 2452.216 kVA | 2672.216 kVA |
+| Equal load per transformer | 1226.108 kVA | 1336.108 kVA |
+| Margin against combined 3000 kVA | 547.784 kVA | 327.784 kVA |
+| Normal operation at 1500 kVA per unit | Within rating | Within rating |
+| Full-load operation with one unit unavailable | Exceeds remaining rating | Exceeds remaining rating |
+
+These checks establish capacity within the declared assessment model. They do not establish fault duty, protection settings, manufacturer dimensions, installation approval or the actual distribution of mechanical plant between supply zones.
+
 ## Transformer and LV arrangement
 
 Study two 1500 kVA transformers supplying two separate LV bus sections. Their combined 3000 kVA nameplate capacity exceeds the 2672.216 kVA reservation envelope by 327.784 kVA. Under an equal split, each section carries 1336.108 kVA, approximately 2030 A at balanced 380 V three-phase supply; each transformer has a nominal current of about 2279 A. The equal split is a planning assumption and must be replaced by a floor/central-plant allocation before setting protection.
@@ -49,4 +61,4 @@ The customer LV room currently contains six planning cabinet envelopes: three fo
 
 Complete the actual transformer/HV equipment outlines, LV switchboard sections, doors, maintenance clearances, external route and ventilation indications on the ground-floor drawing; verify them against the CLP standard drawing and selected equipment. Reconcile the UFA assumption and public-services/AC overlap, allocate loads between sections, and visually inspect the final plotted sheet. Current room rectangles and schematic labels alone do not establish these checks.
 
-Reproduction: run `04_Design_Outputs/calculations/task1_load_summary.py`; numerical output is `04_Design_Outputs/data/task1_load_summary.csv`. Detailed evidence and historical checks are in `Task1计算依据.md`.
+Reproduction: edit the sourced parameters in `04_Design_Outputs/data/task1_design_inputs.csv`, then run `04_Design_Outputs/calculations/task1_load_summary.py`. Numerical outputs are `task1_load_summary.csv` and `task1_capacity_bounds.csv` in the same data directory. The script checks normal capacity at both overlap bounds and confirms that full-load N−1 operation is unavailable. Detailed evidence and historical checks are in `Task1计算依据.md`.
