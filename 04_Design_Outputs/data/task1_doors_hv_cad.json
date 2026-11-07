@@ -1,0 +1,166 @@
+{
+  "drawing": "C:\\Users\\lyuml-win\\Desktop\\polyu_bse3124\\04_Design_Outputs\\cad\\assignment_working_v02.dwg",
+  "handles": [
+    "79E1",
+    "79E2",
+    "79E3",
+    "79E4",
+    "79E5",
+    "79E6",
+    "79E7",
+    "79E8",
+    "79E9",
+    "79EA",
+    "79EB",
+    "79EC",
+    "79ED",
+    "79EE",
+    "79EF",
+    "79F0",
+    "79F1",
+    "79F2",
+    "79F3",
+    "79F4",
+    "79F5",
+    "79F6",
+    "79F7",
+    "79F8",
+    "79F9",
+    "79FA",
+    "79FB",
+    "79FC",
+    "79FD",
+    "79FE",
+    "79FF",
+    "7A00",
+    "7A01",
+    "7A02"
+  ],
+  "doors": [
+    {
+      "id": "D-HV",
+      "opening_width_mm": 4000,
+      "height_assumed_mm": 2800,
+      "swing_degrees": 180,
+      "basis": "Proposed width; COP101 5.6.1.1/5.6.1.2 reference sizes; actual plant and frame clearance to coordinate"
+    },
+    {
+      "id": "D-TXA",
+      "opening_width_mm": 3000,
+      "height_assumed_mm": 2800,
+      "swing_degrees": 180,
+      "basis": "Proposed width; COP101 5.6.1.1/5.6.1.2 reference sizes; actual plant and frame clearance to coordinate"
+    },
+    {
+      "id": "D-TXB",
+      "opening_width_mm": 3000,
+      "height_assumed_mm": 2800,
+      "swing_degrees": 180,
+      "basis": "Proposed width; COP101 5.6.1.1/5.6.1.2 reference sizes; actual plant and frame clearance to coordinate"
+    }
+  ],
+  "HV_trenches": [
+    {
+      "id": "HV-ENTRY",
+      "width_mm": 1000,
+      "points": [
+        [
+          11200,
+          16105.584
+        ],
+        [
+          11200,
+          18805.584
+        ]
+      ],
+      "depth_mm": 1400,
+      "source": "COP101 v16 5.5.1 printed p16 PDF p18; proposed route"
+    },
+    {
+      "id": "HV-TRUNK",
+      "width_mm": 600,
+      "points": [
+        [
+          11200,
+          17405.584
+        ],
+        [
+          18000,
+          17405.584
+        ]
+      ],
+      "depth_mm": 1400,
+      "source": "COP101 v16 5.5.1 printed p16 PDF p18; proposed route"
+    },
+    {
+      "id": "HV-TXA",
+      "width_mm": 600,
+      "points": [
+        [
+          14300,
+          17405.584
+        ],
+        [
+          14300,
+          19355.584
+        ]
+      ],
+      "depth_mm": 1400,
+      "source": "COP101 v16 5.5.1 printed p16 PDF p18; proposed route"
+    },
+    {
+      "id": "HV-TXB",
+      "width_mm": 600,
+      "points": [
+        [
+          18000,
+          17405.584
+        ],
+        [
+          18000,
+          19355.584
+        ]
+      ],
+      "depth_mm": 1400,
+      "source": "COP101 v16 5.5.1 printed p16 PDF p18; proposed route"
+    },
+    {
+      "id": "HV-TXA-TERM",
+      "width_mm": 300,
+      "points": [
+        [
+          14300,
+          19355.584
+        ],
+        [
+          14700,
+          19355.584
+        ]
+      ],
+      "depth_mm": 1400,
+      "source": "COP101 v16 5.5.1 printed p16 PDF p18; proposed route"
+    },
+    {
+      "id": "HV-TXB-TERM",
+      "width_mm": 300,
+      "points": [
+        [
+          18000,
+          19355.584
+        ],
+        [
+          18400,
+          19355.584
+        ]
+      ],
+      "depth_mm": 1400,
+      "source": "COP101 v16 5.5.1 printed p16 PDF p18; proposed route"
+    }
+  ],
+  "limitations": [
+    "Single-line proposed partitions: wall thickness not detailed",
+    "Architectural walls retained; openings are proposed alteration work",
+    "Shared door sweeps require sequential use; unobstructed emergency escape to be checked",
+    "HV cable selection and CLP supply entry remain supplier interfaces"
+  ]
+}

@@ -5,8 +5,8 @@ Updated 2026-11-07. Status is assessed against the original assignment. No task 
 | Deliverable | Current evidence | Required next result |
 |---|---|---|
 | Task 1 building load | Shared input CSV; reproducible COP215 calculation; AC/public overlap bounded 0–200 kVA; adopted conservative capacity assessment 2672.216 kVA; both bounds fit 2×1500 kVA under equal allocation | Coordinate actual equipment and room layout; carry stated UFA/system/zone assumptions into answer sheet |
-| Task 1 transformer/LV rooms | CAD room envelopes, six LV cabinet planning envelopes; print inspected; current COP101 clearances recorded | Complete room plan with equipment reservations, entrances, external access assumption, ventilation and dimensional checks; final overall ground-floor sheet |
-| Task 1 written answer | submission/Task1_answer_draft.md | Reconcile adopted decisions with final drawing and answer-sheet text |
+| Task 1 transformer/LV rooms | v02 DWG has equipment/clearance reservations, doors, ventilation and HV/LV interfaces; two-sheet review PDF rendered and inspected; ground overview 1:200/detail 1:75 | Carry explicit conditional equipment/site assumptions into final submission; coordinate access/escape and architectural opening limitations |
+| Task 1 written answer | Draft reconciled with adopted upper load bound and two-sheet drawing review | Transfer reconciled text and assumptions into versioned answer-sheet copy |
 | Task 2 Office 1 lighting | 92 working devices / 2216 W; all device-map handles found after crash recovery; seven lighting circuits | Complete controls, emergency provisions, routes and protection; inspect final plotted labels |
 | Task 2 Office 1 power | 13 working locations drawn: 9 floor boxes, 3 twin sockets and FS01; post-recovery handles found | Adopt floor-box connections and FS01 equipment assumption; complete associated final circuits and routes |
 | Task 2 MCB schematic | 14-group concept diagram including reserved P7/FS01 | Final protected circuits, ratings, phases, N/PE and incoming connection; synchronize device counts |

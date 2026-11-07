@@ -1,0 +1,20 @@
+{
+  "review_pdf": "04_Design_Outputs\\submission\\Task1_drawings_review.pdf",
+  "pages": 2,
+  "source_sheets": [
+    "04_Design_Outputs\\pdf\\task1_ground_overview_v01.pdf",
+    "04_Design_Outputs\\pdf\\task1_room_review_v04.pdf"
+  ],
+  "visual_checks": [
+    "Full ground-floor supplied plan visible; proposed plant location visible",
+    "Detail room dimensions 12430/5450/3500 visible",
+    "Paper-space titles and notes not clipped or overlapping",
+    "HV dashed routes and LV solid routes distinguishable"
+  ],
+  "limitations": [
+    "Proposal review, not final assignment acceptance",
+    "Shared outward door swings and architectural openings require coordination",
+    "Equipment and ventilation reservations are explicitly conditional",
+    "Task2/3 and filled answer sheets still incomplete"
+  ]
+}

@@ -1,6 +1,6 @@
 # Task 1 — Building load and plantroom proposal
 
-Status: consolidated answer draft for review; plantroom drawing and equipment interfaces require completion.
+Status: consolidated course-design answer draft with a two-sheet drawing review. This is not final assignment acceptance; conditional equipment/site interfaces and Tasks 2/3 remain.
 
 ## Design basis and assumptions
 
@@ -67,6 +67,8 @@ The current working drawing is `04_Design_Outputs/cad/assignment_working_v02.dwg
 
 Proposed south-side access reservations are 4000 mm wide for HV equipment and 3000 mm for each transformer, with a 3000 mm external apron depth. A separate 3000 mm LV access reservation is shown west of the LV room. Their locations and the availability of external open space are design proposals; existing architectural walls have not been removed. Door leaves/openings, structural works, fire separation, ventilation, trenches and the complete route from the unloading area remain to detail. The original schematic transformer labels have been moved onto a hidden superseded layer so that the new reservation IDs are unambiguous. The additive drawing script and CAD-handle report document how the geometry was produced.
 
-Complete the actual transformer/HV equipment outlines, LV switchboard sections, doors, maintenance clearances, external route and ventilation indications on the ground-floor drawing; verify them against the CLP standard drawing and selected equipment. Reconcile the UFA assumption and public-services/AC overlap, allocate loads between sections, and visually inspect the final plotted sheet. Current room rectangles and schematic labels alone do not establish these checks.
+The two-sheet review is `submission/Task1_drawings_review.pdf`: ground-floor overview at 1:200 and room detail at 1:75 on A3. Both sheets were rendered and visually checked. The detail includes native room dimensions 12430, 5450 and 3500 mm, proposed outward doors and separate HV/LV route centre-lines. Plant door proposals are 4000 mm wide for the HV bay and 3000 mm for each transformer, with assumed 2800 mm height; actual clear openings depend on frames and equipment. Shared 180-degree sweep zones require sequential opening of adjacent plant doors. A designated personnel wicket is proposed at TX-A; detailed escape/hardware coordination remains. COP101 5.6.1.1–5.6.1.2 (printed p18/PDF p20) provides the transformer/HV door references. The drawing preserves architectural walls and identifies the openings as proposed alteration work.
+
+For final coordination, confirm actual transformer/HV equipment, cabinet ratings and dimensions, certified louvre/fan performance, external access route and architectural openings. Carry the UFA, system and equal supply-zone assumptions into the answer sheets. The AC/public overlap is bounded and the conservative assessment adopted above; it is not an unresolved arithmetic input to the capacity reservation. Full-load N−1 is not provided.
 
 Reproduction: edit the sourced parameters in `04_Design_Outputs/data/task1_design_inputs.csv`, then run `04_Design_Outputs/calculations/task1_load_summary.py`. Numerical outputs are `task1_load_summary.csv` and `task1_capacity_bounds.csv` in the same data directory. The script checks normal capacity at both overlap bounds and confirms that full-load N−1 operation is unavailable. Detailed evidence and historical checks are in `Task1计算依据.md`.
