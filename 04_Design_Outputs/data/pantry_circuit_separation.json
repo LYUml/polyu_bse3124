@@ -1,0 +1,13 @@
+{
+  "reason": "EMSD2025 6E(3)(a) printed54 PDF55: separate kitchen socket circuit",
+  "device": "SO03",
+  "old_circuit": "P6",
+  "new_circuit": "P8",
+  "total_circuits": 15,
+  "new_schematic_handles": [
+    "7BC0",
+    "7BC1"
+  ],
+  "cad_label_handle": "7991",
+  "cad_saved": true
+}

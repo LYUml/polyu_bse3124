@@ -10,5 +10,5 @@ FB08,floor box 4x13A,79200,-26300,east desk group boundary check,P4,"draft: move
 FB09,floor box 4x13A,70000,-15100,meeting table preliminary position,P6,"draft: provisional pantry group; table access, spur type and kitchen use require confirmation"
 SO01,13A twin socket,64525.932,-14500,meeting room wall verify wall face,P6,draft: inserted at west interior wall line; mounting and clearance unverified
 SO02,13A twin socket,77500,-12782.416,upper room wall verify wall face,P5,draft: inserted at north interior wall line; mounting and equipment unverified
-SO03,13A twin socket,65000,-12782.416,pantry wall verify equipment location,P6,draft: inserted at north interior wall line; mounting and equipment unverified
+SO03,13A twin socket,65000,-12782.416,pantry wall verify equipment location,P8,draft: inserted at north interior wall line; mounting and equipment unverified
 FS01,13A fused spur,67000,-12782.416,pantry equipment assumed,P7,dedicated circuit reserved; actual appliance and rating unverified

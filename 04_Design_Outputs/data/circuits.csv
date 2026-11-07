@@ -11,5 +11,6 @@ P2,provisional office DB,L1,FB03;FB04,,,,,,,,PROVISIONAL: loading and standard c
 P3,provisional office DB,L2,FB05;FB06,,,,,,,,PROVISIONAL: loading and standard circuit area not established; phase candidate only
 P4,provisional office DB,L2,FB07;FB08,,,,,,,,PROVISIONAL: loading and standard circuit area not established; phase candidate only
 P5,provisional office DB,L3,SO02,,,,,,,,PROVISIONAL: non-pantry socket group; service area and protection unverified; phase candidate only
-P6,provisional office DB,L3,FB09;SO01;SO03,,,,,,,,PROVISIONAL: pantry grouping; appliance and separate circuit requirements unverified; phase candidate only
+P6,provisional office DB,L3,FB09;SO01,,,,,,,,Non-kitchen meeting area sockets; pantry SO03 separated to P8 under EMSD2025 6E(3)(a); ratings routes and protection pending
 P7,provisional office DB,TBD,FS01,,,,,,,,Dedicated fixed-appliance circuit reserved; appliance rating identity phase protection cable and demand TBD; not zero load
+P8,provisional office DB,TBD,SO03,,,,,,,,Dedicated pantry/kitchen socket circuit; EMSD2025 6E(3)(a) printed54 PDF55; rating cable routing and demand pending; not zero load

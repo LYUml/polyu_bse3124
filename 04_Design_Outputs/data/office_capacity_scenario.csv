@@ -1,0 +1,16 @@
+circuit_id,phase_scenario,role,capacity_or_lamp_current_A,basis,status
+LC-A,L1,lighting,2.0303030303030303,Working lamp power at220V PF0.90; not rounded circuit-table current,capacity scenario only; not final circuit schedule
+LC-B,L2,lighting,1.9797979797979797,Working lamp power at220V PF0.90; not rounded circuit-table current,capacity scenario only; not final circuit schedule
+LC-C,L3,lighting,2.0,Working lamp power at220V PF0.90; not rounded circuit-table current,capacity scenario only; not final circuit schedule
+LC-D,L3,lighting,1.2222222222222223,Working lamp power at220V PF0.90; not rounded circuit-table current,capacity scenario only; not final circuit schedule
+LC-E,L2,lighting,1.9797979797979797,Working lamp power at220V PF0.90; not rounded circuit-table current,capacity scenario only; not final circuit schedule
+LC-F,L1,lighting,1.4141414141414141,Working lamp power at220V PF0.90; not rounded circuit-table current,capacity scenario only; not final circuit schedule
+LC-G,L3,lighting,0.5656565656565656,Working lamp power at220V PF0.90; not rounded circuit-table current,capacity scenario only; not final circuit schedule
+P1,L1,socket_reserved,32,32A circuit capacity scenario only; topology area ratings and actual load not adopted,capacity scenario only; not final circuit schedule
+P2,L1,socket_reserved,32,32A circuit capacity scenario only; topology area ratings and actual load not adopted,capacity scenario only; not final circuit schedule
+P3,L2,socket_reserved,32,32A circuit capacity scenario only; topology area ratings and actual load not adopted,capacity scenario only; not final circuit schedule
+P4,L2,socket_reserved,32,32A circuit capacity scenario only; topology area ratings and actual load not adopted,capacity scenario only; not final circuit schedule
+P5,L1,socket_reserved,32,32A circuit capacity scenario only; topology area ratings and actual load not adopted,capacity scenario only; not final circuit schedule
+P6,L3,socket_reserved,32,32A circuit capacity scenario only; topology area ratings and actual load not adopted,capacity scenario only; not final circuit schedule
+P7,L2,fixed_reserved,13,13A fused spur maximum reserved; actual appliance unknown,capacity scenario only; not final circuit schedule
+P8,L3,socket_reserved,32,32A circuit capacity scenario only; topology area ratings and actual load not adopted,capacity scenario only; not final circuit schedule
