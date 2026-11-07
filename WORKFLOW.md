@@ -21,11 +21,11 @@ flowchart LR
 
 | 文件／依据 | 用途 |
 |---|---|
-| `BSE3124 Mini Design Assignment-2.docx`、`BSE3124 Mini Design Answer Sheets.docx` | 任务及最终填写格式 |
-| `Building Layouts.dwg` | 首层和标准层绘图底图；保留原件，编辑副本 |
-| `Building Layouts Layout2-1.pdf` | 标准层照明图的视觉参考 |
-| `Switchboard Dimensions.pdf` | 机房布置时核对开关柜尺寸 |
-| `257377810-COP-215.pdf`／`.txt` | CLP COP215《Load Assessment Procedure》，**2012 年 9 月 Rev. 07**；本项目 Task 1 的指定计算依据 |
+| `01_Assignment/BSE3124 Mini Design Assignment-2.docx`、`01_Assignment/BSE3124 Mini Design Answer Sheets.docx` | 任务及最终填写格式 |
+| `02_Building_Drawings/Building Layouts.dwg` | 首层和标准层绘图底图；保留原件，编辑副本 |
+| `02_Building_Drawings/Building Layouts Layout2-1.pdf` | 标准层照明图的视觉参考 |
+| `03_Technical_References/Switchboard Dimensions.pdf` | 机房布置时核对开关柜尺寸 |
+| `03_Technical_References/257377810-COP-215.pdf`／`.txt` | CLP COP215《Load Assessment Procedure》，**2012 年 9 月 Rev. 07**；本项目 Task 1 的指定计算依据 |
 | `../01_lec/01_4 Maximum Demand and Tariff.pdf` | 课程对负荷密度和最大需求的讲解 |
 | [EMSD 电力（线路）规例工作守则](https://www.emsd.gov.hk/en/electricity_safety/publications/codes_of_practice/index.html) | 回路、保护及电缆选择的技术依据；记录实际采用的版本和条文 |
 | [CLP COP101 变电站设计](https://www.clp.com.hk/en/electrical-contractors) | 变压器房、通道及主低压开关房布置参考 |
