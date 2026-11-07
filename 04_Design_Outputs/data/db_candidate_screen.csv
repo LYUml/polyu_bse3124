@@ -1,0 +1,3 @@
+side,db_center_x_mm,wall_face_y_mm,assumed_width_mm,assumed_projection_mm,assumed_clearance_depth_mm,furniture_bbox_hits,status
+north,73000,-17789.9,600,150,1000,4E1A;4E24,"REVIEW: counter geometry lies in assumed clearance footprint"
+south,73000,-17889.9,600,150,1000,,"candidate only: no Furniture bbox intersection; door, other objects and actual clearance requirements unverified"
