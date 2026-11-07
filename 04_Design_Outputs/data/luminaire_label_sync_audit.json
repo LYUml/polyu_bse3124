@@ -1,0 +1,652 @@
+{
+  "drawing": "C:\\Users\\lyuml-win\\Desktop\\polyu_bse3124\\04_Design_Outputs\\cad\\assignment_working_v02.dwg",
+  "label_count": 92,
+  "saved": true,
+  "convention": "A/B/C 22W except starred28W; D22W; E/F/G28W; number retains source device suffix",
+  "records": [
+    {
+      "device_id": "LED01",
+      "circuit": "LC-A",
+      "handle": "7851",
+      "before": "ALED01",
+      "after": "A01"
+    },
+    {
+      "device_id": "LED02",
+      "circuit": "LC-A",
+      "handle": "7854",
+      "before": "ALED02",
+      "after": "A02"
+    },
+    {
+      "device_id": "LED03",
+      "circuit": "LC-A",
+      "handle": "7857",
+      "before": "ALED03",
+      "after": "A03"
+    },
+    {
+      "device_id": "LED04",
+      "circuit": "LC-A",
+      "handle": "785A",
+      "before": "ALED04",
+      "after": "A04"
+    },
+    {
+      "device_id": "LED05",
+      "circuit": "LC-A",
+      "handle": "785D",
+      "before": "ALED05",
+      "after": "A05"
+    },
+    {
+      "device_id": "LED09",
+      "circuit": "LC-A",
+      "handle": "7860",
+      "before": "ALED09",
+      "after": "A09"
+    },
+    {
+      "device_id": "LED10",
+      "circuit": "LC-A",
+      "handle": "7863",
+      "before": "ALED10",
+      "after": "A10"
+    },
+    {
+      "device_id": "LED11",
+      "circuit": "LC-A",
+      "handle": "7866",
+      "before": "ALED11",
+      "after": "A11"
+    },
+    {
+      "device_id": "LED12",
+      "circuit": "LC-A",
+      "handle": "7869",
+      "before": "ALED12",
+      "after": "A12"
+    },
+    {
+      "device_id": "LED13",
+      "circuit": "LC-A",
+      "handle": "786C",
+      "before": "ALED13",
+      "after": "A13"
+    },
+    {
+      "device_id": "LED14",
+      "circuit": "LC-A",
+      "handle": "786F",
+      "before": "ALED14",
+      "after": "A14"
+    },
+    {
+      "device_id": "LED17",
+      "circuit": "LC-A",
+      "handle": "7872",
+      "before": "ALED17",
+      "after": "A17"
+    },
+    {
+      "device_id": "LED18",
+      "circuit": "LC-A",
+      "handle": "7875",
+      "before": "ALED18",
+      "after": "A18"
+    },
+    {
+      "device_id": "LED19",
+      "circuit": "LC-A",
+      "handle": "7878",
+      "before": "ALED19",
+      "after": "A19"
+    },
+    {
+      "device_id": "LED20",
+      "circuit": "LC-A",
+      "handle": "787B",
+      "before": "ALED20",
+      "after": "A20"
+    },
+    {
+      "device_id": "LED21",
+      "circuit": "LC-A",
+      "handle": "787E",
+      "before": "ALED21",
+      "after": "A21"
+    },
+    {
+      "device_id": "LED22",
+      "circuit": "LC-A",
+      "handle": "7881",
+      "before": "ALED22",
+      "after": "A22"
+    },
+    {
+      "device_id": "LED23",
+      "circuit": "LC-A",
+      "handle": "7884",
+      "before": "ALED23*",
+      "after": "A23*"
+    },
+    {
+      "device_id": "LED24",
+      "circuit": "LC-B",
+      "handle": "7887",
+      "before": "BLED24*",
+      "after": "B24*"
+    },
+    {
+      "device_id": "LED25",
+      "circuit": "LC-B",
+      "handle": "788A",
+      "before": "BLED25",
+      "after": "B25"
+    },
+    {
+      "device_id": "LED26",
+      "circuit": "LC-B",
+      "handle": "788D",
+      "before": "BLED26",
+      "after": "B26"
+    },
+    {
+      "device_id": "LED27",
+      "circuit": "LC-B",
+      "handle": "7890",
+      "before": "BLED27",
+      "after": "B27"
+    },
+    {
+      "device_id": "LED28",
+      "circuit": "LC-B",
+      "handle": "7893",
+      "before": "BLED28",
+      "after": "B28"
+    },
+    {
+      "device_id": "LED29",
+      "circuit": "LC-B",
+      "handle": "7896",
+      "before": "BLED29",
+      "after": "B29"
+    },
+    {
+      "device_id": "LED30",
+      "circuit": "LC-B",
+      "handle": "7899",
+      "before": "BLED30",
+      "after": "B30"
+    },
+    {
+      "device_id": "LED31",
+      "circuit": "LC-B",
+      "handle": "789C",
+      "before": "BLED31*",
+      "after": "B31*"
+    },
+    {
+      "device_id": "LED32",
+      "circuit": "LC-B",
+      "handle": "789F",
+      "before": "BLED32*",
+      "after": "B32*"
+    },
+    {
+      "device_id": "LED33",
+      "circuit": "LC-B",
+      "handle": "78A2",
+      "before": "BLED33",
+      "after": "B33"
+    },
+    {
+      "device_id": "LED34",
+      "circuit": "LC-B",
+      "handle": "78A5",
+      "before": "BLED34",
+      "after": "B34"
+    },
+    {
+      "device_id": "LED35",
+      "circuit": "LC-B",
+      "handle": "78A8",
+      "before": "BLED35",
+      "after": "B35"
+    },
+    {
+      "device_id": "LED36",
+      "circuit": "LC-B",
+      "handle": "78AB",
+      "before": "BLED36",
+      "after": "B36"
+    },
+    {
+      "device_id": "LED37",
+      "circuit": "LC-B",
+      "handle": "78AE",
+      "before": "BLED37",
+      "after": "B37"
+    },
+    {
+      "device_id": "LED38",
+      "circuit": "LC-B",
+      "handle": "78B1",
+      "before": "BLED38",
+      "after": "B38"
+    },
+    {
+      "device_id": "LED41",
+      "circuit": "LC-B",
+      "handle": "78B4",
+      "before": "BLED41",
+      "after": "B41"
+    },
+    {
+      "device_id": "LED42",
+      "circuit": "LC-B",
+      "handle": "78B7",
+      "before": "BLED42",
+      "after": "B42"
+    },
+    {
+      "device_id": "LED43",
+      "circuit": "LC-C",
+      "handle": "78BA",
+      "before": "CLED43",
+      "after": "C43"
+    },
+    {
+      "device_id": "LED44",
+      "circuit": "LC-C",
+      "handle": "78BD",
+      "before": "CLED44",
+      "after": "C44"
+    },
+    {
+      "device_id": "LED45",
+      "circuit": "LC-C",
+      "handle": "78C0",
+      "before": "CLED45",
+      "after": "C45"
+    },
+    {
+      "device_id": "LED49",
+      "circuit": "LC-C",
+      "handle": "78C3",
+      "before": "CLED49",
+      "after": "C49"
+    },
+    {
+      "device_id": "LED50",
+      "circuit": "LC-C",
+      "handle": "78C6",
+      "before": "CLED50",
+      "after": "C50"
+    },
+    {
+      "device_id": "LED51",
+      "circuit": "LC-C",
+      "handle": "78C9",
+      "before": "CLED51",
+      "after": "C51"
+    },
+    {
+      "device_id": "LED52",
+      "circuit": "LC-C",
+      "handle": "78CC",
+      "before": "CLED52",
+      "after": "C52"
+    },
+    {
+      "device_id": "LED53",
+      "circuit": "LC-C",
+      "handle": "78CF",
+      "before": "CLED53",
+      "after": "C53"
+    },
+    {
+      "device_id": "LED57",
+      "circuit": "LC-C",
+      "handle": "78D2",
+      "before": "CLED57",
+      "after": "C57"
+    },
+    {
+      "device_id": "LED58",
+      "circuit": "LC-C",
+      "handle": "78D5",
+      "before": "CLED58",
+      "after": "C58"
+    },
+    {
+      "device_id": "LED59",
+      "circuit": "LC-C",
+      "handle": "78D8",
+      "before": "CLED59",
+      "after": "C59"
+    },
+    {
+      "device_id": "LED60",
+      "circuit": "LC-C",
+      "handle": "78DB",
+      "before": "CLED60",
+      "after": "C60"
+    },
+    {
+      "device_id": "LED61",
+      "circuit": "LC-C",
+      "handle": "78DE",
+      "before": "CLED61",
+      "after": "C61"
+    },
+    {
+      "device_id": "LED65",
+      "circuit": "LC-C",
+      "handle": "78E1",
+      "before": "CLED65",
+      "after": "C65"
+    },
+    {
+      "device_id": "LED66",
+      "circuit": "LC-C",
+      "handle": "78E4",
+      "before": "CLED66",
+      "after": "C66"
+    },
+    {
+      "device_id": "LED67",
+      "circuit": "LC-C",
+      "handle": "78E7",
+      "before": "CLED67",
+      "after": "C67"
+    },
+    {
+      "device_id": "LED68",
+      "circuit": "LC-C",
+      "handle": "78EA",
+      "before": "CLED68",
+      "after": "C68"
+    },
+    {
+      "device_id": "LED69",
+      "circuit": "LC-C",
+      "handle": "78ED",
+      "before": "CLED69",
+      "after": "C69"
+    },
+    {
+      "device_id": "UE01",
+      "circuit": "LC-F",
+      "handle": "78F0",
+      "before": "FUE01*",
+      "after": "F01"
+    },
+    {
+      "device_id": "UE02",
+      "circuit": "LC-F",
+      "handle": "78F3",
+      "before": "FUE02*",
+      "after": "F02"
+    },
+    {
+      "device_id": "UE03",
+      "circuit": "LC-F",
+      "handle": "78F6",
+      "before": "FUE03*",
+      "after": "F03"
+    },
+    {
+      "device_id": "UE04",
+      "circuit": "LC-F",
+      "handle": "78F9",
+      "before": "FUE04*",
+      "after": "F04"
+    },
+    {
+      "device_id": "UE05",
+      "circuit": "LC-F",
+      "handle": "78FC",
+      "before": "FUE05*",
+      "after": "F05"
+    },
+    {
+      "device_id": "UE06",
+      "circuit": "LC-F",
+      "handle": "78FF",
+      "before": "FUE06*",
+      "after": "F06"
+    },
+    {
+      "device_id": "UE07",
+      "circuit": "LC-F",
+      "handle": "7902",
+      "before": "FUE07*",
+      "after": "F07"
+    },
+    {
+      "device_id": "UE08",
+      "circuit": "LC-F",
+      "handle": "7905",
+      "before": "FUE08*",
+      "after": "F08"
+    },
+    {
+      "device_id": "UE09",
+      "circuit": "LC-F",
+      "handle": "7908",
+      "before": "FUE09*",
+      "after": "F09"
+    },
+    {
+      "device_id": "UE10",
+      "circuit": "LC-F",
+      "handle": "790B",
+      "before": "FUE10*",
+      "after": "F10"
+    },
+    {
+      "device_id": "SE01",
+      "circuit": "LC-G",
+      "handle": "790E",
+      "before": "GSE01*",
+      "after": "G01"
+    },
+    {
+      "device_id": "SE02",
+      "circuit": "LC-G",
+      "handle": "7911",
+      "before": "GSE02*",
+      "after": "G02"
+    },
+    {
+      "device_id": "SE03",
+      "circuit": "LC-G",
+      "handle": "7914",
+      "before": "GSE03*",
+      "after": "G03"
+    },
+    {
+      "device_id": "SE04",
+      "circuit": "LC-G",
+      "handle": "7917",
+      "before": "GSE04*",
+      "after": "G04"
+    },
+    {
+      "device_id": "PN01",
+      "circuit": "LC-D",
+      "handle": "7736",
+      "before": "D-01",
+      "after": "D01"
+    },
+    {
+      "device_id": "PN02",
+      "circuit": "LC-D",
+      "handle": "7737",
+      "before": "D-02",
+      "after": "D02"
+    },
+    {
+      "device_id": "PN03",
+      "circuit": "LC-D",
+      "handle": "7738",
+      "before": "D-03",
+      "after": "D03"
+    },
+    {
+      "device_id": "PN04",
+      "circuit": "LC-D",
+      "handle": "7767",
+      "before": "D-04",
+      "after": "D04"
+    },
+    {
+      "device_id": "PN05",
+      "circuit": "LC-D",
+      "handle": "776A",
+      "before": "D-05",
+      "after": "D05"
+    },
+    {
+      "device_id": "PN06",
+      "circuit": "LC-D",
+      "handle": "776D",
+      "before": "D-06",
+      "after": "D06"
+    },
+    {
+      "device_id": "PN07",
+      "circuit": "LC-D",
+      "handle": "7770",
+      "before": "D-07",
+      "after": "D07"
+    },
+    {
+      "device_id": "PN08",
+      "circuit": "LC-D",
+      "handle": "7773",
+      "before": "D-08",
+      "after": "D08"
+    },
+    {
+      "device_id": "PN09",
+      "circuit": "LC-D",
+      "handle": "7776",
+      "before": "D-09",
+      "after": "D09"
+    },
+    {
+      "device_id": "PN10",
+      "circuit": "LC-D",
+      "handle": "7779",
+      "before": "D-10",
+      "after": "D10"
+    },
+    {
+      "device_id": "PN11",
+      "circuit": "LC-D",
+      "handle": "777C",
+      "before": "D-11",
+      "after": "D11"
+    },
+    {
+      "device_id": "LED82",
+      "circuit": "LC-E",
+      "handle": "77A2",
+      "before": "E-82",
+      "after": "E82"
+    },
+    {
+      "device_id": "LED83",
+      "circuit": "LC-E",
+      "handle": "77A5",
+      "before": "E-83",
+      "after": "E83"
+    },
+    {
+      "device_id": "LED84",
+      "circuit": "LC-E",
+      "handle": "77A8",
+      "before": "E-84",
+      "after": "E84"
+    },
+    {
+      "device_id": "LED85",
+      "circuit": "LC-E",
+      "handle": "77AB",
+      "before": "E-85",
+      "after": "E85"
+    },
+    {
+      "device_id": "LED86",
+      "circuit": "LC-E",
+      "handle": "77AE",
+      "before": "E-86",
+      "after": "E86"
+    },
+    {
+      "device_id": "LED87",
+      "circuit": "LC-E",
+      "handle": "77B1",
+      "before": "E-87",
+      "after": "E87"
+    },
+    {
+      "device_id": "LED88",
+      "circuit": "LC-E",
+      "handle": "77B4",
+      "before": "E-88",
+      "after": "E88"
+    },
+    {
+      "device_id": "LED89",
+      "circuit": "LC-E",
+      "handle": "77B7",
+      "before": "E-89",
+      "after": "E89"
+    },
+    {
+      "device_id": "LED91",
+      "circuit": "LC-E",
+      "handle": "77BA",
+      "before": "E-91",
+      "after": "E91"
+    },
+    {
+      "device_id": "LED92",
+      "circuit": "LC-E",
+      "handle": "77BD",
+      "before": "E-92",
+      "after": "E92"
+    },
+    {
+      "device_id": "LED93",
+      "circuit": "LC-E",
+      "handle": "77C0",
+      "before": "E-93",
+      "after": "E93"
+    },
+    {
+      "device_id": "LED94",
+      "circuit": "LC-E",
+      "handle": "77C3",
+      "before": "E-94",
+      "after": "E94"
+    },
+    {
+      "device_id": "LED95",
+      "circuit": "LC-E",
+      "handle": "77C6",
+      "before": "E-95",
+      "after": "E95"
+    },
+    {
+      "device_id": "LED96",
+      "circuit": "LC-E",
+      "handle": "77C9",
+      "before": "E-96",
+      "after": "E96"
+    }
+  ]
+}
