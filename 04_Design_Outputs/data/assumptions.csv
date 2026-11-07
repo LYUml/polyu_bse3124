@@ -16,3 +16,10 @@ AS-PW01,Each socket point individually fused,13,A,Design restriction: nine floor
 AS-PW02,Power vertical allowances,2 per radial; 2 each ring end,m,"Proposed route model, not measured installed vertical lengths",working design assumption
 AS-PW03,Local FCU cable allowance,0.5,m,4mm2 local connection per point; terminal and fuse curve checks pending,working design assumption
 AS-PW04,P6 classification,PANTRY,,Source rectangle contains FB09 and SO01; previous non-kitchen description superseded,corrected classification
+AS-T301,TN-S source external loop impedance,0.2,ohm,"Course design assumption at MS-O1, not measured; design requires <=0.265871ohm for C63 reference check",adopted design condition
+AS-T302,Prospective short-circuit current upper bound,6,kA,Course design condition at MS-O1 and downstream; 10kA MCBS/RCBOs and6kA FCU fuses selected,adopted design condition
+AS-T303,Pre-origin voltage drop allowance,2.2,V,Design budget from supply origin to MS-O1; not measured or zero,adopted design condition
+AS-T304,Third harmonic current range,>15 to33,percent,Fourcore incoming cable factor0.86; neutral fullsize; reselect for greater harmonic content,adopted design condition
+AS-T305,Selected breaker/fuse total clearing energy,See fault_design_conditions.json,A2s,"Explicit apparatus performance requirements, not claimed arbitrary product certificates",adopted performance specification
+AS-T306,Panel and point ambient,panel<=30; FCU<=35,degC,Cable containment40C remains conservative cable assumption; selected apparatus must satisfy declared enclosure conditions,adopted design condition
+AS-T307,Point13A bound meaning,rated intended continuous load,,FCU is not an instantaneous13A current clamp; overload verification uses1.9In conventional fusing current,adopted load assumption

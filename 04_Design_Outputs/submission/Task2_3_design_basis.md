@@ -1,6 +1,6 @@
 # Office 1 â€” circuit and cable design basis
 
-Working record, 2026-11-07. This is not the completed answer sheet or a passed cable design.
+Working record, 2026-11-07. The current working cable calculations pass under explicit course design conditions; Task3_answer_working.md is the consolidated answer. Final answer sheets and drawing/control/emergency reconciliation remain.
 
 ## Circuit separation
 
@@ -47,7 +47,7 @@ Ring lengths include 2 m at each DB end; radials include 2 m total vertical allo
 
 With P7 on L3 for balance, the designed point-capacity bounds give phase demands of L1=48.600 A, L2=42.563636 A and L3=48.909091 A after the stated Table7(1) diversity. Use 63 A as the incoming protective-device candidate, subject to cable/fault checks, and a 100 A minimum design busbar rating. The maximum phase point capacity without diversity is 68.444444 A. The historical 80 A scenario above used 32 A nominal capacity for every socket final circuit. The lower working demand is justified by the now-drawn individual 13 A fuses; it is not valid if those fuses are omitted or unfused points are added. P7 remains a capacity reservation, not a known appliance. See `office_design_demand.py` and `data/office_design_demand.json`.
 
-## Remaining cable and protection checks
+## Original selection notes and remaining coordination
 
 ### Lighting routes and working cable selection
 
@@ -73,4 +73,9 @@ EMSD Table 6(1), printed p56/PDF p57, limits A1 30/32 A rings to 100 mÂ², A2 3
 
 For the source single-core PVC copper Method B table, ambient 40Â°C with Ca=0.87 and three bunched circuits with Cg=0.70 gives: 4 mmÂ² capacity `32Ã—0.87Ã—0.70=19.488 A`, 6 mmÂ² `41Ã—0.87Ã—0.70=24.969 A`, and 10 mmÂ² `57Ã—0.87Ã—0.70=34.713 A`. Thus 4 mmÂ² fails the 20 A corrected-capacity condition in this grouping; 6 mmÂ² is a capacity candidate for a ring leg, while a 32 A radial requires at least the 10 mmÂ² candidate under these assumptions. This comparison does not verify ring loading, accessory terminals, cable routes, voltage drop or fault protection.
 
-Neutral conductors must be full sized under 6B(6)(c). Table A5(7), printed p278/PDF p279, addresses triple harmonics in four-/five-core cables; do not silently apply its 0.86 factor to a different cable arrangement. Actual harmonic content and the selected incoming cable arrangement remain inputs. Fault level, external loop impedance, CPC size, disconnection, device breaking capacity and installation lengths remain to verify; no final cable passes are claimed.
+Neutral conductors must be full sized under 6B(6)(c). Table A5(7), printed p278/PDF p279, addresses triple harmonics in four-/five-core cables; do not silently apply its 0.86 factor to a different cable arrangement. The adopted incoming design is four-core35mm2 PVC copper plus CPC16. Full incoming/outgoing checks now pass under the explicit source and device-performance conditions in fault_design_conditions.json; see Task3_answer_working.md. These are course design conditions, not claimed site measurements or arbitrary product certificates. Controls/emergency loads and final drawings still require reconciliation.
+
+
+## Task 3 consolidated working answer
+
+See `Task3_answer_working.md`. C63 is at MS-O1 before the incoming cable; DB-O1 has a100A4-pole isolator. Working incoming cable is4C35 PVC Cu+CPC16,31.5119m including an assumed3m allowance,Iz74.0718A. With pre-origin allowance2.2V and feeder drop bound2.521606V, all15 complete circuit drops are within4%; worst3.030671%. Source Ze0.20ohm and PFC<=6kA are adopted course assumptions. Apparatus total clearing energy limits are explicit selection requirements. Local13A fuse conventional fusing current24.7A is below1.45Iz28.2576A for4mm2 spurs; the fuse reference typical pre-arcing figure is not used as total energy. Native incoming route lengths match the common data on both office plans.

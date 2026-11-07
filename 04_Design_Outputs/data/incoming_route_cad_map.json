@@ -1,0 +1,18 @@
+{
+  "drawing": "C:\\Users\\lyuml-win\\Desktop\\polyu_bse3124\\04_Design_Outputs\\cad\\assignment_working_v02.dwg",
+  "plans": {
+    "lighting": {
+      "route_handle": "7BEE",
+      "source_box_handle": "7BEF",
+      "source_label_handle": "7BF0"
+    },
+    "power": {
+      "route_handle": "7BF1",
+      "source_box_handle": "7BF2",
+      "source_label_handle": "7BF3"
+    }
+  },
+  "plan_length_m": 28.5119,
+  "saved": true,
+  "limitation": "Proposed source/cable route, actual board position and penetrations unverified"
+}

@@ -1,0 +1,12 @@
+[
+  {
+    "file": "ABB_MCB_energy_limits.pdf",
+    "url": "https://library.e.abb.com/public/4009e91864554accb8c325cb552f18e0/9AKK108468A3912_en_9AKK108468A3912_B01_D_B01%20Electrical%20installation%20solutions%20for%20buildings_part%20B01%20MCBs%20_EN_%20%28PDF%29.pdf",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "file": "Eaton_TDC180_fuse.pdf",
+    "url": "https://www.eaton.com/content/dam/eaton/products/electronic-components/resources/data-sheet/eaton-tdc180-fuse-data-sheet.pdf",
+    "error": "The read operation timed out"
+  }
+]

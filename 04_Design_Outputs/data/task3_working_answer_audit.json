@@ -1,0 +1,9 @@
+{
+  "active_drawing": "C:\\Users\\lyuml-win\\Desktop\\polyu_bse3124\\04_Design_Outputs\\cad\\assignment_working_v02.dwg",
+  "saved": true,
+  "native_incoming_lengths_checked": 2,
+  "final_circuit_rows": 15,
+  "calculations_cover_all_final_circuits": true,
+  "all_check_passes_are_conditional_on": "fault_design_conditions.json and incoming_design_inputs.json",
+  "modelspace_entities": 8255
+}
