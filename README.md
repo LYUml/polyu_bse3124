@@ -1,22 +1,19 @@
-# BSE3124 Electrical Installation Design
+# BSE3124 — Group 1
 
-**English** | [简体中文](README.zh-CN.md)
+Final submission: [Report PDF](04_Final_Report/BSE3124_Final.pdf) · [AutoCAD drawing](03_Design_Drawings/BSE3124_Final.dwg) · [中文说明](README.zh-CN.md)
 
-Group1 — BSE3124 Electricity and Buildings, PolyU,2026/27 Semester1.
+| Folder | Contents |
+|---|---|
+| 01_Assignment_Brief | Original assignment, teacher answer-sheet template, and original building drawings in Building_Drawings. Originals are preserved byte-for-byte. |
+| 02_References | Course references, downloaded regulations/manufacturer documents and source notes. |
+| 03_Design_Drawings | One final editable DWG, for AutoCAD 2027. |
+| 04_Final_Report | One final report PDF; editable LaTeX, corrected template and drawing assets in source. |
+| 05_Calculations | Common CSV/JSON data and verification evidence in data; calculation/export scripts in scripts. |
+| 06_Tools | Environment setup, dependency restoration and AutoCAD connector tools. |
+| 07_Project_Notes | Research catalog, project decisions and retained investigation records. |
 
-## Final submission
+The 18-page report keeps Task 1 on pp.2–5, Task 2 on pp.6–14 and Task 3 on pp.15–18. Drawing PDFs inside the report source are build dependencies, not additional submission versions.
 
-- [Final answer PDF](04_Design_Outputs/submission/BSE3124_Final.pdf)
-- [Final editable AutoCAD DWG](04_Design_Outputs/cad/BSE3124_Final.dwg)
-- [Editable LaTeX source and build instructions](04_Design_Outputs/submission/source/README.md)
-- [Validation and design conditions](04_Design_Outputs/submission/VALIDATION.md)
+Build: run `04_Final_Report/source/build.ps1`. Verify with `.venv/Scripts/python.exe 05_Calculations/scripts/verify_final.py`. Native drawing verification and plotting scripts are alongside it. Start with PROJECT_SPEC.md for project instructions.
 
-The18-page answer groups each task continuously: cover,p1; Task1,p2–5; Task2,p6–14; Task3,p15–18. Relevant drawings sit within their task. Only one final submission is retained; older versions and temporary outputs have been removed from the working folder. Git history retains earlier work.
-
-## Workspace
-
-01_Assignment,02_Building_Drawings and03_Technical_References contain preserved originals.04_Design_Outputs contains the final submission, source assets, common engineering data and calculation/verification scripts.05_Tools contains environment tools;06_Research contains reference research. Hidden environment/configuration folders support the workflow.
-
-Build the answer with `04_Design_Outputs/submission/source/build.ps1`. Check final content/integrity with `.venv/Scripts/python.exe 04_Design_Outputs/calculations/verify_final.py`; native DWG checking uses `verify_final_dwg.py` and AutoCAD2027 Core Console. Rendering and visual review remain separate from calculation checks.
-
-The result is a course design under explicitly stated conditions, not installed-system or product certification. See [PROJECT_SPEC.md](PROJECT_SPEC.md) and [AGENTS.md](AGENTS.md) for execution rules.
+Hidden .venv, .codex and .agents folders support the local environment. Earlier versions are available through Git history.

@@ -1,5 +1,5 @@
 .venv/
-05_Tools/autocad-mcp/
+06_Tools/autocad-mcp/
 __pycache__/
 *.pyc
 *.dwl
@@ -7,7 +7,7 @@ __pycache__/
 .DS_Store
 
 # Regenerable build and review files
-/04_Design_Outputs/qa/
-/04_Design_Outputs/submission/source/build/
+/07_Project_Notes/qa/
+/04_Final_Report/source/build/
 /ErrorReports/
 /plot.log

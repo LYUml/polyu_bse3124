@@ -7,7 +7,7 @@ tool_timeout_sec = 120
 [mcp_servers.bse3124_autocad.env]
 AUTOCAD_MCP_BACKEND = "com"
 CAD_LAUNCH = "never"
-ALLOWED_PATHS = 'C:\Users\lyuml-win\Desktop\polyu_bse3124\04_Design_Outputs'
+ALLOWED_PATHS = 'C:\Users\lyuml-win\Desktop\polyu_bse3124\05_Calculations'
 DANGEROUS_COMMANDS_ENABLED = "false"
 LISP_POLICY = "read"
-ACADMCP_STATE_DIR = 'C:\Users\lyuml-win\Desktop\polyu_bse3124\04_Design_Outputs\mcp_state'
+ACADMCP_STATE_DIR = 'C:\Users\lyuml-win\Desktop\polyu_bse3124\05_Calculations\mcp_state'

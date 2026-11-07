@@ -1,0 +1,86 @@
+{
+  "release": "Group1 final",
+  "date": "2026-11-08",
+  "files": [
+    {
+      "file": "04_Final_Report\\BSE3124_Final.pdf",
+      "sha256": "9b8170710b05f6141764cae7e29e313b1aed996ec145ba9d7e312091ae96b7f0",
+      "bytes": 1749819
+    },
+    {
+      "file": "03_Design_Drawings\\BSE3124_Final.dwg",
+      "sha256": "9cc06e5c861ac39244bfc332cce874f8b7807d34541b7b891582239686e165f8",
+      "bytes": 471096
+    },
+    {
+      "file": "04_Final_Report\\source\\assets\\continuation-template.pdf",
+      "sha256": "0e831b74681495baf7904d3e33d344d298b4c35824b2f1e9ffde3bfaf43dea74",
+      "bytes": 713378
+    },
+    {
+      "file": "04_Final_Report\\source\\assets\\installation-details.pdf",
+      "sha256": "3d83f4e6277e9785d834822986a4493f24118ce072f6d9389901dcf48c0ac877",
+      "bytes": 112104
+    },
+    {
+      "file": "04_Final_Report\\source\\assets\\office-db.pdf",
+      "sha256": "5bb3f02719d88501c1651225abc937f8ed19a9502071bddc1586f94a1895963d",
+      "bytes": 113886
+    },
+    {
+      "file": "04_Final_Report\\source\\assets\\office-lighting.pdf",
+      "sha256": "e7593c1a4159995d605c8ff47a9388f41eb9023b12cc3dbab98611b83dc2c655",
+      "bytes": 154391
+    },
+    {
+      "file": "04_Final_Report\\source\\assets\\office-power.pdf",
+      "sha256": "a509feb3cd2d8d5398c2f458542b8a50846d53ea3c4b93f5db2ff84a687d9aba",
+      "bytes": 125714
+    },
+    {
+      "file": "04_Final_Report\\source\\assets\\official-template.pdf",
+      "sha256": "7a8a1094430086d49dee572363030bbdb50c7d1163552bf0c0bf9afe296d1f52",
+      "bytes": 184071
+    },
+    {
+      "file": "04_Final_Report\\source\\assets\\task1-drawings.pdf",
+      "sha256": "3e0a52f66a8769626d2036a79a1df3b6e59507b362416c9293eb6d41b04721f4",
+      "bytes": 311171
+    }
+  ],
+  "pdf_pages": 18,
+  "original_sources_unchanged": true,
+  "source_checks": [
+    {
+      "file": "01_Assignment_Brief\\BSE3124 Mini Design Answer Sheets.docx",
+      "expected": "da927db8e419e8639f0a89052ddf64c104011f22ce808b371756012d2f25d65d",
+      "actual": "da927db8e419e8639f0a89052ddf64c104011f22ce808b371756012d2f25d65d",
+      "unchanged": true
+    },
+    {
+      "file": "01_Assignment_Brief\\BSE3124 Mini Design Assignment-2.docx",
+      "expected": "561727aa33f0844b0f79308019256d1da37ef3640468880863ce198d3514daac",
+      "actual": "561727aa33f0844b0f79308019256d1da37ef3640468880863ce198d3514daac",
+      "unchanged": true
+    },
+    {
+      "file": "01_Assignment_Brief/Building_Drawings\\Building Layouts Layout2-1.pdf",
+      "expected": "abc963b4e48a5eb7643564106ea273ebc36130779bdced6de441e86a2d2c4208",
+      "actual": "abc963b4e48a5eb7643564106ea273ebc36130779bdced6de441e86a2d2c4208",
+      "unchanged": true
+    },
+    {
+      "file": "01_Assignment_Brief/Building_Drawings\\Building Layouts.dwg",
+      "expected": "0adaa4351e0e5c665cec56bf8feb177b9d3e68001bc991cf96abd5176811d23a",
+      "actual": "0adaa4351e0e5c665cec56bf8feb177b9d3e68001bc991cf96abd5176811d23a",
+      "unchanged": true
+    }
+  ],
+  "native_reopen_gate": "native_final_gate.json",
+  "conditional_protection_checks": 15,
+  "lighting_adopted_mean_checks": 4,
+  "lighting_height_sensitivity_disclosed": true,
+  "template_fidelity": "template_fidelity.json",
+  "visual_review": "All18 final rendered pages visually inspected; reviewed again after layout-sensitive changes",
+  "scope": "Course design under VALIDATION declared conditions; not unrestricted site/product/photometric certification"
+}

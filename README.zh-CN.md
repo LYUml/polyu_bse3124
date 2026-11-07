@@ -1,11 +1,17 @@
-# BSE3124电气设计作业
+# BSE3124 — Group 1
 
-[English](README.md) | **简体中文**
+[最终报告](04_Final_Report/BSE3124_Final.pdf) · [最终DWG](03_Design_Drawings/BSE3124_Final.dwg) · [English](README.md)
 
-只保留一套最终交付：[答案PDF](04_Design_Outputs/submission/BSE3124_Final.pdf) · [可编辑DWG](04_Design_Outputs/cad/BSE3124_Final.dwg) · [LaTeX源码](04_Design_Outputs/submission/source/README.md)。
+| 文件夹 | 用途 |
+|---|---|
+| 01_Assignment_Brief | 原始题干、老师答题模板；Building_Drawings内是老师提供的原始建筑图。原件内容未修改。 |
+| 02_References | 课程规范、下载的法规及厂家资料、来源记录。 |
+| 03_Design_Drawings | 我们绘制的唯一最终DWG。 |
+| 04_Final_Report | 唯一最终PDF；source内保留可编辑LaTeX、修正后的模板和编译所需图纸。 |
+| 05_Calculations | data保存统一数据及校核证据，scripts保存计算、出图与验证脚本。 |
+| 06_Tools | 环境安装、恢复、AutoCAD连接等工具。 |
+| 07_Project_Notes | 搜索目录、设计决策和必要的调查记录。 |
 
-共18页：封面1；Task1第2–5页；Task2第6–14页；Task3第15–18页。每个任务的答案与图纸连续集中，不再先放三个摘要、后放三个详情和全部图纸。
+最终报告共18页，各Task连续集中。平时看成果只需打开03和04；查计算看05；重新配置环境看06。报告source里的图纸PDF用于编译，不是另一套交付版本。
 
-过程版本、旧试算和临时文件已移除；最终数据、计算脚本和源码仍保留。原始作业、建筑图和技术资料未改动；以前的工作可在Git历史中恢复。
-
-[交付入口](04_Design_Outputs/submission/README.md) · [校核条件](04_Design_Outputs/submission/VALIDATION.md) · [项目规则](PROJECT_SPEC.md)。
+编译入口：04_Final_Report/source/build.ps1。项目执行要求见PROJECT_SPEC.md。旧版本由Git历史保留，隐藏目录为本机运行环境。

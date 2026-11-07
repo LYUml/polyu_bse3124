@@ -1,10 +1,10 @@
 # BSE3124 project instructions
 
-Read PROJECT_SPEC.md and 06_Research/background/WORKFLOW.md before design work. PROJECT_SPEC.md is the current execution contract; 06_Research/background/WORKFLOW.md supplies background. Actual assignment requirements take precedence over both.
+Read PROJECT_SPEC.md and 07_Project_Notes/background/WORKFLOW.md before design work. PROJECT_SPEC.md is the current execution contract; 07_Project_Notes/background/WORKFLOW.md supplies background. Actual assignment requirements take precedence over both.
 
-- Preserve originals in 01_Assignment, 02_Building_Drawings and existing 03_Technical_References. Edit only versioned copies in 04_Design_Outputs.
+- Preserve originals in 01_Assignment_Brief, 01_Assignment_Brief/Building_Drawings and existing 02_References. Edit only versioned copies in 05_Calculations.
 - Use AutoCAD 2027 for DWG. Never claim DXF validation proves DWG fidelity or CAD command success proves print quality.
-- Use 04_Design_Outputs/data as the common source for equipment, circuits, areas and assumptions. Do not invent measured areas, cable lengths, equipment ratings or regulation clauses.
+- Use 05_Calculations/data as the common source for equipment, circuits, areas and assumptions. Do not invent measured areas, cable lengths, equipment ratings or regulation clauses.
 - Distinguish cooling kW, electrical kW and kVA. The assignment's 1000 kW is cooling capacity.
 - COP215 Rev07 is the supplied course basis. EMSD 2025 and CLP COP101 v16 are downloaded references; record course-version decisions and exact clauses/tables before final calculations.
 - Prove CAD units, scale, layers and a three-luminaire sample before mass placement. A synthetic tool smoke test is not this sample.
