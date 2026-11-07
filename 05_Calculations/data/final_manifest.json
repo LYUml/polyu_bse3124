@@ -4,13 +4,13 @@
   "files": [
     {
       "file": "04_Final_Report\\BSE3124_Final.pdf",
-      "sha256": "9b8170710b05f6141764cae7e29e313b1aed996ec145ba9d7e312091ae96b7f0",
-      "bytes": 1749819
+      "sha256": "4c4fe6245af89987f7f868aa08c6f932dc83322c1e918f7dbadf2460857c2870",
+      "bytes": 1748809
     },
     {
       "file": "03_Design_Drawings\\BSE3124_Final.dwg",
-      "sha256": "9cc06e5c861ac39244bfc332cce874f8b7807d34541b7b891582239686e165f8",
-      "bytes": 471096
+      "sha256": "b6e831dbd493bdec3717fe936feb5e63bdf6d15a48a53e6a8e614f08667decf1",
+      "bytes": 475186
     },
     {
       "file": "04_Final_Report\\source\\assets\\continuation-template.pdf",
@@ -19,23 +19,23 @@
     },
     {
       "file": "04_Final_Report\\source\\assets\\installation-details.pdf",
-      "sha256": "3d83f4e6277e9785d834822986a4493f24118ce072f6d9389901dcf48c0ac877",
-      "bytes": 112104
+      "sha256": "d89e7df4694c587fd860035517ca3ff10e3a519f241005f1338fa341a94e4c76",
+      "bytes": 112060
     },
     {
       "file": "04_Final_Report\\source\\assets\\office-db.pdf",
-      "sha256": "5bb3f02719d88501c1651225abc937f8ed19a9502071bddc1586f94a1895963d",
+      "sha256": "6d84ccaa43db02d69609310539cacbcf01c1d80f2bac5d4fa56cec39eb43a36e",
       "bytes": 113886
     },
     {
       "file": "04_Final_Report\\source\\assets\\office-lighting.pdf",
-      "sha256": "e7593c1a4159995d605c8ff47a9388f41eb9023b12cc3dbab98611b83dc2c655",
-      "bytes": 154391
+      "sha256": "aaf9e45f76ce2732ee2797a41c2bdc1573cb5b632401832bfba7290b4b4336ba",
+      "bytes": 154112
     },
     {
       "file": "04_Final_Report\\source\\assets\\office-power.pdf",
-      "sha256": "a509feb3cd2d8d5398c2f458542b8a50846d53ea3c4b93f5db2ff84a687d9aba",
-      "bytes": 125714
+      "sha256": "b09030acfb2701f843832e3868a8e751c79b33e22bbd1f41d25b8faa5c2f86ca",
+      "bytes": 125431
     },
     {
       "file": "04_Final_Report\\source\\assets\\official-template.pdf",
@@ -44,8 +44,8 @@
     },
     {
       "file": "04_Final_Report\\source\\assets\\task1-drawings.pdf",
-      "sha256": "3e0a52f66a8769626d2036a79a1df3b6e59507b362416c9293eb6d41b04721f4",
-      "bytes": 311171
+      "sha256": "da471b6a69d7617261f3ef5c3a02e040adbc75b627c5d03b2d3252b71fefcb7b",
+      "bytes": 310705
     }
   ],
   "pdf_pages": 18,

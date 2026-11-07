@@ -386,8 +386,9 @@ LAYOUT	WORK-POWER
 7A00	LWPOLYLINE	E-T1-HV-TRENCH		400
 7A01	MTEXT	E-T1-MODEL-NOTES-HIDDEN	CYAN: PROPOSED ROOM WALLS / OUTWARD DOORS / HV TRENCH CENTRE-LINES\PHV: 1000W AT PANELS; 600W TO TRANSFORMERS; FINAL SECTION 300W; GENERALLY 1400D.\PHV SOUTH / LV NORTH. COVER ALL TRENCHES; NO CIVIL BEAM SHALL REDUCE CROSS-SECTION.	
 7A02	MTEXT	E-T1-MODEL-NOTES-HIDDEN	DOORS: WIDTHS ARE PROPOSED CLEAR OPENINGS; 2800H PLANT DOORS ASSUMED.\P180-DEGREE OUTWARD SWING; LEAVES SHOWN AT 90 DEGREES. SHARED SWING ZONES: OPEN ADJACENT PLANT DOORS SEQUENTIALLY.\PD-TXA: DESIGNATED PERSONNEL ENTRANCE WITH 700W x 2100H WICKET, PANIC HARDWARE; OTHER EXITS OPENABLE FROM INSIDE.\PLV ROOM HAS SEPARATE WEST ENTRANCE. ACTUAL FRAMES, FIRE RATING, EXTERNAL ROUTE AND ARCHITECTURAL OPENINGS REQUIRE COORDINATION.	
-7BBE	MTEXT	E-T1-PAPER-NOTES	DRAWING REFERENCES: BSE3124_Final.dwg | TASK1-GROUND-OVERVIEW + TASK1-ROOM-REVIEW	
-7BBF	MTEXT	E-T1-PAPER-NOTES	Design basis: COP215 Rev07 load estimate; COP101 v16 room planning. See Task1 for calculations and adopted dimensions.	
+7BB9	MTEXT	E-T1-PAPER-NOTES	PLAN 1:200 AT A3 | ALL DIMENSIONS IN mm	
+7BBE	MTEXT	E-T1-PAPER-NOTES	GROUP 1 | TASK 1	
+7BBF	MTEXT	E-T1-PAPER-NOTES	Design basis: CLP COP215 Rev07; CLP COP101 v16.	
 7BC3	LWPOLYLINE	E-LIGHT-ROUTE-A		53300.948
 7BC5	LWPOLYLINE	E-LIGHT-ROUTE-B		57184.084
 7BC7	LWPOLYLINE	E-LIGHT-ROUTE-C		39999.052
@@ -850,7 +851,7 @@ LAYOUT	WORK-POWER
 7DAF	MTEXT	E-DB-SUBMISSION	Each RCBO load neutral is dedicated. Ring L/N/CPC ends return to the same circuit terminals; no mixed neutrals. All local power spurs:13A fuse +4mm2 L/N/CPC,0.5m assumed.	
 7DB0	MTEXT	E-DB-SUBMISSION	S-A/B/C: separate enclosures for different phases. All manual controls20AX/LED>=600W minimum; local switching and RCBO inrush performance must meet adopted design specification.	
 7DBC	MTEXT	E-NORMAL-PLAN-PAPER	TASK 2 | OFFICE 1 NORMAL LIGHTING	
-7DBD	MTEXT	E-NORMAL-PLAN-PAPER	A3 PORTRAIT | 1:75 at actual size | mm | DB-O1 | COURSE DESIGN	
+7DBD	MTEXT	E-NORMAL-PLAN-PAPER	A3 PORTRAIT | 1:75 at actual size | mm | DB-O1	
 7DBE	VIEWPORT	E-T1-VPORT-NOPLOT		
 7DC0	MTEXT	E-NORMAL-PLAN-PAPER	Supply continues to MS-O1 at meter location; incoming route on model / DB schematic.	
 7DC1	MTEXT	E-NORMAL-PLAN-PAPER	600x600 LED panel: A/B/C=22W, *=28W; D=22W; E/F=28W; G=38W.	
@@ -868,7 +869,7 @@ LAYOUT	WORK-POWER
 7DCD	MTEXT	E-NORMAL-PLAN-PAPER	Proposed routes follow plan; vertical/tail allowances and conditions are in Task3. Architecture retained as reference.	
 7DCE	MTEXT	E-NORMAL-PLAN-PAPER	BSE3124 | 2026-11-07 | Read with15-way DB schematic and common circuit schedule	
 7DD9	MTEXT	E-NORMAL-PLAN-PAPER	TASK 2 | OFFICE 1 NORMAL POWER	
-7DDA	MTEXT	E-NORMAL-PLAN-PAPER	A3 PORTRAIT | 1:75 at actual size | mm | DB-O1 | COURSE DESIGN	
+7DDA	MTEXT	E-NORMAL-PLAN-PAPER	A3 PORTRAIT | 1:75 at actual size | mm | DB-O1	
 7DDB	VIEWPORT	E-T1-VPORT-NOPLOT		
 7DDD	MTEXT	E-NORMAL-PLAN-PAPER	Supply continues to MS-O1 at meter location; incoming route on model / DB schematic.	
 7DDE	MTEXT	E-NORMAL-PLAN-PAPER	FB01-09=floorbox; SO01-03=twin socket; FS01=dedicated fused spur.	
@@ -959,19 +960,19 @@ LAYOUT	WORK-POWER
 7FED	MTEXT	E-REV04-DETAIL	Ring leg currents14.658-15.203A support load distribution; overload protection follows the A1 standard arrangement. Verify ring continuity before energisation.	
 7FEE	MTEXT	E-REV04-DETAIL	TN-S source Ze0.20ohm/PFC<=6kA are design conditions. Main and RCBO Icn10kA. Required total I2t: B10/B16<=70000; B32/FCU<=90000; C63<=1000000 A2s.	
 7FEF	MTEXT	E-REV04-DETAIL	Select apparatus meeting the stated breaking capacity and total clearing energy. Control20AX/LED>=600W; confirm driver inrush. PE bypasses switching.	
-7FF0	MTEXT	E-REV04-DETAIL	4. FINAL LIGHTING BASIS - COURSE GEOMETRY AND HEIGHT ASSUMPTIONS	
+7FF0	MTEXT	E-REV04-DETAIL	4. LIGHTING DESIGN BASIS	
 7FF1	MTEXT	E-REV04-DETAIL	92 panels /2256W. LDT calculation, MF0.80, luminaires1.9m above workplane: mean direct lux open592.9 /pantry546.3 /upper east588.5 /south east662.6.	
 7FF2	MTEXT	E-REV04-DETAIL	South east: four38W panels,4685.55lm each; mean589.2lx at2.2m above workplane,17.8% above500lx target. Lighting positions and routes retained.	
 7FF3	MTEXT	E-REV04-DETAIL	Adopted height1.9m and MF0.80 with periodic cleaning. Direct-light calculation; see report for room geometry and perimeter illuminance.	
 7FF4	MTEXT	E-REV04-DETAIL	GROUP 1 | BSE3124 | 2026-11-08 | DETAILS / NTS | Read with final Task1-3 answers	
 8027	MTEXT	E-T1-PAPER-NOTES	TASK 1 | PROPOSED SUBSTATION AND MAIN LV ROOM	
-8028	MTEXT	E-T1-PAPER-NOTES	Office building: 10 typical floors + ground | COURSE DESIGN REVIEW | All dimensions in mm	
+8028	MTEXT	E-T1-PAPER-NOTES	Office building: 10 typical floors + ground | All dimensions in mm	
 8029	MTEXT	E-T1-PAPER-NOTES	CAPACITY AND EQUIPMENT\P2 x 1500 kVA proposed; normal load envelope 2672.216 kVA. No full-load N-1.\PHV: 3000 x 1000 reservation.\PTX-A/B: 2200 x 1800 each.\PThese are assumed equipment envelopes, not manufacturer footprints.	
 802A	MTEXT	E-T1-PAPER-NOTES	CLEARANCES / BUILDING WORKS\PHV rear 1000, front 1800, sides 750. TX LV terminals north: 900; other sides 750.\PProposed 2h FRR partitions; fire-seal penetrations. FFL +0.15 vs external +0.00 assumed.\PActual structures, wall thickness and equipment dimensions require coordination.	
 802B	MTEXT	E-T1-PAPER-NOTES	ACCESS AND DOORS\PSouth external access assumed. Reserve 3000-wide delivery route; unloading distance <=20m to verify.\PPlant doors: HV 4000W; TX 3000W each; 2800H assumed. 180-degree outward sweep, shown open 90 degrees.\PShared sweeps: use adjacent doors sequentially. TX-A designated wicket personnel access. Independent LV entrance west.	
 802C	MTEXT	E-T1-PAPER-NOTES	VENTILATION\P2 low-level 600W x 2000H inlet louvres: 2.4m2 gross x assumed 50% free area = 1.20m2 >=1.12m2. Certified free area >=46.67% required.\P2 high-level 630-dia fan symbols are conditional references. Actual losses, fan duty and noise to confirm; outlet >=2.5m above street, away from people.	
 802D	MTEXT	E-T1-PAPER-NOTES	LV INTERFACES / HV ROUTES\PLV trench: 1000W x 1100D, four MCTs per interface. A: 8.03+2=10.03m; B: 8.31+2=10.31m (<20m). 2m is assumed total termination/vertical allowance.\PHV centre-lines: 1000W at panels; 600W branches; final 300W; generally 1400D. Segregate HV/LV. Covered trenches; no beam obstruction.	
-802E	MTEXT	E-T1-PAPER-NOTES	DETAIL 1:75 AT A3 | NOT A CONSTRUCTION DRAWING	
+802E	MTEXT	E-T1-PAPER-NOTES	DETAIL 1:75 AT A3	
 802F	MTEXT	E-T1-PAPER-NOTES	Basis: supplied COP215 Rev07; COP101 v16 clauses 4.3, 5.5, 5.6, 6.1-6.7.\PSee Task1 for load estimate, equipment reservations and design assumptions.	
 8030	MTEXT	E-T1-PAPER-NOTES	LINE KEY: dashed = HV trench; solid = LV route; chain = clearance envelope.	
 8031	VIEWPORT	E-T1-VPORT-NOPLOT		

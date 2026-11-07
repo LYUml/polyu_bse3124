@@ -64,12 +64,12 @@
     {
       "handle": "7BBE",
       "before": "DRAWING REFERENCES: assignment_working_v02.dwg | TASK1-GROUND-OVERVIEW + TASK1-ROOM-REVIEW",
-      "after": "DRAWING REFERENCES: BSE3124_Final.dwg | TASK1-GROUND-OVERVIEW + TASK1-ROOM-REVIEW"
+      "after": "GROUP 1 | TASK 1"
     },
     {
       "handle": "7BBF",
       "before": "Calculation sources and declared assumptions: Task1_answer_draft.md; data/task1_design_inputs.csv. Original drawings retained.",
-      "after": "Design basis: COP215 Rev07 load estimate; COP101 v16 room planning. See Task1 for calculations and adopted dimensions."
+      "after": "Design basis: CLP COP215 Rev07; CLP COP101 v16."
     },
     {
       "handle": "802F",
@@ -115,6 +115,30 @@
       "handle": "7664",
       "before": "L3?  LC-G  4 LED  112W  PROTECTION TBD",
       "after": "L3  LC-G  4 LED  152W  B10 RCBO"
+    },
+    {
+      "handle": "7BB9",
+      "after": "PLAN 1:200 AT A3 | ALL DIMENSIONS IN mm"
+    },
+    {
+      "handle": "8028",
+      "after": "Office building: 10 typical floors + ground | All dimensions in mm"
+    },
+    {
+      "handle": "802E",
+      "after": "DETAIL 1:75 AT A3"
+    },
+    {
+      "handle": "7DBD",
+      "after": "A3 PORTRAIT | 1:75 at actual size | mm | DB-O1"
+    },
+    {
+      "handle": "7DDA",
+      "after": "A3 PORTRAIT | 1:75 at actual size | mm | DB-O1"
+    },
+    {
+      "handle": "7FF0",
+      "after": "4. LIGHTING DESIGN BASIS"
     }
   ]
 }

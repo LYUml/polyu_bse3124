@@ -1,11 +1,11 @@
 {
   "drawing": "C:\\Users\\lyuml-win\\Desktop\\polyu_bse3124\\03_Design_Drawings\\BSE3124_Final.dwg",
-  "sha256": "9cc06e5c861ac39244bfc332cce874f8b7807d34541b7b891582239686e165f8",
+  "sha256": "b6e831dbd493bdec3717fe936feb5e63bdf6d15a48a53e6a8e614f08667decf1",
   "engine": "C:\\Program Files\\Autodesk\\AutoCAD 2027\\accoreconsole.exe",
   "native_version": "26.0",
   "native_reopen_pass": true,
   "read_only_hash_unchanged": true,
-  "checked_entity_handles": 961,
+  "checked_entity_handles": 962,
   "missing_handles": 0,
   "lighting_labels_checked": 92,
   "routes": [

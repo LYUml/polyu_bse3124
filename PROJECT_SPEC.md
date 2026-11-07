@@ -18,7 +18,7 @@
 
 | 项目 | 配置 | 验证与限制 |
 |---|---|---|
-| AutoCAD | 本机 Windows AutoCAD 2027 | 当前工作副本BSE3124_Final.dwg；交付副本BSE3124_Final.dwg已由AutoCAD2027 Core Console原生复开，961个登记对象无缺失；六张交付图已逐页目检。六布局均由保存的Final原生复开重出；机房详图纸空间视口已修复 |
+| AutoCAD | 本机 Windows AutoCAD 2027 | 当前工作副本BSE3124_Final.dwg；交付副本BSE3124_Final.dwg已由AutoCAD2027 Core Console原生复开，962个登记对象无缺失；六张交付图已逐页目检。六布局均由保存的Final原生复开重出；机房详图纸空间视口已修复 |
 | LaTeX | 本机用户目录MiKTeX，XeLaTeX/pdfLaTeX/texify | 已实测中英文、数学、表格与交叉引用；作业答案原生编译并逐页目检 |
 | Python | 项目 `.venv`，Python 3.12 | 包依赖检查通过；从本机Codex附带Python建立，迁移电脑须重建环境 |
 | AutoCAD MCP | U-C4N/Autocad-MCP，1.8.0，提交 `6f6a538255ca9f885232e845ac32f10b4433fe3e` | 源码在 `06_Tools/autocad-mcp`；安装 COM、DXF 和PDF渲染依赖；stdio初始化、工具列表和system_about查询实测通过 |

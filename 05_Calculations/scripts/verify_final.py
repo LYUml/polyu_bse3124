@@ -40,8 +40,8 @@ plot=json.loads((D/'native_plot_gate.json').read_text())
 assert plot['dwg_sha256']==sha(R/'03_Design_Drawings/BSE3124_Final.dwg')
 assert len(plot['layouts'])==6 and all(r['text_characters']>500 for r in plot['layouts'])
 native=json.loads((D/'native_final_gate.json').read_text());dwg=R/'03_Design_Drawings/BSE3124_Final.dwg'
-assert native['sha256']==sha(dwg) and native['checked_entity_handles']==961 and native['missing_handles']==0
+assert native['sha256']==sha(dwg) and native['checked_entity_handles']==962 and native['missing_handles']==0
 files=[pdf,dwg]+sorted((S/'source/assets').glob('*.pdf'))
 manifest=dict(release='Group1 final',date='2026-11-08',files=[dict(file=str(p.relative_to(R)),sha256=sha(p),bytes=p.stat().st_size) for p in files],pdf_pages=18,original_sources_unchanged=True,source_checks=sources,native_reopen_gate='native_final_gate.json',conditional_protection_checks=15,lighting_adopted_mean_checks=4,lighting_height_sensitivity_disclosed=True,template_fidelity='template_fidelity.json',visual_review='All18 final rendered pages visually inspected; reviewed again after layout-sensitive changes',scope='Course design under VALIDATION declared conditions; not unrestricted site/product/photometric certification')
 (D/'final_manifest.json').write_text(json.dumps(manifest,indent=2))
-print('Verified:18pages,112components,92lamps/2256W,15conditional circuit checks,4lighting means,961native objects,unchanged originals.')
+print('Verified:18pages,112components,92lamps/2256W,15conditional circuit checks,4lighting means,962native objects,unchanged originals.')
