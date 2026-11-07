@@ -1,0 +1,8 @@
+circuit_id,connected_W,Ib_exact_A,candidate_MCB_A,candidate_copper_mm2,methodB_It_A,minimum_combined_rating_factor,branch_drop_budget_V,max_uniform_full_load_oneway_length_m,status
+LC-A,405.0,2.045455,10,1.5,17.5,0.571429,4.4,74.18,conditional design screen; actual route factors fault protection and lamp inrush not verified
+LC-B,382.5,1.931818,10,1.5,17.5,0.571429,4.4,78.54,conditional design screen; actual route factors fault protection and lamp inrush not verified
+LC-C,405.0,2.045455,10,1.5,17.5,0.571429,4.4,74.18,conditional design screen; actual route factors fault protection and lamp inrush not verified
+LC-D,242,1.222222,10,1.5,17.5,0.571429,4.4,124.14,conditional design screen; actual route factors fault protection and lamp inrush not verified
+LC-E,392,1.979798,10,1.5,17.5,0.571429,4.4,76.64,conditional design screen; actual route factors fault protection and lamp inrush not verified
+LC-F,225.0,1.136364,10,1.5,17.5,0.571429,4.4,133.52,conditional design screen; actual route factors fault protection and lamp inrush not verified
+LC-G,90.0,0.454545,10,1.5,17.5,0.571429,4.4,333.79,conditional design screen; actual route factors fault protection and lamp inrush not verified
