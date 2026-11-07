@@ -1,3 +1,4 @@
 ﻿office,space,x_min_mm,x_max_mm,y_min_mm,y_max_mm,rectangle_area_m2,source_handles,status
 Office 1,PANTRY,64525.932,70425.932,31588.083655,36595.583655,29.5443,3E3C;3E42;5128;512B,"sensitivity only: pantry use, doorway, exact internal boundary and inclusion in 309 m2 unverified"
 Office 2,PANTRY,89190.932,95109.265585,31588.083655,36595.583655,29.6361,3E43;40C7;5148;514B,"sensitivity only: pantry use, doorway, exact internal boundary and inclusion in 309 m2 unverified"
+Office 3,PANTRY,95209.26558515833,100216.7655851581,39825.58365525946,45725.58365525945,29.5442,3D31;4054;5153;5156,"sensitivity only: pantry use, doorway, exact internal boundary and inclusion in 410 m2 unverified"
