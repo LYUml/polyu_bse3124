@@ -14,7 +14,7 @@
   "Cg": 0.54,
   "methodB_It_A": 24,
   "table_drop_mV_A_m": 18,
-  "common_vertical_allowance_m": 2,
+  "common_vertical_allowance_m": 5,
   "branch_drop_budget_V": 4.4,
   "reference_B10_Zs_limit_ohm": 4.17,
   "R20_2p5_ohm_km": 7.41,
@@ -31,8 +31,10 @@
   },
   "limitations": [
     "DB location adopted from screened south-wall candidate; cabinet/access and incoming route to coordinate",
-    "2m vertical allowance and2% outgoing drop allocation are design assumptions",
+    "5m common vertical allowance and2% branch drop allocation are design assumptions",
     "RCD/overcurrent device selection must meet inrush fault breaking and energy-let-through requirements",
     "Ze at DB not measured; report permissible Ze rather than assuming a pass"
-  ]
+  ],
+  "vertical_allowance_basis": "2m DB rise plus1.5m down and1.5m back to each local switch; ceiling/switch heights are course design assumptions",
+  "control_performance": "Manual20AX, LED switching>=600W; certify make/break/inrush compatibility with <=18 selected drivers per circuit. Different-phase switches in separate enclosures."
 }

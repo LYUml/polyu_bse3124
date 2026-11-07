@@ -5,12 +5,12 @@ R=Path(__file__).resolve().parents[2];D=R/"04_Design_Outputs/data"
 I=json.loads((D/"lighting_route_design_inputs.json").read_text())
 devices=list(csv.DictReader((D/"devices.csv").open(encoding="utf8")))
 DB=tuple(I["DB_lighting_xy_mm"])
-portals={"LC-A":[],"LC-B":[],"LC-C":[],
- "LC-E":[(71000,31488.1),(71000,32095.584)],
- "LC-F":[(73000,24800),(76000,24800)],"LC-G":[(73000,18700),(75600,18700)]}
+portals={"LC-A":[(73550,31488.1)],"LC-B":[(73950,31488.1)],"LC-C":[(74350,31488.1)],
+ "LC-E":[(71000,31488.1),(71000,32095.584),(70525.932,32095.584),(71000,32095.584)],
+ "LC-F":[(73000,24800),(76000,24800),(76000,25400),(75215,25400)],"LC-G":[(73000,18700),(75600,18700),(75600,18000),(75215,18000)]}
 segments=[];results=[]
 for cid in ["LC-"+c for c in "ABCDEFG"]:
- lamps={r["device_id"]:r for r in devices if r["circuit_id"]==cid};power=sum(float(r["power_W"]) for r in lamps.values())
+ lamps={r["device_id"]:r for r in devices if r["circuit_id"]==cid and float(r["power_W"] or 0)>0};power=sum(float(r["power_W"]) for r in lamps.values())
  current=power/I["voltage_V"]/I["PF"];remaining=power;previous=DB;visited=[];local=[];drop=0;length=0
  def segment(end,node="WAYPOINT"):
   global previous,remaining,drop,length
@@ -26,6 +26,8 @@ for cid in ["LC-"+c for c in "ABCDEFG"]:
    end=(float(r["x2"]),float(r["y2"]));node=r["to_node"]
    if node in lamps and math.dist(end,(float(lamps[node]["x"]),float(lamps[node]["y"])))>=.001:node="WAYPOINT"
    segment(end,node)
+   if r["to_node"]=="ENTRY-Y":
+    segment((70425.932,32095.584));segment(end)
    if node in lamps and node not in visited and math.dist(end,(float(lamps[node]["x"]),float(lamps[node]["y"])))<.001:
     visited.append(node);remaining-=float(lamps[node]["power_W"])
  else:

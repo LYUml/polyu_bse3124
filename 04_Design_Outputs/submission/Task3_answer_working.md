@@ -1,6 +1,6 @@
 # Task 3 — Maximum demand, incoming and all outgoing cables
 
-Complete working answer for the current 105 device locations / 15 final circuits. All stated passes apply to the adopted course design conditions below; they are not site measurements or certification of installed products. Refresh this answer if loads, control/emergency provisions, routes or assumptions change.
+Complete working answer for the current 92 normal luminaires +13 power points +7 passive switches /15 final circuits. All stated passes apply to the adopted course design conditions below; they are not site measurements or certification of installed products. Refresh this answer if loads, control/emergency provisions, routes or assumptions change.
 
 ## 1. Design basis and adopted conditions
 
@@ -38,13 +38,13 @@ All final circuits use B-curve TypeA30 mA1P+N RCBOs with10 kA breaking capacity 
 
 | Circuit | Phase | Ib / A | Protective / A | L/N/CPC mm² | Main design route / m | Topology |
 |---|---|---:|---:|---:|---:|---|
-| LC-A | L1 | 2.030303 | B10 | 2.5/2.5/2.5 | 55.300948 | lighting radial |
-| LC-B | L2 | 1.979798 | B10 | 2.5/2.5/2.5 | 57.284084 | lighting radial |
-| LC-C | L3 | 2.000000 | B10 | 2.5/2.5/2.5 | 39.299052 | lighting radial |
-| LC-D | L3 | 1.222222 | B10 | 2.5/2.5/2.5 | 23.381552 | lighting radial |
-| LC-E | L2 | 1.979798 | B10 | 2.5/2.5/2.5 | 30.515916 | lighting radial |
-| LC-F | L1 | 1.414141 | B10 | 2.5/2.5/2.5 | 27.453406 | lighting radial |
-| LC-G | L3 | 0.565657 | B10 | 2.5/2.5/2.5 | 23.197478 | lighting radial |
+| LC-A | L1 | 2.030303 | B10 | 2.5/2.5/2.5 | 58.300948 | lighting radial |
+| LC-B | L2 | 1.979798 | B10 | 2.5/2.5/2.5 | 62.184084 | lighting radial |
+| LC-C | L3 | 2.000000 | B10 | 2.5/2.5/2.5 | 44.999052 | lighting radial |
+| LC-D | L3 | 1.222222 | B10 | 2.5/2.5/2.5 | 27.233416 | lighting radial |
+| LC-E | L2 | 1.979798 | B10 | 2.5/2.5/2.5 | 34.464052 | lighting radial |
+| LC-F | L1 | 1.414141 | B10 | 2.5/2.5/2.5 | 32.709658 | lighting radial |
+| LC-G | L3 | 0.565657 | B10 | 2.5/2.5/2.5 | 27.378646 | lighting radial |
 | P1 | L1 | 26 | B32 | 6/6/6 | 28.620200 | A1 ring + individually13A fused points |
 | P2 | L1 | 26 | B32 | 6/6/6 | 35.520200 | A1 ring + individually13A fused points |
 | P3 | L2 | 26 | B32 | 6/6/6 | 45.220200 | A1 ring + individually13A fused points |
@@ -60,17 +60,17 @@ P5/P6/P8 are10 mm²32 A A2 radials: Iz=57×0.87×0.70=34.713 A. P7 is a separate
 
 ## 5. Full voltage-drop check
 
-Outgoing radial drops sum each segment's downstream current; ring drops solve the two-feed uniform-cable network. Include2 m vertical allowance per radial,2 m at each ring DB end, and0.5 m local point spurs as stated. Add the2.2 V pre-origin allowance and the conservative2.521606 V incoming bound to each outgoing result. Compare the complete phase-neutral result with4%×220=8.8 V.
+Outgoing radial drops sum each segment's downstream current; ring drops solve the two-feed uniform-cable network. Include5 m total DB/switch vertical allowance per lighting radial,2 m per power radial,2 m at each power-ring DB end, and0.5 m local point spurs as stated. Add the2.2 V pre-origin allowance and the conservative2.521606 V incoming bound to each outgoing result. Compare the complete phase-neutral result with4%×220=8.8 V.
 
 | Circuit | Outgoing drop / V | Full design bound / V | Full drop / % | Result |
 |---|---:|---:|---:|---|
-| LC-A | 1.340053 | 6.061659 | 2.755299 | pass under conditions |
-| LC-B | 1.062524 | 5.784130 | 2.629150 | pass under conditions |
-| LC-C | 0.753566 | 5.475172 | 2.488714 | pass under conditions |
-| LC-D | 0.336794 | 5.058400 | 2.299273 | pass under conditions |
-| LC-E | 0.656785 | 5.378391 | 2.444723 | pass under conditions |
-| LC-F | 0.507905 | 5.229511 | 2.377050 | pass under conditions |
-| LC-G | 0.211756 | 4.933362 | 2.242437 | pass under conditions |
+| LC-A | 1.449689 | 6.171295 | 2.805134 | pass under conditions |
+| LC-B | 1.237142 | 5.958748 | 2.708522 | pass under conditions |
+| LC-C | 0.958766 | 5.680372 | 2.581987 | pass under conditions |
+| LC-D | 0.421535 | 5.143141 | 2.337791 | pass under conditions |
+| LC-E | 0.797483 | 5.519089 | 2.508677 | pass under conditions |
+| LC-F | 0.641700 | 5.363306 | 2.437866 | pass under conditions |
+| LC-G | 0.254328 | 4.975934 | 2.261788 | pass under conditions |
 | P1 | 1.268756 | 5.990362 | 2.722892 | pass under conditions |
 | P2 | 1.674847 | 6.396453 | 2.907479 | pass under conditions |
 | P3 | 1.936871 | 6.658477 | 3.026580 | pass under conditions |
@@ -90,13 +90,13 @@ For outgoing circuits, use the official table impedance per metre as a conservat
 
 | Circuit | Zs design / ohm | Reference limit / ohm | Minimum earth fault / A | Required magnetic threshold / A | Result |
 |---|---:|---:|---:|---:|---|
-| LC-A | 1.259546 | 4.17 | 165.933 | 50 | pass under conditions |
-| LC-B | 1.295243 | 4.17 | 161.360 | 50 | pass under conditions |
-| LC-C | 0.971512 | 4.17 | 215.129 | 50 | pass under conditions |
-| LC-D | 0.684997 | 4.17 | 305.111 | 50 | pass under conditions |
-| LC-E | 0.813415 | 4.17 | 256.941 | 50 | pass under conditions |
-| LC-F | 0.758290 | 4.17 | 275.620 | 50 | pass under conditions |
-| LC-G | 0.681684 | 4.17 | 306.594 | 50 | pass under conditions |
+| LC-A | 1.313546 | 4.17 | 159.111 | 50 | pass under conditions |
+| LC-B | 1.383443 | 4.17 | 151.072 | 50 | pass under conditions |
+| LC-C | 1.074112 | 4.17 | 194.579 | 50 | pass under conditions |
+| LC-D | 0.754330 | 4.17 | 277.067 | 50 | pass under conditions |
+| LC-E | 0.884482 | 4.17 | 236.296 | 50 | pass under conditions |
+| LC-F | 0.852903 | 4.17 | 245.045 | 50 | pass under conditions |
+| LC-G | 0.756945 | 4.17 | 276.110 | 50 | pass under conditions |
 | P1 | 0.321861 | 1.31 | 649.349 | 160 | pass under conditions |
 | P2 | 0.334453 | 1.31 | 624.901 | 160 | pass under conditions |
 | P3 | 0.352156 | 1.31 | 593.487 | 160 | pass under conditions |

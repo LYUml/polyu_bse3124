@@ -1,0 +1,8 @@
+control_id,circuit_id,x_mm,y_mm,type,normal_load_W,minimum_LED_switching_W,source
+S-A,LC-A,73550,31488.1,single-pole manual20AX LED-rated switch,0,600,Proposed local wall position; dedicated circuit phase and neutral; separate enclosures for S-A/B/C different phases
+S-B,LC-B,73950,31488.1,single-pole manual20AX LED-rated switch,0,600,Proposed local wall position; dedicated circuit phase and neutral; separate enclosures for S-A/B/C different phases
+S-C,LC-C,74350,31488.1,single-pole manual20AX LED-rated switch,0,600,Proposed local wall position; dedicated circuit phase and neutral; separate enclosures for S-A/B/C different phases
+S-D,LC-D,70425.932,32095.584,single-pole manual20AX LED-rated switch,0,600,Proposed local wall position; dedicated circuit phase and neutral; separate enclosures for S-A/B/C different phases
+S-E,LC-E,70525.932,32095.584,single-pole manual20AX LED-rated switch,0,600,Proposed local wall position; dedicated circuit phase and neutral; separate enclosures for S-A/B/C different phases
+S-F,LC-F,75215,25400,single-pole manual20AX LED-rated switch,0,600,Proposed local wall position; dedicated circuit phase and neutral; separate enclosures for S-A/B/C different phases
+S-G,LC-G,75215,18000,single-pole manual20AX LED-rated switch,0,600,Proposed local wall position; dedicated circuit phase and neutral; separate enclosures for S-A/B/C different phases

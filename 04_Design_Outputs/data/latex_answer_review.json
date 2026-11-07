@@ -1,0 +1,28 @@
+{
+  "pdf": "04_Design_Outputs\\submission\\BSE3124_Answer_Sheets_v01.pdf",
+  "sha256": "6683521ea376f7931d5d0ba02775f3a152ca80f7fdfe42066a1464a513dce596",
+  "pages": 10,
+  "text_A4_pages": 7,
+  "landscape_A3_drawing_pages": 3,
+  "visual_pages_reviewed": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "source_components": 112,
+  "normal_luminaires": 92,
+  "power_points": 13,
+  "passive_controls": 7,
+  "final_circuits": 15,
+  "missing_or_duplicate_assignments": 0,
+  "DB_schematic_snapshot_matches_current_schedule": true,
+  "native_control_draw_evidence": "lighting_control_cad_map.json",
+  "scope": "Working submission; normal lighting/power PDF review and final live CAD reopen/source-hash gates remain; group details pending"
+}
