@@ -1,0 +1,3 @@
+case,zone_1_kVA,zone_2_kVA,current_each_380V_A,transformer_kVA_each,required_load_shed_one_transformer_kVA,status
+baseline_equal_split,1214.65,1214.65,1845.5,1500,929.3,"scenario only; zone boundaries and 1500 kVA CLP availability unverified"
+conditional_COP215_1_1,1336.115,1336.115,2030.0,1500,1172.23,"scenario only; 1.1 applicability and ability to transfer loads unverified"
