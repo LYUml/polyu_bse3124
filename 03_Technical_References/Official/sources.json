@@ -1,0 +1,52 @@
+[
+  {
+    "file": "EMSD_COP_2025_EN.pdf",
+    "url": "https://www.emsd.gov.hk/filemanager/en/content_443/COP_E_2025.pdf",
+    "title": "EMSD wiring CoP 2025",
+    "retrieved_date": "2026-11-07",
+    "status": "downloaded",
+    "bytes": 10581124,
+    "sha256": "d69ae0c53972cc583de64b8e83ca7428460419b7f06ffa2f4f3db79e7b165c3b"
+  },
+  {
+    "file": "CLP_COP101_v16_text.pdf",
+    "url": "https://www.clp.com.hk/content/dam/clphk/documents/customer-service-site/open-and-close-account-site/cop-101-distribution-substation-design-site/Cop101%20version%2016%20document.pdf",
+    "title": "CLP COP101 v16 text",
+    "retrieved_date": "2026-11-07",
+    "status": "failed",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "file": "CLP_COP101_v16_drawings.pdf",
+    "url": "https://www.clp.com.hk/content/dam/clphk/documents/customer-service-site/open-and-close-account-site/cop-101-distribution-substation-design-site/COP%20101%20version%2016%20drawings.pdf",
+    "title": "CLP COP101 v16 drawings",
+    "retrieved_date": "2026-11-07",
+    "status": "failed",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "file": "EMSD_BEC_2024_EN.pdf",
+    "url": "https://www.emsd.gov.hk/beeo/en/pee/BEC_2024_ENG.pdf",
+    "title": "EMSD BEC 2024",
+    "retrieved_date": "2026-11-07",
+    "status": "downloaded",
+    "bytes": 5225501,
+    "sha256": "9fae5eb2134caa7f5645735d618d82da0cf3f284e576a9f6402de9b8357f95b7"
+  },
+  {
+    "file": "CLP_Supply_Rules_Aug2026.pdf",
+    "url": "https://www.clp.com.hk/content/dam/clphk/documents/customer-service-site/open-and-close-account-site/supply-rules-site/supplyrules_eng_aug26_R3.pdf",
+    "title": "CLP Supply Rules linked by official index",
+    "retrieved_date": "2026-11-07",
+    "status": "failed",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "file": "CLP_Metering_Guide_v10.pdf",
+    "url": "https://www.clp.com.hk/content/dam/clphk/documents/customer-service-site/open-and-close-account-site/meter-installation-guideline-site/GuideToSupply_(V10)_Eng_Final.pdf",
+    "title": "CLP metering guide v10",
+    "retrieved_date": "2026-11-07",
+    "status": "failed",
+    "error": "HTTP Error 403: Forbidden"
+  }
+]

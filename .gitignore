@@ -1,0 +1,7 @@
+.venv/
+05_Tools/autocad-mcp/
+__pycache__/
+*.pyc
+*.dwl
+*.dwl2
+.DS_Store
