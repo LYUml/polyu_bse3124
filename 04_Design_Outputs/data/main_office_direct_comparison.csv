@@ -1,0 +1,7 @@
+main_lamp_W,NE_lamp_W,height_above_workplane_m,approx_area_m2,power_W,LPD_W_m2,mean_direct_lux,minimum_direct_lux,min_x_mm,min_y_mm,min_mean,status
+22,28,1.7,231.871,1558,6.719,599.3,75.9,64673.0,16253.5,0.127,conditional approximate connected-region screen; boundary reflections obstructions and target criteria unverified
+22,28,1.9,231.871,1558,6.719,585.7,87.7,64673.0,16253.5,0.15,conditional approximate connected-region screen; boundary reflections obstructions and target criteria unverified
+22,28,2.2,231.871,1558,6.719,566.2,102.1,64673.0,16253.5,0.18,conditional approximate connected-region screen; boundary reflections obstructions and target criteria unverified
+28,28,1.7,231.871,1876,8.091,715.4,94.9,64673.0,16253.5,0.133,conditional approximate connected-region screen; boundary reflections obstructions and target criteria unverified
+28,28,1.9,231.871,1876,8.091,699.7,109.5,64673.0,16253.5,0.156,conditional approximate connected-region screen; boundary reflections obstructions and target criteria unverified
+28,28,2.2,231.871,1876,8.091,676.9,127.5,64673.0,16253.5,0.188,conditional approximate connected-region screen; boundary reflections obstructions and target criteria unverified
