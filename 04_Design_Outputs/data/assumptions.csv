@@ -1,1 +1,5 @@
 assumption_id,subject,value,unit,basis,status
+AS01,Number of identical typical floors,10,floors,Assignment statement,adopted
+AS02,Use drawing office areas as UFA provisionally,yes,,Drawing annotations 6EFD 6F00 6F03,boundary verification required
+AS03,Air conditioning reference system,packaged air cooled,,COP215 Rev07 Appendix 7,provisional
+AS04,Air conditioning power factor,0.90,,Design assumption,provisional
