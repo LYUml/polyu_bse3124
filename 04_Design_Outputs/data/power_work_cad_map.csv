@@ -1,0 +1,14 @@
+device_id,circuit,x_mm,y_mm,symbol_handle,label_handle,status
+FB01,P1,68000,-21350,797A,797B,working location symbols; legend routes and placement checks pending
+FB02,P1,69500,-23200,797C,797D,working location symbols; legend routes and placement checks pending
+FB03,P2,68000,-26650,797E,797F,working location symbols; legend routes and placement checks pending
+FB04,P2,69100,-26600,7980,7981,working location symbols; legend routes and placement checks pending
+FB05,P3,66114.1,-30431.7,7982,7983,working location symbols; legend routes and placement checks pending
+FB06,P3,71600,-30500,7984,7985,working location symbols; legend routes and placement checks pending
+FB07,P4,73800,-26500,7986,7987,working location symbols; legend routes and placement checks pending
+FB08,P4,79200,-26300,7988,7989,working location symbols; legend routes and placement checks pending
+FB09,P6,70000,-15100,798A,798B,working location symbols; legend routes and placement checks pending
+SO01,P6,64525.932,-14500,798C,798D,working location symbols; legend routes and placement checks pending
+SO02,P5,77500,-12782.416,798E,798F,working location symbols; legend routes and placement checks pending
+SO03,P6,65000,-12782.416,7990,7991,working location symbols; legend routes and placement checks pending
+FS01,P7,67000,-12782.416,7992,7993,working location symbols; legend routes and placement checks pending
