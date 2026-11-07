@@ -1,7 +1,7 @@
-section_id,function,width_assumed_mm,depth_reference_mm,height_reference_mm,source,status
-LV-A-IN,Zone A incomer ACB compartment,1140,1010,2185,course ABB MD190 PDF p2; width is six190mm modules design allowance,planning envelope; actual ACB rating dimensions and fault duty pending
-LV-A-OUT1,Zone A tenant feeders,1140,1010,2185,same,planning compartment count; actual feeder schedule pending
-LV-A-OUT2,Zone A central plant and public feeders,1140,1010,2185,same,planning compartment count; actual feeder schedule pending
-LV-B-IN,Zone B incomer ACB compartment,1140,1010,2185,same,planning envelope; actual ACB rating dimensions and fault duty pending
-LV-B-OUT1,Zone B tenant feeders,1140,1010,2185,same,planning compartment count; actual feeder schedule pending
-LV-B-OUT2,Zone B central plant and public feeders,1140,1010,2185,same,planning compartment count; actual feeder schedule pending
+section_id,function,width_assumed_mm,depth_reference_mm,height_reference_mm,source,status,x_min_mm,y_min_mm,x_max_mm,y_max_mm
+LV-A-IN,Zone A incomer ACB compartment,1140,1010,2185,course ABB MD190 PDF p2; width is six190mm modules design allowance,planning envelope; actual ACB rating dimensions and fault duty pending,10000,23055.584,11140,24065.584
+LV-A-OUT1,Zone A tenant feeders,1140,1010,2185,same,planning compartment count; actual feeder schedule pending,11140,23055.584,12280,24065.584
+LV-A-OUT2,Zone A central plant and public feeders,1140,1010,2185,same,planning compartment count; actual feeder schedule pending,12280,23055.584,13420,24065.584
+LV-B-IN,Zone B incomer ACB compartment,1140,1010,2185,same,planning envelope; actual ACB rating dimensions and fault duty pending,13420,23055.584,14560,24065.584
+LV-B-OUT1,Zone B tenant feeders,1140,1010,2185,same,planning compartment count; actual feeder schedule pending,14560,23055.584,15700,24065.584
+LV-B-OUT2,Zone B central plant and public feeders,1140,1010,2185,same,planning compartment count; actual feeder schedule pending,15700,23055.584,16840,24065.584
