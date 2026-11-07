@@ -1,4 +1,0 @@
-mounting_to_workplane_m,maintenance_factor,grid_points,mean_direct_lux,min_direct_lux,min_mean_direct_ratio,scope
-1.7,0.8,578,729.5,398.6,0.546,"direct point-source estimate only; assumptions, no interreflection or obstruction"
-1.9,0.8,578,694.4,368.0,0.53,"direct point-source estimate only; assumptions, no interreflection or obstruction"
-2.2,0.8,578,647.0,336.3,0.52,"direct point-source estimate only; assumptions, no interreflection or obstruction"

@@ -1,7 +1,0 @@
-﻿circuit,candidate_db_x_mm,candidate_db_y_mm,ordered_devices,horizontal_manhattan_loop_lower_bound_m,status
-P1,73000.0,-17889.9,FB01;FB02,20.62,hypothetical rectilinear ring lower bound; not measured cable length or verified topology
-P2,73000.0,-17889.9,FB03;FB04,27.52,hypothetical rectilinear ring lower bound; not measured cable length or verified topology
-P3,73000.0,-17889.9,FB05;FB06,38.99,hypothetical rectilinear ring lower bound; not measured cable length or verified topology
-P4,73000.0,-17889.9,FB07;FB08,30.02,hypothetical rectilinear ring lower bound; not measured cable length or verified topology
-P5,73000.0,-17889.9,SO02,19.21,hypothetical rectilinear ring lower bound; not measured cable length or verified topology
-P6,73000.0,-17889.9,FB09;FS01;SO03;SO01,27.16,hypothetical rectilinear ring lower bound; not measured cable length or verified topology

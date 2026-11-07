@@ -1,4 +1,0 @@
-phase,lighting_A,socket_capacity_sum_A,socket_diversified_A,fixed_reserved_A,diversified_total_A,undiversified_capacity_A,basis,status
-L1,3.444444,96.0,64.0,0,67.1,99.444444,EMSD2025 Table7(1) small offices lighting90% PDF66; Code6E circuits largest100%+others50% PDF68; P7 no diversity,Scenario only; actual appliance load and final circuit areas/topologies not established
-L2,3.959596,64.0,48.0,13.0,64.563636,80.959596,EMSD2025 Table7(1) small offices lighting90% PDF66; Code6E circuits largest100%+others50% PDF68; P7 no diversity,Scenario only; actual appliance load and final circuit areas/topologies not established
-L3,3.787879,64.0,48.0,0,51.409091,67.787879,EMSD2025 Table7(1) small offices lighting90% PDF66; Code6E circuits largest100%+others50% PDF68; P7 no diversity,Scenario only; actual appliance load and final circuit areas/topologies not established

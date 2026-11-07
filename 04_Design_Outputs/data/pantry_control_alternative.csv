@@ -1,3 +1,0 @@
-item,manufacturer_model,role,quantity,connected_load_W,source,status
-PIR-D2,Theben thePrema P360-101 E UP WH 2070105,alternative pantry master presence detector,1,0.1,https://www.theben.de/en/theprema-p360-101-e-up-wh-2070105,"PROVISIONAL: data sheet says 600 W LED >8W but linked older manual says 200 W; resolve product revision and lamp inrush before selection"
-S-D2,TBD,local momentary pushbutton to master control input S,1,,https://www.theben.de/ocsmedia/optimized/full/o6213v32%20thePrema%20P360-101%20E%20-%20Operating%20instructions.PDF,"PROVISIONAL: master supports independent S pushbutton and P master-slave link; verify connections and commissioning"

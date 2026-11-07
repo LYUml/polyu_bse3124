@@ -6,10 +6,8 @@ __pycache__/
 *.dwl2
 .DS_Store
 
-# Local scratch/recovery archive; previously versioned history is explicitly retained.
-/04_Design_Outputs/archive/2026-11-07/
-
-# Reproducible revision scratch files; durable gates and native audits live in data.
+# Regenerable build and review files
 /04_Design_Outputs/qa/
-/04_Design_Outputs/submission/latex_v04/build/
-/04_Design_Outputs/submission/latex_v04/texput.log
+/04_Design_Outputs/submission/source/build/
+/ErrorReports/
+/plot.log

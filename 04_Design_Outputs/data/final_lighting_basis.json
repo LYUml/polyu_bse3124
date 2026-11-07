@@ -82,7 +82,7 @@
   "maintenance_factor": 0.8,
   "grid_max_spacing_m": 0.2,
   "method": "E=sum(I(C,gamma)*cos(gamma)/d^2)*MF; LDT cd/klm scaled by actual flux. Separate zones receive only their own luminaires; approximate open-office connected geometry.",
-  "area_source": "main_office_direct_comparison.py; pantry_area_sensitivity.csv; lighting_room_rectangles_review.csv; south_east_area_review.csv",
+  "area_source": "Adopted rectangle coordinates recorded in final_lighting_basis.py and this file; pantry_area_sensitivity.csv; lighting_room_rectangles_review.csv; south_east_area_review.csv",
   "limitations": "Adopted planning geometry not independent survey. MF0.8 assumes periodic cleaning/replacement. No credit for reflected light. Mean target does not establish minimum illuminance, glare or uniformity. Task1 309m2 is a different provisional UFA basis.",
   "results": [
     {

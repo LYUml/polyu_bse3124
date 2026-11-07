@@ -1,9 +1,0 @@
-﻿candidate_group,number_of_luminaires,total_W,estimated_steady_current_A_230V_PF09,protection,status
-LC-A,18,405.0,1.957,NOT SELECTED,SUPERSEDED: see devices.csv and circuits.csv; LED68 provisionally moved to LC-C
-LC-B,17,382.5,1.848,NOT SELECTED,SUPERSEDED: see devices.csv and circuits.csv; LED68 provisionally moved to LC-C
-LC-C,17,382.5,1.848,NOT SELECTED,SUPERSEDED: see devices.csv and circuits.csv; LED68 provisionally moved to LC-C
-LC-D,9,202.5,0.978,NOT SELECTED,SUPERSEDED: see devices.csv and circuits.csv; LED68 provisionally moved to LC-C
-LC-E,15,337.5,1.63,NOT SELECTED,SUPERSEDED: see devices.csv and circuits.csv; LED68 provisionally moved to LC-C
-LC-F,10,225.0,1.087,NOT SELECTED,SUPERSEDED: see devices.csv and circuits.csv; LED68 provisionally moved to LC-C
-LC-G,4,90.0,0.435,NOT SELECTED,SUPERSEDED: see devices.csv and circuits.csv; LED68 provisionally moved to LC-C
-UNALLOCATED,1,22.5,0.109,NOT SELECTED,SUPERSEDED: see devices.csv and circuits.csv; LED68 provisionally moved to LC-C

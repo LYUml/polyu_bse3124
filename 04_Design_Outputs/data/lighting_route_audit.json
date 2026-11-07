@@ -1,6 +1,0 @@
-{
-  "device_endpoints": 92,
-  "orthogonal_segments": 116,
-  "native_DWG_polyline_lengths_match": true,
-  "scope": "Route geometry and assignments only; not final installation/fault/print acceptance"
-}

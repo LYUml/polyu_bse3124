@@ -4,7 +4,7 @@ from pathlib import Path
 import numpy as np
 R=Path(__file__).resolve().parents[2];D=R/"04_Design_Outputs/data"
 I=json.loads((D/"power_route_design_inputs.json").read_text());db=I["DB_xy_mm"];x,y=db
-points={r["device_id"]:[float(r["x_mm"]),float(r["y_mm"])] for r in csv.DictReader((D/"power_proposal_v5.csv").open())}
+points={r["device_id"]:[float(r["x_mm"]),float(r["y_mm"])] for r in csv.DictReader((D/"power_points.csv").open())}
 routes={
 "P1":[db,[66000,y],[66000,-21350],points["FB01"],[68000,-23200],points["FB02"],[72000,-23200],[72000,y],db],
 "P2":[db,[66000,y],[66000,-26650],points["FB03"],[69100,-26650],points["FB04"],[72000,-26600],[72000,y],db],

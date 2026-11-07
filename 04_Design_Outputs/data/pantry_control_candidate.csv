@@ -1,3 +1,0 @@
-item,manufacturer_model,role,quantity,connected_load_W,source,status
-PIR-D1,Theben LUXA 103 S360-101-12 AP WH 1030063,pantry occupancy and light switching candidate,1,0.5,https://www.theben.de/product/1030063/datasheet,PROVISIONAL: 195.5-253 V manual range; B/C 10 A upstream required; S/P parallel or pushbutton exclusive; inrush and coverage unverified
-S-D1,TBD,pantry momentary pushbutton to presence detector input,1,,manufacturer wiring manual required,PROVISIONAL: S/P pushbutton use conflicts with parallel extension at master; alternate manual control concept required

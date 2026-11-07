@@ -1,6 +1,0 @@
-circuit_id,unresolved_devices,existing_W,existing_lm,PIL22_candidate_W,PIL22_candidate_lm,PIL28_candidate_W,PIL28_candidate_lm,status
-LC-A,18,405.0,64800,396,51182.1,504,63995.4,comparison only; no substitution adopted; verify room LPD and illuminance before change
-LC-B,17,382.5,61200,374,48338.65,476,60440.1,comparison only; no substitution adopted; verify room LPD and illuminance before change
-LC-C,18,405.0,64800,396,51182.1,504,63995.4,comparison only; no substitution adopted; verify room LPD and illuminance before change
-LC-F,10,225.0,36000,220,28434.5,280,35553.0,comparison only; no substitution adopted; verify room LPD and illuminance before change
-LC-G,4,90.0,14400,88,11373.8,112,14221.2,comparison only; no substitution adopted; verify room LPD and illuminance before change

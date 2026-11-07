@@ -1,8 +1,0 @@
-circuit_id,candidate_curve,candidate_In_A,reference_Zs_limit_ohm,Ze_ohm,R1_R2_at_design_temperature_ohm,reactance_ohm,actual_device_curve_source,source,status
-LC-A,B,10,4.17,,,,,EMSD2025 Table11(10) printed105 PDF106;220V; manufacturer data required,NOT VERIFIED: external loop impedance conductor/CPC route and manufacturer curve missing
-LC-B,B,10,4.17,,,,,EMSD2025 Table11(10) printed105 PDF106;220V; manufacturer data required,NOT VERIFIED: external loop impedance conductor/CPC route and manufacturer curve missing
-LC-C,B,10,4.17,,,,,EMSD2025 Table11(10) printed105 PDF106;220V; manufacturer data required,NOT VERIFIED: external loop impedance conductor/CPC route and manufacturer curve missing
-LC-D,B,10,4.17,,,,,EMSD2025 Table11(10) printed105 PDF106;220V; manufacturer data required,NOT VERIFIED: external loop impedance conductor/CPC route and manufacturer curve missing
-LC-E,B,10,4.17,,,,,EMSD2025 Table11(10) printed105 PDF106;220V; manufacturer data required,NOT VERIFIED: external loop impedance conductor/CPC route and manufacturer curve missing
-LC-F,B,10,4.17,,,,,EMSD2025 Table11(10) printed105 PDF106;220V; manufacturer data required,NOT VERIFIED: external loop impedance conductor/CPC route and manufacturer curve missing
-LC-G,B,10,4.17,,,,,EMSD2025 Table11(10) printed105 PDF106;220V; manufacturer data required,NOT VERIFIED: external loop impedance conductor/CPC route and manufacturer curve missing

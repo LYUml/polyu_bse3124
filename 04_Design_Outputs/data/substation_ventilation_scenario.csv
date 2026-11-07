@@ -1,2 +1,0 @@
-scenario,transformers_assumed,capacity_each_kVA,installed_capacity_kVA,inlet_effective_area_min_m2,fan_count_conditional,fan_diameter_mm_conditional,duct_area_m2_per_fan_conditional,duct_max_length_m_conditional,basis,status
-2x1500_preliminary,2,1500,3000,1.12,2,630,0.65,9,"COP101 v16 section 6.3-6.4 PDF p25","scenario only: transformer rating unconfirmed; fan rule assumes approx 15 kW heat per transformer; CLP review required"

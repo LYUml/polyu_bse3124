@@ -20,7 +20,7 @@ for cid in ["LC-"+c for c in "ABCDEFG"]:
   local.append(dict(circuit_id=cid,segment=len(local)+1,to_node=node,x1=previous[0],y1=previous[1],x2=end[0],y2=end[1],plan_length_m=round(L,9),downstream_W=remaining,current_A=round(A,9),drop_V=round(I["table_drop_mV_A_m"]*A*L/1000,9)))
   drop+=I["table_drop_mV_A_m"]*A*L/1000;length+=L;previous=end
  if cid=="LC-D":
-  old=list(csv.DictReader((D/"LC-D_route_proposal.csv").open(encoding="utf8")))
+  old=list(csv.DictReader((D/"pantry_route_basis.csv").open(encoding="utf8")))
   for r in old:
    assert math.dist(previous,(float(r["x1"]),float(r["y1"])))<.001
    end=(float(r["x2"]),float(r["y2"]));node=r["to_node"]

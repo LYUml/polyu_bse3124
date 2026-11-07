@@ -1,4 +1,0 @@
-﻿sample_device,cad_label,candidate_circuit,cad_geometry_handles,cad_label_handle,status
-PN01,D-01,LC-D,76EA;76EB,7736,sample mapped to provisional LC-D in devices.csv; not an additional light
-PN02,D-02,LC-D,76ED;76EE,7737,sample mapped to provisional LC-D in devices.csv; not an additional light
-PN03,D-03,LC-D,76F0;76F1,7738,sample mapped to provisional LC-D in devices.csv; not an additional light

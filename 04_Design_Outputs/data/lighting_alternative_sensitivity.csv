@@ -1,6 +1,0 @@
-﻿zone,area_approx_m2,old_candidate_count,philips_22_5W_3600lm_lpd,alternate_28W_3555lm_lpd,alternate_lux_UF060_MF080,status
-north_west,29.54,9,6.86,8.53,520,"sensitivity only; geometries and group counts are legacy, not final v5; middle_east invalid separate room"
-north_east,46.48,15,7.26,9.04,551,"sensitivity only; geometries and group counts are legacy, not final v5; middle_east invalid separate room"
-south_east,14.04,5,8.01,9.97,608,"sensitivity only; geometries and group counts are legacy, not final v5; middle_east invalid separate room"
-middle_east,22.02,6,6.13,7.63,465,"sensitivity only; geometries and group counts are legacy, not final v5; middle_east invalid separate room"
-upper_east,33.68,14,9.35,11.64,709,"sensitivity only; geometries and group counts are legacy, not final v5; middle_east invalid separate room"

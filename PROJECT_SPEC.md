@@ -4,23 +4,21 @@
 
 ## 当前执行优先级
 
-交付格式更新：按用户偏好，技术答案采用可编辑LaTeX源码与编译PDF，保留官方答题纸封面和Task1–3结构；原DOCX不改动。MiKTeX已独立安装于本机用户目录，工作区只存作业源码、数据与图纸，不存TeX发行版环境。当前正文入口为04_Design_Outputs/submission/latex_v04/main.tex，重建入口为同目录build.ps1。
+最终文件只有04_Design_Outputs/submission/BSE3124_Final.pdf和04_Design_Outputs/cad/BSE3124_Final.dwg。可编辑答案位于submission/source，入口main.tex，编译build.ps1。按用户要求以Task1、Task2、Task3为连续部分，各任务图纸紧随答案。过程版本与临时文件已清理；历史通过Git恢复。校核记录为submission/VALIDATION.md、data/final_manifest.json和data/native_final_gate.json。
 
-执行策略更新：按课程作业深度完成三项原题、原答题纸版本副本和统一图纸，不将所有现场/厂家未知项扩展为实际采购或供电审批的前置任务。允许明确、可复核的课程设计假设；关键未知参数须转化为设计条件、适用边界或有依据的保守选型，不得冒充实测或厂家数据。每轮优先形成数据→计算→图纸/答案→必要检查的实质性交付闭环。已通过的检查仅在相关输入改变时重做。额外产品研究只用于会改变最终设计的关键校核。优先补齐完整MCB符号、N/PE及保护、控制/应急的课程范围说明和原答题纸，不以候选清单或局部草图替代最终成果。验收保留原题完整范围；真实工程协调条件作为答案边界列明。
-
-按用户调整，先形成Task 1完整答案和首层布置，再统一Task 2图纸与设备/回路表，完成Task 3进线及全部出线计算，最后填写答题纸并验收。保留既有目标和未完成状态。茶水间样板已完成；传感器产品比较、云族、额外插件及专项光度模拟仅在解决最终设计关键问题时继续，不作为额外交付前置条件。主要设计假设集中登记，候选与采用方案明确区分。
+保持课程作业深度：未知现场/厂家参数须明确为假设、性能要求或适用条件，不宣称实测或认证。保留统一数据和可复核计算。
 
 ## 项目目标与边界
 
 交付建筑全栋负荷估算、首层变压器房及主低压开关房布置，以及一个办公室的照明、动力、MCB 图、进出线最大需求电流和电缆选择。建筑为10个标准层加首层，每标准层三个租户。所选租户采用Office 1。
 
-2026-11-08复审修订：当前答案v04、DWG v02，入口为04_Design_Outputs/submission/README.md，条件化验收和修订证据见REVISION_V04.md。原v03全部通过表述已被复审限定。现场/厂家条件仍按答案明确假设，不宣称现场认证。1000 kW 是题目给定的冷负荷；电力负荷需要系统COP及相应功率因数依据。未量取的面积、设备功率、电缆路径和规范条文不能作为已知值填入答案。
+2026-11-08复审修订：当前使用唯一Final答案和DWG，入口为04_Design_Outputs/submission/README.md，条件化验收和修订证据见VALIDATION.md。原v03全部通过表述已被复审限定。现场/厂家条件仍按答案明确假设，不宣称现场认证。1000 kW 是题目给定的冷负荷；电力负荷需要系统COP及相应功率因数依据。未量取的面积、设备功率、电缆路径和规范条文不能作为已知值填入答案。
 
 ## 已配置与验证边界
 
 | 项目 | 配置 | 验证与限制 |
 |---|---|---|
-| AutoCAD | 本机 Windows AutoCAD 2027 | 当前工作副本assignment_working_v02.dwg；交付副本assignment_submission_v01.dwg已由AutoCAD2027 Core Console原生复开，863个登记对象无缺失；五张交付图已逐页目检。原互动会话随后已安全关闭；v02由Core Console独立复开核验940对象和六布局 |
+| AutoCAD | 本机 Windows AutoCAD 2027 | 当前工作副本BSE3124_Final.dwg；交付副本BSE3124_Final.dwg已由AutoCAD2027 Core Console原生复开，940个登记对象无缺失；六张交付图已逐页目检。原互动会话随后已安全关闭；v02由Core Console独立复开核验940对象和六布局 |
 | LaTeX | 本机用户目录MiKTeX，XeLaTeX/pdfLaTeX/texify | 已实测中英文、数学、表格与交叉引用；作业答案原生编译并逐页目检 |
 | Python | 项目 `.venv`，Python 3.12 | 包依赖检查通过；从本机Codex附带Python建立，迁移电脑须重建环境 |
 | AutoCAD MCP | U-C4N/Autocad-MCP，1.8.0，提交 `6f6a538255ca9f885232e845ac32f10b4433fe3e` | 源码在 `05_Tools/autocad-mcp`；安装 COM、DXF 和PDF渲染依赖；stdio初始化、工具列表和system_about查询实测通过 |
@@ -33,7 +31,7 @@
 
 ## 数据与文件声明
 
-- `01_Assignment`、`02_Building_Drawings` 内原件不改动。CAD设计使用 `04_Design_Outputs/cad/Building_Layouts_working_v01.dwg` 副本。
+- `01_Assignment`、`02_Building_Drawings` 内原件不改动。CAD设计使用 `04_Design_Outputs/cad/BSE3124_Final.dwg` 副本。
 - `04_Design_Outputs/data/areas.csv` 保存测量面积、边界、单位和证据。
 - `devices.csv` 保存设备ID、楼层、办公室、坐标、功率、功率因数、回路和来源。
 - `circuits.csv` 保存DB、相别、设备关联、需求依据、设计电流、保护、电缆、路径长度、敷设方法和来源。

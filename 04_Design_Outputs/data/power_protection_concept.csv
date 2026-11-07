@@ -1,9 +1,0 @@
-circuit_id,floor_box_ids,wall_socket_ids,fixed_connection_ids,candidate_arrangement,proposed_fault_protection,floor_box_spur_limit,status
-P1,FB01;FB02,,,A1 ring + individually13A fused points,30 mA RCD/RCBO candidate,"max 13 A per box, subject to FCU and cable verification",Working topology and capacity; full fault/terminal/fuse and upstream checks pending
-P2,FB03;FB04,,,A1 ring + individually13A fused points,30 mA RCD/RCBO candidate,"max 13 A per box, subject to FCU and cable verification",Working topology and capacity; full fault/terminal/fuse and upstream checks pending
-P3,FB05;FB06,,,A1 ring + individually13A fused points,30 mA RCD/RCBO candidate,"max 13 A per box, subject to FCU and cable verification",Working topology and capacity; full fault/terminal/fuse and upstream checks pending
-P4,FB07;FB08,,,A1 ring + individually13A fused points,30 mA RCD/RCBO candidate,"max 13 A per box, subject to FCU and cable verification",Working topology and capacity; full fault/terminal/fuse and upstream checks pending
-P5,,SO02,,A2 radial + individually13A fused points,30 mA RCD/RCBO candidate,,Working topology and capacity; full fault/terminal/fuse and upstream checks pending
-P6,FB09,SO01,,A2 radial + individually13A fused points,30 mA RCD/RCBO candidate,"max 13 A per box, subject to FCU and cable verification",Working topology and capacity; full fault/terminal/fuse and upstream checks pending; pantry FB09/SO01; previous non-kitchen classification corrected
-P7,,,FS01,dedicated fixed radial +13A FCU,determine from equipment and fault protection requirements,,Working topology and capacity; full fault/terminal/fuse and upstream checks pending
-P8,,SO03,,A2 radial + individually13A fused points,30 mA RCBO candidate,,Working topology and capacity; full fault/terminal/fuse and upstream checks pending

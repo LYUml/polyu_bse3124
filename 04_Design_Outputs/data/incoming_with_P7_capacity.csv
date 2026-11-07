@@ -1,4 +1,0 @@
-phase,prior_conditional_subtotal_A,P7_design_capacity_allowance_A,reservation_current_A,basis,status
-L1,51.100,13,64.1,"13A maximum FCU branch capacity reserved on L1, not measured appliance load; no diversity on this allowance",capacity scenario only; P1-P6 standard circuit eligibility and actual fixed load unresolved
-L2,51.564,0,51.564,"13A maximum FCU branch capacity reserved on L1, not measured appliance load; no diversity on this allowance",capacity scenario only; P1-P6 standard circuit eligibility and actual fixed load unresolved
-L3,51.409,0,51.409,"13A maximum FCU branch capacity reserved on L1, not measured appliance load; no diversity on this allowance",capacity scenario only; P1-P6 standard circuit eligibility and actual fixed load unresolved

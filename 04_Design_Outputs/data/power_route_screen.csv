@@ -1,7 +1,0 @@
-﻿circuit,candidate_db_x_mm,candidate_db_y_mm,ordered_devices,horizontal_manhattan_loop_lower_bound_m,status
-P1,73000.0,-17789.9,FB01;FB02,20.82,"not route or cable length; no wall avoidance, vertical offsets, spurs or installation allowance"
-P2,73000.0,-17789.9,FB03;FB04,27.72,"not route or cable length; no wall avoidance, vertical offsets, spurs or installation allowance"
-P3,73000.0,-17789.9,FB05;FB06,39.19,"not route or cable length; no wall avoidance, vertical offsets, spurs or installation allowance"
-P4,73000.0,-17789.9,FB07;FB08,30.22,"not route or cable length; no wall avoidance, vertical offsets, spurs or installation allowance"
-P5,73000.0,-17789.9,SO02,18.98,"not route or cable length; no wall avoidance, vertical offsets, spurs or installation allowance"
-P6,73000.0,-17789.9,FB09;SO01;SO03;FS01,26.18,"not route or cable length; no wall avoidance, vertical offsets, spurs or installation allowance"
