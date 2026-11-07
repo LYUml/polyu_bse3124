@@ -1,8 +1,8 @@
-﻿device_candidate,x_mm,y_mm,grid_handle,nearest_arch_handle,nearest_arch_center_mm,product,power_W,luminaire_lm,status
+device_candidate,x_mm,y_mm,grid_handle,nearest_arch_handle,nearest_arch_center_mm,product,power_W,luminaire_lm,status
 PN01,65425.932,32095.584,5989,5128,507.5,PIL 3117955 PLATO 600 MP 22W setting,22,2843,"DRAFT: grid and wall line screen only; photometry, controls, blocks and voltage-drop unverified"
 PN02,66625.932,32095.584,5939,5128,507.5,PIL 3117955 PLATO 600 MP 22W setting,22,2843,"DRAFT: grid and wall line screen only; photometry, controls, blocks and voltage-drop unverified"
 PN03,68425.932,32095.584,58C1,5128,507.5,PIL 3117955 PLATO 600 MP 22W setting,22,2843,"DRAFT: grid and wall line screen only; photometry, controls, blocks and voltage-drop unverified"
-PN04,69625.932,32095.584,5871,5128,529.4,PIL 3117955 PLATO 600 MP 22W setting,22,2843,"DRAFT: grid and wall line screen only; photometry, controls, blocks and voltage-drop unverified"
+PN04,69625.932,32695.584,5870,512D,718.4,PIL 3117955 PLATO 600 MP 22W setting,22,2843,"DRAFT: grid and wall line screen only; photometry, controls, blocks and voltage-drop unverified"
 PN05,66025.932,33895.584,595E,3E3C,1500.0,PIL 3117955 PLATO 600 MP 22W setting,22,2843,"DRAFT: grid and wall line screen only; photometry, controls, blocks and voltage-drop unverified"
 PN06,67825.932,33895.584,58E6,5128,2307.5,PIL 3117955 PLATO 600 MP 22W setting,22,2843,"DRAFT: grid and wall line screen only; photometry, controls, blocks and voltage-drop unverified"
 PN07,69625.932,33895.584,586E,512B,800.0,PIL 3117955 PLATO 600 MP 22W setting,22,2843,"DRAFT: grid and wall line screen only; photometry, controls, blocks and voltage-drop unverified"

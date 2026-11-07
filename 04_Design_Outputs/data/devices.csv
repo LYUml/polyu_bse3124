@@ -1,4 +1,4 @@
-﻿device_id,type,floor,office,x,y,coordinate_unit,power_W,power_factor,circuit_id,source_or_assumption
+device_id,type,floor,office,x,y,coordinate_unit,power_W,power_factor,circuit_id,source_or_assumption
 LED01,LED panel (candidate),typical,Office 1,66308.432,17095.584,mm; lighting plan,22.5,0.90,LC-A,PROVISIONAL: RC132V G6 36S/UE840 PSU W60L60 OC; 911401800187; layout and controls unverified
 LED02,LED panel (candidate),typical,Office 1,68108.432,17095.584,mm; lighting plan,22.5,0.90,LC-A,PROVISIONAL: RC132V G6 36S/UE840 PSU W60L60 OC; 911401800187; layout and controls unverified
 LED03,LED panel (candidate),typical,Office 1,69908.432,17095.584,mm; lighting plan,22.5,0.90,LC-A,PROVISIONAL: RC132V G6 36S/UE840 PSU W60L60 OC; 911401800187; layout and controls unverified
@@ -97,7 +97,7 @@ FS01,13A fused spur,typical,Office 1,67000,-12782.416,mm; power plan,,,P6,"PROVI
 PN01,LED panel (candidate),typical,Office 1,65425.932,32095.584,mm; lighting plan,22,0.90,LC-D,"PROVISIONAL: PIL 3117955 22W/2843lm; PF >0.9 treated as 0.90; installation, lighting and voltage drop pending"
 PN02,LED panel (candidate),typical,Office 1,66625.932,32095.584,mm; lighting plan,22,0.90,LC-D,"PROVISIONAL: PIL 3117955 22W/2843lm; PF >0.9 treated as 0.90; installation, lighting and voltage drop pending"
 PN03,LED panel (candidate),typical,Office 1,68425.932,32095.584,mm; lighting plan,22,0.90,LC-D,"PROVISIONAL: PIL 3117955 22W/2843lm; PF >0.9 treated as 0.90; installation, lighting and voltage drop pending"
-PN04,LED panel (candidate),typical,Office 1,69625.932,32095.584,mm; lighting plan,22,0.90,LC-D,"PROVISIONAL: PIL 3117955 22W/2843lm; PF >0.9 treated as 0.90; installation, lighting and voltage drop pending"
+PN04,LED panel (candidate),typical,Office 1,69625.932,32695.584,mm; lighting plan,22,0.90,LC-D,"PROVISIONAL: PIL 3117955 22W/2843lm; PF >0.9 treated as 0.90; installation, lighting and voltage drop pending"
 PN05,LED panel (candidate),typical,Office 1,66025.932,33895.584,mm; lighting plan,22,0.90,LC-D,"PROVISIONAL: PIL 3117955 22W/2843lm; PF >0.9 treated as 0.90; installation, lighting and voltage drop pending"
 PN06,LED panel (candidate),typical,Office 1,67825.932,33895.584,mm; lighting plan,22,0.90,LC-D,"PROVISIONAL: PIL 3117955 22W/2843lm; PF >0.9 treated as 0.90; installation, lighting and voltage drop pending"
 PN07,LED panel (candidate),typical,Office 1,69625.932,33895.584,mm; lighting plan,22,0.90,LC-D,"PROVISIONAL: PIL 3117955 22W/2843lm; PF >0.9 treated as 0.90; installation, lighting and voltage drop pending"
