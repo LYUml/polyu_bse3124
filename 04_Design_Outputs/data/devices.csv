@@ -92,7 +92,7 @@ FB09,floor box 4x13A,typical,Office 1,70000,-15100,mm; power plan,,,P6,PROVISION
 SO01,13A twin socket,typical,Office 1,64525.932,-14500,mm; power plan,,,P6,"PROVISIONAL: power_proposal_v4.csv; wall line only, mounting, appliance and circuit unverified"
 SO02,13A twin socket,typical,Office 1,77500,-12782.416,mm; power plan,,,P5,"PROVISIONAL: power_proposal_v4.csv; wall line only, mounting, appliance and circuit unverified"
 SO03,13A twin socket,typical,Office 1,65000,-12782.416,mm; power plan,,,P6,"PROVISIONAL: power_proposal_v4.csv; wall line only, mounting, appliance and circuit unverified"
-FS01,13A fused spur,typical,Office 1,67000,-12782.416,mm; power plan,,,P6,"PROVISIONAL: power_proposal_v4.csv; wall line only, mounting, appliance and circuit unverified"
+FS01,13A fused spur,typical,Office 1,67000,-12782.416,mm; power plan,,,P7,"PROVISIONAL: power_proposal_v4.csv; wall line only, mounting, appliance and circuit unverified; dedicated P7 reserved; appliance identity and rating TBD"
 PN01,LED panel (candidate),typical,Office 1,65425.932,32095.584,mm; lighting plan,22,0.90,LC-D,"PROVISIONAL: PIL 3117955 22W/2843lm; PF >0.9 treated as 0.90; installation, lighting and voltage drop pending"
 PN02,LED panel (candidate),typical,Office 1,66625.932,32095.584,mm; lighting plan,22,0.90,LC-D,"PROVISIONAL: PIL 3117955 22W/2843lm; PF >0.9 treated as 0.90; installation, lighting and voltage drop pending"
 PN03,LED panel (candidate),typical,Office 1,68425.932,32095.584,mm; lighting plan,22,0.90,LC-D,"PROVISIONAL: PIL 3117955 22W/2843lm; PF >0.9 treated as 0.90; installation, lighting and voltage drop pending"

@@ -1,7 +1,8 @@
-﻿circuit_id,floor_box_ids,wall_socket_ids,fixed_connection_ids,candidate_arrangement,proposed_fault_protection,floor_box_spur_limit,status
+circuit_id,floor_box_ids,wall_socket_ids,fixed_connection_ids,candidate_arrangement,proposed_fault_protection,floor_box_spur_limit,status
 P1,FB01;FB02,,,A1 ring with individually fused floor-box spurs,30 mA RCD/RCBO candidate,"max 13 A per box, subject to FCU and cable verification","DRAFT: area, topology, rating, loading, wiring, earth fault and FS01 identity pending"
 P2,FB03;FB04,,,A1 ring with individually fused floor-box spurs,30 mA RCD/RCBO candidate,"max 13 A per box, subject to FCU and cable verification","DRAFT: area, topology, rating, loading, wiring, earth fault and FS01 identity pending"
 P3,FB05;FB06,,,A1 ring with individually fused floor-box spurs,30 mA RCD/RCBO candidate,"max 13 A per box, subject to FCU and cable verification","DRAFT: area, topology, rating, loading, wiring, earth fault and FS01 identity pending"
 P4,FB07;FB08,,,A1 ring with individually fused floor-box spurs,30 mA RCD/RCBO candidate,"max 13 A per box, subject to FCU and cable verification","DRAFT: area, topology, rating, loading, wiring, earth fault and FS01 identity pending"
 P5,,SO02,,radial or ring not selected,30 mA RCD/RCBO candidate,,"DRAFT: area, topology, rating, loading, wiring, earth fault and FS01 identity pending"
-P6,FB09,SO01;SO03,FS01,A1 ring with individually fused floor-box spurs,30 mA RCD/RCBO candidate,"max 13 A per box, subject to FCU and cable verification","DRAFT: area, topology, rating, loading, wiring, earth fault and FS01 identity pending"
+P6,FB09,SO01;SO03,,A1 ring with individually fused floor-box spurs,30 mA RCD/RCBO candidate,"max 13 A per box, subject to FCU and cable verification",DRAFT: pantry socket group only; FS01 moved to dedicated P7; area topology cable and loading pending
+P7,,,FS01,dedicated fixed-appliance radial pending product,determine from equipment and fault protection requirements,,appliance identity rating protective device cable and demand TBD; not zero
