@@ -1,0 +1,6 @@
+﻿zone,area_approx_m2,candidate_count,power_W,lpd_W_m2_approx,mean_lux_UF060_MF080_approx,status
+north_west,29.54,9,202.5,6.86,526,"sensitivity only; area, UF, MF and room boundaries unverified"
+north_east,46.48,15,337.5,7.26,558,"sensitivity only; area, UF, MF and room boundaries unverified"
+south_east,14.04,5,112.5,8.01,615,"sensitivity only; area, UF, MF and room boundaries unverified"
+middle_east,22.02,6,135.0,6.13,471,"sensitivity only; area, UF, MF and room boundaries unverified"
+upper_east,33.68,14,315.0,9.35,718,"sensitivity only; area, UF, MF and room boundaries unverified"
