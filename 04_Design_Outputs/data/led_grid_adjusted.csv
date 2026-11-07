@@ -1,0 +1,73 @@
+device_id,model,x_mm,y_mm,circuit_candidate,power_W,lumens,status,original_x_mm,original_y_mm
+LED01,RC132V G6 36S/UE840 PSU W60L60 OC,66308.432,17095.584,L1,22.5,3600,draft: room containment and ceiling-grid review,66308.432,17095.584
+LED02,RC132V G6 36S/UE840 PSU W60L60 OC,68108.432,17095.584,L2,22.5,3600,draft: room containment and ceiling-grid review,68108.432,17095.584
+LED03,RC132V G6 36S/UE840 PSU W60L60 OC,69908.432,17095.584,L3,22.5,3600,draft: room containment and ceiling-grid review,69908.432,17095.584
+LED04,RC132V G6 36S/UE840 PSU W60L60 OC,71708.432,17095.584,L4,22.5,3600,draft: room containment and ceiling-grid review,71708.432,17095.584
+LED05,RC132V G6 36S/UE840 PSU W60L60 OC,73508.432,17095.584,L1,22.5,3600,draft: room containment and ceiling-grid review,73508.432,17095.584
+LED06,RC132V G6 36S/UE840 PSU W60L60 OC,75908.432,17095.584,L2,22.5,3600,relocated candidate: manual room and spacing review required,75308.432,17095.584
+LED07,RC132V G6 36S/UE840 PSU W60L60 OC,77108.432,17095.584,L3,22.5,3600,draft: room containment and ceiling-grid review,77108.432,17095.584
+LED08,RC132V G6 36S/UE840 PSU W60L60 OC,78308.432,17095.584,L4,22.5,3600,relocated candidate: manual room and spacing review required,78908.432,17095.584
+LED09,RC132V G6 36S/UE840 PSU W60L60 OC,66308.432,18895.584,L1,22.5,3600,draft: room containment and ceiling-grid review,66308.432,18895.584
+LED10,RC132V G6 36S/UE840 PSU W60L60 OC,68108.432,18895.584,L2,22.5,3600,draft: room containment and ceiling-grid review,68108.432,18895.584
+LED11,RC132V G6 36S/UE840 PSU W60L60 OC,69908.432,18895.584,L3,22.5,3600,draft: room containment and ceiling-grid review,69908.432,18895.584
+LED12,RC132V G6 36S/UE840 PSU W60L60 OC,71708.432,18895.584,L4,22.5,3600,draft: room containment and ceiling-grid review,71708.432,18895.584
+LED13,RC132V G6 36S/UE840 PSU W60L60 OC,73508.432,18895.584,L1,22.5,3600,draft: room containment and ceiling-grid review,73508.432,18895.584
+LED14,RC132V G6 36S/UE840 PSU W60L60 OC,74708.432,19495.584,L2,22.5,3600,relocated candidate: manual room and spacing review required,75308.432,18895.584
+LED15,RC132V G6 36S/UE840 PSU W60L60 OC,77108.432,18295.584,L3,22.5,3600,relocated candidate: manual room and spacing review required,77108.432,18895.584
+LED16,RC132V G6 36S/UE840 PSU W60L60 OC,78908.432,18295.584,L4,22.5,3600,relocated candidate: manual room and spacing review required,78908.432,18895.584
+LED17,RC132V G6 36S/UE840 PSU W60L60 OC,66308.432,20695.584,L1,22.5,3600,draft: room containment and ceiling-grid review,66308.432,20695.584
+LED18,RC132V G6 36S/UE840 PSU W60L60 OC,68108.432,20695.584,L2,22.5,3600,draft: room containment and ceiling-grid review,68108.432,20695.584
+LED19,RC132V G6 36S/UE840 PSU W60L60 OC,69908.432,20695.584,L3,22.5,3600,draft: room containment and ceiling-grid review,69908.432,20695.584
+LED20,RC132V G6 36S/UE840 PSU W60L60 OC,71708.432,20695.584,L4,22.5,3600,draft: room containment and ceiling-grid review,71708.432,20695.584
+LED21,RC132V G6 36S/UE840 PSU W60L60 OC,73508.432,20695.584,L1,22.5,3600,draft: room containment and ceiling-grid review,73508.432,20695.584
+LED22,RC132V G6 36S/UE840 PSU W60L60 OC,75308.432,20695.584,L2,22.5,3600,draft: room containment and ceiling-grid review,75308.432,20695.584
+LED23,RC132V G6 36S/UE840 PSU W60L60 OC,77108.432,20695.584,L3,22.5,3600,draft: room containment and ceiling-grid review,77108.432,20695.584
+LED24,RC132V G6 36S/UE840 PSU W60L60 OC,78908.432,20695.584,L4,22.5,3600,draft: room containment and ceiling-grid review,78908.432,20695.584
+LED25,RC132V G6 36S/UE840 PSU W60L60 OC,66308.432,22495.584,L1,22.5,3600,draft: room containment and ceiling-grid review,66308.432,22495.584
+LED26,RC132V G6 36S/UE840 PSU W60L60 OC,68108.432,22495.584,L2,22.5,3600,draft: room containment and ceiling-grid review,68108.432,22495.584
+LED27,RC132V G6 36S/UE840 PSU W60L60 OC,69908.432,22495.584,L3,22.5,3600,draft: room containment and ceiling-grid review,69908.432,22495.584
+LED28,RC132V G6 36S/UE840 PSU W60L60 OC,71708.432,22495.584,L4,22.5,3600,draft: room containment and ceiling-grid review,71708.432,22495.584
+LED29,RC132V G6 36S/UE840 PSU W60L60 OC,73508.432,22495.584,L1,22.5,3600,draft: room containment and ceiling-grid review,73508.432,22495.584
+LED30,RC132V G6 36S/UE840 PSU W60L60 OC,75308.432,22495.584,L2,22.5,3600,draft: room containment and ceiling-grid review,75308.432,22495.584
+LED31,RC132V G6 36S/UE840 PSU W60L60 OC,77108.432,22495.584,L3,22.5,3600,draft: room containment and ceiling-grid review,77108.432,22495.584
+LED32,RC132V G6 36S/UE840 PSU W60L60 OC,78908.432,22495.584,L4,22.5,3600,draft: room containment and ceiling-grid review,78908.432,22495.584
+LED33,RC132V G6 36S/UE840 PSU W60L60 OC,66308.432,24295.584,L1,22.5,3600,draft: room containment and ceiling-grid review,66308.432,24295.584
+LED34,RC132V G6 36S/UE840 PSU W60L60 OC,68108.432,24295.584,L2,22.5,3600,draft: room containment and ceiling-grid review,68108.432,24295.584
+LED35,RC132V G6 36S/UE840 PSU W60L60 OC,69908.432,24295.584,L3,22.5,3600,draft: room containment and ceiling-grid review,69908.432,24295.584
+LED36,RC132V G6 36S/UE840 PSU W60L60 OC,71708.432,24295.584,L4,22.5,3600,draft: room containment and ceiling-grid review,71708.432,24295.584
+LED37,RC132V G6 36S/UE840 PSU W60L60 OC,73508.432,24295.584,L1,22.5,3600,draft: room containment and ceiling-grid review,73508.432,24295.584
+LED38,RC132V G6 36S/UE840 PSU W60L60 OC,74708.432,23695.584,L2,22.5,3600,relocated candidate: manual room and spacing review required,75308.432,24295.584
+LED39,RC132V G6 36S/UE840 PSU W60L60 OC,77108.432,24895.584,L3,22.5,3600,relocated candidate: manual room and spacing review required,77108.432,24295.584
+LED40,RC132V G6 36S/UE840 PSU W60L60 OC,78908.432,24895.584,L4,22.5,3600,relocated candidate: manual room and spacing review required,78908.432,24295.584
+LED41,RC132V G6 36S/UE840 PSU W60L60 OC,66308.432,26095.584,L1,22.5,3600,draft: room containment and ceiling-grid review,66308.432,26095.584
+LED42,RC132V G6 36S/UE840 PSU W60L60 OC,68108.432,26095.584,L2,22.5,3600,draft: room containment and ceiling-grid review,68108.432,26095.584
+LED43,RC132V G6 36S/UE840 PSU W60L60 OC,69908.432,26095.584,L3,22.5,3600,draft: room containment and ceiling-grid review,69908.432,26095.584
+LED44,RC132V G6 36S/UE840 PSU W60L60 OC,71708.432,26095.584,L4,22.5,3600,draft: room containment and ceiling-grid review,71708.432,26095.584
+LED45,RC132V G6 36S/UE840 PSU W60L60 OC,73508.432,26095.584,L1,22.5,3600,draft: room containment and ceiling-grid review,73508.432,26095.584
+LED46,RC132V G6 36S/UE840 PSU W60L60 OC,75908.432,26095.584,L2,22.5,3600,relocated candidate: manual room and spacing review required,75308.432,26095.584
+LED47,RC132V G6 36S/UE840 PSU W60L60 OC,77108.432,26095.584,L3,22.5,3600,draft: room containment and ceiling-grid review,77108.432,26095.584
+LED48,RC132V G6 36S/UE840 PSU W60L60 OC,78908.432,26095.584,L4,22.5,3600,draft: room containment and ceiling-grid review,78908.432,26095.584
+LED49,RC132V G6 36S/UE840 PSU W60L60 OC,66308.432,27895.584,L1,22.5,3600,draft: room containment and ceiling-grid review,66308.432,27895.584
+LED50,RC132V G6 36S/UE840 PSU W60L60 OC,68108.432,27895.584,L2,22.5,3600,draft: room containment and ceiling-grid review,68108.432,27895.584
+LED51,RC132V G6 36S/UE840 PSU W60L60 OC,69908.432,27895.584,L3,22.5,3600,draft: room containment and ceiling-grid review,69908.432,27895.584
+LED52,RC132V G6 36S/UE840 PSU W60L60 OC,71708.432,27895.584,L4,22.5,3600,draft: room containment and ceiling-grid review,71708.432,27895.584
+LED53,RC132V G6 36S/UE840 PSU W60L60 OC,73508.432,27895.584,L1,22.5,3600,draft: room containment and ceiling-grid review,73508.432,27895.584
+LED54,RC132V G6 36S/UE840 PSU W60L60 OC,75908.432,27895.584,L2,22.5,3600,relocated candidate: manual room and spacing review required,75308.432,27895.584
+LED55,RC132V G6 36S/UE840 PSU W60L60 OC,77108.432,27895.584,L3,22.5,3600,draft: room containment and ceiling-grid review,77108.432,27895.584
+LED56,RC132V G6 36S/UE840 PSU W60L60 OC,78908.432,27895.584,L4,22.5,3600,draft: room containment and ceiling-grid review,78908.432,27895.584
+LED57,RC132V G6 36S/UE840 PSU W60L60 OC,66308.432,29695.584,L1,22.5,3600,draft: room containment and ceiling-grid review,66308.432,29695.584
+LED58,RC132V G6 36S/UE840 PSU W60L60 OC,68108.432,29695.584,L2,22.5,3600,draft: room containment and ceiling-grid review,68108.432,29695.584
+LED59,RC132V G6 36S/UE840 PSU W60L60 OC,69908.432,29695.584,L3,22.5,3600,draft: room containment and ceiling-grid review,69908.432,29695.584
+LED60,RC132V G6 36S/UE840 PSU W60L60 OC,71708.432,29695.584,L4,22.5,3600,draft: room containment and ceiling-grid review,71708.432,29695.584
+LED61,RC132V G6 36S/UE840 PSU W60L60 OC,73508.432,29695.584,L1,22.5,3600,draft: room containment and ceiling-grid review,73508.432,29695.584
+LED62,RC132V G6 36S/UE840 PSU W60L60 OC,75908.432,29695.584,L2,22.5,3600,relocated candidate: manual room and spacing review required,75308.432,29695.584
+LED63,RC132V G6 36S/UE840 PSU W60L60 OC,77108.432,29695.584,L3,22.5,3600,draft: room containment and ceiling-grid review,77108.432,29695.584
+LED64,RC132V G6 36S/UE840 PSU W60L60 OC,78908.432,29695.584,L4,22.5,3600,draft: room containment and ceiling-grid review,78908.432,29695.584
+LED65,RC132V G6 36S/UE840 PSU W60L60 OC,66308.432,30895.584,L1,22.5,3600,relocated candidate: manual room and spacing review required,66308.432,31495.584
+LED66,RC132V G6 36S/UE840 PSU W60L60 OC,68108.432,30895.584,L2,22.5,3600,relocated candidate: manual room and spacing review required,68108.432,31495.584
+LED67,RC132V G6 36S/UE840 PSU W60L60 OC,69908.432,30895.584,L3,22.5,3600,relocated candidate: manual room and spacing review required,69908.432,31495.584
+LED68,RC132V G6 36S/UE840 PSU W60L60 OC,71708.432,31495.584,L4,22.5,3600,draft: room containment and ceiling-grid review,71708.432,31495.584
+LED69,RC132V G6 36S/UE840 PSU W60L60 OC,73508.432,30895.584,L1,22.5,3600,relocated candidate: manual room and spacing review required,73508.432,31495.584
+LED70,RC132V G6 36S/UE840 PSU W60L60 OC,75908.432,30895.584,L2,22.5,3600,relocated candidate: manual room and spacing review required,75308.432,31495.584
+LED71,RC132V G6 36S/UE840 PSU W60L60 OC,77108.432,30895.584,L3,22.5,3600,relocated candidate: manual room and spacing review required,77108.432,31495.584
+LED72,RC132V G6 36S/UE840 PSU W60L60 OC,78308.432,30895.584,L4,22.5,3600,relocated candidate: manual room and spacing review required,78908.432,31495.584

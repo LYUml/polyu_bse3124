@@ -7,8 +7,9 @@
   },
   "autocad_executable_exists": true,
   "live_autocad": {
-    "connected": false,
-    "reason": "(-2147221021, 'Operation unavailable', None, None)"
+    "connected": true,
+    "version": "26.0s (LMS Tech)",
+    "documents": 0
   },
   "source_sha256": {
     "01_Assignment\\BSE3124 Mini Design Answer Sheets.docx": "da927db8e419e8639f0a89052ddf64c104011f22ce808b371756012d2f25d65d",
