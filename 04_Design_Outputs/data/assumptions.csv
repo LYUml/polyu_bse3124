@@ -1,4 +1,4 @@
-assumption_id,subject,value,unit,basis,status
+﻿assumption_id,subject,value,unit,basis,status
 AS01,Number of identical typical floors,10,floors,Assignment statement,adopted
 AS02,Use drawing office areas as UFA provisionally,yes,,Drawing annotations 6EFD 6F00 6F03,boundary verification required
 AS03,Air conditioning reference system,packaged air cooled,,COP215 Rev07 Appendix 7,provisional
@@ -7,5 +7,5 @@ AS05,Lighting candidate manufacturer model,RC132V G6 36S/UE840 PSU W60L60 OC,,Si
 AS06,Lighting design target,500,lx,Design assumption not confirmed as assignment or legal requirement,provisional
 AS07,Lighting utilisation factor,0.60,,Sensitivity assumption not based on room-specific photometric calculation,provisional
 AS08,Lighting maintenance factor,0.80,,Sensitivity assumption pending maintenance plan,provisional
-AS09,Lighting voltage,230,V,Design assumption pending supply confirmation,provisional
+AS09,Lighting voltage,220,V,"CLP Supply Rules Rule 202.4(b), local Aug 2026 PDF p10; confirm supply arrangement",adopted for preliminary calculations
 AS10,Lighting power factor,0.90,,Signify product 911401800187,provisional

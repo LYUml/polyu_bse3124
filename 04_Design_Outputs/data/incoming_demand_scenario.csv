@@ -1,4 +1,4 @@
 ﻿phase,lighting_groups,candidate_light_count,lighting_current_A,lighting_diversified_A,socket_groups,assumed_socket_circuits_A,socket_diversified_A,subtotal_A,status
-L1,LC-A;LC-F,28,3.043,2.739,P1;P2,32;32,48.0,50.739,"scenario only: standard ring suitability, outlet categories, appliances, actual assignment and 400A/table applicability unverified"
-L2,LC-B;LC-E,32,3.478,3.13,P3;P4,32;32,48.0,51.13,"scenario only: standard ring suitability, outlet categories, appliances, actual assignment and 400A/table applicability unverified"
-L3,LC-C;LC-D;LC-G,31,3.37,3.033,P5;P6,32;32,48.0,51.033,"scenario only: standard ring suitability, outlet categories, appliances, actual assignment and 400A/table applicability unverified"
+L1,LC-A;LC-F,28,3.182,2.864,P1;P2,32;32,48.0,50.864,"scenario only: 220V; ring suitability, fixed loads, phase allocation and table applicability unverified"
+L2,LC-B;LC-E,32,3.636,3.273,P3;P4,32;32,48.0,51.273,"scenario only: 220V; ring suitability, fixed loads, phase allocation and table applicability unverified"
+L3,LC-C;LC-D;LC-G,31,3.523,3.170,P5;P6,32;32,48.0,51.170,"scenario only: 220V; ring suitability, fixed loads, phase allocation and table applicability unverified"
