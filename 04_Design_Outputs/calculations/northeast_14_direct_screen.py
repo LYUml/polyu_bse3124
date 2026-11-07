@@ -2,7 +2,7 @@
 import csv, math
 from pathlib import Path
 import numpy as np
-OMIT=8  # LED90 in the current LC-E ordering; assert below.
+
 ROOT=Path(__file__).resolve().parents[2]
 data=ROOT/'04_Design_Outputs/data'
 a=(data/'photometry/PIL_PLATO_600_840_MULTIPOWER_MEDIUMLOW_3117955.ldt').read_text(encoding='utf-8-sig').splitlines()
@@ -13,10 +13,10 @@ integral=4*np.trapezoid(np.trapezoid(I*np.sin(np.radians(np.arange(181)))[None,:
 assert abs(integral-1000)<5 and conversion==1
 with (data/'devices.csv').open(encoding='utf-8-sig',newline='') as f:
  selected=[r for r in csv.DictReader(f) if r['circuit_id']=='LC-E']
-assert selected[OMIT]['device_id']=='LED90'
+assert 'LED90' not in {r['device_id'] for r in selected}
 lamps=[(float(r['x'])/1000,float(r['y'])/1000) for r in selected]
-assert len(lamps)==15
-lamps = [p for i,p in enumerate(lamps) if i != OMIT]
+assert len(lamps)==14
+
 xmin,xmax,ymin,ymax=70.5259,79.8084,31.5881,36.5956
 # Equal cell midpoints, within an assumed 0.5 m perimeter offset.
 nx=math.ceil((xmax-xmin-1)/.25); ny=math.ceil((ymax-ymin-1)/.25)
