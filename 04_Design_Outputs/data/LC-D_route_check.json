@@ -1,0 +1,13 @@
+{
+  "route_plan_m": 21.381552,
+  "lamp_count": 11,
+  "power_W": 242,
+  "voltage_V": 220,
+  "PF_assumed": 0.9,
+  "copper_candidate_mm2": 1.5,
+  "table_mV_A_m": 29,
+  "plan_distributed_drop_V": 0.471724,
+  "common_vertical_assumed_m": 2,
+  "total_with_vertical_V": 0.542613,
+  "status": "proposal arithmetic only; installation, control wiring, correction factors, upstream drop and fault checks incomplete"
+}
