@@ -1,0 +1,7 @@
+conductor_mm2,It_A_methodB_singlephase_2loaded,It_A_methodB_threephase_3or4loaded,voltdrop_singlephase_mV_A_m,voltdrop_threephase_mV_A_m,current_table_source,voltdrop_table_source,conditions
+1.5,17.5,15.5,29,25,EMSD2025 Table A6(1) col4/5 printed281 PDF282,EMSD2025 Table A6(1)cont col3/6 printed282 PDF283,70C PVC copper singlecore nonarmoured; ambient30C; methodB conduit on wall or trunking; factors not applied
+2.5,24,21,18,15,same,same,same
+4,32,28,11,9.5,same,same,same
+6,41,36,7.3,6.4,same,same,same
+10,57,50,4.4,3.8,same,same,same
+16,76,68,2.8,2.4,same,same,same
