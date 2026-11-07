@@ -15,8 +15,8 @@ for key,value,unit,basis in [
  ('AC_electrical',p_ac,'kW electrical','COP215 Appendix 7 packaged air cooled 1.85 kW/TR; 3.51685 kW cooling/TR'),
  ('AC_apparent',s_ac,'kVA','PF 0.90 design assumption; system boundary to confirm'),
  ('public_services',s_public,'kVA','5 lifts assumed from drawing; COP215 Appendix 2 40 kVA/lift aggregate allowance'),
- ('baseline',base,'kVA','Office + AC + public; no repeated public-services addition'),
- ('multi_zone_assessment',base*1.1,'kVA','COP215 3.1.7 only if supplied by multiple transformers for separate zones'),
+ ('reservation_envelope_before_zoning',base,'kVA','Office + AC + aggregate public allowance; possible lobby AC overlap retained as conservative reservation, not verified demand'),
+ ('reservation_envelope_two_zones',base*1.1,'kVA','COP215 3.1.7 for proposed separate supply zones; potential overlap retained'),
  ('baseline_current',base*1000/(math.sqrt(3)*380),'A','Balanced 380 V assumed'),
  ('zone_current_with_1_1',base*1.1/2*1000/(math.sqrt(3)*380),'A','Two equal supply zones assumed'),
  ('installed_capacity_candidate',3000,'kVA','2 x 1500 kVA candidate; CLP specification and layout not verified')]:

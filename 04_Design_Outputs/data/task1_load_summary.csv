@@ -5,8 +5,8 @@ AC_cooling,1000,kW cooling,Assignment,course design assumption / preliminary; se
 AC_electrical,526.039,kW electrical,COP215 Appendix 7 packaged air cooled 1.85 kW/TR; 3.51685 kW cooling/TR,course design assumption / preliminary; see Task1 calculation basis
 AC_apparent,584.488,kVA,PF 0.90 design assumption; system boundary to confirm,course design assumption / preliminary; see Task1 calculation basis
 public_services,200,kVA,5 lifts assumed from drawing; COP215 Appendix 2 40 kVA/lift aggregate allowance,course design assumption / preliminary; see Task1 calculation basis
-baseline,2429.288,kVA,Office + AC + public; no repeated public-services addition,course design assumption / preliminary; see Task1 calculation basis
-multi_zone_assessment,2672.216,kVA,COP215 3.1.7 only if supplied by multiple transformers for separate zones,course design assumption / preliminary; see Task1 calculation basis
+reservation_envelope_before_zoning,2429.288,kVA,"Office + AC + aggregate public allowance; possible lobby AC overlap retained as conservative reservation, not verified demand",course design assumption / preliminary; see Task1 calculation basis
+reservation_envelope_two_zones,2672.216,kVA,COP215 3.1.7 for proposed separate supply zones; potential overlap retained,course design assumption / preliminary; see Task1 calculation basis
 baseline_current,3690.921,A,Balanced 380 V assumed,course design assumption / preliminary; see Task1 calculation basis
 zone_current_with_1_1,2030.006,A,Two equal supply zones assumed,course design assumption / preliminary; see Task1 calculation basis
 installed_capacity_candidate,3000,kVA,2 x 1500 kVA candidate; CLP specification and layout not verified,course design assumption / preliminary; see Task1 calculation basis
