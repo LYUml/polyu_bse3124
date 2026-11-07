@@ -8,5 +8,6 @@ try {
         if ($LASTEXITCODE -ne 0) { throw 'XeLaTeX compilation failed' }
     }
     if (Select-String -LiteralPath build/main.log -Pattern 'Overfull|undefined references|LaTeX Error') { throw 'Review layout diagnostics' }
-    Copy-Item -LiteralPath build/main.pdf -Destination ../BSE3124_Final.pdf -Force
+    & "$env:USERPROFILE/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/python.exe" finalize_pdf.py
+    if ($LASTEXITCODE -ne 0) { throw 'PDF finalization failed' }
 } finally { Pop-Location }

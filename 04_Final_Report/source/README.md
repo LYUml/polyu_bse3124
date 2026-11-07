@@ -11,3 +11,5 @@ Order: cover; Task1 answers and ground-floor drawings; Task2 answers, teacher's 
 `assets` holds the six final drawing sheets and template needed to build the answer. These are source dependencies, not alternative submission versions. The full final DWG is in `../../03_Design_Drawings/BSE3124_Final.dwg`.
 
 To regenerate drawing assets from the saved final DWG, run `../../05_Calculations/scripts/export_final_dwg.py` with the project Python environment, then `./build.ps1`. Re-run `verify_final_dwg.py` and `verify_final.py`; visually review the rendered PDF before release. The exporter rejects blank plots and checks that plotting does not change the DWG.
+
+The build runs finalize_pdf.py using the installed bundled Python/PyMuPDF runtime to orient the teacher board sheet horizontally and fill its title block and circuit positions. Client is N/A because the assignment specifies no commissioning client.
