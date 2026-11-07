@@ -1,0 +1,5 @@
+zone_id,candidate_device_ids,luminaire_count,connected_lighting_W,control_concept,status
+NE-S1,LED82;LED83;LED84;LED85,4,112,independent local on-off or lighting-level control,conditional; physical grouping and automatic controls unverified
+NE-S2,LED86;LED87;LED88;LED89,4,112,independent local on-off or lighting-level control,conditional; physical grouping and automatic controls unverified
+NE-S3,LED91;LED92;LED93,3,84,independent local on-off or lighting-level control,conditional; physical grouping and automatic controls unverified
+NE-S4,LED94;LED95;LED96,3,84,independent local on-off or lighting-level control,conditional; physical grouping and automatic controls unverified
