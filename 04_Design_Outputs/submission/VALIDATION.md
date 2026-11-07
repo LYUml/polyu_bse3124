@@ -12,4 +12,6 @@ The template keeps its original page dimensions and source background asset. The
 
 Formatting review: consistent 12 pt main headings, 11 pt subheadings, paragraph spacing and centred page numbers (cover excluded). Sources begin together on the final page. The 19-page output was rendered for visual review; XeLaTeX reports no overfull boxes or undefined references. Engineering values and task order are unchanged.
 
+Template correction: the cover's isolated SimSun E was changed to Times New Roman in an output-side Word copy and re-exported through Microsoft Word. Continuations now reuse the original vector frame geometry and the full corresponding task title plus “(continued)” at the original font size and baseline. The corrected cover and continuation headings were visually checked in the rebuilt final PDF.
+
 Conditional results do not certify installed equipment or a surveyed site. UFA, equipment envelopes, source Ze/PFC, mounting heights, maintenance, cable allowances and physical grouping remain explicit course assumptions/requirements. No full-load N−1 or full short-circuit discrimination is asserted.

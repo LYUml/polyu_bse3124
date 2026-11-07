@@ -4,13 +4,18 @@
   "files": [
     {
       "file": "04_Design_Outputs\\submission\\BSE3124_Final.pdf",
-      "sha256": "9f6bad8ac81dba30f5bb8b1ae7af4dabbb81fa4cd1e6f0b6c0cdd0093b745470",
-      "bytes": 1065092
+      "sha256": "b5ace9871beaa10522185fad4662cbf32a619da0cf2ee661f149632acbc50522",
+      "bytes": 1757228
     },
     {
       "file": "04_Design_Outputs\\cad\\BSE3124_Final.dwg",
       "sha256": "d380a9a9a0870d2b2c44a714d96b9b0c6c5a55e43e1208b08a3d7f46b3f7aec8",
       "bytes": 478552
+    },
+    {
+      "file": "04_Design_Outputs\\submission\\source\\assets\\continuation-template.pdf",
+      "sha256": "0e831b74681495baf7904d3e33d344d298b4c35824b2f1e9ffde3bfaf43dea74",
+      "bytes": 713378
     },
     {
       "file": "04_Design_Outputs\\submission\\source\\assets\\installation-details.pdf",
@@ -34,8 +39,8 @@
     },
     {
       "file": "04_Design_Outputs\\submission\\source\\assets\\official-template.pdf",
-      "sha256": "87f5474481a17accbe9c2273105b60986695312034c698a153b0566b1e9347c0",
-      "bytes": 190156
+      "sha256": "7a8a1094430086d49dee572363030bbdb50c7d1163552bf0c0bf9afe296d1f52",
+      "bytes": 184071
     },
     {
       "file": "04_Design_Outputs\\submission\\source\\assets\\task1-drawings.pdf",
