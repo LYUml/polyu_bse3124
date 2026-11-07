@@ -1,0 +1,3 @@
+item,manufacturer_model,role,quantity,connected_load_W,source,status
+PIR-D1,Theben LUXA 103 S360-101-12 AP WH 1030063,pantry occupancy and light switching candidate,1,0.5,https://www.theben.de/product/1030063/datasheet,"PROVISIONAL: 230V nominal only; operating tolerance and local supply range not yet confirmed; coverage and compatibility need verification"
+S-D1,TBD,pantry momentary pushbutton to presence detector input,1,,manufacturer wiring manual required,"PROVISIONAL: no direct permanent bypass; override logic and <=2h limit to be verified"
