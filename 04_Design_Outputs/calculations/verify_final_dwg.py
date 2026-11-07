@@ -39,10 +39,13 @@ for name in ["office_work_cad_map.csv", "northeast_14_cad_map.csv", "power_work_
         collect(row)
 for name in ["lighting_route_cad_map.json", "power_route_cad_map.json", "lighting_control_cad_map.json",
              "incoming_route_cad_map.json", "task1_equipment_reservation_cad.json", "task1_doors_hv_cad.json",
-             "task1_interface_cad_map.json", "db_submission_sheet_map.json", "normal_plan_sheet_map.json"]:
+             "task1_interface_cad_map.json", "db_submission_sheet_map.json", "normal_plan_sheet_map.json", "final_text_sync.json"]:
     collect(json.loads((DATA / name).read_text(encoding="utf8")))
 if True:
     handles.update((DATA/'installation_detail_handles.txt').read_text().splitlines())
+repair=json.loads((DATA/'room_layout_repair.json').read_text())
+handles.update(repair['handle_map'].values())
+handles.add(repair['viewport_handle'])
 ordered = sorted(handles)
 # Keep script lines short: AutoCAD truncates oversized command input lines.
 literal = "\n".join(" ".join('"' + h + '"' for h in ordered[i:i+8]) for i in range(0, len(ordered), 8))
@@ -67,6 +70,8 @@ entities = {row[0]: row for row in lines if row[0] in handles}
 assert set(entities) == handles and all(row[1] != "MISSING" for row in entities.values())
 for row in json.loads((DATA / "luminaire_label_sync_audit.json").read_text())["records"]:
     assert entities[row["handle"]][3] == row["after"]
+for row in json.loads((DATA/'final_text_sync.json').read_text())['records']:
+    assert entities[row['handle']][3] == row['after'], row['handle']
 routes = []
 for mapfile, resultfile, field in [("lighting_route_cad_map.json", "lighting_route_results.csv", "plan_route_m"),
                                    ("power_route_cad_map.json", "power_route_results.csv", "plan_main_m")]:

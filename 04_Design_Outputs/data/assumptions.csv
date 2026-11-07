@@ -1,21 +1,20 @@
 assumption_id,subject,value,unit,basis,status
 AS01,Number of identical typical floors,10,floors,Assignment statement,adopted
-AS02,Use drawing office areas as UFA provisionally,yes,,Drawing annotations 6EFD 6F00 6F03,boundary verification required
-AS03,Air conditioning reference system,packaged air cooled,,COP215 Rev07 Appendix 7,provisional
-AS04,Air conditioning power factor,0.90,,Design assumption,provisional
-AS05,Non-pantry lighting candidate manufacturer model,PIL PLATO600 MP3117955 mixed22/28W,,manufacturer198-264VAC; data/photometry; zone calculations in design record,working design; lighting layout controls installation and protection checks pending
-AS06,Lighting design target,500,lx,Design assumption not confirmed as assignment or legal requirement,provisional
-AS07,Lighting utilisation factor,0.60,,Sensitivity assumption not based on room-specific photometric calculation,provisional
-AS08,Lighting maintenance factor,0.80,,Sensitivity assumption pending maintenance plan,provisional
-AS09,Lighting voltage,220,V,"CLP Supply Rules Rule 202.4(b), local Aug 2026 PDF p10; confirm supply arrangement",adopted for preliminary calculations
-AS10,Lighting power factor,0.90,,Signify PF 0.90; PIL 3117955 PF >0.9 conservatively 0.90,provisional for steady-state estimate
-AS11,Pantry luminaire candidate and setting,PIL PLATO 600 MP 3117955 at 22 W / 2843 lm,,manufacturer product 3117955; see lighting review,"provisional; controls, voltage drop and photometry pending"
-AS12,Task1 public-services reference,200,kVA,COP215 3.1.6 and 3.3.1; 5 lifts x 40 kVA/lift; includes lobby AC,reference allowance; overlap with total building cooling must be reconciled
-AS13,Supply zoning for Task1,two zones,,Design proposal; COP215 3.1.7 applies when transformers serve different zones,proposed; floor and central plant allocation required
-AS-PW01,Each socket point individually fused,13,A,Design restriction: nine floor boxes and three twin sockets each behind13A FCU; FS01 existing13A connection,working design; no appliance watts assumed
-AS-PW02,Power vertical allowances,2 per radial; 2 each ring end,m,"Proposed route model, not measured installed vertical lengths",working design assumption
-AS-PW03,Local FCU cable allowance,0.5,m,4mm2 local connection per point; terminal and fuse curve checks pending,working design assumption
-AS-PW04,P6 classification,PANTRY,,Source rectangle contains FB09 and SO01; previous non-kitchen description superseded,corrected classification
+AS02,Use drawing office areas as UFA provisionally,yes,,Drawing annotations 6EFD 6F00 6F03,adopted design assumption
+AS03,Air conditioning reference system,packaged air cooled,,COP215 Rev07 Appendix 7,adopted design assumption
+AS04,Air conditioning power factor,0.90,,Design assumption,adopted design assumption
+AS05,Luminaire model and power settings,PIL PLATO600 MP3117955: 60x22W;28x28W;4x38W,,Manufacturer LDT profiles; final_lighting_basis.json; devices.csv,adopted selection; calculations and drawings reconciled
+AS06,Lighting design target,500,lx,Design assumption not confirmed as assignment or legal requirement,adopted design assumption
+AS08,Lighting maintenance factor,0.80,,Periodic cleaning and lamp replacement; adopted direct-light calculation,adopted design assumption
+AS09,Lighting voltage,220,V,"CLP Supply Rules Rule 202.4(b), local Aug 2026 PDF p10; confirm supply arrangement",adopted design assumption
+AS10,Lighting power factor,0.90,,PIL3117955 PF>0.9; adopt0.90,adopted design assumption
+AS11,Pantry luminaire setting,PIL PLATO 600 MP 3117955 at 22 W / 2843 lm,,PIL3117955 LOW LDT; eleven22W panels; final photometry and LC-D checks,adopted selection; calculations and drawings reconciled
+AS12,Task1 public-services reference,200,kVA,COP215 Rev07 aggregate200kVA allowance; possible0-200kVA overlap assessed in task1_capacity_bounds.csv; adopt upper demand,adopted design assumption
+AS13,Supply zoning for Task1,two zones,,"COP2153.1.7; two equal zones, each five floors and half central/public load",adopted design assumption
+AS-PW01,Each socket point individually fused,13,A,Design restriction: nine floor boxes and three twin sockets each behind13A FCU; FS01 existing13A connection,adopted design assumption
+AS-PW02,Power vertical allowances,2 per radial; 2 each ring end,m,"Proposed route model, not measured installed vertical lengths",adopted design assumption
+AS-PW03,Local FCU cable allowance,0.5,m,4mm2 local spur after13A FCU; overload/energy checks in fault_protection_summary.json,adopted design assumption
+AS-PW04,P6 classification,PANTRY,,Source rectangle contains FB09 and SO01; previous non-kitchen description superseded,adopted design assumption
 AS-T301,TN-S source external loop impedance,0.2,ohm,"Course design assumption at MS-O1, not measured; design requires <=0.265871ohm for C63 reference check",adopted design condition
 AS-T302,Prospective short-circuit current upper bound,6,kA,Course design condition at MS-O1 and downstream; 10kA MCBS/RCBOs and6kA FCU fuses selected,adopted design condition
 AS-T303,Pre-origin voltage drop allowance,2.2,V,Design budget from supply origin to MS-O1; not measured or zero,adopted design condition
@@ -23,8 +22,7 @@ AS-T304,Third harmonic current range,>15 to33,percent,Fourcore incoming cable fa
 AS-T305,Selected breaker/fuse total clearing energy,See fault_design_conditions.json,A2s,"Explicit apparatus performance requirements, not claimed arbitrary product certificates",adopted performance specification
 AS-T306,Panel and point ambient,panel<=30; FCU<=35,degC,Cable containment40C remains conservative cable assumption; selected apparatus must satisfy declared enclosure conditions,adopted design condition
 AS-T307,Point13A bound meaning,rated intended continuous load,,FCU is not an instantaneous13A current clamp; overload verification uses1.9In conventional fusing current,adopted load assumption
-REV04-LH,Luminaire height above task plane,1.9,m,Adopted course geometry; south east mean target fails at2.2m,adopted design condition
-REV04-MF,Lighting maintenance factor,0.80,,Periodic cleaning/replacement assumed; no reflected-light credit,adopted assumption
+REV04-LH,Luminaire height above task plane,1.9,m,Adopt1.9m; sensitivity checked at1.7/2.2m; four38W south-east panels give589.2lx at2.2m,adopted design condition
 REV04-GROUP,Inter-bank thermal separation,>2x largest adjacent cable OD,,EMSD2025 A5(3) Note2; separate MethodB enclosures and verify actual horizontal cable clearance,required installation condition
 REV04-RING,Ring overload method,A1 standard arrangement,,EMSD2025 6C/6E/Table6(1) Note1(i); nominal leg current is supplementary not protective-device I2,adopted
 REV04-FCU,Point arrangement,One13A FCU before each assembly spur,,FB four outlets share13A; SO twins share13A; FS01 separate; fuse not instantaneous clamp,adopted

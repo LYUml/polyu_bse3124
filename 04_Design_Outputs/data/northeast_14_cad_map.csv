@@ -1,15 +1,15 @@
 candidate_device,label,outer_handle,inner_handle,label_handle,status
-LED82,E82,77A0,77A1,77A2,working 28 W layout; public table synchronized; final checks pending
-LED83,E83,77A3,77A4,77A5,working 28 W layout; public table synchronized; final checks pending
-LED84,E84,77A6,77A7,77A8,working 28 W layout; public table synchronized; final checks pending
-LED85,E85,77A9,77AA,77AB,working 28 W layout; public table synchronized; final checks pending
-LED86,E86,77AC,77AD,77AE,working 28 W layout; public table synchronized; final checks pending
-LED87,E87,77AF,77B0,77B1,working 28 W layout; public table synchronized; final checks pending
-LED88,E88,77B2,77B3,77B4,working 28 W layout; public table synchronized; final checks pending
-LED89,E89,77B5,77B6,77B7,working 28 W layout; public table synchronized; final checks pending
-LED91,E91,77B8,77B9,77BA,working 28 W layout; public table synchronized; final checks pending
-LED92,E92,77BB,77BC,77BD,working 28 W layout; public table synchronized; final checks pending
-LED93,E93,77BE,77BF,77C0,working 28 W layout; public table synchronized; final checks pending
-LED94,E94,77C1,77C2,77C3,working 28 W layout; public table synchronized; final checks pending
-LED95,E95,77C4,77C5,77C6,working 28 W layout; public table synchronized; final checks pending
-LED96,E96,77C7,77C8,77C9,working 28 W layout; public table synchronized; final checks pending
+LED82,E82,77A0,77A1,77A2,adopted layout; schedule/routes reconciled; native entity verified
+LED83,E83,77A3,77A4,77A5,adopted layout; schedule/routes reconciled; native entity verified
+LED84,E84,77A6,77A7,77A8,adopted layout; schedule/routes reconciled; native entity verified
+LED85,E85,77A9,77AA,77AB,adopted layout; schedule/routes reconciled; native entity verified
+LED86,E86,77AC,77AD,77AE,adopted layout; schedule/routes reconciled; native entity verified
+LED87,E87,77AF,77B0,77B1,adopted layout; schedule/routes reconciled; native entity verified
+LED88,E88,77B2,77B3,77B4,adopted layout; schedule/routes reconciled; native entity verified
+LED89,E89,77B5,77B6,77B7,adopted layout; schedule/routes reconciled; native entity verified
+LED91,E91,77B8,77B9,77BA,adopted layout; schedule/routes reconciled; native entity verified
+LED92,E92,77BB,77BC,77BD,adopted layout; schedule/routes reconciled; native entity verified
+LED93,E93,77BE,77BF,77C0,adopted layout; schedule/routes reconciled; native entity verified
+LED94,E94,77C1,77C2,77C3,adopted layout; schedule/routes reconciled; native entity verified
+LED95,E95,77C4,77C5,77C6,adopted layout; schedule/routes reconciled; native entity verified
+LED96,E96,77C7,77C8,77C9,adopted layout; schedule/routes reconciled; native entity verified

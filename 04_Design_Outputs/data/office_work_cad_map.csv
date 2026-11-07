@@ -1,68 +1,68 @@
 device_id,circuit,power_W,x_mm,y_mm,outer_handle,inner_handle,label_handle,status,cad_label
-LED01,LC-A,22,66308.432,17095.584,784F,7850,7851,working symbols; full plot and routing checks pending,A01
-LED02,LC-A,22,68108.432,17095.584,7852,7853,7854,working symbols; full plot and routing checks pending,A02
-LED03,LC-A,22,69908.432,17095.584,7855,7856,7857,working symbols; full plot and routing checks pending,A03
-LED04,LC-A,22,71708.432,17095.584,7858,7859,785A,working symbols; full plot and routing checks pending,A04
-LED05,LC-A,22,73508.432,17095.584,785B,785C,785D,working symbols; full plot and routing checks pending,A05
-LED09,LC-A,22,66308.432,18895.584,785E,785F,7860,working symbols; full plot and routing checks pending,A09
-LED10,LC-A,22,68108.432,18895.584,7861,7862,7863,working symbols; full plot and routing checks pending,A10
-LED11,LC-A,22,69908.432,18895.584,7864,7865,7866,working symbols; full plot and routing checks pending,A11
-LED12,LC-A,22,71708.432,18895.584,7867,7868,7869,working symbols; full plot and routing checks pending,A12
-LED13,LC-A,22,73508.432,18895.584,786A,786B,786C,working symbols; full plot and routing checks pending,A13
-LED14,LC-A,22,74708.432,19495.584,786D,786E,786F,working symbols; full plot and routing checks pending,A14
-LED17,LC-A,22,66308.432,20695.584,7870,7871,7872,working symbols; full plot and routing checks pending,A17
-LED18,LC-A,22,68108.432,20695.584,7873,7874,7875,working symbols; full plot and routing checks pending,A18
-LED19,LC-A,22,69908.432,20695.584,7876,7877,7878,working symbols; full plot and routing checks pending,A19
-LED20,LC-A,22,71708.432,20695.584,7879,787A,787B,working symbols; full plot and routing checks pending,A20
-LED21,LC-A,22,73508.432,20695.584,787C,787D,787E,working symbols; full plot and routing checks pending,A21
-LED22,LC-A,22,75308.432,20695.584,787F,7880,7881,working symbols; full plot and routing checks pending,A22
-LED23,LC-A,28,77108.432,20695.584,7882,7883,7884,working symbols; full plot and routing checks pending,A23*
-LED24,LC-B,28,78908.432,20695.584,7885,7886,7887,working symbols; full plot and routing checks pending,B24*
-LED25,LC-B,22,66308.432,22495.584,7888,7889,788A,working symbols; full plot and routing checks pending,B25
-LED26,LC-B,22,68108.432,22495.584,788B,788C,788D,working symbols; full plot and routing checks pending,B26
-LED27,LC-B,22,69908.432,22495.584,788E,788F,7890,working symbols; full plot and routing checks pending,B27
-LED28,LC-B,22,71708.432,22495.584,7891,7892,7893,working symbols; full plot and routing checks pending,B28
-LED29,LC-B,22,73508.432,22495.584,7894,7895,7896,working symbols; full plot and routing checks pending,B29
-LED30,LC-B,22,75308.432,22495.584,7897,7898,7899,working symbols; full plot and routing checks pending,B30
-LED31,LC-B,28,77108.432,22495.584,789A,789B,789C,working symbols; full plot and routing checks pending,B31*
-LED32,LC-B,28,78908.432,22495.584,789D,789E,789F,working symbols; full plot and routing checks pending,B32*
-LED33,LC-B,22,66308.432,24295.584,78A0,78A1,78A2,working symbols; full plot and routing checks pending,B33
-LED34,LC-B,22,68108.432,24295.584,78A3,78A4,78A5,working symbols; full plot and routing checks pending,B34
-LED35,LC-B,22,69908.432,24295.584,78A6,78A7,78A8,working symbols; full plot and routing checks pending,B35
-LED36,LC-B,22,71708.432,24295.584,78A9,78AA,78AB,working symbols; full plot and routing checks pending,B36
-LED37,LC-B,22,73508.432,24295.584,78AC,78AD,78AE,working symbols; full plot and routing checks pending,B37
-LED38,LC-B,22,74708.432,23695.584,78AF,78B0,78B1,working symbols; full plot and routing checks pending,B38
-LED41,LC-B,22,66308.432,26095.584,78B2,78B3,78B4,working symbols; full plot and routing checks pending,B41
-LED42,LC-B,22,68108.432,26095.584,78B5,78B6,78B7,working symbols; full plot and routing checks pending,B42
-LED43,LC-C,22,69908.432,26095.584,78B8,78B9,78BA,working symbols; full plot and routing checks pending,C43
-LED44,LC-C,22,71708.432,26095.584,78BB,78BC,78BD,working symbols; full plot and routing checks pending,C44
-LED45,LC-C,22,73508.432,26095.584,78BE,78BF,78C0,working symbols; full plot and routing checks pending,C45
-LED49,LC-C,22,66308.432,27895.584,78C1,78C2,78C3,working symbols; full plot and routing checks pending,C49
-LED50,LC-C,22,68108.432,27895.584,78C4,78C5,78C6,working symbols; full plot and routing checks pending,C50
-LED51,LC-C,22,69908.432,27895.584,78C7,78C8,78C9,working symbols; full plot and routing checks pending,C51
-LED52,LC-C,22,71708.432,27895.584,78CA,78CB,78CC,working symbols; full plot and routing checks pending,C52
-LED53,LC-C,22,73508.432,27895.584,78CD,78CE,78CF,working symbols; full plot and routing checks pending,C53
-LED57,LC-C,22,66308.432,29695.584,78D0,78D1,78D2,working symbols; full plot and routing checks pending,C57
-LED58,LC-C,22,68108.432,29695.584,78D3,78D4,78D5,working symbols; full plot and routing checks pending,C58
-LED59,LC-C,22,69908.432,29695.584,78D6,78D7,78D8,working symbols; full plot and routing checks pending,C59
-LED60,LC-C,22,71708.432,29695.584,78D9,78DA,78DB,working symbols; full plot and routing checks pending,C60
-LED61,LC-C,22,73508.432,29695.584,78DC,78DD,78DE,working symbols; full plot and routing checks pending,C61
-LED65,LC-C,22,66308.432,30895.584,78DF,78E0,78E1,working symbols; full plot and routing checks pending,C65
-LED66,LC-C,22,68108.432,30895.584,78E2,78E3,78E4,working symbols; full plot and routing checks pending,C66
-LED67,LC-C,22,69908.432,30895.584,78E5,78E6,78E7,working symbols; full plot and routing checks pending,C67
-LED68,LC-C,22,71708.432,31495.584,78E8,78E9,78EA,working symbols; full plot and routing checks pending,C68
-LED69,LC-C,22,73508.432,30895.584,78EB,78EC,78ED,working symbols; full plot and routing checks pending,C69
-UE01,LC-F,28,76508.432,25056.874,78EE,78EF,78F0,working symbols; full plot and routing checks pending,F01
-UE02,LC-F,28,78308.432,25056.874,78F1,78F2,78F3,working symbols; full plot and routing checks pending,F02
-UE03,LC-F,28,76508.432,26256.874,78F4,78F5,78F6,working symbols; full plot and routing checks pending,F03
-UE04,LC-F,28,78308.432,26256.874,78F7,78F8,78F9,working symbols; full plot and routing checks pending,F04
-UE05,LC-F,28,76508.432,28056.874,78FA,78FB,78FC,working symbols; full plot and routing checks pending,F05
-UE06,LC-F,28,78308.432,28056.874,78FD,78FE,78FF,working symbols; full plot and routing checks pending,F06
-UE07,LC-F,28,76508.432,29856.874,7900,7901,7902,working symbols; full plot and routing checks pending,F07
-UE08,LC-F,28,78308.432,29856.874,7903,7904,7905,working symbols; full plot and routing checks pending,F08
-UE09,LC-F,28,76508.432,31056.874,7906,7907,7908,working symbols; full plot and routing checks pending,F09
-UE10,LC-F,28,78308.432,31056.874,7909,790A,790B,working symbols; full plot and routing checks pending,F10
-SE01,LC-G,28,76114.962,17005.584,790C,790D,790E,working symbols; full plot and routing checks pending,G01
-SE02,LC-G,28,77914.962,17005.584,790F,7910,7911,working symbols; full plot and routing checks pending,G02
-SE03,LC-G,28,76114.962,18205.584,7912,7913,7914,working symbols; full plot and routing checks pending,G03
-SE04,LC-G,28,77914.962,18205.584,7915,7916,7917,working symbols; full plot and routing checks pending,G04
+LED01,LC-A,22,66308.432,17095.584,784F,7850,7851,adopted layout; schedule/routes reconciled; native entity verified,A01
+LED02,LC-A,22,68108.432,17095.584,7852,7853,7854,adopted layout; schedule/routes reconciled; native entity verified,A02
+LED03,LC-A,22,69908.432,17095.584,7855,7856,7857,adopted layout; schedule/routes reconciled; native entity verified,A03
+LED04,LC-A,22,71708.432,17095.584,7858,7859,785A,adopted layout; schedule/routes reconciled; native entity verified,A04
+LED05,LC-A,22,73508.432,17095.584,785B,785C,785D,adopted layout; schedule/routes reconciled; native entity verified,A05
+LED09,LC-A,22,66308.432,18895.584,785E,785F,7860,adopted layout; schedule/routes reconciled; native entity verified,A09
+LED10,LC-A,22,68108.432,18895.584,7861,7862,7863,adopted layout; schedule/routes reconciled; native entity verified,A10
+LED11,LC-A,22,69908.432,18895.584,7864,7865,7866,adopted layout; schedule/routes reconciled; native entity verified,A11
+LED12,LC-A,22,71708.432,18895.584,7867,7868,7869,adopted layout; schedule/routes reconciled; native entity verified,A12
+LED13,LC-A,22,73508.432,18895.584,786A,786B,786C,adopted layout; schedule/routes reconciled; native entity verified,A13
+LED14,LC-A,22,74708.432,19495.584,786D,786E,786F,adopted layout; schedule/routes reconciled; native entity verified,A14
+LED17,LC-A,22,66308.432,20695.584,7870,7871,7872,adopted layout; schedule/routes reconciled; native entity verified,A17
+LED18,LC-A,22,68108.432,20695.584,7873,7874,7875,adopted layout; schedule/routes reconciled; native entity verified,A18
+LED19,LC-A,22,69908.432,20695.584,7876,7877,7878,adopted layout; schedule/routes reconciled; native entity verified,A19
+LED20,LC-A,22,71708.432,20695.584,7879,787A,787B,adopted layout; schedule/routes reconciled; native entity verified,A20
+LED21,LC-A,22,73508.432,20695.584,787C,787D,787E,adopted layout; schedule/routes reconciled; native entity verified,A21
+LED22,LC-A,22,75308.432,20695.584,787F,7880,7881,adopted layout; schedule/routes reconciled; native entity verified,A22
+LED23,LC-A,28,77108.432,20695.584,7882,7883,7884,adopted layout; schedule/routes reconciled; native entity verified,A23*
+LED24,LC-B,28,78908.432,20695.584,7885,7886,7887,adopted layout; schedule/routes reconciled; native entity verified,B24*
+LED25,LC-B,22,66308.432,22495.584,7888,7889,788A,adopted layout; schedule/routes reconciled; native entity verified,B25
+LED26,LC-B,22,68108.432,22495.584,788B,788C,788D,adopted layout; schedule/routes reconciled; native entity verified,B26
+LED27,LC-B,22,69908.432,22495.584,788E,788F,7890,adopted layout; schedule/routes reconciled; native entity verified,B27
+LED28,LC-B,22,71708.432,22495.584,7891,7892,7893,adopted layout; schedule/routes reconciled; native entity verified,B28
+LED29,LC-B,22,73508.432,22495.584,7894,7895,7896,adopted layout; schedule/routes reconciled; native entity verified,B29
+LED30,LC-B,22,75308.432,22495.584,7897,7898,7899,adopted layout; schedule/routes reconciled; native entity verified,B30
+LED31,LC-B,28,77108.432,22495.584,789A,789B,789C,adopted layout; schedule/routes reconciled; native entity verified,B31*
+LED32,LC-B,28,78908.432,22495.584,789D,789E,789F,adopted layout; schedule/routes reconciled; native entity verified,B32*
+LED33,LC-B,22,66308.432,24295.584,78A0,78A1,78A2,adopted layout; schedule/routes reconciled; native entity verified,B33
+LED34,LC-B,22,68108.432,24295.584,78A3,78A4,78A5,adopted layout; schedule/routes reconciled; native entity verified,B34
+LED35,LC-B,22,69908.432,24295.584,78A6,78A7,78A8,adopted layout; schedule/routes reconciled; native entity verified,B35
+LED36,LC-B,22,71708.432,24295.584,78A9,78AA,78AB,adopted layout; schedule/routes reconciled; native entity verified,B36
+LED37,LC-B,22,73508.432,24295.584,78AC,78AD,78AE,adopted layout; schedule/routes reconciled; native entity verified,B37
+LED38,LC-B,22,74708.432,23695.584,78AF,78B0,78B1,adopted layout; schedule/routes reconciled; native entity verified,B38
+LED41,LC-B,22,66308.432,26095.584,78B2,78B3,78B4,adopted layout; schedule/routes reconciled; native entity verified,B41
+LED42,LC-B,22,68108.432,26095.584,78B5,78B6,78B7,adopted layout; schedule/routes reconciled; native entity verified,B42
+LED43,LC-C,22,69908.432,26095.584,78B8,78B9,78BA,adopted layout; schedule/routes reconciled; native entity verified,C43
+LED44,LC-C,22,71708.432,26095.584,78BB,78BC,78BD,adopted layout; schedule/routes reconciled; native entity verified,C44
+LED45,LC-C,22,73508.432,26095.584,78BE,78BF,78C0,adopted layout; schedule/routes reconciled; native entity verified,C45
+LED49,LC-C,22,66308.432,27895.584,78C1,78C2,78C3,adopted layout; schedule/routes reconciled; native entity verified,C49
+LED50,LC-C,22,68108.432,27895.584,78C4,78C5,78C6,adopted layout; schedule/routes reconciled; native entity verified,C50
+LED51,LC-C,22,69908.432,27895.584,78C7,78C8,78C9,adopted layout; schedule/routes reconciled; native entity verified,C51
+LED52,LC-C,22,71708.432,27895.584,78CA,78CB,78CC,adopted layout; schedule/routes reconciled; native entity verified,C52
+LED53,LC-C,22,73508.432,27895.584,78CD,78CE,78CF,adopted layout; schedule/routes reconciled; native entity verified,C53
+LED57,LC-C,22,66308.432,29695.584,78D0,78D1,78D2,adopted layout; schedule/routes reconciled; native entity verified,C57
+LED58,LC-C,22,68108.432,29695.584,78D3,78D4,78D5,adopted layout; schedule/routes reconciled; native entity verified,C58
+LED59,LC-C,22,69908.432,29695.584,78D6,78D7,78D8,adopted layout; schedule/routes reconciled; native entity verified,C59
+LED60,LC-C,22,71708.432,29695.584,78D9,78DA,78DB,adopted layout; schedule/routes reconciled; native entity verified,C60
+LED61,LC-C,22,73508.432,29695.584,78DC,78DD,78DE,adopted layout; schedule/routes reconciled; native entity verified,C61
+LED65,LC-C,22,66308.432,30895.584,78DF,78E0,78E1,adopted layout; schedule/routes reconciled; native entity verified,C65
+LED66,LC-C,22,68108.432,30895.584,78E2,78E3,78E4,adopted layout; schedule/routes reconciled; native entity verified,C66
+LED67,LC-C,22,69908.432,30895.584,78E5,78E6,78E7,adopted layout; schedule/routes reconciled; native entity verified,C67
+LED68,LC-C,22,71708.432,31495.584,78E8,78E9,78EA,adopted layout; schedule/routes reconciled; native entity verified,C68
+LED69,LC-C,22,73508.432,30895.584,78EB,78EC,78ED,adopted layout; schedule/routes reconciled; native entity verified,C69
+UE01,LC-F,28,76508.432,25056.874,78EE,78EF,78F0,adopted layout; schedule/routes reconciled; native entity verified,F01
+UE02,LC-F,28,78308.432,25056.874,78F1,78F2,78F3,adopted layout; schedule/routes reconciled; native entity verified,F02
+UE03,LC-F,28,76508.432,26256.874,78F4,78F5,78F6,adopted layout; schedule/routes reconciled; native entity verified,F03
+UE04,LC-F,28,78308.432,26256.874,78F7,78F8,78F9,adopted layout; schedule/routes reconciled; native entity verified,F04
+UE05,LC-F,28,76508.432,28056.874,78FA,78FB,78FC,adopted layout; schedule/routes reconciled; native entity verified,F05
+UE06,LC-F,28,78308.432,28056.874,78FD,78FE,78FF,adopted layout; schedule/routes reconciled; native entity verified,F06
+UE07,LC-F,28,76508.432,29856.874,7900,7901,7902,adopted layout; schedule/routes reconciled; native entity verified,F07
+UE08,LC-F,28,78308.432,29856.874,7903,7904,7905,adopted layout; schedule/routes reconciled; native entity verified,F08
+UE09,LC-F,28,76508.432,31056.874,7906,7907,7908,adopted layout; schedule/routes reconciled; native entity verified,F09
+UE10,LC-F,28,78308.432,31056.874,7909,790A,790B,adopted layout; schedule/routes reconciled; native entity verified,F10
+SE01,LC-G,38,76114.962,17005.584,790C,790D,790E,adopted layout; schedule/routes reconciled; native entity verified,G01
+SE02,LC-G,38,77914.962,17005.584,790F,7910,7911,adopted layout; schedule/routes reconciled; native entity verified,G02
+SE03,LC-G,38,76114.962,18205.584,7912,7913,7914,adopted layout; schedule/routes reconciled; native entity verified,G03
+SE04,LC-G,38,77914.962,18205.584,7915,7916,7917,adopted layout; schedule/routes reconciled; native entity verified,G04

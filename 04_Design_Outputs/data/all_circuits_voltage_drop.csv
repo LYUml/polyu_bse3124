@@ -5,7 +5,7 @@ LC-C,2.2,2.521606,0.958766,5.680372,2.581987,True,"Conditional on pre-origin dro
 LC-D,2.2,2.521606,0.421535,5.143141,2.337791,True,"Conditional on pre-origin drop<=2.2V, feeder neutral<=63A and documented route/installation assumptions"
 LC-E,2.2,2.521606,0.797483,5.519089,2.508677,True,"Conditional on pre-origin drop<=2.2V, feeder neutral<=63A and documented route/installation assumptions"
 LC-F,2.2,2.521606,0.6417,5.363306,2.437866,True,"Conditional on pre-origin drop<=2.2V, feeder neutral<=63A and documented route/installation assumptions"
-LC-G,2.2,2.521606,0.254328,4.975934,2.261788,True,"Conditional on pre-origin drop<=2.2V, feeder neutral<=63A and documented route/installation assumptions"
+LC-G,2.2,2.521606,0.345159,5.066765,2.303075,True,"Conditional on pre-origin drop<=2.2V, feeder neutral<=63A and documented route/installation assumptions"
 P1,2.2,2.521606,1.268756,5.990362,2.722892,True,"Conditional on pre-origin drop<=2.2V, feeder neutral<=63A and documented route/installation assumptions"
 P2,2.2,2.521606,1.674847,6.396453,2.907479,True,"Conditional on pre-origin drop<=2.2V, feeder neutral<=63A and documented route/installation assumptions"
 P3,2.2,2.521606,1.936871,6.658477,3.02658,True,"Conditional on pre-origin drop<=2.2V, feeder neutral<=63A and documented route/installation assumptions"

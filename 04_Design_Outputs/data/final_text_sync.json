@@ -1,0 +1,120 @@
+{
+  "drawing": "04_Design_Outputs/cad/BSE3124_Final.dwg",
+  "records": [
+    {
+      "handle": "7CF4",
+      "before": "LC-G [L3] | 4 lamps +S-G /112W | B10 /TYPE A30mA1P+N RCBO",
+      "after": "LC-G [L3] | 4 lamps +S-G /152W | B10 /TYPE A30mA1P+N RCBO"
+    },
+    {
+      "handle": "7DC1",
+      "before": "600x600 LED panel: A/B/C=22W, *=28W; D=22W; E/F/G=28W.",
+      "after": "600x600 LED panel: A/B/C=22W, *=28W; D=22W; E/F=28W; G=38W."
+    },
+    {
+      "handle": "7DC9",
+      "before": "LC-G  L3  4 lamps /112W  B10  2.5mm2  27.379m",
+      "after": "LC-G  L3  4 lamps /152W  B10  2.5mm2  27.379m"
+    },
+    {
+      "handle": "7DCA",
+      "before": "92 panels /2216W. All circuits: Type A30mA1P+N RCBO; L/N/CPC all2.5mm2.",
+      "after": "92 panels /2256W. All circuits: Type A30mA1P+N RCBO; L/N/CPC all2.5mm2."
+    },
+    {
+      "handle": "7FF1",
+      "before": "92 panels /2216W. Final LDT calculation, MF0.80, luminaires1.9m above workplane: mean direct lux open592.9 /pantry546.3 /upper east588.5 /south east502.9.",
+      "after": "92 panels /2256W. LDT calculation, MF0.80, luminaires1.9m above workplane: mean direct lux open592.9 /pantry546.3 /upper east588.5 /south east662.6."
+    },
+    {
+      "handle": "7FF2",
+      "before": "South east: keep luminaire-to-workplane height <=1.9m; at2.2m mean447.2lx fails adopted500lx target. Low perimeter uniformity is disclosed, not certified.",
+      "after": "South east: four38W panels,4685.55lm each; mean589.2lx at2.2m above workplane,17.8% above500lx target. Lighting positions and routes retained."
+    },
+    {
+      "handle": "7FF3",
+      "before": "No reflected-light credit. Room envelopes, height and maintenance are declared assumptions. See answer continuation for sensitivity and photometric limits.",
+      "after": "Adopted height1.9m and MF0.80 with periodic cleaning. Direct-light calculation; see report for room geometry and perimeter illuminance."
+    },
+    {
+      "handle": "7FF4",
+      "before": "GROUP 1 | BSE3124 | 2026-11-08 | DETAILS / NTS | Read with Task1-3 answer v04",
+      "after": "GROUP 1 | BSE3124 | 2026-11-08 | DETAILS / NTS | Read with final Task1-3 answers"
+    },
+    {
+      "handle": "7FA8",
+      "before": "OFFICE 1 | INSTALLATION DETAILS AND DESIGN CONDITIONS | REV 04",
+      "after": "OFFICE 1 | INSTALLATION DETAILS AND DESIGN CONDITIONS"
+    },
+    {
+      "handle": "7FEB",
+      "before": "3. A1 RING DESIGN BASIS AND CONDITIONAL EQUIPMENT SPECIFICATION",
+      "after": "3. A1 RING DESIGN BASIS AND EQUIPMENT SPECIFICATION"
+    },
+    {
+      "handle": "7FED",
+      "before": "Nominal leg-current calculation14.658-15.203A is supplementary. No invented ring-leg protective-device I2. Verify ring continuity before energisation.",
+      "after": "Ring leg currents14.658-15.203A support load distribution; overload protection follows the A1 standard arrangement. Verify ring continuity before energisation."
+    },
+    {
+      "handle": "7FEF",
+      "before": "These are apparatus selection requirements, not manufacturer certificates. Control20AX/LED>=600W; confirm driver inrush. PE bypasses switching.",
+      "after": "Select apparatus meeting the stated breaking capacity and total clearing energy. Control20AX/LED>=600W; confirm driver inrush. PE bypasses switching."
+    },
+    {
+      "handle": "7BBE",
+      "before": "DRAWING REFERENCES: assignment_working_v02.dwg | TASK1-GROUND-OVERVIEW + TASK1-ROOM-REVIEW",
+      "after": "DRAWING REFERENCES: BSE3124_Final.dwg | TASK1-GROUND-OVERVIEW + TASK1-ROOM-REVIEW"
+    },
+    {
+      "handle": "7BBF",
+      "before": "Calculation sources and declared assumptions: Task1_answer_draft.md; data/task1_design_inputs.csv. Original drawings retained.",
+      "after": "Design basis: COP215 Rev07 load estimate; COP101 v16 room planning. See Task1 for calculations and adopted dimensions."
+    },
+    {
+      "handle": "802F",
+      "before": "Basis: supplied COP215 Rev07; COP101 v16 clauses 4.3, 5.5, 5.6, 6.1-6.7.\\PSee Task1_answer_draft.md and shared data for assumptions/calculations.",
+      "after": "Basis: supplied COP215 Rev07; COP101 v16 clauses 4.3, 5.5, 5.6, 6.1-6.7.\\PSee Task1 for load estimate, equipment reservations and design assumptions."
+    },
+    {
+      "handle": "7654",
+      "before": "OFFICE 1 DB - DRAFT / NOT FOR CONSTRUCTION",
+      "after": "OFFICE 1 DB-O1 - LIGHTING CIRCUIT SCHEDULE"
+    },
+    {
+      "handle": "7658",
+      "before": "L1?  LC-A  18 LED  402W  PROTECTION TBD",
+      "after": "L1  LC-A  18 LED  402W  B10 RCBO"
+    },
+    {
+      "handle": "765A",
+      "before": "L2?  LC-B  17 LED  392W  PROTECTION TBD",
+      "after": "L2  LC-B  17 LED  392W  B10 RCBO"
+    },
+    {
+      "handle": "765C",
+      "before": "L3?  LC-C  18 LED  396W  PROTECTION TBD",
+      "after": "L3  LC-C  18 LED  396W  B10 RCBO"
+    },
+    {
+      "handle": "765E",
+      "before": "L3?  LC-D  11 LED  242W  PROTECTION TBD",
+      "after": "L3  LC-D  11 LED  242W  B10 RCBO"
+    },
+    {
+      "handle": "7660",
+      "before": "L2?  LC-E  14 LED  392W  PROTECTION TBD",
+      "after": "L2  LC-E  14 LED  392W  B10 RCBO"
+    },
+    {
+      "handle": "7662",
+      "before": "L1?  LC-F  10 LED  280W  PROTECTION TBD",
+      "after": "L1  LC-F  10 LED  280W  B10 RCBO"
+    },
+    {
+      "handle": "7664",
+      "before": "L3?  LC-G  4 LED  112W  PROTECTION TBD",
+      "after": "L3  LC-G  4 LED  152W  B10 RCBO"
+    }
+  ]
+}

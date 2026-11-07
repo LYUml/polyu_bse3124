@@ -1,9 +1,9 @@
 {
-  "drawing": "C:\\Users\\lyuml-win\\Desktop\\polyu_bse3124\\04_Design_Outputs\\cad\\assignment_working_v02.dwg",
+  "drawing": "C:\\Users\\lyuml-win\\Desktop\\polyu_bse3124\\04_Design_Outputs\\cad\\BSE3124_Final.dwg",
   "sheets": [
     {
       "layout": "TASK2-LIGHTING-PLAN",
-      "pdf": "C:\\Users\\lyuml-win\\Desktop\\polyu_bse3124\\04_Design_Outputs\\pdf\\office_lighting_submission_v01.pdf",
+      "pdf": "C:\\Users\\lyuml-win\\Desktop\\polyu_bse3124\\04_Design_Outputs\\submission\\source\\assets\\office-lighting.pdf",
       "plot_return": true,
       "scale": "1:75",
       "format": "A3 portrait full bleed",
@@ -30,7 +30,7 @@
     },
     {
       "layout": "TASK2-POWER-PLAN",
-      "pdf": "C:\\Users\\lyuml-win\\Desktop\\polyu_bse3124\\04_Design_Outputs\\pdf\\office_power_submission_v01.pdf",
+      "pdf": "C:\\Users\\lyuml-win\\Desktop\\polyu_bse3124\\04_Design_Outputs\\submission\\source\\assets\\office-power.pdf",
       "plot_return": true,
       "scale": "1:75",
       "format": "A3 portrait full bleed",
@@ -117,5 +117,5 @@
       "new_on": false
     }
   ],
-  "visual_review": "pending"
+  "visual_review": "native replot reviewed 2026-11-08; final PDF visual check"
 }

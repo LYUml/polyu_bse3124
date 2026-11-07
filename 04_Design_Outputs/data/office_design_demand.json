@@ -1,7 +1,7 @@
 {
   "basis": "EMSD2025 Table7(1): small office lighting90%; code6E circuits largest100% plus others50%; fixed P7 reserved13A without diversity",
   "load_basis": "Individually13A fused point bounds: four rings26A each; P5/P8 radials13A each; P6 radial26A; P7 fixed reserve13A. No actual appliance watts invented.",
-  "design_peak_A": 48.909091,
+  "design_peak_A": 49.090909,
   "incoming_protective_candidate_A": 63,
   "DB_busbar_minimum_design_A": 100,
   "nondiversified_peak_A": 68.444444,
@@ -26,18 +26,18 @@
     },
     {
       "phase": "L3",
-      "lighting_undiversified_A": 3.787879,
+      "lighting_undiversified_A": 3.989899,
       "socket_FCU_sum_A": 39.0,
       "socket_diversified_A": 32.5,
       "fixed_reserved_A": 13.0,
-      "design_demand_A": 48.909091,
-      "undiversified_point_capacity_A": 55.787879
+      "design_demand_A": 49.090909,
+      "undiversified_point_capacity_A": 55.989899
     }
   ],
   "limitations": [
-    "63A incoming cable/protection still to verify",
+    "63A source with 4C35mm2 + CPC16; see incoming_cable_results.json and fault_protection_summary.json",
     "Only valid with all designed13A point FCUs installed; no unfused additions",
     "P7 actual equipment identity unknown; design capacity limited to13A",
-    "Prior80A scenario used nominal32A circuit capacities; retained as historical capacity envelope, superseded for this point-limited working design"
+    "Maximum demand uses the adopted 13A assembly capacities and phase diversity"
   ]
 }

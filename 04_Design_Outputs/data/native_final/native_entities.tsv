@@ -14,6 +14,14 @@ LAYOUT	TEST-LIGHT
 LAYOUT	TRIAL-DB
 LAYOUT	TRIAL-GROUND
 LAYOUT	WORK-POWER
+7654	TEXT	E-DB-CONCEPT	OFFICE 1 DB-O1 - LIGHTING CIRCUIT SCHEDULE	
+7658	TEXT	E-DB-CONCEPT	L1  LC-A  18 LED  402W  B10 RCBO	
+765A	TEXT	E-DB-CONCEPT	L2  LC-B  17 LED  392W  B10 RCBO	
+765C	TEXT	E-DB-CONCEPT	L3  LC-C  18 LED  396W  B10 RCBO	
+765E	TEXT	E-DB-CONCEPT	L3  LC-D  11 LED  242W  B10 RCBO	
+7660	TEXT	E-DB-CONCEPT	L2  LC-E  14 LED  392W  B10 RCBO	
+7662	TEXT	E-DB-CONCEPT	L1  LC-F  10 LED  280W  B10 RCBO	
+7664	TEXT	E-DB-CONCEPT	L3  LC-G  4 LED  152W  B10 RCBO	
 76EA	LWPOLYLINE	E-PANTRY-TEST		2380
 76EB	LWPOLYLINE	E-PANTRY-TEST		1760
 76ED	LWPOLYLINE	E-PANTRY-TEST		2380
@@ -378,6 +386,8 @@ LAYOUT	WORK-POWER
 7A00	LWPOLYLINE	E-T1-HV-TRENCH		400
 7A01	MTEXT	E-T1-MODEL-NOTES-HIDDEN	CYAN: PROPOSED ROOM WALLS / OUTWARD DOORS / HV TRENCH CENTRE-LINES\PHV: 1000W AT PANELS; 600W TO TRANSFORMERS; FINAL SECTION 300W; GENERALLY 1400D.\PHV SOUTH / LV NORTH. COVER ALL TRENCHES; NO CIVIL BEAM SHALL REDUCE CROSS-SECTION.	
 7A02	MTEXT	E-T1-MODEL-NOTES-HIDDEN	DOORS: WIDTHS ARE PROPOSED CLEAR OPENINGS; 2800H PLANT DOORS ASSUMED.\P180-DEGREE OUTWARD SWING; LEAVES SHOWN AT 90 DEGREES. SHARED SWING ZONES: OPEN ADJACENT PLANT DOORS SEQUENTIALLY.\PD-TXA: DESIGNATED PERSONNEL ENTRANCE WITH 700W x 2100H WICKET, PANIC HARDWARE; OTHER EXITS OPENABLE FROM INSIDE.\PLV ROOM HAS SEPARATE WEST ENTRANCE. ACTUAL FRAMES, FIRE RATING, EXTERNAL ROUTE AND ARCHITECTURAL OPENINGS REQUIRE COORDINATION.	
+7BBE	MTEXT	E-T1-PAPER-NOTES	DRAWING REFERENCES: BSE3124_Final.dwg | TASK1-GROUND-OVERVIEW + TASK1-ROOM-REVIEW	
+7BBF	MTEXT	E-T1-PAPER-NOTES	Design basis: COP215 Rev07 load estimate; COP101 v16 room planning. See Task1 for calculations and adopted dimensions.	
 7BC3	LWPOLYLINE	E-LIGHT-ROUTE-A		53300.948
 7BC5	LWPOLYLINE	E-LIGHT-ROUTE-B		57184.084
 7BC7	LWPOLYLINE	E-LIGHT-ROUTE-C		39999.052
@@ -650,7 +660,7 @@ LAYOUT	WORK-POWER
 7CF1	MTEXT	E-DB-SUBMISSION	L	
 7CF2	MTEXT	E-DB-SUBMISSION	N	
 7CF3	MTEXT	E-DB-SUBMISSION	PE	
-7CF4	MTEXT	E-DB-SUBMISSION	LC-G [L3] | 4 lamps +S-G /112W | B10 /TYPE A30mA1P+N RCBO	
+7CF4	MTEXT	E-DB-SUBMISSION	LC-G [L3] | 4 lamps +S-G /152W | B10 /TYPE A30mA1P+N RCBO	
 7CF5	MTEXT	E-DB-SUBMISSION	L/N/PE 2.5/2.5/2.5mm2 | L=27.379m | LIGHTING RADIAL	
 7CF6	LINE	E-DB-SUBMISSION		
 7CF7	CIRCLE	E-DB-SUBMISSION		
@@ -843,7 +853,7 @@ LAYOUT	WORK-POWER
 7DBD	MTEXT	E-NORMAL-PLAN-PAPER	A3 PORTRAIT | 1:75 at actual size | mm | DB-O1 | COURSE DESIGN	
 7DBE	VIEWPORT	E-T1-VPORT-NOPLOT		
 7DC0	MTEXT	E-NORMAL-PLAN-PAPER	Supply continues to MS-O1 at meter location; incoming route on model / DB schematic.	
-7DC1	MTEXT	E-NORMAL-PLAN-PAPER	600x600 LED panel: A/B/C=22W, *=28W; D=22W; E/F/G=28W.	
+7DC1	MTEXT	E-NORMAL-PLAN-PAPER	600x600 LED panel: A/B/C=22W, *=28W; D=22W; E/F=28W; G=38W.	
 7DC2	MTEXT	E-NORMAL-PLAN-PAPER	Label prefix gives LC-A ... LC-G; suffix retains device ID. S-A ... S-G = local switches.	
 7DC3	MTEXT	E-NORMAL-PLAN-PAPER	LC-A  L1  18 lamps /402W  B10  2.5mm2  58.301m	
 7DC4	MTEXT	E-NORMAL-PLAN-PAPER	LC-B  L2  17 lamps /392W  B10  2.5mm2  62.184m	
@@ -851,8 +861,8 @@ LAYOUT	WORK-POWER
 7DC6	MTEXT	E-NORMAL-PLAN-PAPER	LC-D  L3  11 lamps /242W  B10  2.5mm2  27.233m	
 7DC7	MTEXT	E-NORMAL-PLAN-PAPER	LC-E  L2  14 lamps /392W  B10  2.5mm2  34.464m	
 7DC8	MTEXT	E-NORMAL-PLAN-PAPER	LC-F  L1  10 lamps /280W  B10  2.5mm2  32.710m	
-7DC9	MTEXT	E-NORMAL-PLAN-PAPER	LC-G  L3  4 lamps /112W  B10  2.5mm2  27.379m	
-7DCA	MTEXT	E-NORMAL-PLAN-PAPER	92 panels /2216W. All circuits: Type A30mA1P+N RCBO; L/N/CPC all2.5mm2.	
+7DC9	MTEXT	E-NORMAL-PLAN-PAPER	LC-G  L3  4 lamps /152W  B10  2.5mm2  27.379m	
+7DCA	MTEXT	E-NORMAL-PLAN-PAPER	92 panels /2256W. All circuits: Type A30mA1P+N RCBO; L/N/CPC all2.5mm2.	
 7DCB	MTEXT	E-NORMAL-PLAN-PAPER	Manual controls20AX, LED rating>=600W; separate phase enclosures. Inrush compatibility required.	
 7DCC	MTEXT	E-NORMAL-PLAN-PAPER	Normal lighting only. Landlord emergency/exit system independently supplied (course assumption).	
 7DCD	MTEXT	E-NORMAL-PLAN-PAPER	Proposed routes follow plan; vertical/tail allowances and conditions are in Task3. Architecture retained as reference.	
@@ -877,7 +887,7 @@ LAYOUT	WORK-POWER
 7DEB	MTEXT	E-NORMAL-PLAN-PAPER	Individually fused point assemblies and terminals must accept selected conductor size or rated junctions.	
 7DEC	MTEXT	E-NORMAL-PLAN-PAPER	Proposed routes follow plan; vertical/tail allowances and conditions are in Task3. Architecture retained as reference.	
 7DED	MTEXT	E-NORMAL-PLAN-PAPER	BSE3124 | 2026-11-07 | Read with15-way DB schematic and common circuit schedule	
-7FA8	MTEXT	E-REV04-DETAIL	OFFICE 1 | INSTALLATION DETAILS AND DESIGN CONDITIONS | REV 04	
+7FA8	MTEXT	E-REV04-DETAIL	OFFICE 1 | INSTALLATION DETAILS AND DESIGN CONDITIONS	
 7FA9	MTEXT	E-REV04-DETAIL	Supplement to normal lighting/power plans and DB schematic. Native editable detail; schematic, not to scale.	
 7FAA	MTEXT	E-REV04-DETAIL	1. EVERY POWER ASSEMBLY HAS ONE UPSTREAM 13A FCU	
 7FAB	MTEXT	E-REV04-DETAIL	Accessible main/ring junction	
@@ -944,13 +954,24 @@ LAYOUT	WORK-POWER
 7FE8	MTEXT	E-REV04-DETAIL	Cg1.00	
 7FE9	MTEXT	E-REV04-DETAIL	Method B, no insulation contact. Keep L/N/CPC of each circuit together. Between banks provide horizontal cable clearance >2x largest adjacent cable OD	
 7FEA	MTEXT	E-REV04-DETAIL	(EMSD A5(3) Note2); separate enclosures and verify cable clearance. A partition alone is not thermal separation. If grouping changes, recalculate sizes.	
-7FEB	MTEXT	E-REV04-DETAIL	3. A1 RING DESIGN BASIS AND CONDITIONAL EQUIPMENT SPECIFICATION	
+7FEB	MTEXT	E-REV04-DETAIL	3. A1 RING DESIGN BASIS AND EQUIPMENT SPECIFICATION	
 7FEC	MTEXT	E-REV04-DETAIL	EMSD 6C/6E, Table6(1): B32; 6mm2 copper; corrected leg Iz23.1855A >=20A; each service envelope <=100m2; intact L/N/CPC rings; two fused taps per ring.	
-7FED	MTEXT	E-REV04-DETAIL	Nominal leg-current calculation14.658-15.203A is supplementary. No invented ring-leg protective-device I2. Verify ring continuity before energisation.	
+7FED	MTEXT	E-REV04-DETAIL	Ring leg currents14.658-15.203A support load distribution; overload protection follows the A1 standard arrangement. Verify ring continuity before energisation.	
 7FEE	MTEXT	E-REV04-DETAIL	TN-S source Ze0.20ohm/PFC<=6kA are design conditions. Main and RCBO Icn10kA. Required total I2t: B10/B16<=70000; B32/FCU<=90000; C63<=1000000 A2s.	
-7FEF	MTEXT	E-REV04-DETAIL	These are apparatus selection requirements, not manufacturer certificates. Control20AX/LED>=600W; confirm driver inrush. PE bypasses switching.	
+7FEF	MTEXT	E-REV04-DETAIL	Select apparatus meeting the stated breaking capacity and total clearing energy. Control20AX/LED>=600W; confirm driver inrush. PE bypasses switching.	
 7FF0	MTEXT	E-REV04-DETAIL	4. FINAL LIGHTING BASIS - COURSE GEOMETRY AND HEIGHT ASSUMPTIONS	
-7FF1	MTEXT	E-REV04-DETAIL	92 panels /2216W. Final LDT calculation, MF0.80, luminaires1.9m above workplane: mean direct lux open592.9 /pantry546.3 /upper east588.5 /south east502.9.	
-7FF2	MTEXT	E-REV04-DETAIL	South east: keep luminaire-to-workplane height <=1.9m; at2.2m mean447.2lx fails adopted500lx target. Low perimeter uniformity is disclosed, not certified.	
-7FF3	MTEXT	E-REV04-DETAIL	No reflected-light credit. Room envelopes, height and maintenance are declared assumptions. See answer continuation for sensitivity and photometric limits.	
-7FF4	MTEXT	E-REV04-DETAIL	GROUP 1 | BSE3124 | 2026-11-08 | DETAILS / NTS | Read with Task1-3 answer v04	
+7FF1	MTEXT	E-REV04-DETAIL	92 panels /2256W. LDT calculation, MF0.80, luminaires1.9m above workplane: mean direct lux open592.9 /pantry546.3 /upper east588.5 /south east662.6.	
+7FF2	MTEXT	E-REV04-DETAIL	South east: four38W panels,4685.55lm each; mean589.2lx at2.2m above workplane,17.8% above500lx target. Lighting positions and routes retained.	
+7FF3	MTEXT	E-REV04-DETAIL	Adopted height1.9m and MF0.80 with periodic cleaning. Direct-light calculation; see report for room geometry and perimeter illuminance.	
+7FF4	MTEXT	E-REV04-DETAIL	GROUP 1 | BSE3124 | 2026-11-08 | DETAILS / NTS | Read with final Task1-3 answers	
+8027	MTEXT	E-T1-PAPER-NOTES	TASK 1 | PROPOSED SUBSTATION AND MAIN LV ROOM	
+8028	MTEXT	E-T1-PAPER-NOTES	Office building: 10 typical floors + ground | COURSE DESIGN REVIEW | All dimensions in mm	
+8029	MTEXT	E-T1-PAPER-NOTES	CAPACITY AND EQUIPMENT\P2 x 1500 kVA proposed; normal load envelope 2672.216 kVA. No full-load N-1.\PHV: 3000 x 1000 reservation.\PTX-A/B: 2200 x 1800 each.\PThese are assumed equipment envelopes, not manufacturer footprints.	
+802A	MTEXT	E-T1-PAPER-NOTES	CLEARANCES / BUILDING WORKS\PHV rear 1000, front 1800, sides 750. TX LV terminals north: 900; other sides 750.\PProposed 2h FRR partitions; fire-seal penetrations. FFL +0.15 vs external +0.00 assumed.\PActual structures, wall thickness and equipment dimensions require coordination.	
+802B	MTEXT	E-T1-PAPER-NOTES	ACCESS AND DOORS\PSouth external access assumed. Reserve 3000-wide delivery route; unloading distance <=20m to verify.\PPlant doors: HV 4000W; TX 3000W each; 2800H assumed. 180-degree outward sweep, shown open 90 degrees.\PShared sweeps: use adjacent doors sequentially. TX-A designated wicket personnel access. Independent LV entrance west.	
+802C	MTEXT	E-T1-PAPER-NOTES	VENTILATION\P2 low-level 600W x 2000H inlet louvres: 2.4m2 gross x assumed 50% free area = 1.20m2 >=1.12m2. Certified free area >=46.67% required.\P2 high-level 630-dia fan symbols are conditional references. Actual losses, fan duty and noise to confirm; outlet >=2.5m above street, away from people.	
+802D	MTEXT	E-T1-PAPER-NOTES	LV INTERFACES / HV ROUTES\PLV trench: 1000W x 1100D, four MCTs per interface. A: 8.03+2=10.03m; B: 8.31+2=10.31m (<20m). 2m is assumed total termination/vertical allowance.\PHV centre-lines: 1000W at panels; 600W branches; final 300W; generally 1400D. Segregate HV/LV. Covered trenches; no beam obstruction.	
+802E	MTEXT	E-T1-PAPER-NOTES	DETAIL 1:75 AT A3 | NOT A CONSTRUCTION DRAWING	
+802F	MTEXT	E-T1-PAPER-NOTES	Basis: supplied COP215 Rev07; COP101 v16 clauses 4.3, 5.5, 5.6, 6.1-6.7.\PSee Task1 for load estimate, equipment reservations and design assumptions.	
+8030	MTEXT	E-T1-PAPER-NOTES	LINE KEY: dashed = HV trench; solid = LV route; chain = clearance envelope.	
+8031	VIEWPORT	E-T1-VPORT-NOPLOT		

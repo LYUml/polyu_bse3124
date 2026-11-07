@@ -1,9 +1,9 @@
 interface_id,item,standard_reference,dimension_or_requirement,design_application,status
-TR-01,Room reservation,COP101 v16 drawings PDF p2 T-COP-10250-D-E33-0101-03,5450 x 12430 mm,study rotated clockwise 90 degrees; long axis along building south side,room envelope drawn; internal layout pending
+TR-01,Room reservation,COP101 v16 drawings PDF p2 T-COP-10250-D-E33-0101-03,5450 x 12430 mm,study rotated clockwise 90 degrees; long axis along building south side,adopted room and equipment envelopes drawn
 TR-02,Partition fire resistance,same standard drawing,2 hours FRR all partition walls,apply at transformer room and customer switchroom interfaces,wall construction not designed
 TR-03,Transformer room floor level,same standard drawing,+0.15 relative to external access +0.00,show proposed 150 mm level difference; coordinate transport and flood protection,site levels unknown
-TR-04,Door operation,same standard drawing,180 degree swings into open access,provide external opening space; do not infer door width from pixel scale,openings pending
+TR-04,Door operation,same standard drawing,180 degree swings into open access,provide external opening space; do not infer door width from pixel scale,door openings and sequential-use swings drawn
 TR-05,Transformer working passage,same standard drawing,1000 mm dimensioned working passages; selected locations 600 mm,retain dimensioned clearances in equipment layout; not a universal clearance rule,actual equipment footprints pending
-TR-06,Transformer cable trenches,same standard drawing,1100 mm falling to1400 mm;1400 mm trenches; HV 1000 falling to1400 mm,coordinate civil structure drainage and service entries,trench routes pending
-TR-07,Ventilation,same standard drawing,high-level exhaust and low-level intake louvre,provide on external side and coordinate COP101 section6,ventilation calculation pending
-TR-08,Customer LV connection,same standard drawing,adjacent customer switchroom with ACB zone and MCT connection,retain direct interface between transformer LV equipment and customer section,bus/cable connections pending
+TR-06,Transformer cable trenches,same standard drawing,1100 mm falling to1400 mm;1400 mm trenches; HV 1000 falling to1400 mm,coordinate civil structure drainage and service entries,HV/LV route reservations drawn; civil coordination required
+TR-07,Ventilation,same standard drawing,high-level exhaust and low-level intake louvre,provide on external side and coordinate COP101 section6,louvre free-area check complete; fan duty requires actual heat losses
+TR-08,Customer LV connection,same standard drawing,adjacent customer switchroom with ACB zone and MCT connection,retain direct interface between transformer LV equipment and customer section,two LV interface routes drawn and lengths checked

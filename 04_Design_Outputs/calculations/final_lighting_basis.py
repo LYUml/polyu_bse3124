@@ -15,7 +15,7 @@ zones={
  'Upper east room':dict(circuits=['LC-F'],rectangles=[[75.215,79.808432,24.1569,31.4881]],target=500),
  'South east room':dict(circuits=['LC-G'],rectangles=[[75.215,78.783432,16.105584,17.050584],[75.215,79.808432,17.050584,19.1625]],target=500)}
 profiles={}
-for W,name in [(22,'LOW'),(28,'MEDIUMLOW')]:
+for W,name in [(22,'LOW'),(28,'MEDIUMLOW'),(38,'HIGH')]:
  a=(D/f'photometry/PIL_PLATO_600_840_MULTIPOWER_{name}_3117955.ldt').read_text().splitlines()
  assert int(a[2])==4 and int(a[3])==72 and int(a[5])==181 and float(a[31])==W
  profiles[W]=(np.array(a[295:],float).reshape(19,181),float(a[28]))

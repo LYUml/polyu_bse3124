@@ -11,7 +11,7 @@ Group1 — BSE3124 Electricity and Buildings, PolyU,2026/27 Semester1.
 - [Editable LaTeX source and build instructions](04_Design_Outputs/submission/source/README.md)
 - [Validation and design conditions](04_Design_Outputs/submission/VALIDATION.md)
 
-The19-page answer groups each task continuously: cover,p1; Task1,p2–5; Task2,p6–14; Task3,p15–19. Relevant drawings sit within their task. Only one final submission is retained; older versions and temporary outputs have been removed from the working folder. Git history retains earlier work.
+The18-page answer groups each task continuously: cover,p1; Task1,p2–5; Task2,p6–14; Task3,p15–18. Relevant drawings sit within their task. Only one final submission is retained; older versions and temporary outputs have been removed from the working folder. Git history retains earlier work.
 
 ## Workspace
 
