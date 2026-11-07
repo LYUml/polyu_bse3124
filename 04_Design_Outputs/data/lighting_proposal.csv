@@ -1,0 +1,25 @@
+device_id,type,floor,office,x_mm,y_mm,circuit_candidate,source,status
+L01,F01,typical,Office 1,66308.432,18295.584,L1,600mm ceiling grid; provisional,draft: check walls and full office coverage
+L02,F01,typical,Office 1,68708.432,18295.584,L1,600mm ceiling grid; provisional,draft: check walls and full office coverage
+L03,F01,typical,Office 1,71108.432,18295.584,L1,600mm ceiling grid; provisional,draft: check walls and full office coverage
+L04,F01,typical,Office 1,73508.432,18295.584,L1,600mm ceiling grid; provisional,draft: check walls and full office coverage
+L05,F01,typical,Office 1,66308.432,20695.584,L2,600mm ceiling grid; provisional,draft: check walls and full office coverage
+L06,F01,typical,Office 1,68708.432,20695.584,L2,600mm ceiling grid; provisional,draft: check walls and full office coverage
+L07,F01,typical,Office 1,71108.432,20695.584,L2,600mm ceiling grid; provisional,draft: check walls and full office coverage
+L08,F01,typical,Office 1,73508.432,20695.584,L2,600mm ceiling grid; provisional,draft: check walls and full office coverage
+L09,F01,typical,Office 1,66308.432,23095.584,L3,600mm ceiling grid; provisional,draft: check walls and full office coverage
+L10,F01,typical,Office 1,68708.432,23095.584,L3,600mm ceiling grid; provisional,draft: check walls and full office coverage
+L11,F01,typical,Office 1,71108.432,23095.584,L3,600mm ceiling grid; provisional,draft: check walls and full office coverage
+L12,F01,typical,Office 1,73508.432,23095.584,L3,600mm ceiling grid; provisional,draft: check walls and full office coverage
+L13,F01,typical,Office 1,66308.432,25495.584,L1,600mm ceiling grid; provisional,draft: check walls and full office coverage
+L14,F01,typical,Office 1,68708.432,25495.584,L1,600mm ceiling grid; provisional,draft: check walls and full office coverage
+L15,F01,typical,Office 1,71108.432,25495.584,L1,600mm ceiling grid; provisional,draft: check walls and full office coverage
+L16,F01,typical,Office 1,73508.432,25495.584,L1,600mm ceiling grid; provisional,draft: check walls and full office coverage
+L17,F01,typical,Office 1,66308.432,27895.584,L2,600mm ceiling grid; provisional,draft: check walls and full office coverage
+L18,F01,typical,Office 1,68708.432,27895.584,L2,600mm ceiling grid; provisional,draft: check walls and full office coverage
+L19,F01,typical,Office 1,71108.432,27895.584,L2,600mm ceiling grid; provisional,draft: check walls and full office coverage
+L20,F01,typical,Office 1,73508.432,27895.584,L2,600mm ceiling grid; provisional,draft: check walls and full office coverage
+L21,F01,typical,Office 1,66308.432,30295.584,L3,600mm ceiling grid; provisional,draft: check walls and full office coverage
+L22,F01,typical,Office 1,68708.432,30295.584,L3,600mm ceiling grid; provisional,draft: check walls and full office coverage
+L23,F01,typical,Office 1,71108.432,30295.584,L3,600mm ceiling grid; provisional,draft: check walls and full office coverage
+L24,F01,typical,Office 1,73508.432,30295.584,L3,600mm ceiling grid; provisional,draft: check walls and full office coverage
