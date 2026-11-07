@@ -1,6 +1,10 @@
 # BSE3124 电气设计作业
 
-先读 [项目执行声明](PROJECT_SPEC.md)：当前配置状态、设计步骤、数据规则和验收条件。
+最终交付入口：[Group 1 答案、图纸及计算说明](04_Design_Outputs/submission/README.md)。
+
+[最终答案PDF](04_Design_Outputs/submission/BSE3124_Answer_Sheets_v03.pdf) · [可编辑DWG](04_Design_Outputs/cad/assignment_submission_v01.dwg) · [逐项验收记录](04_Design_Outputs/submission/FINAL_ACCEPTANCE.md)
+
+[项目执行声明](PROJECT_SPEC.md)说明配置、设计步骤、数据规则和验收条件。
 
 | 目录 | 内容 |
 |---|---|
@@ -16,7 +20,7 @@
 - [资源目录](06_Research/RESOURCE_CATALOG.md)
 - [环境验证](06_Research/verification/setup_verification.json)
 - [MCP测试](06_Research/verification/mcp_smoke_test.json)
-- [背景工作流](06_Research/background/WORKFLOW.md)
+- [计算与绘图工作流](04_Design_Outputs/submission/README.md)（历史background/WORKFLOW.md当前缺失）
 
 隐藏目录`.venv`为Python环境，`.codex`为项目配置，`.agents`为skill。AGENTS.md是后续AI工作规则。
 
@@ -27,4 +31,4 @@
 .venv/Scripts/python.exe 05_Tools/smoke_mcp.py
 ```
 
-当前已完成准备和工具测试，正式电气设计及出图仍待进行。
+Task1–3课程作业已按原题验收，最终PDF共12页。历史工作图/候选计算不代表最终采用值；当前入口和条件见交付说明。

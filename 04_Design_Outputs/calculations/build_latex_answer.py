@@ -75,7 +75,7 @@ parts = [r"""
 \begin{document}
 \includepdf[pages=1]{assets/official-cover.pdf}
 \task{Task 1 Loading estimation and transformer room location}
-\textbf{Working submission v02.} This answer follows the three supplied tasks and retains the official answer-sheet cover. Group1 identities are entered on the cover. The stated course assumptions define the calculations; they are not site measurements or certification of installed products.
+\textbf{Final submission v03.} This answer follows the three supplied tasks and retains the official answer-sheet cover. Group1 identities are entered on the cover. The stated course assumptions define the calculations; they are not site measurements or certification of installed products.
 \subsection*{Building load assessment}
 Adopt the drawing areas 309, 309 and 410\,m$^2$ as usable floor areas for ten identical office floors. This is a course assumption: the UFA exclusions have not been independently reconciled. Use supplied CLP COP215 Rev07. The assignment's 1000\,kW is cooling capacity. Assume packaged air-cooled central AC, electrical PF 0.90 and five lifts. The 40\,kVA/lift public-services allowance is aggregate, not a lift motor rating.
 \begin{align*}
@@ -205,8 +205,8 @@ The appendix shows assumed HV3000 by1000mm and transformer2200 by1800mm equipmen
 Two600 by2000mm louvres at assumed50\% free area provide1.20m$^2$, above clause6.3's1.12m$^2$ reference; certified free area must be at least46.67\%. Fan symbols are conditional provisions, not actual heat-loss calculations. LV interfaces including assumed tails are10.03/10.31m, below the20m limit in5.5.2.2. Actual equipment, structures, openings and ventilation must satisfy these declared conditions.
 """ + source[end:]
 source = source.replace(
-    r"\textbf{Working submission v02.} This answer follows the three supplied tasks and retains the official answer-sheet cover. Group1 identities are entered on the cover. The stated course assumptions define the calculations; they are not site measurements or certification of installed products.",
-    r"\textbf{Working submission v02.} Official cover and task structure are retained. The stated assumptions define a course design, not site certification.")
+    r"\textbf{Final submission v03.} This answer follows the three supplied tasks and retains the official answer-sheet cover. Group1 identities are entered on the cover. The stated course assumptions define the calculations; they are not site measurements or certification of installed products.",
+    r"\textbf{Final submission v03.} Official cover and task structure are retained. The stated assumptions define a course design, not site certification.")
 source = source.replace("the previous meeting-room description of FB09/SO01 is superseded.", "including FB09 and SO01.")
 source = source.replace("Earlier80A nominal-capacity studies are historical; this design uses the now-drawn13A fused-point restrictions.", "This demand depends on the specified13A fused-point restrictions.")
 source = source.replace(r"\setlength{\parskip}{5pt}", r"\setlength{\parskip}{5pt}" + "\n" + r"\emergencystretch=1em")

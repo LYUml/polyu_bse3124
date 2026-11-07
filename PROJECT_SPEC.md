@@ -14,20 +14,20 @@
 
 交付建筑全栋负荷估算、首层变压器房及主低压开关房布置，以及一个办公室的照明、动力、MCB 图、进出线最大需求电流和电缆选择。建筑为10个标准层加首层，每标准层三个租户。所选租户采用Office 1。
 
-当前已形成三项技术工作答案、机房图及完整配电图；是否可验收以完成清单和最终证据为准。1000 kW 是题目给定的冷负荷；电力负荷需要系统COP及相应功率因数依据。未量取的面积、设备功率、电缆路径和规范条文不能作为已知值填入答案。
+当前三项课程作业已通过逐项交付验收；入口为04_Design_Outputs/submission/README.md，最终答案v03及DWG v01的证据见FINAL_ACCEPTANCE.md。现场/厂家条件仍按答案明确假设，不宣称现场认证。1000 kW 是题目给定的冷负荷；电力负荷需要系统COP及相应功率因数依据。未量取的面积、设备功率、电缆路径和规范条文不能作为已知值填入答案。
 
 ## 已配置与验证边界
 
 | 项目 | 配置 | 验证与限制 |
 |---|---|---|
-| AutoCAD | 本机 Windows AutoCAD 2027 | 已完成DWG保存复开和三灯样板验证；当前工作副本为assignment_working_v02.dwg，最终正常平面出图及复开验收仍待完成 |
+| AutoCAD | 本机 Windows AutoCAD 2027 | 当前工作副本assignment_working_v02.dwg；交付副本assignment_submission_v01.dwg已由AutoCAD2027 Core Console原生复开，863个登记对象无缺失；五张交付图已逐页目检。原互动会话取消出图窗口仍停留，未重启 |
 | LaTeX | 本机用户目录MiKTeX，XeLaTeX/pdfLaTeX/texify | 已实测中英文、数学、表格与交叉引用；作业答案原生编译并逐页目检 |
 | Python | 项目 `.venv`，Python 3.12 | 包依赖检查通过；从本机Codex附带Python建立，迁移电脑须重建环境 |
 | AutoCAD MCP | U-C4N/Autocad-MCP，1.8.0，提交 `6f6a538255ca9f885232e845ac32f10b4433fe3e` | 源码在 `05_Tools/autocad-mcp`；安装 COM、DXF 和PDF渲染依赖；stdio初始化、工具列表和system_about查询实测通过 |
 | Codex 接入 | `.codex/config.toml`，服务 `bse3124_autocad` | 使用 COM，禁止自动启动CAD，只允许输出目录文件路径；新会话加载后仍须确认工具出现 |
 | DXF | ezdxf，随MCP安装 | 合成三圆样例用于工具测试，不是办公室布灯成果 |
 | QA skill | `.agents/skills/autocad-dwg-redraw` | 项目级安装，下一轮可发现；只在需要剖析/核对DWG时使用，不默认重绘底图 |
-| 官方资料 | `03_Technical_References/Official` | EMSD两份PDF已下载；CLP四份PDF直接下载返回403，保留正式链接和失败记录 |
+| 官方资料 | `03_Technical_References/Official` | EMSD两份PDF已下载；CLP四份PDF现已手动取得并保留于Official，SHA256见04_Design_Outputs/data/official_reference_manifest.json；旧403记录属于下载历史 |
 
 运行环境和原件SHA256记录在 `06_Research/verification/setup_verification.json`；软件依赖快照在 `05_Tools/requirements.lock.txt`。MCP是第三方软件，安装和冒烟验证不等于完整代码审计或AutoCAD 2027兼容认证。
 

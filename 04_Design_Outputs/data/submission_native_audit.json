@@ -91,7 +91,7 @@
     "TASK2-LIGHTING-PLAN",
     "TASK2-POWER-PLAN"
   ],
-  "saved": false,
-  "native_reopen": "separate gate pending",
+  "saved": true,
+  "native_reopen": "see native_reopen_gate.json: independent AutoCAD2027 saved-file audit",
   "checks_pass": true
 }

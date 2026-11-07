@@ -13,7 +13,7 @@ try {
     }
     $latexIssues = Select-String -LiteralPath build/main.log -Pattern 'Overfull|undefined references|LaTeX Error'
     if ($latexIssues) { $latexIssues; throw 'Review LaTeX layout diagnostics before delivery' }
-    Copy-Item -LiteralPath build/main.pdf -Destination ../BSE3124_Answer_Sheets_v02.pdf -Force
+    Copy-Item -LiteralPath build/main.pdf -Destination ../BSE3124_Answer_Sheets_v03.pdf -Force
 } finally {
     Pop-Location
 }

@@ -63,6 +63,6 @@ result = dict(drawing=D.FullName, components=112, luminaires=92, power_points=13
               switches=7, circuits=15, membership_discrepancies=0,
               native_luminaire_labels_checked=92, native_routes=routes,
               required_layouts=required, saved=bool(D.Saved),
-              native_reopen="separate gate pending", checks_pass=True)
+              native_reopen="see native_reopen_gate.json: independent AutoCAD2027 saved-file audit", checks_pass=True)
 (DATA / "submission_native_audit.json").write_text(json.dumps(result, indent=2))
 print(json.dumps({k: v for k, v in result.items() if k != "native_routes"}))
