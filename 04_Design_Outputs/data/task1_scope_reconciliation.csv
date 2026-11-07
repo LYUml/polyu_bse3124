@@ -1,0 +1,7 @@
+load_component,quantity_or_value,unit,source,course_design_treatment,outstanding
+Office1 typical floor,309,m2,drawing 6EFD,use annotation as stated design assumption,confirm UFA exclusions
+Office2 typical floor,309,m2,drawing 6F00,use annotation as stated design assumption,confirm UFA exclusions
+Office3 typical floor,410,m2,drawing 6F03,use annotation as stated design assumption,confirm UFA exclusions
+Central cooling duty,1000,kW cooling,assignment,total building cooling duty,allocate lobby and tenant AC without overlap
+Public-services reference,200,kVA,COP215 3.1.6 and 3.3.1; five lifts assumed,aggregate reference includes public lighting lifts pumps fire services lobby AC,lobby AC overlap with central system unresolved
+Multi-transformer zoning factor,1.1,multiplier,COP215 3.1.7,apply to final reconciled load if proposed transformers serve separate zones,assign floors and common plant between zones

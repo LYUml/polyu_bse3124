@@ -1,4 +1,4 @@
-﻿assumption_id,subject,value,unit,basis,status
+assumption_id,subject,value,unit,basis,status
 AS01,Number of identical typical floors,10,floors,Assignment statement,adopted
 AS02,Use drawing office areas as UFA provisionally,yes,,Drawing annotations 6EFD 6F00 6F03,boundary verification required
 AS03,Air conditioning reference system,packaged air cooled,,COP215 Rev07 Appendix 7,provisional
@@ -10,3 +10,5 @@ AS08,Lighting maintenance factor,0.80,,Sensitivity assumption pending maintenanc
 AS09,Lighting voltage,220,V,"CLP Supply Rules Rule 202.4(b), local Aug 2026 PDF p10; confirm supply arrangement",adopted for preliminary calculations
 AS10,Lighting power factor,0.90,,Signify PF 0.90; PIL 3117955 PF >0.9 conservatively 0.90,provisional for steady-state estimate
 AS11,Pantry luminaire candidate and setting,PIL PLATO 600 MP 3117955 at 22 W / 2843 lm,,manufacturer product 3117955; see lighting review,"provisional; controls, voltage drop and photometry pending"
+AS12,Task1 public-services reference,200,kVA,COP215 3.1.6 and 3.3.1; 5 lifts x 40 kVA/lift; includes lobby AC,reference allowance; overlap with total building cooling must be reconciled
+AS13,Supply zoning for Task1,two zones,,Design proposal; COP215 3.1.7 applies when transformers serve different zones,proposed; floor and central plant allocation required
