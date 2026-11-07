@@ -93,11 +93,11 @@ SE04,LED panel (candidate),typical,Office 1,77914.962,18205.584,mm; lighting pla
 FB01,floor box 4x13A,typical,Office 1,68000,-21350,mm; power plan,,,P1,PROVISIONAL: power_proposal_v2.csv; loading and circuit arrangement unverified
 FB02,floor box 4x13A,typical,Office 1,69500,-23200,mm; power plan,,,P1,PROVISIONAL: power_proposal_v2.csv; loading and circuit arrangement unverified
 FB03,floor box 4x13A,typical,Office 1,68000,-26650,mm; power plan,,,P2,PROVISIONAL: power_proposal_v2.csv; loading and circuit arrangement unverified
-FB04,floor box 4x13A,typical,Office 1,69500,-26600,mm; power plan,,,P2,PROVISIONAL: power_proposal_v2.csv; loading and circuit arrangement unverified
+FB04,floor box 4x13A,typical,Office 1,69100,-26600,mm; power plan,,,P2,PROVISIONAL: power_proposal_v5.csv; moved after furniture geometry screen; mounting and circuit unverified
 FB05,floor box 4x13A,typical,Office 1,66114.1,-30431.7,mm; power plan,,,P3,PROVISIONAL: power_proposal_v2.csv; loading and circuit arrangement unverified
 FB06,floor box 4x13A,typical,Office 1,71600,-30500,mm; power plan,,,P3,PROVISIONAL: power_proposal_v2.csv; loading and circuit arrangement unverified
 FB07,floor box 4x13A,typical,Office 1,73800,-26500,mm; power plan,,,P4,PROVISIONAL: power_proposal_v2.csv; loading and circuit arrangement unverified
-FB08,floor box 4x13A,typical,Office 1,79200,-26700,mm; power plan,,,P4,PROVISIONAL: power_proposal_v2.csv; loading and circuit arrangement unverified
+FB08,floor box 4x13A,typical,Office 1,79200,-26300,mm; power plan,,,P4,PROVISIONAL: power_proposal_v5.csv; moved after furniture geometry screen; mounting and circuit unverified
 FB09,floor box 4x13A,typical,Office 1,70000,-15100,mm; power plan,,,P6,PROVISIONAL: power_proposal_v3.csv; pantry grouping and loading unverified
 SO01,13A twin socket,typical,Office 1,64525.932,-14500,mm; power plan,,,P6,"PROVISIONAL: power_proposal_v4.csv; wall line only, mounting, appliance and circuit unverified"
 SO02,13A twin socket,typical,Office 1,77500,-12782.416,mm; power plan,,,P5,"PROVISIONAL: power_proposal_v4.csv; wall line only, mounting, appliance and circuit unverified"

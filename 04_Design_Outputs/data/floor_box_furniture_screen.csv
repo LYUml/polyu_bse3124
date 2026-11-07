@@ -1,0 +1,10 @@
+﻿device_id,closest_furniture_entity,source_type,centre_to_drawn_segment_mm,status
+FB01,4DFF,INSERT,457.7,"provisional; box size, lid, seating, enclosing furniture unverified"
+FB02,4DE5,INSERT,359.3,"provisional; box size, lid, seating, enclosing furniture unverified"
+FB03,4DEC,INSERT,453.4,"provisional; box size, lid, seating, enclosing furniture unverified"
+FB04,4DE8,INSERT,129.3,REVIEW: clearance under 300 mm
+FB05,4DF0,INSERT,400.0,"provisional; box size, lid, seating, enclosing furniture unverified"
+FB06,4DF3,INSERT,315.6,"provisional; box size, lid, seating, enclosing furniture unverified"
+FB07,4DF7,INSERT,412.2,"provisional; box size, lid, seating, enclosing furniture unverified"
+FB08,4DF4,INSERT,200.7,REVIEW: clearance under 300 mm
+FB09,4E73,LWPOLYLINE,825.8,"provisional; box size, lid, seating, enclosing furniture unverified"
