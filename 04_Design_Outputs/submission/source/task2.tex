@@ -1,7 +1,8 @@
 \task{Task 2 Layout drawings and MCB board schematics}
-\textbf{The office tenant chosen for layout design: Office 1.}
+{\fontsize{12}{14}\selectfont\tenantselection}
 \subsection*{Normal lighting and local controls}
 The design contains 92 working 600 mm-grid panel positions using PIL PLATO 600 MultiPower 3117955: sixty 22 W and thirty-two 28 W, total 2216 W. The retained LDT manifest gives nominal flux 2843.45 and 3555.30 lm respectively. Match the ceiling grid, partitions and furniture, with separate enclosed-space circuits and distributed main-office circuits. A500 lx task-plane target is a design assumption;  certified photometric uniformity/glare compliance is not claimed. Connected lighting density at the provisional 309 m$^2$ is 7.172 W/m$^2$;  this arithmetic alone is not energy-code compliance.
+
 Seven local passive manual switches S-A--S-G control their corresponding circuits. Specify minimum 20AX, LED switching at least 600 W and make/break/inrush compatibility for the selected drivers. S-A/B/C use separate enclosures because their phases differ. No borrowed neutral is allowed. Routes visit each switch;  include 2 m DB rise plus 1.5 m down/1.5 m back at the switch, giving 5 m assumed vertical allowance per lighting radial. Passive controls add no operating power.
 \begin{center}\begin{tabular}{lrrrrl}\toprule
 Circuit & Lamps & W & Phase & RCBO & Control\\\midrule
@@ -19,6 +20,7 @@ Plan A/B/C numeric labels map to corresponding LED IDs and LC-A/B/C. D01--D11 ma
 \input{lighting_basis.tex}
 \subsection*{Small power and fixed equipment}
 Provide nine four-socket floor boxes, three twin wall sockets and fixed connection FS01. Each floor-box/socket assembly is individually 13 A fused. This defines intended continuous demand, not an instantaneous current clamp. FS01 reserves equipment up to 13 A;  appliance identity/watts are not invented. Building central AC is supplied as central plant and not duplicated in this office DB.
+
 P1--P4 are A1 rings with fused floor-box connections. P5/P6/P8 are A2 radials;  P7 is a fixed radial. Both P6 and P8 serve the source PANTRY;  including FB09 and SO01. P8 is retained as a separate socket group by design choice, not because each pantry outlet requires its own final circuit. Kitchen sockets are separated from ordinary office circuits under EMSD6E(3)(a).
 \begin{center}\begin{tabular}{llllr}\toprule
 Circuit & Points & Phase & Topology & Protection\\\midrule
@@ -37,6 +39,7 @@ Defined service envelopes satisfy A1 maximum 100 m$^2$ and A2 maximum 50 m$^2$. 
 \input{installation_notes.tex}
 \subsection*{Protection and board arrangement}
 The complete schematic shows C63 four-pole protection at MS-O1, 4-core 35 mm$^2$ plus CPC16, a 100 A four-pole DB isolator, independent L1/L2/L3/N/PE bars and 15 separate 1P+N TypeA30mA RCBOs. Every load neutral passes through its own RCBO;  none are shared downstream. PE bypasses all switches. Label circuits/phases and allow one final circuit to be isolated without interrupting the rest.
+
 Use B-curve final protection and require compatible driver inrush. Do not change to a C curve without recalculation. Apparatus must meet Task 3 breaking/energy limits. Ratings/curves alone do not prove full short-circuit discrimination;  none is claimed.
 \subsection*{Emergency lighting assumption}
 Assume landlord emergency lighting/exit signage on independent essential systems, electrically separated under EMSD6B(4). No ordinary tenant panel is an emergency fitting. Emergency feeds must not pass through tenant normal-lighting switches or these RCBO load sides. Emergency load is excluded from this normal DB under this explicit course boundary;  installed escape coverage, autonomy and illuminance are not certified.

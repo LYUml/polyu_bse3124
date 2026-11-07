@@ -6,8 +6,16 @@
 \pagestyle{empty}\setlength{\parindent}{0pt}\setlength{\parskip}{5pt}
 \setlength{\tabcolsep}{4pt}\renewcommand{\arraystretch}{1.16}\emergencystretch=2em
 \setlength{\unitlength}{1bp}
-\newcommand{\slot}[4]{\put(#1,\dimexpr841.92bp-#2bp\relax){\makebox(0,0)[lt]{\begin{minipage}[t]{#3bp}\vspace{0pt}\fontsize{11}{13}\selectfont #4\end{minipage}}}}
+\newcommand{\slot}[4]{\put(#1,\dimexpr841.92bp-#2bp\relax){\makebox(0,0)[lt]{\begin{minipage}[t]{#3bp}\vspace{0pt}\fontsize{11}{13}\selectfont\setlength{\parskip}{5pt} #4\end{minipage}}}}
+% Match the teacher's restrained heading hierarchy.
+\makeatletter
+\renewcommand\section{\@startsection{section}{1}{0pt}{12pt}{7pt}{\normalfont\fontsize{12}{14}\selectfont\bfseries}}
+\renewcommand\subsection{\@startsection{subsection}{2}{0pt}{10pt}{5pt}{\normalfont\fontsize{11}{13}\selectfont\bfseries}}
+\makeatother
+\newcommand{\tenantselection}{\textbf{The office tenant chosen for layout design: Office 1.}}
 \newcommand{\task}[1]{\section*{#1}}
+\widowpenalty=10000\clubpenalty=10000
+\AddToShipoutPictureFG{\ifnum\value{page}>1\AtPageLowerLeft{\put(\dimexpr0.5\paperwidth\relax,24){\makebox(0,0){\fontsize{9}{11}\selectfont\thepage}}}\fi}
 \newcommand{\sheet}[2]{\long\gdef\currentsheetoverlay{#2}\includepdf[pages=#1,fitpaper=true,noautoscale=true,pagecommand={\AddToShipoutPictureFG*{\AtPageLowerLeft{\currentsheetoverlay}}}]{assets/official-template.pdf}}
 \begin{document}
 \sheet{1}{
@@ -37,7 +45,11 @@ Reserve 3\,m delivery access within 20\,m of unloading. Adopt COP101 v16 4.3 cle
 \input{task1.tex}
 \clearpage\ClearShipoutPictureBG
 \includepdf[pages=-,fitpaper=true]{assets/task1-drawings.pdf}
-\sheet{3}{\slot{80}{181}{435}{
+\sheet{3}{
+% Replace the unselected template options with the adopted tenant.
+\put(76,711){\color{white}\rule{445bp}{18bp}}
+\slot{77.664}{114}{435}{\fontsize{12}{14}\selectfont\tenantselection}
+\slot{80}{181}{435}{
 \textbf{Selected tenant: Office 1.} See attached lighting/power plans, filled board template and detailed L/N/PE schematic.
 
 \textbf{Lighting.} 92 PIL PLATO 600 panels: sixty 22\,W and thirty-two 28\,W, total 2216\,W. Seven circuits LC-A--LC-G have 18/17/18/11/14/10/4 lamps, each protected by B10 Type A 30\,mA 1P+N RCBO. Each has its own neutral and local manual control S-A--S-G. Different-phase switches use separate enclosures. Ceiling-grid and furniture relationships guide positions.

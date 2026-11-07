@@ -12,6 +12,7 @@ L3 & 3.788 & 32.500 & 13.000 & 48.909 \\
 Maximum phase demand is \textbf{48.909 A};  select C63 at the source and 100 A DB isolation/busbars. Maximum undiversified phase point allowance 68.444 A is below the board rating. This demand depends on the specified 13 A fused-point restrictions.
 \subsection*{Incoming cable}
 Select 4-core 35 mm$^2$ PVC copper L1/L2/L3/N plus separate 16 mm$^2$ PVC copper CPC, MethodB in protected enclosed containment. Proposed same-floor meter-to-DB route 28.5119 m plus assumed 3 m total vertical/termination allowance gives 31.5119 m. The proposed source is near the supplied METER label, not a measured termination. Upstream ground-to-floor distribution is retained through explicit voltage/fault conditions.
+
 For 40\,degrees C take $C_a=0.87$, $C_g=1$, and $C_h=0.86$ for assumed third-harmonic content greater than 15\% and at most 33\% in this four-core cable (A5(7)). Keep a full-size neutral and reselect if this range is exceeded.
 \begin{align*}
 I_{z,25}&=80(0.87)(0.86)=59.856\,{\rm A}<63\,{\rm A},\quad\text{reject},\\
@@ -21,7 +22,9 @@ I_{z,35}&=99(0.87)(0.86)=74.0718\,{\rm A},\\
 TableA6(2) column 5 supplies ratings. Table 11(2)(a) gives CPC16 for $16<S\le 35$;  energy is checked below. For unbalanced phase-neutral drop with neutral current at most 63 A, derive $(2/\sqrt 3)(1.10)=1.270170592$\,mV/A/m from the three-phase table impedance. Feeder drop at 63 A is 2.521606 V;  at design current 1.957610 V. This fundamental-frequency check is not harmonic-distortion assessment.
 \subsection*{All outgoing cables}
 All sizes are PVC copper L/N/CPC. Lighting grouped separately has $I_z=24(0.87)(0.54)=11.2752$A for seven 2.5 mm$^2$ circuits;  all $I_b\le 10\le I_z$. Lighting lengths include 5 m DB/switch vertical allowance.
+
 Uniform ring banks count four current-carrying legs: $I_z=41(0.87)(0.65)=23.1855$A per 6 mm$^2$ leg, above the standard 20 A minimum. Ring-network solution at 13 A per point gives maximum leg currents 14.658--15.203 A, below $I_z$. Do not compare radial $I_n\le I_z$ against just one ring leg. Continuity and fused-point restrictions are essential.
+
 The 10 mm$^2$ A2 radials have $I_z=57(0.87)(0.70)=34.713$A;  P7's separate 4 mm$^2$ radial has $I_z=32(0.87)=27.84$A. Power radial allowance is 2 m vertical, rings 2 m at each DB end;  all local point spurs add 0.5 m of 4 mm$^2$ cable.
 \begin{longtable}{llrrrr}\toprule
 Circuit & Phase & $I_b$ A & RCBO A & L/N/CPC mm$^2$ & Main length m\\\midrule\endhead
@@ -45,6 +48,7 @@ P8 & L3 & 13.000 & 32 & 10 & 15.107 \\
 \bottomrule\end{longtable}
 \subsection*{Complete voltage drop and fault checks}
 Sum segment downstream-current drops on radials and solve the two-feed ring network. Include stated vertical/local allowances. Add 2.2 V pre-origin allowance,2.521606 V feeder bound and outgoing drop. The full limit is $0.04(220)=8.8$V.
+
 Adopt TN-S, external source loop impedance 0.20 ohm and PFC at most 6 kA at MS-O1/downstream. These are course conditions, not measurements. Incoming phase+CPC bound 0.064129 ohm gives DB external loop 0.264129 ohm. Table 11(10) reference limits are B10=4.17, B16=2.61, B32=1.31 and C63=0.33 ohm. Use operating-temperature paths and minimum voltage factor 0.95. Worst uniform-ring parallel path is at most quarter circumference.
 \begin{longtable}{lrrrrr}\toprule
 Circuit & Out drop V & Total drop \% & $Z_s$ ohm & Min fault A & $Z_s$ limit ohm\\\midrule\endhead
@@ -69,9 +73,14 @@ P8 & 0.936 & 2.571 & 0.336 & 621.8 & 1.31 \\
 All 15 full voltage bounds pass;  worst 3.031\%. Each B-curve final circuit exceeds minimum earth-fault threshold $5I_n$. Incoming C63 gives $Z_s=0.264129<0.33$ohm and $I_{f,\min}=791.28>10(63)=630$A, satisfying reference instantaneous disconnection under the adopted conditions.
 \subsection*{Overload and total clearing energy}
 Use $k=115$ for bunched PVC copper CPCs initially 70\,degrees C (11(2)(c));  require total $I^2t\le(kS)^2$. Specify 10 kA main/RCBO interruption. Require class 3-equivalent B-curve total energy at most 70,000 A$^2$s for B10/B16,90,000 for B32. These are functional selection requirements, not automatic certification of any RCBO. CPC withstands are 82,656.25 (2.5 mm$^2$),211,600 (4),476,100 (6),1,322,500 (10), each above the required device bound.
+
 Incoming C63 total energy must be at most 1,000,000 A$^2$s over the relevant fault range, below CPC16 withstand 3,385,600. Complete 13 A FCU energy must be at most 90,000, below the 4 mm$^2$ spur withstand 211,600. The incoming/FCU limits are explicit apparatus performance specifications, not invented manufacturer data.
+
 For fuse overload, $I_2=1.9(13)=24.7$A. Spur $I_z=32(0.87)(0.70)=19.488$A gives $1.45I_z=28.2576>24.7$A. For P1--P4, overload suitability uses the standard A1 arrangement in EMSD 6C, 6E and Table 6(1), Note 1(i): 32 A protection, copper size at least 2.5 mm$^2$, corrected per-leg capacity at least 20 A, served area at most 100 m$^2$, intact L/N/CPC rings and evenly distributed outlets. The adopted 6 mm$^2$ rings meet these conditions. Exactly two individually 13 A fused connections are allowed per ring; no extra unfused taps. The nominal leg-current solution is supplementary load-distribution evidence, not a protective-device $I_2$. The fuse reference 6 kA interruption meets assumed PFC at most 6 kA. Its typical pre-arcing 870 A$^2$s is \emph{not} total clearing energy. Assume FCU ambient at most 35\,degrees C and board apparatus at most 30\,degrees C;  containment 40\,degrees C remains the conservative cable condition.
+\clearpage
 \subsection*{Sources and reproducibility}
 Cite supplied COP215 Rev 07 and downloaded COP101 v 16 as above. EMSD Wiring CoP2025: Table 6(1), printed 56/PDF 57; 7(1), printed 65--67/PDF 66--68; 9B, printed 79/PDF 80; 11(2), printed 99--100/PDF 100--101; 11(10), printed 105/PDF 106;  A5 factors PDF 274--279;  A6 tables PDF 282--285.
-ABB guide 9AKK108468A3912 printed 130 gives the class 3 B-curve energy references. Eaton TDC180 Technical Data 2042 August 2024 p 2 gives conventional-fusing/interruption references, not total energy. URLs and explicit conditions are in the common data file \texttt{fault\_design\_conditions.json}.
+
+ABB guide 9AKK108468A3912 printed 130 gives the class 3 B-curve energy references. Eaton TDC180 Technical Data 2042 August 2024 p 2 gives conventional-fusing/interruption references, not total energy. URLs and explicit conditions are in the common data file \nolinkurl{fault_design_conditions.json}.
+
 Tables are generated from current common CSV/JSON data. Reproduce the lighting/power route, demand, incoming and fault scripts before rebuilding this answer. Guarded DWG mutations must not be rerun blindly. Original source documents are retained. Normal lighting/power layout PDFs have been visually reviewed. Final native DWG save/reopen consistency verification is recorded separately in the acceptance evidence.
