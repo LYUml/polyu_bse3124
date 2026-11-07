@@ -4,7 +4,9 @@
 
 最终交付入口：[Group 1 答案、图纸及计算说明](04_Design_Outputs/submission/README.md)。
 
-[最终答案PDF](04_Design_Outputs/submission/BSE3124_Answer_Sheets_v03.pdf) · [可编辑DWG](04_Design_Outputs/cad/assignment_submission_v01.dwg) · [逐项验收记录](04_Design_Outputs/submission/FINAL_ACCEPTANCE.md)
+[最终答案PDF](04_Design_Outputs/submission/BSE3124_Answer_Sheets_v04.pdf) · [可编辑DWG](04_Design_Outputs/cad/assignment_submission_v02.dwg) · [逐项验收记录](04_Design_Outputs/submission/REVISION_V04.md)
+
+[空白模板复刻](04_Design_Outputs/submission/BSE3124_Template_LaTeX.pdf)采用原版底图＋LaTeX填写；原模板文字不是重新排字，答案可编辑。
 
 [项目执行声明](PROJECT_SPEC.md)说明配置、设计步骤、数据规则和验收条件。
 
@@ -33,6 +35,6 @@
 .venv/Scripts/python.exe 05_Tools/smoke_mcp.py
 ```
 
-Task1–3课程作业已按原题验收，最终PDF共12页。历史工作图/候选计算不代表最终采用值；当前入口和条件见交付说明。
+Task1–3已按2026-11-08审查结果修订，最终PDF共19页；计算通过仅限声明的课程条件，详见修订记录。历史工作图/候选计算不代表最终采用值；当前入口和条件见交付说明。
 
-历史草稿、试验出图及恢复备份统一位于[输出归档](04_Design_Outputs/archive/2026-11-07/README.md)。当前cad目录只保留交付DWG与工作DWG，pdf目录只保留三张采用出图。
+历史草稿、试验出图及恢复备份统一位于[输出归档](04_Design_Outputs/archive/2026-11-07/README.md)。当前cad目录保留版本化交付DWG与工作DWG，pdf目录只保留三张采用出图。

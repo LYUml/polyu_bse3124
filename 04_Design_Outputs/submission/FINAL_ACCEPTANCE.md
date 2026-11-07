@@ -1,4 +1,6 @@
-# Group 1 final course-submission acceptance
+# Historical acceptance for v03
+
+**Superseded by REVIEW_20261108.md and REVISION_V04.md.** Its blanket pass statements are not the current review disposition. The live-application note below describes an earlier session, subsequently closed.
 
 Date:2026-11-07. Release: answer v03 / saved DWG v01.
 

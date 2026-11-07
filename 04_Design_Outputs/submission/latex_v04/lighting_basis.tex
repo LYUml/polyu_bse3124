@@ -1,0 +1,14 @@
+\subsection*{Final lighting selection basis}
+Use the final device table (92 panels, 2216 W), not legacy candidate schedules. Manufacturer LDT intensity is in cd/klm; scale by each selected setting's flux (22 W: 2843.45 lm; 28 W: 3555.30 lm). Integrating the intensity distribution confirms the parser's normalisation. At each 0.2 m grid cell, sum $E=I(C,\gamma)\cos\gamma/d^2$ and apply MF 0.80. No reflected-light contribution is counted.
+
+Adopt 1.9 m between luminaires and the task plane, e.g. 2.7 m ceiling and 0.8 m workplane. Heights, periodic cleaning/replacement supporting MF, and room envelopes are explicit course assumptions. The connected main-office region and three side-room envelopes are drawn from retained geometry screens; their summed area is not the separate 309 m$^2$ UFA assumption. Lamps from other rooms are excluded.
+\begin{center}\begin{tabular}{lrrrr}\toprule
+Zone & Lamps & Area m$^2$ & Mean lx & Min/mean\\\midrule
+Open office & 67 & 231.87 & 592.9 & 0.136\\
+Pantry & 11 & 29.54 & 546.3 & 0.39\\
+Upper east room & 10 & 33.68 & 588.5 & 0.267\\
+South east room & 4 & 13.07 & 502.9 & 0.175\\
+\bottomrule\end{tabular}\end{center}
+All four adopted mean values meet the course target of 500 lx. At 2.2 m above the task plane, the means become 573.0, 505.8, 545.0 and 447.2 lx respectively. Therefore the south east room requires a height no greater than 1.9 m for this selection; do not assume 2.2 m is acceptable. Its margin is small, and changed dimensions or maintenance assumptions require recalculation.
+
+Low perimeter minimum/mean ratios are disclosed, not called a uniformity pass. This average-illuminance selection check does not establish glare, furniture-shadow performance or maintained task-area uniformity. Those are distinct from the present course assumption. Reproduce with \texttt{final\_lighting\_basis.py}; the final lamp powers and counts are checked against the common table.

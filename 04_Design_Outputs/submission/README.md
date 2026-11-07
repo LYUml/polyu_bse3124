@@ -1,10 +1,10 @@
 # Group 1 交付入口
 
-最终答案是 [BSE3124_Answer_Sheets_v03.pdf](BSE3124_Answer_Sheets_v03.pdf)，共12页，已经填写组员信息。前7页是官方封面及Task1–3答案，后5页是首层总图、机房详图、配电图、照明平面和动力平面。A3图纸请按实际大小打印。
+最终答案是 [BSE3124_Answer_Sheets_v04.pdf](BSE3124_Answer_Sheets_v04.pdf)，共19页，已经填写组员信息。前5页保留老师原模板，随后8页为技术续页，最后6页为首层总图、机房详图、配电图、照明平面、动力平面及新增安装详图。A3图纸请按实际大小打印。
 
-可编辑图纸是 [assignment_submission_v01.dwg](../cad/assignment_submission_v01.dwg)，用AutoCAD2027打开。交付布局为TASK1-GROUND-OVERVIEW、TASK1-ROOM-REVIEW、TASK2-DB-SCHEMATIC、TASK2-LIGHTING-PLAN、TASK2-POWER-PLAN；其他布局是历史工作内容。LaTeX源码在[latex/main.tex](latex/main.tex)，运行同目录build.ps1可从公共数据重建PDF。MiKTeX安装在本机用户目录，未放入项目。
+可编辑图纸是 [assignment_submission_v02.dwg](../cad/assignment_submission_v02.dwg)，用AutoCAD2027打开。交付布局为TASK1-GROUND-OVERVIEW、TASK1-ROOM-REVIEW、TASK2-DB-SCHEMATIC、TASK2-LIGHTING-PLAN、TASK2-POWER-PLAN、DESIGN-DETAILS；其他布局是历史工作内容。LaTeX源码在[latex_v04/main.tex](latex_v04/main.tex)，运行同目录build.ps1可从公共数据重建PDF。MiKTeX安装在本机用户目录，未放入项目。
 
-验收逐项记录在[FINAL_ACCEPTANCE.md](FINAL_ACCEPTANCE.md)，文件哈希与检查入口在[final_submission_manifest.json](../data/final_submission_manifest.json)。旧版本、候选计算和试验出图属于过程记录；最终采用值以v03答案、devices.csv、circuits.csv及下面的计算入口为准。
+验收逐项记录在[REVISION_V04.md](REVISION_V04.md)，文件哈希与检查入口在[revision_v04_manifest.json](../data/revision_v04_manifest.json)。旧版本、候选计算和试验出图属于过程记录；最终采用值以v04答案、devices.csv、circuits.csv及下面的计算入口为准。
 
 ## 怎么计算、为什么这样选
 
@@ -18,7 +18,7 @@ Task3从各回路和相别汇总需求，照明90%，插座按最大回路100%�
 
 原始DWG和作业文件保留不改，设计写入版本副本。已用已知尺寸、600mm天花格和三灯样板确认单位/比例；最终图是AutoCAD原生对象，可编辑。灯、插座、路径、DB及注释分层保存，布局视口锁定比例；底图调淡，设计标注保持清楚。绘图脚本在calculations中以draw_开头，带重复执行保护，不能把它们当普通计算脚本反复运行。
 
-最终核对包含：112个组件一对一分回路、92个灯标签、15条回路路径、两条进线路径、15行配电表和五张交付布局；863个登记对象经AutoCAD2027原生复开读取，未丢失。PDF逐页渲染目检，原件哈希保持一致。现场/厂家未知参数均作为明确的课程设计条件，不能把这些条件理解为实测或产品认证。
+最终核对包含：112个组件一对一分回路、92个灯标签、15条回路路径、两条进线路径、15行配电表和六张交付布局；940个登记对象经AutoCAD2027原生复开读取，未丢失。PDF逐页渲染目检，原件哈希保持一致。现场/厂家未知参数均作为明确的课程设计条件，不能把这些条件理解为实测或产品认证。
 
 ## 文件归档
 

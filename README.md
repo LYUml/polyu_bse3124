@@ -6,11 +6,12 @@ Group 1 mini-design assignment for BSE3124 Electricity and Buildings, The Hong K
 
 ## Final deliverables
 
-- [Final answer sheets — 12-page PDF](04_Design_Outputs/submission/BSE3124_Answer_Sheets_v03.pdf)
-- [Editable AutoCAD drawing](04_Design_Outputs/cad/assignment_submission_v01.dwg)
-- [Requirement-by-requirement acceptance record](04_Design_Outputs/submission/FINAL_ACCEPTANCE.md)
+- [Final answer sheets — 19-page PDF](04_Design_Outputs/submission/BSE3124_Answer_Sheets_v04.pdf)
+- [Blank teacher-template facsimile](04_Design_Outputs/submission/BSE3124_Template_LaTeX.pdf)
+- [Editable AutoCAD drawing](04_Design_Outputs/cad/assignment_submission_v02.dwg)
+- [Requirement-by-requirement acceptance record](04_Design_Outputs/submission/REVISION_V04.md)
 - [Calculation and drawing guide (Chinese)](04_Design_Outputs/submission/README.md)
-- [Editable LaTeX source and build instructions](04_Design_Outputs/submission/latex/README.md)
+- [Editable LaTeX source and build instructions](04_Design_Outputs/submission/latex_v04/README.md)
 
 Tasks 1–3 have been checked against the original assignment under the course-design assumptions stated in the answer. The package covers building load estimation, transformer/LV room layouts, Office 1 lighting and power layouts, the distribution-board schematic, and incoming/outgoing demand and cable sizing. It is a course submission, not certification of an installed system.
 
@@ -25,11 +26,11 @@ Tasks 1–3 have been checked against the original assignment under the course-d
 | [05_Tools](05_Tools/) | Tool scripts, dependency snapshots and third-party AutoCAD MCP source |
 | [06_Research](06_Research/) | Resource catalog and environment-verification records |
 
-The `cad` folder retains the submission DWG and current working DWG; `pdf` retains the three adopted Office 1 sheets. Superseded drafts, test plots and recovery copies are collected in the [dated output archive](04_Design_Outputs/archive/2026-11-07/README.md). Temporary QA files and crash logs remain local. Historical studies do not define the final adopted design.
+The `cad` folder retains versioned submission DWGs and the working DWG; `pdf` retains the three adopted Office 1 sheets. Superseded drafts, test plots and recovery copies are collected in the [dated output archive](04_Design_Outputs/archive/2026-11-07/README.md). Temporary QA files and crash logs remain local. Historical studies do not define the final adopted design.
 
 ## Working with the project
 
-Use AutoCAD 2027 for DWG files. The LaTeX report builds with XeLaTeX; MiKTeX is installed in the local Windows user profile, outside this repository. Run `04_Design_Outputs/submission/latex/build.ps1` to rebuild the answer from the shared data and included drawing assets.
+Use AutoCAD 2027 for DWG files. The LaTeX report builds with XeLaTeX; MiKTeX is installed in the local Windows user profile, outside this repository. Run `04_Design_Outputs/submission/latex_v04/build.ps1` to rebuild the answer from the shared data and included drawing assets.
 
 The [project specification (Chinese)](PROJECT_SPEC.md) defines the execution contract, data rules and acceptance gates. [AGENTS.md](AGENTS.md) supplies instructions for subsequent agent work. `.venv` contains the local Python environment, `.codex` the project configuration, and `.agents` the project skills.
 
@@ -47,4 +48,4 @@ These are setup checks; final design acceptance is recorded separately in the su
 - [Resource catalog](06_Research/RESOURCE_CATALOG.md)
 - [Environment-verification record](06_Research/verification/setup_verification.json)
 - [MCP smoke-test record](06_Research/verification/mcp_smoke_test.json)
-- [Final artifact hashes and verification index](04_Design_Outputs/data/final_submission_manifest.json)
+- [Final artifact hashes and verification index](04_Design_Outputs/data/revision_v04_manifest.json)

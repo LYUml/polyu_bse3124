@@ -4,6 +4,7 @@ from pathlib import Path
 R=Path(__file__).resolve().parents[2];D=R/"04_Design_Outputs/data"
 F=json.loads((D/"fault_design_conditions.json").read_text());inc=json.loads((D/"incoming_cable_results.json").read_text());pi=json.loads((D/"power_route_design_inputs.json").read_text());li=json.loads((D/"lighting_route_design_inputs.json").read_text())
 ZeDB=F["Ze_at_MS_assumed_ohm"]+inc["Rphase_plus_CPC_70C_ohm"]
+schedule={r['circuit_id']:r for r in csv.DictReader((D/'circuits.csv').open())}
 results=[]
 for r in csv.DictReader((D/"lighting_route_results.csv").open()):
  Zloop=li["table_drop_mV_A_m"]*float(r["design_route_m"])/1000
@@ -13,7 +14,8 @@ for r in csv.DictReader((D/"power_route_results.csv").open()):
  if ring:
   # Uniform phase and CPC rings: worst parallel path at half circumference.
   Zloop=pi["ring_mV_A_m"]*float(r["main_with_vertical_m"])/4000+pi["spur_mV_A_m"]*pi["spur_assumed_length_m"]/1000
-  I2=F["FCU13_conventional_fusing_factor"]*float(r["max_ring_leg_A"])
+  # A1 uses the standard ring arrangement, not a fictitious ring-leg device I2.
+  I2=None
  else:
   mv=pi["fixed_mV_A_m"] if fixed else pi["radial_mV_A_m"]
   Zloop=mv*float(r["main_with_vertical_m"])/1000+pi["spur_mV_A_m"]*pi["spur_assumed_length_m"]/1000
@@ -26,7 +28,13 @@ for r in results:
  r["disconnection_pass"]=r["Zs_design_ohm"]<=r["reference_Zs_limit_ohm"] and r["minimum_earth_fault_A"]>=r["required_instantaneous_A"]
  r["CPC_withstand_A2s"]=(115*r["CPC_mm2"])**2
  r["adiabatic_pass"]=r["required_max_I2t"]<=r["CPC_withstand_A2s"]
- r["overload_pass"]=r["I2_A"]<=1.45*r["Iz_A"]
+ if r["I2_A"] is None:
+  pr=next(p for p in csv.DictReader((D/"power_route_results.csv").open()) if p["circuit_id"]==r["circuit_id"])
+  r["overload_pass"]=(r["In_A"]==32 and r["CPC_mm2"]>=2.5 and r["Iz_A"]>=20 and float(pr["served_envelope_m2"])<=100 and float(pr["max_ring_leg_A"])<=r["Iz_A"] and pi['point_FCU_A']==13 and len(schedule[r['circuit_id']]['device_ids'].split(';'))==2)
+  r["overload_basis"]="EMSD2025 6C,6E and Table6(1) A1/Note1(i): intact uniform L/N/CPC rings, 32A protection, corrected Iz>=20A, area<=100m2; two individually13A fused taps per ring. Nominal network load split is supplementary, not protective-device I2. No unfused extra taps permitted."
+ else:
+  r["overload_pass"]=r["I2_A"]<=1.45*r["Iz_A"]
+  r["overload_basis"]="Conventional protective-device I2<=1.45Iz; capacity Ib<=In<=Iz checked in route calculations"
  r["breaking_capacity_pass"]=F["MCB_RCBO_Icn_A"]>=F["PFC_max_assumed_A"]
  r["scope"]="Pass under adopted source/device-performance conditions; not a site test or arbitrary product certification"
 I2f=F["FCU13_conventional_fusing_factor"]*13

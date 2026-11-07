@@ -8,13 +8,17 @@ import hashlib
 import json
 import re
 import subprocess
+import argparse
 from pathlib import Path
 
 R = Path(__file__).resolve().parents[2]
 DATA = R / "04_Design_Outputs/data"
-OUT = DATA / "native_reopen"
+parser=argparse.ArgumentParser()
+parser.add_argument('--revision',choices=['v01','v02'],default='v01')
+revision=parser.parse_args().revision
+OUT = DATA / ("native_reopen" if revision=='v01' else "native_reopen_v02")
 OUT.mkdir(exist_ok=True)
-DWG = R / "04_Design_Outputs/cad/assignment_submission_v01.dwg"
+DWG = R / f"04_Design_Outputs/cad/assignment_submission_{revision}.dwg"
 CORE = Path("C:/Program Files/Autodesk/AutoCAD 2027/accoreconsole.exe")
 sha = lambda p: hashlib.sha256(p.read_bytes()).hexdigest()
 before = sha(DWG)
@@ -41,6 +45,8 @@ for name in ["lighting_route_cad_map.json", "power_route_cad_map.json", "lightin
              "incoming_route_cad_map.json", "task1_equipment_reservation_cad.json", "task1_doors_hv_cad.json",
              "task1_interface_cad_map.json", "db_submission_sheet_map.json", "normal_plan_sheet_map.json"]:
     collect(json.loads((DATA / name).read_text(encoding="utf8")))
+if revision=='v02':
+    handles.update((DATA/'installation_detail_handles_v04.txt').read_text().splitlines())
 ordered = sorted(handles)
 # Keep script lines short: AutoCAD truncates oversized command input lines.
 literal = "\n".join(" ".join('"' + h + '"' for h in ordered[i:i+8]) for i in range(0, len(ordered), 8))
@@ -59,6 +65,7 @@ assert Path(lines[0][1]).resolve() == DWG.resolve()
 assert ["UNITS", "4"] in lines
 layouts = [row[1] for row in lines if row[0] == "LAYOUT"]
 required = ["TASK1-GROUND-OVERVIEW", "TASK1-ROOM-REVIEW", "TASK2-DB-SCHEMATIC", "TASK2-LIGHTING-PLAN", "TASK2-POWER-PLAN"]
+if revision=='v02': required.append('DESIGN-DETAILS')
 assert set(required) <= set(layouts)
 entities = {row[0]: row for row in lines if row[0] in handles}
 assert set(entities) == handles and all(row[1] != "MISSING" for row in entities.values())
@@ -88,5 +95,5 @@ evidence = dict(drawing=str(DWG), sha256=before, engine=str(CORE), native_versio
                 missing_handles=0, lighting_labels_checked=92, routes=routes,
                 incoming_plan_routes_checked=2, db_schedule_rows_checked=15, required_layouts=required,
                 units="millimetres (INSUNITS4)", scope="Native DWG reopen/read; PDF print quality reviewed separately")
-(DATA / "native_reopen_gate.json").write_text(json.dumps(evidence, indent=2), encoding="utf8")
+(DATA / ("native_reopen_gate.json" if revision=='v01' else "native_reopen_gate_v02.json")).write_text(json.dumps(evidence, indent=2), encoding="utf8")
 print(json.dumps({k: v for k, v in evidence.items() if k != "routes"}))

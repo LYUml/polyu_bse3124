@@ -8,3 +8,8 @@ __pycache__/
 
 # Local scratch/recovery archive; previously versioned history is explicitly retained.
 /04_Design_Outputs/archive/2026-11-07/
+
+# Reproducible revision scratch files; durable gates and native audits live in data.
+/04_Design_Outputs/qa/
+/04_Design_Outputs/submission/latex_v04/build/
+/04_Design_Outputs/submission/latex_v04/texput.log

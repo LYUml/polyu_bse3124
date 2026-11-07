@@ -23,3 +23,8 @@ AS-T304,Third harmonic current range,>15 to33,percent,Fourcore incoming cable fa
 AS-T305,Selected breaker/fuse total clearing energy,See fault_design_conditions.json,A2s,"Explicit apparatus performance requirements, not claimed arbitrary product certificates",adopted performance specification
 AS-T306,Panel and point ambient,panel<=30; FCU<=35,degC,Cable containment40C remains conservative cable assumption; selected apparatus must satisfy declared enclosure conditions,adopted design condition
 AS-T307,Point13A bound meaning,rated intended continuous load,,FCU is not an instantaneous13A current clamp; overload verification uses1.9In conventional fusing current,adopted load assumption
+REV04-LH,Luminaire height above task plane,1.9,m,Adopted course geometry; south east mean target fails at2.2m,adopted design condition
+REV04-MF,Lighting maintenance factor,0.80,,Periodic cleaning/replacement assumed; no reflected-light credit,adopted assumption
+REV04-GROUP,Inter-bank thermal separation,>2x largest adjacent cable OD,,EMSD2025 A5(3) Note2; separate MethodB enclosures and verify actual horizontal cable clearance,required installation condition
+REV04-RING,Ring overload method,A1 standard arrangement,,EMSD2025 6C/6E/Table6(1) Note1(i); nominal leg current is supplementary not protective-device I2,adopted
+REV04-FCU,Point arrangement,One13A FCU before each assembly spur,,FB four outlets share13A; SO twins share13A; FS01 separate; fuse not instantaneous clamp,adopted
