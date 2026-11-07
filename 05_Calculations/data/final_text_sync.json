@@ -4,32 +4,32 @@
     {
       "handle": "7CF4",
       "before": "LC-G [L3] | 4 lamps +S-G /112W | B10 /TYPE A30mA1P+N RCBO",
-      "after": "LC-G [L3] | 4 lamps +S-G /152W | B10 /TYPE A30mA1P+N RCBO"
+      "after": "LC-G [L3] | 4 lamps +S-G /152 W | B10 /TYPE A 30 mA 1P+N RCBO"
     },
     {
       "handle": "7DC1",
       "before": "600x600 LED panel: A/B/C=22W, *=28W; D=22W; E/F/G=28W.",
-      "after": "600x600 LED panel: A/B/C=22W, *=28W; D=22W; E/F=28W; G=38W."
+      "after": "600x600 LED panel: A/B/C=22 W, *=28 W; D=22 W; E/F=28 W; G=38 W."
     },
     {
       "handle": "7DC9",
       "before": "LC-G  L3  4 lamps /112W  B10  2.5mm2  27.379m",
-      "after": "LC-G  L3  4 lamps /152W  B10  2.5mm2  27.379m"
+      "after": "LC-G  L3  4 lamps /152 W  B10  2.5 mm2  27.379m"
     },
     {
       "handle": "7DCA",
       "before": "92 panels /2216W. All circuits: Type A30mA1P+N RCBO; L/N/CPC all2.5mm2.",
-      "after": "92 panels /2256W. All circuits: Type A30mA1P+N RCBO; L/N/CPC all2.5mm2."
+      "after": "92 panels /2256 W. All circuits: Type A 30 mA1P+N RCBO; L/N/CPC all2.5 mm2."
     },
     {
       "handle": "7FF1",
       "before": "92 panels /2216W. Final LDT calculation, MF0.80, luminaires1.9m above workplane: mean direct lux open592.9 /pantry546.3 /upper east588.5 /south east502.9.",
-      "after": "92 panels /2256W. LDT calculation, MF0.80, luminaires1.9m above workplane: mean direct lux open592.9 /pantry546.3 /upper east588.5 /south east662.6."
+      "after": "92 panels /2256 W. LDT calculation, MF0.80, luminaires1.9m above workplane: mean direct lux open592.9 /pantry546.3 /upper east588.5 /south east662.6."
     },
     {
       "handle": "7FF2",
       "before": "South east: keep luminaire-to-workplane height <=1.9m; at2.2m mean447.2lx fails adopted500lx target. Low perimeter uniformity is disclosed, not certified.",
-      "after": "South east: four38W panels,4685.55lm each; mean589.2lx at2.2m above workplane,17.8% above500lx target. Lighting positions and routes retained."
+      "after": "South east: four38 W panels,4685.55 lm each; mean589.2 lx at2.2m above workplane,17.8% above500 lx target. Lighting positions and routes retained."
     },
     {
       "handle": "7FF3",
@@ -44,7 +44,7 @@
     {
       "handle": "7FA8",
       "before": "OFFICE 1 | INSTALLATION DETAILS AND DESIGN CONDITIONS | REV 04",
-      "after": "OFFICE 1 | INSTALLATION DETAILS AND DESIGN CONDITIONS"
+      "after": "TASK 2 | OFFICE 1 INSTALLATION DETAILS AND DESIGN CONDITIONS"
     },
     {
       "handle": "7FEB",
@@ -54,12 +54,12 @@
     {
       "handle": "7FED",
       "before": "Nominal leg-current calculation14.658-15.203A is supplementary. No invented ring-leg protective-device I2. Verify ring continuity before energisation.",
-      "after": "Ring leg currents14.658-15.203A support load distribution; overload protection follows the A1 standard arrangement. Verify ring continuity before energisation."
+      "after": "Ring leg currents14.658-15.203 A support load distribution; overload protection follows the A1 standard arrangement. Verify ring continuity before energisation."
     },
     {
       "handle": "7FEF",
       "before": "These are apparatus selection requirements, not manufacturer certificates. Control20AX/LED>=600W; confirm driver inrush. PE bypasses switching.",
-      "after": "Select apparatus meeting the stated breaking capacity and total clearing energy. Control20AX/LED>=600W; confirm driver inrush. PE bypasses switching."
+      "after": "Select apparatus meeting the stated breaking capacity and total clearing energy. Control20 AX/LED>=600 W; confirm driver inrush. PE bypasses switching."
     },
     {
       "handle": "7BBE",
@@ -84,45 +84,45 @@
     {
       "handle": "7658",
       "before": "L1?  LC-A  18 LED  402W  PROTECTION TBD",
-      "after": "L1  LC-A  18 LED  402W  B10 RCBO"
+      "after": "L1  LC-A  18 LED  402 W  B10 RCBO"
     },
     {
       "handle": "765A",
       "before": "L2?  LC-B  17 LED  392W  PROTECTION TBD",
-      "after": "L2  LC-B  17 LED  392W  B10 RCBO"
+      "after": "L2  LC-B  17 LED  392 W  B10 RCBO"
     },
     {
       "handle": "765C",
       "before": "L3?  LC-C  18 LED  396W  PROTECTION TBD",
-      "after": "L3  LC-C  18 LED  396W  B10 RCBO"
+      "after": "L3  LC-C  18 LED  396 W  B10 RCBO"
     },
     {
       "handle": "765E",
       "before": "L3?  LC-D  11 LED  242W  PROTECTION TBD",
-      "after": "L3  LC-D  11 LED  242W  B10 RCBO"
+      "after": "L3  LC-D  11 LED  242 W  B10 RCBO"
     },
     {
       "handle": "7660",
       "before": "L2?  LC-E  14 LED  392W  PROTECTION TBD",
-      "after": "L2  LC-E  14 LED  392W  B10 RCBO"
+      "after": "L2  LC-E  14 LED  392 W  B10 RCBO"
     },
     {
       "handle": "7662",
       "before": "L1?  LC-F  10 LED  280W  PROTECTION TBD",
-      "after": "L1  LC-F  10 LED  280W  B10 RCBO"
+      "after": "L1  LC-F  10 LED  280 W  B10 RCBO"
     },
     {
       "handle": "7664",
       "before": "L3?  LC-G  4 LED  112W  PROTECTION TBD",
-      "after": "L3  LC-G  4 LED  152W  B10 RCBO"
+      "after": "L3  LC-G  4 LED  152 W  B10 RCBO"
     },
     {
       "handle": "7BB9",
-      "after": "PLAN 1:200 AT A3 | ALL DIMENSIONS IN mm"
+      "after": "A3 LANDSCAPE | SCALE 1:200 | DIMENSIONS IN mm | GROUND FLOOR"
     },
     {
       "handle": "8028",
-      "after": "Office building: 10 typical floors + ground | All dimensions in mm"
+      "after": "A3 LANDSCAPE | SCALE 1:75 | DIMENSIONS IN mm | PLANTROOM DETAIL"
     },
     {
       "handle": "802E",
@@ -130,15 +130,335 @@
     },
     {
       "handle": "7DBD",
-      "after": "A3 PORTRAIT | 1:75 at actual size | mm | DB-O1"
+      "after": "A3 PORTRAIT | SCALE 1:75 | DIMENSIONS IN mm | DB-O1"
     },
     {
       "handle": "7DDA",
-      "after": "A3 PORTRAIT | 1:75 at actual size | mm | DB-O1"
+      "after": "A3 PORTRAIT | SCALE 1:75 | DIMENSIONS IN mm | DB-O1"
     },
     {
       "handle": "7FF0",
       "after": "4. LIGHTING DESIGN BASIS"
+    },
+    {
+      "handle": "7C16",
+      "after": "A3 LANDSCAPE | NOT TO SCALE | DB-O1 | 100 A TPN | 15 OUTGOING CIRCUITS"
+    },
+    {
+      "handle": "7FA9",
+      "after": "A3 LANDSCAPE | NOT TO SCALE | DIMENSIONS IN mm | OFFICE 1"
+    },
+    {
+      "handle": "797B",
+      "after": "FB01:P1\\P13 A FCU"
+    },
+    {
+      "handle": "797D",
+      "after": "FB02:P1\\P13 A FCU"
+    },
+    {
+      "handle": "797F",
+      "after": "FB03:P2\\P13 A FCU"
+    },
+    {
+      "handle": "7981",
+      "after": "FB04:P2\\P13 A FCU"
+    },
+    {
+      "handle": "7983",
+      "after": "FB05:P3\\P13 A FCU"
+    },
+    {
+      "handle": "7985",
+      "after": "FB06:P3\\P13 A FCU"
+    },
+    {
+      "handle": "7987",
+      "after": "FB07:P4\\P13 A FCU"
+    },
+    {
+      "handle": "7989",
+      "after": "FB08:P4\\P13 A FCU"
+    },
+    {
+      "handle": "798B",
+      "after": "FB09:P6\\P13 A FCU"
+    },
+    {
+      "handle": "798D",
+      "after": "SO01:P6\\P13 A FCU"
+    },
+    {
+      "handle": "798F",
+      "after": "SO02:P5\\P13 A FCU"
+    },
+    {
+      "handle": "7991",
+      "after": "SO03:P8\\P13 A FCU"
+    },
+    {
+      "handle": "7993",
+      "after": "FS01:P7\\P13 A FCU"
+    },
+    {
+      "handle": "79DE",
+      "after": "MAGENTA: PROPOSED LV TRENCH CENTRE-LINES / 1000 W x 1100D / COVERED\\PA: 8.03m PLAN + 2m ALLOWANCE = 10.03m; B: 8.31m + 2m = 10.31m (<20m)\\PSEPARATE HV/LV TRENCHES. FIRE-SEAL ROOM PENETRATIONS; COORDINATE STRUCTURE."
+    },
+    {
+      "handle": "79DF",
+      "after": "VENTILATION RESERVATION: 2 INLET LOUVRES, EACH 600 W x 2000H\\P2.4m2 GROSS x ASSUMED 50% FREE AREA = 1.20m2 >= 1.12m2 REQUIRED.\\PCERTIFIED FREE AREA >=46.67% REQUIRED. LOW LEVEL INTAKE / HIGH LEVEL EXHAUST.\\P2 x 630 DIA FAN SYMBOLS ARE CONDITIONAL REFERENCES (ACTUAL TRANSFORMER LOSSES / FAN DUTY TBD).\\PEXHAUST OUTLET >=2.5m ABOVE STREET; DIRECT AWAY FROM PERSONNEL. SEE COP101 6.1-6.7."
+    },
+    {
+      "handle": "7A01",
+      "after": "CYAN: PROPOSED ROOM WALLS / OUTWARD DOORS / HV TRENCH CENTRE-LINES\\PHV: 1000 W AT PANELS; 600 W TO TRANSFORMERS; FINAL SECTION 300 W; GENERALLY 1400D.\\PHV SOUTH / LV NORTH. COVER ALL TRENCHES; NO CIVIL BEAM SHALL REDUCE CROSS-SECTION."
+    },
+    {
+      "handle": "7A02",
+      "after": "DOORS: WIDTHS ARE PROPOSED CLEAR OPENINGS; 2800H PLANT DOORS ASSUMED.\\P180-DEGREE OUTWARD SWING; LEAVES SHOWN AT 90 DEGREES. SHARED SWING ZONES: OPEN ADJACENT PLANT DOORS SEQUENTIALLY.\\PD-TXA: DESIGNATED PERSONNEL ENTRANCE WITH 700 W x 2100H WICKET, PANIC HARDWARE; OTHER EXITS OPENABLE FROM INSIDE.\\PLV ROOM HAS SEPARATE WEST ENTRANCE. ACTUAL FRAMES, FIRE RATING, EXTERNAL ROUTE AND ARCHITECTURAL OPENINGS REQUIRE COORDINATION."
+    },
+    {
+      "handle": "7BF0",
+      "after": "MS-O1 (ASSUMED)\\P63 A / 4C35 + CPC16"
+    },
+    {
+      "handle": "7BF3",
+      "after": "MS-O1 (ASSUMED)\\P63 A / 4C35 + CPC16"
+    },
+    {
+      "handle": "7C30",
+      "after": "Source Ze0.20 ohm /PFC<=6 kA assumed; main/RCBO Icn10 kA. See Task3 for conditions and I2t limits."
+    },
+    {
+      "handle": "7C58",
+      "after": "LC-A [L1] | 18 lamps +S-A /402 W | B10 /TYPE A 30 mA 1P+N RCBO"
+    },
+    {
+      "handle": "7C59",
+      "after": "L/N/PE 2.5/2.5/2.5 mm2 | L=58.301m | LIGHTING RADIAL"
+    },
+    {
+      "handle": "7C72",
+      "after": "LC-B [L2] | 17 lamps +S-B /392 W | B10 /TYPE A 30 mA 1P+N RCBO"
+    },
+    {
+      "handle": "7C73",
+      "after": "L/N/PE 2.5/2.5/2.5 mm2 | L=62.184m | LIGHTING RADIAL"
+    },
+    {
+      "handle": "7C8C",
+      "after": "LC-C [L3] | 18 lamps +S-C /396 W | B10 /TYPE A 30 mA 1P+N RCBO"
+    },
+    {
+      "handle": "7C8D",
+      "after": "L/N/PE 2.5/2.5/2.5 mm2 | L=44.999m | LIGHTING RADIAL"
+    },
+    {
+      "handle": "7CA6",
+      "after": "LC-D [L3] | 11 lamps +S-D /242 W | B10 /TYPE A 30 mA 1P+N RCBO"
+    },
+    {
+      "handle": "7CA7",
+      "after": "L/N/PE 2.5/2.5/2.5 mm2 | L=27.233m | LIGHTING RADIAL"
+    },
+    {
+      "handle": "7CC0",
+      "after": "LC-E [L2] | 14 lamps +S-E /392 W | B10 /TYPE A 30 mA 1P+N RCBO"
+    },
+    {
+      "handle": "7CC1",
+      "after": "L/N/PE 2.5/2.5/2.5 mm2 | L=34.464m | LIGHTING RADIAL"
+    },
+    {
+      "handle": "7CDA",
+      "after": "LC-F [L1] | 10 lamps +S-F /280 W | B10 /TYPE A 30 mA 1P+N RCBO"
+    },
+    {
+      "handle": "7CDB",
+      "after": "L/N/PE 2.5/2.5/2.5 mm2 | L=32.710m | LIGHTING RADIAL"
+    },
+    {
+      "handle": "7CF5",
+      "after": "L/N/PE 2.5/2.5/2.5 mm2 | L=27.379m | LIGHTING RADIAL"
+    },
+    {
+      "handle": "7D0B",
+      "after": "P1 [L1] | FB01, FB02 /13 A FUSED POINTS | B32 /TYPE A 30 mA 1P+N RCBO"
+    },
+    {
+      "handle": "7D0C",
+      "after": "L/N/PE 6/6/6 mm2 | L=28.620m | A1 RING: L/N/PE BOTH ENDS AT DB"
+    },
+    {
+      "handle": "7D22",
+      "after": "P2 [L1] | FB03, FB04 /13 A FUSED POINTS | B32 /TYPE A 30 mA 1P+N RCBO"
+    },
+    {
+      "handle": "7D23",
+      "after": "L/N/PE 6/6/6 mm2 | L=35.520m | A1 RING: L/N/PE BOTH ENDS AT DB"
+    },
+    {
+      "handle": "7D39",
+      "after": "P3 [L2] | FB05, FB06 /13 A FUSED POINTS | B32 /TYPE A 30 mA 1P+N RCBO"
+    },
+    {
+      "handle": "7D3A",
+      "after": "L/N/PE 6/6/6 mm2 | L=45.220m | A1 RING: L/N/PE BOTH ENDS AT DB"
+    },
+    {
+      "handle": "7D50",
+      "after": "P4 [L2] | FB07, FB08 /13 A FUSED POINTS | B32 /TYPE A 30 mA 1P+N RCBO"
+    },
+    {
+      "handle": "7D51",
+      "after": "L/N/PE 6/6/6 mm2 | L=34.220m | A1 RING: L/N/PE BOTH ENDS AT DB"
+    },
+    {
+      "handle": "7D67",
+      "after": "P5 [L1] | SO02 /13 A FUSED POINTS | B32 /TYPE A 30 mA 1P+N RCBO"
+    },
+    {
+      "handle": "7D68",
+      "after": "L/N/PE 10/10/10 mm2 | L=15.607m | DEDICATED RADIAL"
+    },
+    {
+      "handle": "7D7E",
+      "after": "P6 [L3] | FB09, SO01 /13 A FUSED POINTS | B32 /TYPE A 30 mA 1P+N RCBO"
+    },
+    {
+      "handle": "7D7F",
+      "after": "L/N/PE 10/10/10 mm2 | L=13.864m | DEDICATED RADIAL"
+    },
+    {
+      "handle": "7D95",
+      "after": "P7 [L3] | FS01 /13 A FUSED POINTS | B16 /TYPE A 30 mA 1P+N RCBO"
+    },
+    {
+      "handle": "7D96",
+      "after": "L/N/PE 4/4/4 mm2 | L=13.107m | DEDICATED RADIAL"
+    },
+    {
+      "handle": "7DAC",
+      "after": "P8 [L3] | SO03 /13 A FUSED POINTS | B32 /TYPE A 30 mA 1P+N RCBO"
+    },
+    {
+      "handle": "7DAD",
+      "after": "L/N/PE 10/10/10 mm2 | L=15.107m | DEDICATED RADIAL"
+    },
+    {
+      "handle": "7DAF",
+      "after": "Each RCBO load neutral is dedicated. Ring L/N/CPC ends return to the same circuit terminals; no mixed neutrals. All local power spurs:13 A fuse +4 mm2 L/N/CPC,0.5m assumed."
+    },
+    {
+      "handle": "7DB0",
+      "after": "S-A/B/C: separate enclosures for different phases. All manual controls20 AX/LED>=600 W minimum; local switching and RCBO inrush performance must meet adopted design specification."
+    },
+    {
+      "handle": "7DC3",
+      "after": "LC-A  L1  18 lamps /402 W  B10  2.5 mm2  58.301m"
+    },
+    {
+      "handle": "7DC4",
+      "after": "LC-B  L2  17 lamps /392 W  B10  2.5 mm2  62.184m"
+    },
+    {
+      "handle": "7DC5",
+      "after": "LC-C  L3  18 lamps /396 W  B10  2.5 mm2  44.999m"
+    },
+    {
+      "handle": "7DC6",
+      "after": "LC-D  L3  11 lamps /242 W  B10  2.5 mm2  27.233m"
+    },
+    {
+      "handle": "7DC7",
+      "after": "LC-E  L2  14 lamps /392 W  B10  2.5 mm2  34.464m"
+    },
+    {
+      "handle": "7DC8",
+      "after": "LC-F  L1  10 lamps /280 W  B10  2.5 mm2  32.710m"
+    },
+    {
+      "handle": "7DCB",
+      "after": "Manual controls20 AX, LED rating>=600 W; separate phase enclosures. Inrush compatibility required."
+    },
+    {
+      "handle": "7DDF",
+      "after": "Each point:13 A fuse; intended continuous demand<=13 A. Local spur4 mm2,0.5m allowance."
+    },
+    {
+      "handle": "7DE0",
+      "after": "P1 L1 RING B32 6 mm2 28.620m"
+    },
+    {
+      "handle": "7DE1",
+      "after": "P2 L1 RING B32 6 mm2 35.520m"
+    },
+    {
+      "handle": "7DE2",
+      "after": "P3 L2 RING B32 6 mm2 45.220m"
+    },
+    {
+      "handle": "7DE3",
+      "after": "P4 L2 RING B32 6 mm2 34.220m"
+    },
+    {
+      "handle": "7DE4",
+      "after": "P5 L1 RADIAL B32 10 mm2 15.607m"
+    },
+    {
+      "handle": "7DE5",
+      "after": "P6 L3 RADIAL B32 10 mm2 13.864m"
+    },
+    {
+      "handle": "7DE6",
+      "after": "P7 L3 RADIAL B16 4 mm2 13.107m"
+    },
+    {
+      "handle": "7DE7",
+      "after": "P8 L3 RADIAL B32 10 mm2 15.107m"
+    },
+    {
+      "handle": "7FAA",
+      "after": "1. EVERY POWER ASSEMBLY HAS ONE UPSTREAM 13 A FCU"
+    },
+    {
+      "handle": "7FAC",
+      "after": "13 A switched FCU at tap"
+    },
+    {
+      "handle": "7FAD",
+      "after": "4 mm2 L/N/CPC spur\\P0.5m assumed"
+    },
+    {
+      "handle": "7FAE",
+      "after": "ONE assembly: FB / SO / FS\\PAll outlets share 13 A continuous capacity"
+    },
+    {
+      "handle": "7FC2",
+      "after": "For rings: both L/N/CPC ends return to their own DB terminals. FCU is before the spur; no unfused extra taps. Main terminals must accept 6/10 mm2."
+    },
+    {
+      "handle": "7FC3",
+      "after": "FB01-09: one FCU per four-socket floorbox. SO01-03: one FCU per twin socket. FS01: one switched FCU. 13 A is not an instantaneous current clamp."
+    },
+    {
+      "handle": "7FEC",
+      "after": "EMSD 6C/6E, Table6(1): B32; 6 mm2 copper; corrected leg Iz23.1855 A >=20 A; each service envelope <=100m2; intact L/N/CPC rings; two fused taps per ring."
+    },
+    {
+      "handle": "7FEE",
+      "after": "TN-S source Ze0.20 ohm/PFC<=6 kA are design conditions. Main and RCBO Icn10 kA. Required total I2t: B10/B16<=70000; B32/FCU<=90000; C63<=1000000 A2s."
+    },
+    {
+      "handle": "802B",
+      "after": "ACCESS AND DOORS\\PSouth external access assumed. Reserve 3000-wide delivery route; unloading distance <=20m to verify.\\PPlant doors: HV 4000 W; TX 3000 W each; 2800H assumed. 180-degree outward sweep, shown open 90 degrees.\\PShared sweeps: use adjacent doors sequentially. TX-A designated wicket personnel access. Independent LV entrance west."
+    },
+    {
+      "handle": "802C",
+      "after": "VENTILATION\\P2 low-level 600 W x 2000H inlet louvres: 2.4m2 gross x assumed 50% free area = 1.20m2 >=1.12m2. Certified free area >=46.67% required.\\P2 high-level 630-dia fan symbols are conditional references. Actual losses, fan duty and noise to confirm; outlet >=2.5m above street, away from people."
+    },
+    {
+      "handle": "802D",
+      "after": "LV INTERFACES / HV ROUTES\\PLV trench: 1000 W x 1100D, four MCTs per interface. A: 8.03+2=10.03m; B: 8.31+2=10.31m (<20m). 2m is assumed total termination/vertical allowance.\\PHV centre-lines: 1000 W at panels; 600 W branches; final 300 W; generally 1400D. Segregate HV/LV. Covered trenches; no beam obstruction."
     }
   ]
 }

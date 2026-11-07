@@ -13,3 +13,5 @@ Order: cover; Task1 answers and ground-floor drawings; Task2 answers, teacher's 
 To regenerate drawing assets from the saved final DWG, run `../../05_Calculations/scripts/export_final_dwg.py` with the project Python environment, then `./build.ps1`. Re-run `verify_final_dwg.py` and `verify_final.py`; visually review the rendered PDF before release. The exporter rejects blank plots and checks that plotting does not change the DWG.
 
 The build runs finalize_pdf.py using the installed bundled Python/PyMuPDF runtime to orient the teacher board sheet horizontally and fill its title block and circuit positions. Client is N/A because the assignment specifies no commissioning client.
+
+Presentation conventions: drawing titles and metadata labels use uppercase; metadata order is sheet format/orientation, scale, dimensions where applicable, then drawing subject. SI symbols retain their standard case (mm, kW, kVA). Narrative text and subsection headings use sentence case. Values and units are separated, and temperature uses the degree-Celsius symbol. Drawing notes are edited in the DWG and replotted before report compilation.
