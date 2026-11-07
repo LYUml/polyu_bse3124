@@ -1,0 +1,5 @@
+﻿candidate_id,x_mm,y_mm,grid_handle,power_W,lumens,status
+SE01,76114.962,17005.584,63C9,22.5,3600,"alternative only; check room, column, door, lighting and installation"
+SE02,77914.962,17005.584,63BA,22.5,3600,"alternative only; check room, column, door, lighting and installation"
+SE03,76114.962,18205.584,63C7,22.5,3600,"alternative only; check room, column, door, lighting and installation"
+SE04,77914.962,18205.584,63B8,22.5,3600,"alternative only; check room, column, door, lighting and installation"
