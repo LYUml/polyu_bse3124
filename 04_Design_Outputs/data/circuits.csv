@@ -10,5 +10,5 @@ P1,provisional office DB,,FB01;FB02,,,,,,,,PROVISIONAL: loading and standard cir
 P2,provisional office DB,,FB03;FB04,,,,,,,,PROVISIONAL: loading and standard circuit area not established
 P3,provisional office DB,,FB05;FB06,,,,,,,,PROVISIONAL: loading and standard circuit area not established
 P4,provisional office DB,,FB07;FB08,,,,,,,,PROVISIONAL: loading and standard circuit area not established
-P5,provisional office DB,,FB09;SO01;SO02,,,,,,,,PROVISIONAL: loading and standard circuit area not established
-P6,provisional office DB,,SO03;FS01,,,,,,,,PROVISIONAL: loading and standard circuit area not established
+P5,provisional office DB,,SO02,,,,,,,,PROVISIONAL: non-pantry socket group; service area and protection unverified
+P6,provisional office DB,,FB09;SO01;SO03;FS01,,,,,,,,PROVISIONAL: pantry grouping; appliance and separate circuit requirements unverified
