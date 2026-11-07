@@ -1,4 +1,4 @@
 phase,lighting_groups,candidate_light_count,lighting_current_A,lighting_diversified_A,socket_groups,assumed_socket_circuits_A,socket_diversified_A,subtotal_A,status
-L1,LC-A;LC-F,28,3.182,2.864,P1;P2,32;32,48.0,50.864,"scenario only: PIL LC-D/LC-E working layout; other luminaire voltage, ring suitability, fixed loads and phases unverified"
-L2,LC-B;LC-E,31,3.912,3.520,P3;P4,32;32,48.0,51.520,"scenario only: PIL LC-D/LC-E working layout; other luminaire voltage, ring suitability, fixed loads and phases unverified"
-L3,LC-C;LC-D;LC-G,33,3.722,3.350,P5;P6,32;32,48.0,51.350,"scenario only: PIL LC-D/LC-E working layout; other luminaire voltage, ring suitability, fixed loads and phases unverified"
+L1,LC-A;LC-F,28,3.167,2.850,P1;P2,32;32,48.0,50.850,scenario only; mixed PIL working layout; LC-F/G model unresolved; power circuits fixed loads and protection pending
+L2,LC-B;LC-E,31,3.960,3.564,P3;P4,32;32,48.0,51.564,scenario only; mixed PIL working layout; LC-F/G model unresolved; power circuits fixed loads and protection pending
+L3,LC-C;LC-D;LC-G,33,3.677,3.309,P5;P6,32;32,48.0,51.309,scenario only; mixed PIL working layout; LC-F/G model unresolved; power circuits fixed loads and protection pending
