@@ -4,7 +4,7 @@
 \usepackage{fontspec}
 \setmainfont{Times New Roman}
 \usepackage[margin=25.4mm]{geometry}
-\usepackage{amsmath,amssymb,booktabs,longtable,array,pdfpages,hyperref}
+\usepackage{amsmath,amssymb,booktabs,longtable,array,pdfpages,hyperref,eso-pic}
 \hypersetup{hidelinks,pdftitle={BSE3124 Electrical Design Answer Sheets}}
 \setlength{\parindent}{0pt}
 \setlength{\parskip}{5pt}
@@ -13,9 +13,9 @@
 \setlength{\tabcolsep}{5pt}
 \newcommand{\task}[1]{\clearpage\section*{#1}}
 \begin{document}
-\includepdf[pages=1]{assets/official-cover.pdf}
+\includepdf[pages=1,pagecommand={\thispagestyle{empty}\AddToShipoutPictureFG*{\AtPageLowerLeft{\put(220,232){\fontsize{11}{13}\selectfont 1}\put(220,191){\fontsize{11}{13}\selectfont LYU Mingliang (24099296D)}\put(220,163){\fontsize{11}{13}\selectfont HUANG Celine (24034414D)}\put(220,135){\fontsize{11}{13}\selectfont LIU Wing Kei (24093229D)}}}}]{assets/official-cover.pdf}
 \task{Task 1 Loading estimation and transformer room location}
-\textbf{Working submission v01.} Official cover and task structure are retained. The stated assumptions define a course design, not site certification.
+\textbf{Working submission v02.} Official cover and task structure are retained. The stated assumptions define a course design, not site certification.
 \subsection*{Building load assessment}
 Adopt the drawing areas 309, 309 and 410\,m$^2$ as usable floor areas for ten identical office floors. This is a course assumption: the UFA exclusions have not been independently reconciled. Use supplied CLP COP215 Rev 07. The assignment's 1000\,kW is cooling capacity. Assume packaged air-cooled central AC, electrical PF 0.90 and five lifts. The 40\,kVA/lift public-services allowance is aggregate, not a lift motor rating.
 \begin{align*}
@@ -152,9 +152,11 @@ For fuse overload, $I_2=1.9(13)=24.7$A. Spur $I_z=32(0.87)(0.70)=19.488$A gives 
 \subsection*{Sources and reproducibility}
 Cite supplied COP215 Rev 07 and downloaded COP101 v 16 as above. EMSD Wiring CoP2025: Table 6(1), printed 56/PDF 57; 7(1), printed 65--67/PDF 66--68; 9B, printed 79/PDF 80; 11(2), printed 99--100/PDF 100--101; 11(10), printed 105/PDF 106;  A5 factors PDF 274--279;  A6 tables PDF 282--285.
 ABB guide 9AKK108468A3912 printed 130 gives the class 3 B-curve energy references. Eaton TDC180 Technical Data 2042 August 2024 p 2 gives conventional-fusing/interruption references, not total energy. URLs and explicit conditions are in the common data file \texttt{fault\_design\_conditions.json}.
-Tables are generated from current common CSV/JSON data. Reproduce the lighting/power route, demand, incoming and fault scripts before rebuilding this answer. Guarded DWG mutations must not be rerun blindly. Original source documents are retained. Final acceptance still needs normal lighting/power layout PDF review and final DWG save/reopen consistency verification.
+Tables are generated from current common CSV/JSON data. Reproduce the lighting/power route, demand, incoming and fault scripts before rebuilding this answer. Guarded DWG mutations must not be rerun blindly. Original source documents are retained. Normal lighting/power layout PDFs have been visually reviewed. Final native DWG save/reopen consistency verification is recorded separately in the acceptance evidence.
 \paragraph*{Drawing appendix}
-The following sheets show the ground-floor proposal and complete Office 1 DB schematic. Normal lighting/power layouts remain in the editable DWG and will be appended after final plotting review.
+The following sheets show the ground-floor proposal, complete Office 1 DB schematic, normal lighting plan and power plan. Print at actual size to preserve the stated drawing scales. Group 1 identities are shown on the official cover.
 \includepdf[pages=-,fitpaper=true]{assets/task1-drawings.pdf}
 \includepdf[pages=-,fitpaper=true]{assets/office-db.pdf}
+\includepdf[pages=-,fitpaper=true]{assets/office-lighting.pdf}
+\includepdf[pages=-,fitpaper=true]{assets/office-power.pdf}
 \end{document}

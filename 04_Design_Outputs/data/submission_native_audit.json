@@ -1,0 +1,97 @@
+{
+  "drawing": "C:\\Users\\lyuml-win\\Desktop\\polyu_bse3124\\04_Design_Outputs\\cad\\assignment_working_v02.dwg",
+  "components": 112,
+  "luminaires": 92,
+  "power_points": 13,
+  "switches": 7,
+  "circuits": 15,
+  "membership_discrepancies": 0,
+  "native_luminaire_labels_checked": 92,
+  "native_routes": [
+    {
+      "circuit_id": "LC-A",
+      "native_plan_m": 53.300948000000005,
+      "schedule_plan_m": 53.300948
+    },
+    {
+      "circuit_id": "LC-B",
+      "native_plan_m": 57.184084000000006,
+      "schedule_plan_m": 57.184084
+    },
+    {
+      "circuit_id": "LC-C",
+      "native_plan_m": 39.999052,
+      "schedule_plan_m": 39.999052
+    },
+    {
+      "circuit_id": "LC-D",
+      "native_plan_m": 22.233416000000005,
+      "schedule_plan_m": 22.233416
+    },
+    {
+      "circuit_id": "LC-E",
+      "native_plan_m": 29.464052000000002,
+      "schedule_plan_m": 29.464052
+    },
+    {
+      "circuit_id": "LC-F",
+      "native_plan_m": 27.709658,
+      "schedule_plan_m": 27.709658
+    },
+    {
+      "circuit_id": "LC-G",
+      "native_plan_m": 22.378645999999996,
+      "schedule_plan_m": 22.378646
+    },
+    {
+      "circuit_id": "P1",
+      "native_plan_m": 24.620199999999997,
+      "schedule_plan_m": 24.6202
+    },
+    {
+      "circuit_id": "P2",
+      "native_plan_m": 31.520199999999996,
+      "schedule_plan_m": 31.5202
+    },
+    {
+      "circuit_id": "P3",
+      "native_plan_m": 41.2202,
+      "schedule_plan_m": 41.2202
+    },
+    {
+      "circuit_id": "P4",
+      "native_plan_m": 30.2202,
+      "schedule_plan_m": 30.2202
+    },
+    {
+      "circuit_id": "P5",
+      "native_plan_m": 13.607484000000003,
+      "schedule_plan_m": 13.607484
+    },
+    {
+      "circuit_id": "P6",
+      "native_plan_m": 11.863968000000002,
+      "schedule_plan_m": 11.863968
+    },
+    {
+      "circuit_id": "P7",
+      "native_plan_m": 11.107484000000003,
+      "schedule_plan_m": 11.107484
+    },
+    {
+      "circuit_id": "P8",
+      "native_plan_m": 13.107484000000003,
+      "schedule_plan_m": 13.107484
+    }
+  ],
+  "required_layouts": [
+    "TASK1-GROUND-OVERVIEW",
+    "TASK1-ROOM-REVIEW",
+    "TASK2-DB-SCHEMATIC",
+    "TASK2-LIGHTING-PLAN",
+    "TASK2-POWER-PLAN"
+  ],
+  "saved": false,
+  "native_reopen": "separate gate pending",
+  "checks_pass": true
+}

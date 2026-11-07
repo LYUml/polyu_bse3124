@@ -1,0 +1,76 @@
+{
+  "basis": "HEAD tracked originals/references; Git text line endings normalized only for text files",
+  "files": [
+    {
+      "file": "01_Assignment/BSE3124 Mini Design Answer Sheets.docx",
+      "git_blob_sha256": "da927db8e419e8639f0a89052ddf64c104011f22ce808b371756012d2f25d65d",
+      "working_file_sha256": "da927db8e419e8639f0a89052ddf64c104011f22ce808b371756012d2f25d65d",
+      "comparison": "exact bytes",
+      "unchanged": true
+    },
+    {
+      "file": "01_Assignment/BSE3124 Mini Design Assignment-2.docx",
+      "git_blob_sha256": "561727aa33f0844b0f79308019256d1da37ef3640468880863ce198d3514daac",
+      "working_file_sha256": "561727aa33f0844b0f79308019256d1da37ef3640468880863ce198d3514daac",
+      "comparison": "exact bytes",
+      "unchanged": true
+    },
+    {
+      "file": "02_Building_Drawings/Building Layouts Layout2-1.pdf",
+      "git_blob_sha256": "abc963b4e48a5eb7643564106ea273ebc36130779bdced6de441e86a2d2c4208",
+      "working_file_sha256": "abc963b4e48a5eb7643564106ea273ebc36130779bdced6de441e86a2d2c4208",
+      "comparison": "exact bytes",
+      "unchanged": true
+    },
+    {
+      "file": "02_Building_Drawings/Building Layouts.dwg",
+      "git_blob_sha256": "0adaa4351e0e5c665cec56bf8feb177b9d3e68001bc991cf96abd5176811d23a",
+      "working_file_sha256": "0adaa4351e0e5c665cec56bf8feb177b9d3e68001bc991cf96abd5176811d23a",
+      "comparison": "exact bytes",
+      "unchanged": true
+    },
+    {
+      "file": "03_Technical_References/257377810-COP-215.pdf",
+      "git_blob_sha256": "774df683c75ea38480abc26e87bab1316fcd185d616d6b142d1fa2376e73d1f6",
+      "working_file_sha256": "774df683c75ea38480abc26e87bab1316fcd185d616d6b142d1fa2376e73d1f6",
+      "comparison": "exact bytes",
+      "unchanged": true
+    },
+    {
+      "file": "03_Technical_References/257377810-COP-215.txt",
+      "git_blob_sha256": "0b9ef79999c6b5125684c4610d0e7cc1c71ebc27fa0d66d4cf36e95a0aa814f1",
+      "working_file_sha256": "67e4732daf5e1e1489c9d3bde5a87290f0519bf7549bc56f21d95d6256935614",
+      "comparison": "EOL-normalized text",
+      "unchanged": true
+    },
+    {
+      "file": "03_Technical_References/Official/EMSD_BEC_2024_EN.pdf",
+      "git_blob_sha256": "9fae5eb2134caa7f5645735d618d82da0cf3f284e576a9f6402de9b8357f95b7",
+      "working_file_sha256": "9fae5eb2134caa7f5645735d618d82da0cf3f284e576a9f6402de9b8357f95b7",
+      "comparison": "exact bytes",
+      "unchanged": true
+    },
+    {
+      "file": "03_Technical_References/Official/EMSD_COP_2025_EN.pdf",
+      "git_blob_sha256": "d69ae0c53972cc583de64b8e83ca7428460419b7f06ffa2f4f3db79e7b165c3b",
+      "working_file_sha256": "d69ae0c53972cc583de64b8e83ca7428460419b7f06ffa2f4f3db79e7b165c3b",
+      "comparison": "exact bytes",
+      "unchanged": true
+    },
+    {
+      "file": "03_Technical_References/Official/sources.json",
+      "git_blob_sha256": "53b2183eb50218fd87dd476fa273608567e45e994e5ea0f18d9f8bf29ad62ff3",
+      "working_file_sha256": "42db04aa9073c8b8ad2b2052aaa6733f1ea2dc0bf91a7bb6aa3ab4b5b6bc9da5",
+      "comparison": "EOL-normalized text",
+      "unchanged": true
+    },
+    {
+      "file": "03_Technical_References/Switchboard Dimensions.pdf",
+      "git_blob_sha256": "fcc1e857060b7867e6bd04e260370db4cf1b7f6bdf435ca2040eae33a9bfe032",
+      "working_file_sha256": "fcc1e857060b7867e6bd04e260370db4cf1b7f6bdf435ca2040eae33a9bfe032",
+      "comparison": "exact bytes",
+      "unchanged": true
+    }
+  ],
+  "pass_all": true
+}

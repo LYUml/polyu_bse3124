@@ -49,3 +49,11 @@ an automatic PDF open-with prompt was dismissed and cancellation was requested
 through the visible progress dialog. Do not restart AutoCAD or rerun the sheet
 creation script while this call is live. The layouts and label synchronization
 were saved before plotting. Final DWG reopen and source-hash gates remain open.
+
+## Revision02 review
+
+Eight label positions were corrected and saved; see normal_plan_label_refinement.json. Revision02 normal PDFs were rasterized and inspected. The three northern labels are fully visible, FB03/FB04 are separated, and S-A/B/C labels are stacked. No device locations or route coordinates changed. The12-page LaTeX v02 includes both reviewed sheets at native A3 size. Pages7,11,12 were re-rendered and inspected after assembly. Identity blanks are intentionally retained at the user's request. Four original-source manifest hashes remain unchanged. The second plot generated valid PDFs but again remained at the final progress window; cancellation was requested to release that call. Native reopening remains pending.
+
+## Group identity update
+
+The user subsequently supplied Group1 identities. The current v02 cover contains LYU Mingliang(24099296D), HUANG Celine(24034414D), LIU Wing Kei(24093229D), visually checked. Earlier blank-cover statements in this historical review are superseded.

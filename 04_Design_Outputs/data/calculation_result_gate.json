@@ -1,0 +1,594 @@
+{
+  "checks": [
+    {
+      "file": "lighting_route_results.csv",
+      "circuit_id": "LC-A",
+      "check": "capacity_pass",
+      "result": "True"
+    },
+    {
+      "file": "lighting_route_results.csv",
+      "circuit_id": "LC-A",
+      "check": "branch_drop_pass",
+      "result": "True"
+    },
+    {
+      "file": "lighting_route_results.csv",
+      "circuit_id": "LC-B",
+      "check": "capacity_pass",
+      "result": "True"
+    },
+    {
+      "file": "lighting_route_results.csv",
+      "circuit_id": "LC-B",
+      "check": "branch_drop_pass",
+      "result": "True"
+    },
+    {
+      "file": "lighting_route_results.csv",
+      "circuit_id": "LC-C",
+      "check": "capacity_pass",
+      "result": "True"
+    },
+    {
+      "file": "lighting_route_results.csv",
+      "circuit_id": "LC-C",
+      "check": "branch_drop_pass",
+      "result": "True"
+    },
+    {
+      "file": "lighting_route_results.csv",
+      "circuit_id": "LC-D",
+      "check": "capacity_pass",
+      "result": "True"
+    },
+    {
+      "file": "lighting_route_results.csv",
+      "circuit_id": "LC-D",
+      "check": "branch_drop_pass",
+      "result": "True"
+    },
+    {
+      "file": "lighting_route_results.csv",
+      "circuit_id": "LC-E",
+      "check": "capacity_pass",
+      "result": "True"
+    },
+    {
+      "file": "lighting_route_results.csv",
+      "circuit_id": "LC-E",
+      "check": "branch_drop_pass",
+      "result": "True"
+    },
+    {
+      "file": "lighting_route_results.csv",
+      "circuit_id": "LC-F",
+      "check": "capacity_pass",
+      "result": "True"
+    },
+    {
+      "file": "lighting_route_results.csv",
+      "circuit_id": "LC-F",
+      "check": "branch_drop_pass",
+      "result": "True"
+    },
+    {
+      "file": "lighting_route_results.csv",
+      "circuit_id": "LC-G",
+      "check": "capacity_pass",
+      "result": "True"
+    },
+    {
+      "file": "lighting_route_results.csv",
+      "circuit_id": "LC-G",
+      "check": "branch_drop_pass",
+      "result": "True"
+    },
+    {
+      "file": "power_route_results.csv",
+      "circuit_id": "P1",
+      "check": "capacity_pass",
+      "result": "True"
+    },
+    {
+      "file": "power_route_results.csv",
+      "circuit_id": "P1",
+      "check": "branch_drop_pass",
+      "result": "True"
+    },
+    {
+      "file": "power_route_results.csv",
+      "circuit_id": "P1",
+      "check": "served_area_pass",
+      "result": "True"
+    },
+    {
+      "file": "power_route_results.csv",
+      "circuit_id": "P2",
+      "check": "capacity_pass",
+      "result": "True"
+    },
+    {
+      "file": "power_route_results.csv",
+      "circuit_id": "P2",
+      "check": "branch_drop_pass",
+      "result": "True"
+    },
+    {
+      "file": "power_route_results.csv",
+      "circuit_id": "P2",
+      "check": "served_area_pass",
+      "result": "True"
+    },
+    {
+      "file": "power_route_results.csv",
+      "circuit_id": "P3",
+      "check": "capacity_pass",
+      "result": "True"
+    },
+    {
+      "file": "power_route_results.csv",
+      "circuit_id": "P3",
+      "check": "branch_drop_pass",
+      "result": "True"
+    },
+    {
+      "file": "power_route_results.csv",
+      "circuit_id": "P3",
+      "check": "served_area_pass",
+      "result": "True"
+    },
+    {
+      "file": "power_route_results.csv",
+      "circuit_id": "P4",
+      "check": "capacity_pass",
+      "result": "True"
+    },
+    {
+      "file": "power_route_results.csv",
+      "circuit_id": "P4",
+      "check": "branch_drop_pass",
+      "result": "True"
+    },
+    {
+      "file": "power_route_results.csv",
+      "circuit_id": "P4",
+      "check": "served_area_pass",
+      "result": "True"
+    },
+    {
+      "file": "power_route_results.csv",
+      "circuit_id": "P5",
+      "check": "capacity_pass",
+      "result": "True"
+    },
+    {
+      "file": "power_route_results.csv",
+      "circuit_id": "P5",
+      "check": "branch_drop_pass",
+      "result": "True"
+    },
+    {
+      "file": "power_route_results.csv",
+      "circuit_id": "P5",
+      "check": "served_area_pass",
+      "result": "True"
+    },
+    {
+      "file": "power_route_results.csv",
+      "circuit_id": "P6",
+      "check": "capacity_pass",
+      "result": "True"
+    },
+    {
+      "file": "power_route_results.csv",
+      "circuit_id": "P6",
+      "check": "branch_drop_pass",
+      "result": "True"
+    },
+    {
+      "file": "power_route_results.csv",
+      "circuit_id": "P6",
+      "check": "served_area_pass",
+      "result": "True"
+    },
+    {
+      "file": "power_route_results.csv",
+      "circuit_id": "P7",
+      "check": "capacity_pass",
+      "result": "True"
+    },
+    {
+      "file": "power_route_results.csv",
+      "circuit_id": "P7",
+      "check": "branch_drop_pass",
+      "result": "True"
+    },
+    {
+      "file": "power_route_results.csv",
+      "circuit_id": "P7",
+      "check": "served_area_pass",
+      "result": "not applicable"
+    },
+    {
+      "file": "power_route_results.csv",
+      "circuit_id": "P8",
+      "check": "capacity_pass",
+      "result": "True"
+    },
+    {
+      "file": "power_route_results.csv",
+      "circuit_id": "P8",
+      "check": "branch_drop_pass",
+      "result": "True"
+    },
+    {
+      "file": "power_route_results.csv",
+      "circuit_id": "P8",
+      "check": "served_area_pass",
+      "result": "True"
+    },
+    {
+      "file": "fault_protection_results.csv",
+      "circuit_id": "LC-A",
+      "check": "disconnection_pass",
+      "result": "True"
+    },
+    {
+      "file": "fault_protection_results.csv",
+      "circuit_id": "LC-A",
+      "check": "adiabatic_pass",
+      "result": "True"
+    },
+    {
+      "file": "fault_protection_results.csv",
+      "circuit_id": "LC-A",
+      "check": "overload_pass",
+      "result": "True"
+    },
+    {
+      "file": "fault_protection_results.csv",
+      "circuit_id": "LC-A",
+      "check": "breaking_capacity_pass",
+      "result": "True"
+    },
+    {
+      "file": "fault_protection_results.csv",
+      "circuit_id": "LC-B",
+      "check": "disconnection_pass",
+      "result": "True"
+    },
+    {
+      "file": "fault_protection_results.csv",
+      "circuit_id": "LC-B",
+      "check": "adiabatic_pass",
+      "result": "True"
+    },
+    {
+      "file": "fault_protection_results.csv",
+      "circuit_id": "LC-B",
+      "check": "overload_pass",
+      "result": "True"
+    },
+    {
+      "file": "fault_protection_results.csv",
+      "circuit_id": "LC-B",
+      "check": "breaking_capacity_pass",
+      "result": "True"
+    },
+    {
+      "file": "fault_protection_results.csv",
+      "circuit_id": "LC-C",
+      "check": "disconnection_pass",
+      "result": "True"
+    },
+    {
+      "file": "fault_protection_results.csv",
+      "circuit_id": "LC-C",
+      "check": "adiabatic_pass",
+      "result": "True"
+    },
+    {
+      "file": "fault_protection_results.csv",
+      "circuit_id": "LC-C",
+      "check": "overload_pass",
+      "result": "True"
+    },
+    {
+      "file": "fault_protection_results.csv",
+      "circuit_id": "LC-C",
+      "check": "breaking_capacity_pass",
+      "result": "True"
+    },
+    {
+      "file": "fault_protection_results.csv",
+      "circuit_id": "LC-D",
+      "check": "disconnection_pass",
+      "result": "True"
+    },
+    {
+      "file": "fault_protection_results.csv",
+      "circuit_id": "LC-D",
+      "check": "adiabatic_pass",
+      "result": "True"
+    },
+    {
+      "file": "fault_protection_results.csv",
+      "circuit_id": "LC-D",
+      "check": "overload_pass",
+      "result": "True"
+    },
+    {
+      "file": "fault_protection_results.csv",
+      "circuit_id": "LC-D",
+      "check": "breaking_capacity_pass",
+      "result": "True"
+    },
+    {
+      "file": "fault_protection_results.csv",
+      "circuit_id": "LC-E",
+      "check": "disconnection_pass",
+      "result": "True"
+    },
+    {
+      "file": "fault_protection_results.csv",
+      "circuit_id": "LC-E",
+      "check": "adiabatic_pass",
+      "result": "True"
+    },
+    {
+      "file": "fault_protection_results.csv",
+      "circuit_id": "LC-E",
+      "check": "overload_pass",
+      "result": "True"
+    },
+    {
+      "file": "fault_protection_results.csv",
+      "circuit_id": "LC-E",
+      "check": "breaking_capacity_pass",
+      "result": "True"
+    },
+    {
+      "file": "fault_protection_results.csv",
+      "circuit_id": "LC-F",
+      "check": "disconnection_pass",
+      "result": "True"
+    },
+    {
+      "file": "fault_protection_results.csv",
+      "circuit_id": "LC-F",
+      "check": "adiabatic_pass",
+      "result": "True"
+    },
+    {
+      "file": "fault_protection_results.csv",
+      "circuit_id": "LC-F",
+      "check": "overload_pass",
+      "result": "True"
+    },
+    {
+      "file": "fault_protection_results.csv",
+      "circuit_id": "LC-F",
+      "check": "breaking_capacity_pass",
+      "result": "True"
+    },
+    {
+      "file": "fault_protection_results.csv",
+      "circuit_id": "LC-G",
+      "check": "disconnection_pass",
+      "result": "True"
+    },
+    {
+      "file": "fault_protection_results.csv",
+      "circuit_id": "LC-G",
+      "check": "adiabatic_pass",
+      "result": "True"
+    },
+    {
+      "file": "fault_protection_results.csv",
+      "circuit_id": "LC-G",
+      "check": "overload_pass",
+      "result": "True"
+    },
+    {
+      "file": "fault_protection_results.csv",
+      "circuit_id": "LC-G",
+      "check": "breaking_capacity_pass",
+      "result": "True"
+    },
+    {
+      "file": "fault_protection_results.csv",
+      "circuit_id": "P1",
+      "check": "disconnection_pass",
+      "result": "True"
+    },
+    {
+      "file": "fault_protection_results.csv",
+      "circuit_id": "P1",
+      "check": "adiabatic_pass",
+      "result": "True"
+    },
+    {
+      "file": "fault_protection_results.csv",
+      "circuit_id": "P1",
+      "check": "overload_pass",
+      "result": "True"
+    },
+    {
+      "file": "fault_protection_results.csv",
+      "circuit_id": "P1",
+      "check": "breaking_capacity_pass",
+      "result": "True"
+    },
+    {
+      "file": "fault_protection_results.csv",
+      "circuit_id": "P2",
+      "check": "disconnection_pass",
+      "result": "True"
+    },
+    {
+      "file": "fault_protection_results.csv",
+      "circuit_id": "P2",
+      "check": "adiabatic_pass",
+      "result": "True"
+    },
+    {
+      "file": "fault_protection_results.csv",
+      "circuit_id": "P2",
+      "check": "overload_pass",
+      "result": "True"
+    },
+    {
+      "file": "fault_protection_results.csv",
+      "circuit_id": "P2",
+      "check": "breaking_capacity_pass",
+      "result": "True"
+    },
+    {
+      "file": "fault_protection_results.csv",
+      "circuit_id": "P3",
+      "check": "disconnection_pass",
+      "result": "True"
+    },
+    {
+      "file": "fault_protection_results.csv",
+      "circuit_id": "P3",
+      "check": "adiabatic_pass",
+      "result": "True"
+    },
+    {
+      "file": "fault_protection_results.csv",
+      "circuit_id": "P3",
+      "check": "overload_pass",
+      "result": "True"
+    },
+    {
+      "file": "fault_protection_results.csv",
+      "circuit_id": "P3",
+      "check": "breaking_capacity_pass",
+      "result": "True"
+    },
+    {
+      "file": "fault_protection_results.csv",
+      "circuit_id": "P4",
+      "check": "disconnection_pass",
+      "result": "True"
+    },
+    {
+      "file": "fault_protection_results.csv",
+      "circuit_id": "P4",
+      "check": "adiabatic_pass",
+      "result": "True"
+    },
+    {
+      "file": "fault_protection_results.csv",
+      "circuit_id": "P4",
+      "check": "overload_pass",
+      "result": "True"
+    },
+    {
+      "file": "fault_protection_results.csv",
+      "circuit_id": "P4",
+      "check": "breaking_capacity_pass",
+      "result": "True"
+    },
+    {
+      "file": "fault_protection_results.csv",
+      "circuit_id": "P5",
+      "check": "disconnection_pass",
+      "result": "True"
+    },
+    {
+      "file": "fault_protection_results.csv",
+      "circuit_id": "P5",
+      "check": "adiabatic_pass",
+      "result": "True"
+    },
+    {
+      "file": "fault_protection_results.csv",
+      "circuit_id": "P5",
+      "check": "overload_pass",
+      "result": "True"
+    },
+    {
+      "file": "fault_protection_results.csv",
+      "circuit_id": "P5",
+      "check": "breaking_capacity_pass",
+      "result": "True"
+    },
+    {
+      "file": "fault_protection_results.csv",
+      "circuit_id": "P6",
+      "check": "disconnection_pass",
+      "result": "True"
+    },
+    {
+      "file": "fault_protection_results.csv",
+      "circuit_id": "P6",
+      "check": "adiabatic_pass",
+      "result": "True"
+    },
+    {
+      "file": "fault_protection_results.csv",
+      "circuit_id": "P6",
+      "check": "overload_pass",
+      "result": "True"
+    },
+    {
+      "file": "fault_protection_results.csv",
+      "circuit_id": "P6",
+      "check": "breaking_capacity_pass",
+      "result": "True"
+    },
+    {
+      "file": "fault_protection_results.csv",
+      "circuit_id": "P7",
+      "check": "disconnection_pass",
+      "result": "True"
+    },
+    {
+      "file": "fault_protection_results.csv",
+      "circuit_id": "P7",
+      "check": "adiabatic_pass",
+      "result": "True"
+    },
+    {
+      "file": "fault_protection_results.csv",
+      "circuit_id": "P7",
+      "check": "overload_pass",
+      "result": "True"
+    },
+    {
+      "file": "fault_protection_results.csv",
+      "circuit_id": "P7",
+      "check": "breaking_capacity_pass",
+      "result": "True"
+    },
+    {
+      "file": "fault_protection_results.csv",
+      "circuit_id": "P8",
+      "check": "disconnection_pass",
+      "result": "True"
+    },
+    {
+      "file": "fault_protection_results.csv",
+      "circuit_id": "P8",
+      "check": "adiabatic_pass",
+      "result": "True"
+    },
+    {
+      "file": "fault_protection_results.csv",
+      "circuit_id": "P8",
+      "check": "overload_pass",
+      "result": "True"
+    },
+    {
+      "file": "fault_protection_results.csv",
+      "circuit_id": "P8",
+      "check": "breaking_capacity_pass",
+      "result": "True"
+    }
+  ],
+  "pass_all_applicable": true,
+  "scope": "Design calculations under documented conditions; P7 dedicated equipment has no socket served-area maximum"
+}

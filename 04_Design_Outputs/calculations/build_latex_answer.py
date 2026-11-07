@@ -56,6 +56,8 @@ if not provenance_path.exists():
         scope="Group identity blanks retained; no identities invented"), indent=2), encoding="utf8")
 shutil.copy2(ROOT / "04_Design_Outputs/submission/Task1_drawings_review.pdf", ASSETS / "task1-drawings.pdf")
 shutil.copy2(ROOT / "04_Design_Outputs/pdf/office_DB_submission_v01.pdf", ASSETS / "office-db.pdf")
+for kind in ["lighting", "power"]:
+    shutil.copy2(ROOT / f"04_Design_Outputs/pdf/office_{kind}_submission_v02.pdf", ASSETS / f"office-{kind}.pdf")
 
 parts = [r"""
 % !TeX program = xelatex
@@ -63,7 +65,7 @@ parts = [r"""
 \usepackage{fontspec}
 \setmainfont{Times New Roman}
 \usepackage[margin=25.4mm]{geometry}
-\usepackage{amsmath,amssymb,booktabs,longtable,array,pdfpages,hyperref}
+\usepackage{amsmath,amssymb,booktabs,longtable,array,pdfpages,hyperref,eso-pic}
 \hypersetup{hidelinks,pdftitle={BSE3124 Electrical Design Answer Sheets}}
 \setlength{\parindent}{0pt}
 \setlength{\parskip}{5pt}
@@ -73,7 +75,7 @@ parts = [r"""
 \begin{document}
 \includepdf[pages=1]{assets/official-cover.pdf}
 \task{Task 1 Loading estimation and transformer room location}
-\textbf{Working submission v01.} This answer follows the three supplied tasks and retains the official answer-sheet cover. Group details remain blank for the group to complete. The stated course assumptions define the calculations; they are not site measurements or certification of installed products.
+\textbf{Working submission v02.} This answer follows the three supplied tasks and retains the official answer-sheet cover. Group1 identities are entered on the cover. The stated course assumptions define the calculations; they are not site measurements or certification of installed products.
 \subsection*{Building load assessment}
 Adopt the drawing areas 309, 309 and 410\,m$^2$ as usable floor areas for ten identical office floors. This is a course assumption: the UFA exclusions have not been independently reconciled. Use supplied CLP COP215 Rev07. The assignment's 1000\,kW is cooling capacity. Assume packaged air-cooled central AC, electrical PF 0.90 and five lifts. The 40\,kVA/lift public-services allowance is aggregate, not a lift motor rating.
 \begin{align*}
@@ -176,14 +178,23 @@ For fuse overload, $I_2=1.9(13)=24.7$A. Spur $I_z=32(0.87)(0.70)=19.488$A gives 
 \subsection*{Sources and reproducibility}
 Cite supplied COP215 Rev07 and downloaded COP101 v16 as above. EMSD Wiring CoP2025: Table6(1), printed56/PDF57;7(1), printed65--67/PDF66--68;9B, printed79/PDF80;11(2), printed99--100/PDF100--101;11(10), printed105/PDF106; A5 factors PDF274--279; A6 tables PDF282--285.
 ABB guide9AKK108468A3912 printed130 gives the class3 B-curve energy references. Eaton TDC180 Technical Data2042 August2024 p2 gives conventional-fusing/interruption references, not total energy. URLs and explicit conditions are in the common data file \texttt{fault\_design\_conditions.json}.
-Tables are generated from current common CSV/JSON data. Reproduce the lighting/power route, demand, incoming and fault scripts before rebuilding this answer. Guarded DWG mutations must not be rerun blindly. Original source documents are retained. Final acceptance still needs normal lighting/power layout PDF review and final DWG save/reopen consistency verification.
+Tables are generated from current common CSV/JSON data. Reproduce the lighting/power route, demand, incoming and fault scripts before rebuilding this answer. Guarded DWG mutations must not be rerun blindly. Original source documents are retained. Normal lighting/power layout PDFs have been visually reviewed. Final native DWG save/reopen consistency verification is recorded separately in the acceptance evidence.
 \clearpage\section*{Drawing appendix}
-The following sheets show the ground-floor proposal and complete Office1 DB schematic. Normal lighting/power layouts remain in the editable DWG and will be appended after final plotting review.
+The following sheets show the ground-floor proposal, complete Office1 DB schematic, normal lighting plan and power plan. Print at actual size to preserve the stated drawing scales. Group1 identities are shown on the official cover.
 \includepdf[pages=-]{assets/task1-drawings.pdf}
 \includepdf[pages=-]{assets/office-db.pdf}
+\includepdf[pages=-]{assets/office-lighting.pdf}
+\includepdf[pages=-]{assets/office-power.pdf}
 \end{document}
 """)
 source = "\n".join(parts)
+identity = json.loads((DATA / "group_identity.json").read_text(encoding="utf8"))
+cover_items = [(232, str(identity["group_number"]))] + [
+    (191 - 28*i, m["name"] + " (" + m["student_id"] + ")")
+    for i, m in enumerate(identity["members"])]
+cover_overlay = "".join(r"\put(220," + str(y) + r"){\fontsize{11}{13}\selectfont " + esc(value) + "}" for y, value in cover_items)
+source = source.replace(r"\includepdf[pages=1]{assets/official-cover.pdf}",
+    r"\includepdf[pages=1,pagecommand={\thispagestyle{empty}\AddToShipoutPictureFG*{\AtPageLowerLeft{" + cover_overlay + r"}}}]{assets/official-cover.pdf}")
 start = source.index(r"\subsection*{Transformer and main LV room proposal}")
 end = source.index(r"\task{Task 2")
 source = source[:start] + r"""
@@ -194,8 +205,8 @@ The appendix shows assumed HV3000 by1000mm and transformer2200 by1800mm equipmen
 Two600 by2000mm louvres at assumed50\% free area provide1.20m$^2$, above clause6.3's1.12m$^2$ reference; certified free area must be at least46.67\%. Fan symbols are conditional provisions, not actual heat-loss calculations. LV interfaces including assumed tails are10.03/10.31m, below the20m limit in5.5.2.2. Actual equipment, structures, openings and ventilation must satisfy these declared conditions.
 """ + source[end:]
 source = source.replace(
-    r"\textbf{Working submission v01.} This answer follows the three supplied tasks and retains the official answer-sheet cover. Group details remain blank for the group to complete. The stated course assumptions define the calculations; they are not site measurements or certification of installed products.",
-    r"\textbf{Working submission v01.} Official cover and task structure are retained. The stated assumptions define a course design, not site certification.")
+    r"\textbf{Working submission v02.} This answer follows the three supplied tasks and retains the official answer-sheet cover. Group1 identities are entered on the cover. The stated course assumptions define the calculations; they are not site measurements or certification of installed products.",
+    r"\textbf{Working submission v02.} Official cover and task structure are retained. The stated assumptions define a course design, not site certification.")
 source = source.replace("the previous meeting-room description of FB09/SO01 is superseded.", "including FB09 and SO01.")
 source = source.replace("Earlier80A nominal-capacity studies are historical; this design uses the now-drawn13A fused-point restrictions.", "This demand depends on the specified13A fused-point restrictions.")
 source = source.replace(r"\setlength{\parskip}{5pt}", r"\setlength{\parskip}{5pt}" + "\n" + r"\emergencystretch=1em")
