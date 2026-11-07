@@ -43,7 +43,7 @@ if cover_asset.exists() and provenance_path.exists():
     assert provenance["cover_pdf_sha256"] == hashlib.sha256(cover_asset.read_bytes()).hexdigest(), "Cover PDF changed"
 elif not cover_asset.exists():
     writer = PdfWriter()
-    cover = ROOT / "04_Design_Outputs/qa/template_render/BSE3124 Mini Design Answer Sheets.pdf"
+    cover = ROOT / "04_Design_Outputs/archive/2026-11-07/qa/template_render/BSE3124 Mini Design Answer Sheets.pdf"
     writer.add_page(PdfReader(cover).pages[0])
     with cover_asset.open("wb") as stream:
         writer.write(stream)
