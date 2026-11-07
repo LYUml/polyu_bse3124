@@ -14,6 +14,7 @@ except Exception as exc:
     report['live_autocad'] = {'connected': False, 'reason': str(exc)}
 files = [p for folder in ['01_Assignment_Brief', '01_Assignment_Brief/Building_Drawings'] for p in (root / folder).glob('*') if p.is_file()]
 report['source_sha256'] = {str(p.relative_to(root)): hashlib.sha256(p.read_bytes()).hexdigest() for p in files}
-output = root / '07_Project_Notes/verification/setup_verification.json'
+output = root / '06_Tools/.cache/setup_verification.json'
+output.parent.mkdir(parents=True, exist_ok=True)
 output.write_text(json.dumps(report, ensure_ascii=False, indent=2), encoding='utf-8')
 print(json.dumps(report, ensure_ascii=False, indent=2))

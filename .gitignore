@@ -7,7 +7,8 @@ __pycache__/
 .DS_Store
 
 # Regenerable build and review files
-/07_Project_Notes/qa/
+/05_Calculations/.cache/
+/06_Tools/.cache/
 /04_Final_Report/source/build/
 /ErrorReports/
 /plot.log

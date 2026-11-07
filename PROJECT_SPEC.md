@@ -1,6 +1,6 @@
 # BSE3124 电气设计执行声明
 
-更新日期：2026-11-07。本文定义项目目标、输入、工具、数据约束、执行顺序和验收标准。它是后续工作的执行入口；课程原题优先于本文。07_Project_Notes/background/WORKFLOW.md 保留详细背景。
+更新日期：2026-11-07。本文定义项目目标、输入、工具、数据约束、执行顺序和验收标准。它是后续工作的执行入口；课程原题优先于本文。
 
 ## 当前执行优先级
 
@@ -27,7 +27,7 @@
 | QA skill | `.agents/skills/autocad-dwg-redraw` | 项目级安装，下一轮可发现；只在需要剖析/核对DWG时使用，不默认重绘底图 |
 | 官方资料 | `02_References/Official` | EMSD两份PDF已下载；CLP四份PDF现已手动取得并保留于Official，SHA256见05_Calculations/data/official_reference_manifest.json；旧403记录属于下载历史 |
 
-运行环境和原件SHA256记录在 `07_Project_Notes/verification/setup_verification.json`；软件依赖快照在 `06_Tools/requirements.lock.txt`。MCP是第三方软件，安装和冒烟验证不等于完整代码审计或AutoCAD 2027兼容认证。
+原件SHA256及最终校核记录在 `05_Calculations/data/final_manifest.json`；软件依赖快照在 `06_Tools/requirements.lock.txt`。MCP是第三方软件，安装和冒烟验证不等于完整代码审计或AutoCAD 2027兼容认证。
 
 ## 数据与文件声明
 
@@ -67,7 +67,7 @@
 
 ## 工具选择声明
 
-采用AutoCAD＋MCP／AutoLISP＋统一CSV数据。GElectrical暂不安装：当前任务先以透明计算完成负荷和选线，若压降、短路或保护配合需要独立复核，再引入。pyautocad作为备选，避免重复维护两套COM接口。.NET插件开发skill暂不安装。arXiv论文作为方法参考，不作为规范或自动化工具已可用的证据。全部候选和链接见 `07_Project_Notes/RESOURCE_CATALOG.md`。
+采用AutoCAD＋MCP／AutoLISP＋统一CSV数据。GElectrical暂不安装：当前任务先以透明计算完成负荷和选线，若压降、短路或保护配合需要独立复核，再引入。pyautocad作为备选，避免重复维护两套COM接口。.NET插件开发skill暂不安装。arXiv论文作为方法参考，不作为规范或自动化工具已可用的证据。已采用的资料保存在02_References，依赖和安装入口保存在06_Tools。
 
 ## 继续使用
 

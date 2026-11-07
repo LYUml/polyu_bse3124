@@ -28,7 +28,8 @@ async def main():
             result = await session.call_tool('system_about', {})
             report['system_about'] = result.model_dump(mode='json')
             assert not result.isError
-    (ROOT / '07_Project_Notes/verification/mcp_smoke_test.json').write_text(json.dumps(report, ensure_ascii=False, indent=2), encoding='utf-8')
+    (ROOT / '06_Tools/.cache').mkdir(parents=True, exist_ok=True)
+    (ROOT / '06_Tools/.cache/mcp_smoke_test.json').write_text(json.dumps(report, ensure_ascii=False, indent=2), encoding='utf-8')
     print('PASS: stdio MCP initialize/list_tools/system_about; synthetic DXF contains 3 circles')
 
 if __name__ == '__main__':

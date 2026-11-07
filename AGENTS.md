@@ -1,6 +1,6 @@
 # BSE3124 project instructions
 
-Read PROJECT_SPEC.md and 07_Project_Notes/background/WORKFLOW.md before design work. PROJECT_SPEC.md is the current execution contract; 07_Project_Notes/background/WORKFLOW.md supplies background. Actual assignment requirements take precedence over both.
+Read PROJECT_SPEC.md before design work. Actual assignment requirements take precedence over the project specification.
 
 - Preserve originals in 01_Assignment_Brief, 01_Assignment_Brief/Building_Drawings and existing 02_References. Edit only versioned copies in 05_Calculations.
 - Use AutoCAD 2027 for DWG. Never claim DXF validation proves DWG fidelity or CAD command success proves print quality.

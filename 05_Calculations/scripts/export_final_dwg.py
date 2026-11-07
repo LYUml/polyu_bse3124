@@ -12,7 +12,7 @@ from pypdf import PdfReader, PdfWriter
 
 ROOT = Path(__file__).resolve().parents[2]
 DWG = ROOT / '03_Design_Drawings/BSE3124_Final.dwg'
-OUT = ROOT / '07_Project_Notes/qa/native_plots'
+OUT = ROOT / '05_Calculations/.cache/native_plots'
 ASSETS = ROOT / '04_Final_Report/source/assets'
 OUT.mkdir(parents=True, exist_ok=True)
 sha = lambda p: hashlib.sha256(p.read_bytes()).hexdigest()

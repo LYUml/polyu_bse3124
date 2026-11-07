@@ -10,7 +10,6 @@ Final submission: [Report PDF](04_Final_Report/BSE3124_Final.pdf) · [AutoCAD dr
 | 04_Final_Report | One final report PDF; editable LaTeX, corrected template and drawing assets in source. |
 | 05_Calculations | Common CSV/JSON data and verification evidence in data; calculation/export scripts in scripts. |
 | 06_Tools | Environment setup, dependency restoration and AutoCAD connector tools. |
-| 07_Project_Notes | Research catalog, project decisions and retained investigation records. |
 
 The 18-page report keeps Task 1 on pp.2–5, Task 2 on pp.6–14 and Task 3 on pp.15–18. Drawing PDFs inside the report source are build dependencies, not additional submission versions.
 
