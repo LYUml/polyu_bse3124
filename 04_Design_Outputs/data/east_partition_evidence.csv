@@ -1,0 +1,8 @@
+﻿x_mm,y_min_mm,y_max_mm,evidence_handle,finding
+75115,16105.6,18203.1,5136,wall face
+75115,18203.1,19003.1,5136;5139,800 mm gap between wall faces; check door swing
+75115,19003.1,19262.5,5139;513A,short wall return / horizontal wall end
+75115,19262.5,24056.9,513A;5132,no vertical ARCH line or polyline segment found at this x; open to main area subject to block check
+75115,24056.9,24316.3,5132;5135,short wall return / horizontal wall end
+75115,24316.3,25116.3,5135;5131,800 mm gap between wall faces; check door swing
+75115,25116.3,31488.1,5131,wall face
