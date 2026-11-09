@@ -1,0 +1,10 @@
+item,requirement,source,application,status
+HV rear clearance,1000 mm,COP101 v16 4.3 printed p4 PDF p6,measure from actual panel rear face,pending actual HV footprint
+HV front clearance,1800 mm,COP101 v16 4.3 printed p4 PDF p6,measure operating space at panel front,pending actual HV footprint
+HV other sides,750 mm,COP101 v16 4.3 printed p4 PDF p6,reserve both remaining sides,pending actual HV footprint
+Transformer LV terminals,900 mm,COP101 v16 4.3 printed p4 PDF p6,clear space around LV terminals,pending actual transformer footprint
+Transformer other sides,750 mm,COP101 v16 4.3 printed p4 PDF p6,clearance on other sides,pending actual transformer footprint
+Transformer plinth minimum,1800 x 1350 mm,COP101 v16 4.4.3 printed p5 PDF p7,minimum foundation not equipment dimensions,actual size depends on transformer
+Transformer plinth support,9000 kg minimum,COP101 v16 4.4.1 printed p4 PDF p6,structural provision not transformer actual mass,structural verification pending
+Plant delivery route,3 m minimum width and <=20m from loading area,COP101 v16 5.1.2 printed p6 PDF p8,reserve accessible external approach,external site information absent
+Substation headroom,3.6m with transformer and630mm fan;3.8m with800mm fan,COP101 v16 5.1.5 printed p7 PDF p9,coordinate ceiling and lifting clearance,section heights not provided

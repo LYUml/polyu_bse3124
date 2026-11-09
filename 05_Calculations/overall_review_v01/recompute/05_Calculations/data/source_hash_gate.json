@@ -1,0 +1,30 @@
+{
+  "basis": "git HEAD tracked original-source manifest",
+  "files": [
+    {
+      "file": "01_Assignment_Brief\\BSE3124 Mini Design Answer Sheets.docx",
+      "expected": "da927db8e419e8639f0a89052ddf64c104011f22ce808b371756012d2f25d65d",
+      "actual": "da927db8e419e8639f0a89052ddf64c104011f22ce808b371756012d2f25d65d",
+      "unchanged": true
+    },
+    {
+      "file": "01_Assignment_Brief\\BSE3124 Mini Design Assignment-2.docx",
+      "expected": "561727aa33f0844b0f79308019256d1da37ef3640468880863ce198d3514daac",
+      "actual": "561727aa33f0844b0f79308019256d1da37ef3640468880863ce198d3514daac",
+      "unchanged": true
+    },
+    {
+      "file": "01_Assignment_Brief/Building_Drawings\\Building Layouts Layout2-1.pdf",
+      "expected": "abc963b4e48a5eb7643564106ea273ebc36130779bdced6de441e86a2d2c4208",
+      "actual": "abc963b4e48a5eb7643564106ea273ebc36130779bdced6de441e86a2d2c4208",
+      "unchanged": true
+    },
+    {
+      "file": "01_Assignment_Brief/Building_Drawings\\Building Layouts.dwg",
+      "expected": "0adaa4351e0e5c665cec56bf8feb177b9d3e68001bc991cf96abd5176811d23a",
+      "actual": "0adaa4351e0e5c665cec56bf8feb177b9d3e68001bc991cf96abd5176811d23a",
+      "unchanged": true
+    }
+  ],
+  "pass_all": true
+}

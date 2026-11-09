@@ -1,15 +1,15 @@
 % !TeX root = main.tex
 \subsection*{Incoming design conditions}
-The preceding sheet selects C63 protection and a 4-core 35 mm$^2$ feeder with 16 mm$^2$ CPC. The meter-to-DB route is 28.5119 m plus a 3 m vertical/termination allowance. Adopt 40\,$^\circ$C, a separate Method B enclosure, and third-harmonic content greater than 15\% and at most 33\%, giving $C_a=0.87$, $C_g=1$ and $C_h=0.86$. Retain a full-size neutral.
+The preceding sheet selects C63 protection and a 4-core 35 mm$^2$ feeder with 16 mm$^2$ CPC. Along the meter-to-DB route, the length is 28.5119 m plus a 3 m vertical/termination allowance. Cable sizing assumes 40\,$^\circ$C, a separate Method B enclosure and third-harmonic content greater than 15\% and at most 33\%, giving $C_a=0.87$, $C_g=1$ and $C_h=0.86$. A full-size neutral is retained on this basis.
 
-For the phase-neutral drop bound, $(2/\sqrt3)(1.10)=1.270170592$ mV/A/m from the three-phase table impedance, with neutral current at most 63 A. Feeder drop is 2.521606 V at 63 A and 1.964888 V at the design demand of 49.091 A. The complete-path calculation below includes the 2.2 V upstream allowance.
+To bound the phase-neutral voltage drop, the calculation uses $(2/\sqrt3)(1.10)=1.270170592$ mV/A/m from the three-phase table impedance, with neutral current at most 63 A. Thus, feeder drop is 2.521606 V at 63 A and 1.964888 V at the design demand of 49.091 A. Additionally, the complete-path calculation below includes the 2.2 V upstream allowance.
 
 \subsection*{All outgoing cables}
-All sizes are PVC copper L/N/CPC. Lighting grouped separately has $I_z=24(0.87)(0.54)=11.2752$ A for seven 2.5 mm$^2$ circuits;  all $I_b\le 10\le I_z$. Lighting lengths include 5 m DB/switch vertical allowance.
+All outgoing cable sizes refer to PVC copper L/N/CPC conductors. Lighting grouped separately has $I_z=24(0.87)(0.54)=11.2752$ A for seven 2.5 mm$^2$ circuits;  all $I_b\le 10\le I_z$. Lighting lengths include 5 m DB/switch vertical allowance.
 
-Uniform ring banks count four current-carrying legs: $I_z=41(0.87)(0.65)=23.1855$ A per 6 mm$^2$ leg, above the standard 20 A minimum. Ring-network solution at 13 A per point gives maximum leg currents 14.658--15.203 A, below $I_z$. Do not compare radial $I_n\le I_z$ against just one ring leg. Continuity and fused-point restrictions are essential.
+Each uniform ring bank counts as four current-carrying legs, giving $I_z=41(0.87)(0.65)=23.1855$ A per 6 mm$^2$ leg, above the standard 20 A minimum. With 13 A per point, the ring-network solution gives maximum leg currents 14.658--15.203 A, below $I_z$. However, the radial criterion $I_n\le I_z$ must not be applied to just one ring leg. Continuity and fused-point restrictions are essential.
 
-The 10 mm$^2$ A2 radials have $I_z=57(0.87)(0.70)=34.713$ A;  P7's separate 4 mm$^2$ radial has $I_z=32(0.87)=27.84$ A. Power radial allowance is 2 m vertical, rings 2 m at each DB end;  all local point spurs add 0.5 m of 4 mm$^2$ cable.
+Meanwhile, the 10 mm$^2$ A2 radial cables have $I_z=57(0.87)(0.70)=34.713$ A;  P7's separate 4 mm$^2$ radial has $I_z=32(0.87)=27.84$ A. In determining route lengths, the power radials include a 2 m vertical allowance, while the rings include 2 m at each DB end. Additionally, each local point spur adds 0.5 m of 4 mm$^2$ cable.
 \begin{longtable}{llrrrr}\toprule
 Circuit & Phase & $I_b$ A & RCBO A & L/N/CPC mm$^2$ & Main length m\\\midrule\endhead
 
@@ -31,9 +31,9 @@ P8 & L3 & 13.000 & 32 & 10 & 15.107 \\
 
 \bottomrule\end{longtable}
 \subsection*{Complete voltage drop and fault checks}
-Sum segment downstream-current drops on radials and solve the two-feed ring network. Include stated vertical/local allowances. Add 2.2 V pre-origin allowance,2.521606 V feeder bound and outgoing drop. The full limit is $0.04(220)=8.8$V.
+The voltage-drop calculation sums the segment drops using downstream currents on the radials and solves the two-feed ring network, including the stated vertical/local allowances. Combining this result with the 2.2 V pre-origin allowance and the 2.521606 V feeder bound gives the full-path drop, which is checked against a limit of $0.04(220)=8.8$ V.
 
-Adopt TN-S, external source loop impedance 0.20 ohm and PFC at most 6 kA at MS-O1/downstream.  Incoming phase+CPC bound 0.064129 ohm gives DB external loop 0.264129 ohm. Table 11(10) reference limits are B10=4.17, B16=2.61, B32=1.31 and C63=0.33 ohm. Use operating-temperature paths and minimum voltage factor 0.95. Worst uniform-ring parallel path is at most quarter circumference.
+Fault-protection checks assume a TN-S supply, an external source loop impedance of 0.20 ohm and PFC at most 6 kA at MS-O1/downstream.  Adding the incoming phase+CPC bound of 0.064129 ohm gives a DB external loop impedance of 0.264129 ohm. Table 11(10) reference limits are B10=4.17, B16=2.61, B32=1.31 and C63=0.33 ohm. Throughout these checks, the calculation uses operating-temperature paths and a minimum voltage factor of 0.95. Within a uniform ring, the worst parallel path is at most a quarter of the circumference.
 \begin{longtable}{lrrrrr}\toprule
 Circuit & Out drop V & Total drop \% & $Z_s$ ohm & Min fault A & $Z_s$ limit ohm\\\midrule\endhead
 
@@ -54,13 +54,13 @@ P7 & 1.946 & 3.031 & 0.414 & 505.1 & 2.61 \\
 P8 & 0.936 & 2.571 & 0.336 & 621.8 & 1.31 \\
 
 \bottomrule\end{longtable}
-All 15 full voltage bounds pass;  worst 3.031\%. Each B-curve final circuit exceeds minimum earth-fault threshold $5I_n$. Incoming C63 gives $Z_s=0.264129<0.33$ ohm and $I_{f,\min}=791.28>10(63)=630$ A, satisfying reference instantaneous disconnection under the adopted conditions.
+Under the adopted conditions, all 15 full voltage bounds pass, with a worst-case drop of 3.031\%. Additionally, the calculated minimum earth-fault current in each B-curve final circuit exceeds the threshold $5I_n$. Similarly, incoming C63 gives $Z_s=0.264129<0.33$ ohm and $I_{f,\min}=791.28>10(63)=630$ A, satisfying reference instantaneous disconnection under the adopted conditions.
 \subsection*{Overload and total clearing energy}
-Use $k=115$ for bunched PVC copper CPCs initially 70\,$^\circ$C (11(2)(c));  require total $I^2t\le(kS)^2$. Specify 10 kA main/RCBO interruption. Require class 3-equivalent B-curve total energy at most 70,000 A$^2$s for B10/B16,90,000 for B32. Select RCBOs with manufacturer total-clearing-energy data meeting these limits. CPC withstands are 82,656.25 (2.5 mm$^2$),211,600 (4),476,100 (6),1,322,500 (10), each above the required device bound.
+CPC thermal withstand is checked using $k=115$ for bunched PVC copper CPCs initially at 70\,$^\circ$C (11(2)(c)), with total $I^2t\le(kS)^2$ required. Additionally, the main protection and RCBOs must have a breaking capacity of 10 kA. B-curve devices must limit class 3-equivalent total energy to at most 70,000 A$^2$s for B10/B16 and 90,000 for B32. Accordingly, the selected RCBOs must have manufacturer total-clearing-energy data that meet these limits. Corresponding CPC withstands are 82,656.25 (2.5 mm$^2$), 211,600 (4), 476,100 (6) and 1,322,500 (10), each above the required device bound.
 
-Incoming C63 total energy must be at most 1,000,000 A$^2$s over the relevant fault range, below CPC16 withstand 3,385,600. Complete 13 A FCU energy must be at most 90,000, below the 4 mm$^2$ spur withstand 211,600. Select the incoming breaker and FCU assemblies to these total-energy limits.
+Incoming C63 total energy must be at most 1,000,000 A$^2$s over the relevant fault range, below CPC16 withstand 3,385,600. Similarly, complete 13 A FCU energy must be at most 90,000, below the 4 mm$^2$ spur withstand 211,600. Therefore, the incoming breaker and FCU assemblies must be selected to meet these total-energy limits.
 
-For fuse overload, $I_2=1.9(13)=24.7$ A. Spur $I_z=32(0.87)(0.70)=19.488$ A gives $1.45I_z=28.2576>24.7$ A. For P1--P4, overload suitability uses the standard A1 arrangement in EMSD 6C, 6E and Table 6(1), Note 1(i): 32 A protection, copper size at least 2.5 mm$^2$, corrected per-leg capacity at least 20 A, served area at most 100 m$^2$, intact L/N/CPC rings and evenly distributed outlets. The adopted 6 mm$^2$ rings meet these conditions. Exactly two individually 13 A fused connections are allowed per ring; no extra unfused taps. The leg-current calculation checks load distribution; the A1 standard arrangement governs ring overload protection. The fuse reference 6 kA interruption meets assumed PFC at most 6 kA. Its typical pre-arcing 870 A$^2$s is \emph{not} total clearing energy. Assume FCU ambient at most 35\,$^\circ$C and board apparatus at most 30\,$^\circ$C;  containment 40\,$^\circ$C remains the conservative cable condition.
+Under fuse overload conditions, $I_2=1.9(13)=24.7$ A. Spur $I_z=32(0.87)(0.70)=19.488$ A gives $1.45I_z=28.2576>24.7$ A. Overload suitability of P1--P4 is assessed using the standard A1 arrangement in EMSD 6C, 6E and Table 6(1), Note 1(i): 32 A protection, copper size at least 2.5 mm$^2$, corrected per-leg capacity at least 20 A, served area at most 100 m$^2$, intact L/N/CPC rings and evenly distributed outlets. On this basis, the adopted 6 mm$^2$ rings meet these conditions. Exactly two individually 13 A fused connections are allowed per ring; no additional unfused taps are permitted. Here, the leg-current calculation checks load distribution; the A1 standard arrangement governs ring overload protection. With a reference interruption rating of 6 kA, the fuse meets the assumed PFC of at most 6 kA. However, its typical pre-arcing 870 A$^2$s is \emph{not} total clearing energy. Finally, the design assumes an FCU ambient temperature of at most 35\,$^\circ$C and a board apparatus ambient temperature of at most 30\,$^\circ$C; a containment temperature of 40\,$^\circ$C remains the conservative cable condition.
 \subsection*{References}
 CLP COP215 Rev 07: clauses 3.1.7 and 3.3.1; Appendices 2 and 7 (building demand). CLP COP101 v16: clauses 4.3, 5.5, 5.6 and 6.1--6.7 (plantroom planning).
 

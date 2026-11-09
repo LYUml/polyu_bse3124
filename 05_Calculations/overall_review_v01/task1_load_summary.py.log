@@ -1,0 +1,12 @@
+office_UFA_assumed 10280.0 m2
+office_ADMD 1644.8 kVA
+AC_cooling 1000.0 kW cooling
+AC_electrical 526.039 kW electrical
+AC_apparent 584.488 kVA
+public_services 200.0 kVA
+reservation_envelope_before_zoning 2429.288 kVA
+reservation_envelope_two_zones 2672.216 kVA
+baseline_current 3690.921 A
+zone_current_with_1_1 2030.006 A
+installed_capacity_candidate 3000.0 kVA
+Capacity bounds: [{'scenario': 'conservative_no_deduction', 'overlap_deduction_kVA': 0, 'assessed_load_kVA': 2672.216, 'per_zone_kVA': 1336.108, 'per_zone_current_A': 2030.006, 'installed_capacity_kVA': 3000.0, 'capacity_margin_kVA': 327.784, 'normal_capacity_pass': True, 'full_load_N_minus_1_pass': False, 'limitation': 'Course load model only; equal allocation assumed; equipment and site coordination pending'}, {'scenario': 'maximum_possible_deduction', 'overlap_deduction_kVA': 200.0, 'assessed_load_kVA': 2452.216, 'per_zone_kVA': 1226.108, 'per_zone_current_A': 1862.879, 'installed_capacity_kVA': 3000.0, 'capacity_margin_kVA': 547.784, 'normal_capacity_pass': True, 'full_load_N_minus_1_pass': False, 'limitation': 'Course load model only; equal allocation assumed; equipment and site coordination pending'}]

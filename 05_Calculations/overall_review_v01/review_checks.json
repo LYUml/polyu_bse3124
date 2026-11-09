@@ -1,0 +1,24 @@
+{
+  "source_hash_checks": [
+    {
+      "file": "01_Assignment_Brief\\BSE3124 Mini Design Answer Sheets.docx",
+      "match": true
+    },
+    {
+      "file": "01_Assignment_Brief\\BSE3124 Mini Design Assignment-2.docx",
+      "match": true
+    },
+    {
+      "file": "01_Assignment_Brief/Building_Drawings\\Building Layouts Layout2-1.pdf",
+      "match": true
+    },
+    {
+      "file": "01_Assignment_Brief/Building_Drawings\\Building Layouts.dwg",
+      "match": true
+    }
+  ],
+  "devices": 112,
+  "circuits": 15,
+  "membership_mismatches": [],
+  "scope": "Recomputed in versioned review copy; source and deliverable files not edited."
+}

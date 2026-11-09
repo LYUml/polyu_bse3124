@@ -1,9 +1,9 @@
 % !TeX root = main.tex
 {\fontsize{12}{14}\selectfont\tenantselection}
 \subsection*{Normal lighting and local controls}
-The design uses 92 PIL PLATO 600 MultiPower 3117955 panels on the 600 mm ceiling grid: sixty 22 W, twenty-eight 28 W and four 38 W, totalling 2256 W. Their nominal fluxes are 2843.45, 3555.30 and 4685.55 lm respectively. Separate circuits serve enclosed rooms and distributed main-office zones. Adopt a maintained mean illuminance target of 500 lx. The connected lighting density is 7.301 W/m$^2$ using the adopted 309 m$^2$ office area.
+The lighting proposal starts with 92 PIL PLATO 600 MultiPower 3117955 panels on the 600 mm ceiling grid: sixty 22 W, twenty-eight 28 W and four 38 W, totalling 2256 W. Their nominal fluxes are 2843.45, 3555.30 and 4685.55 lm respectively. Separate circuits serve the enclosed rooms and distributed main-office zones, with a maintained mean illuminance target of 500 lx adopted for the design. With this arrangement, the connected lighting density is 7.301 W/m$^2$ using the adopted 309 m$^2$ office area.
 
-Seven local passive manual switches S-A--S-G control their corresponding circuits. Specify minimum 20 AX, LED switching at least 600 W and make/break/inrush compatibility for the selected drivers. S-A/B/C use separate enclosures because their phases differ. No borrowed neutral is allowed. Routes visit each switch;  include 2 m DB rise plus 1.5 m down/1.5 m back at the switch, giving 5 m assumed vertical allowance per lighting radial. Passive controls add no operating power.
+Seven passive manual switches S-A--S-G provide local control of their corresponding circuits. These switches must have a minimum rating of 20 AX, an LED switching capacity of at least 600 W and make/break/inrush compatibility with the selected drivers. Since their phases differ, S-A/B/C use separate enclosures. No borrowed neutral is allowed. Each route passes through its switch and includes a 2 m DB rise plus 1.5 m down and 1.5 m back at the switch, giving an assumed vertical allowance of 5 m per lighting radial. Passive controls add no operating power.
 \begin{center}\begin{tabular}{lrrrrl}\toprule
 Circuit & Lamps & W & Phase & RCBO & Control\\\midrule
 
@@ -16,12 +16,12 @@ LC-F & 10 & 280 & L1 & B10 & S-F \\
 LC-G & 4 & 152 & L3 & B10 & S-G \\
 
 \bottomrule\end{tabular}\end{center}
-Plan A/B/C numeric labels map to corresponding LED IDs and LC-A/B/C. D01--D11 map to PN01--PN11, E82--E96 excluding E90 to northeast LEDs, F01--F10 to UE01--UE10, G01--G04 to SE01--SE04. Power settings follow the common device schedule. Every luminaire and control has one circuit assignment.
+On the plan, the A/B/C numeric labels correspond to the LED IDs and circuits LC-A/B/C. Similarly, D01--D11 correspond to PN01--PN11, E82--E96 excluding E90 to the northeast LEDs, F01--F10 to UE01--UE10, and G01--G04 to SE01--SE04. Power settings follow the common device schedule. Every luminaire and control has one circuit assignment.
 \input{lighting_basis.tex}
 \subsection*{Small power and fixed equipment}
-Provide nine four-socket floor boxes, three twin wall sockets and fixed connection FS01. Each floor-box/socket assembly is individually 13 A fused. The demand calculation uses a 13 A continuous capacity per assembly; FS01 reserves a further 13 A for fixed equipment. Building central AC is supplied as central plant and not duplicated in this office DB.
+Small-power provision includes nine four-socket floor boxes, three twin wall sockets and the fixed connection FS01. Each floor-box/socket assembly is individually 13 A fused. Accordingly, the demand calculation uses a 13 A continuous capacity per assembly; FS01 reserves a further 13 A for fixed equipment. Meanwhile, building central AC is supplied as central plant and not duplicated in this office DB.
 
-P1--P4 are A1 rings with fused floor-box connections. P5/P6/P8 are A2 radials;  P7 is a fixed radial. Both P6 and P8 serve the source PANTRY;  including FB09 and SO01. P8 is a separate socket group for convenient isolation. Kitchen sockets are separated from ordinary office circuits under EMSD6E(3)(a).
+P1--P4 are A1 rings with fused floor-box connections. In comparison, P5/P6/P8 are A2 radials, while P7 is a fixed radial. Both P6 and P8 serve the PANTRY identified on the source plan, with FB09 and SO01 connected to P6. P8 is a separate socket group for convenient isolation. Kitchen sockets are separated from ordinary office circuits under EMSD6E(3)(a).
 \begin{center}\begin{tabular}{llllr}\toprule
 Circuit & Points & Phase & Topology & Protection\\\midrule
 
@@ -35,12 +35,12 @@ P7 & FS01 & L3 & Fixed radial & B16 \\
 P8 & SO03 & L3 & A2 radial & B32 \\
 
 \bottomrule\end{tabular}\end{center}
-Defined service envelopes satisfy A1 maximum 100 m$^2$ and A2 maximum 50 m$^2$. Coverage is assessed by service envelope, allowing overlap between circuits. Ring L/N/CPC return to their own circuit terminals. Main 6/10 mm$^2$ cables terminate in accessible junction/FCU assemblies rated for those conductor sizes. Local connections use 4 mm$^2$ L/N/CPC and assumed 0.5 m per point.
+In terms of coverage, the defined service envelopes satisfy the A1 maximum of 100 m$^2$ and the A2 maximum of 50 m$^2$. Coverage is assessed by service envelope, allowing overlap between circuits. Ring L/N/CPC return to their own circuit terminals. Main 6/10 mm$^2$ cables terminate in accessible junction/FCU assemblies rated for those conductor sizes. At each point, the local connections use 4 mm$^2$ L/N/CPC, with an assumed length of 0.5 m per point.
 \clearpage
 \input{installation_notes.tex}
 \subsection*{Protection and board arrangement}
-The complete schematic shows C63 four-pole protection at MS-O1, 4-core 35 mm$^2$ plus CPC16, a 100 A four-pole DB isolator, independent L1/L2/L3/N/PE bars and 15 separate 1P+N Type A 30 mA RCBOs. Every load neutral passes through its own RCBO;  none are shared downstream. PE bypasses all switches. Label circuits/phases and allow one final circuit to be isolated without interrupting the rest.
+As shown in the complete schematic, the arrangement includes C63 four-pole protection at MS-O1, 4-core 35 mm$^2$ plus CPC16, a 100 A four-pole DB isolator, independent L1/L2/L3/N/PE bars and 15 separate 1P+N Type A 30 mA RCBOs. Every load neutral passes through its own RCBO;  none are shared downstream. Meanwhile, PE bypasses all switches. Additionally, the circuits and phases are to be labelled, and the arrangement must allow each final circuit to be isolated without interrupting the others.
 
-Use B-curve final protection compatible with driver inrush and the Task 3 breaking-capacity/energy limits. Individual RCBOs limit the effect of a residual-current fault to its own circuit; full short-circuit selectivity requires manufacturer coordination data.
+Device selection must ensure that the proposed B-curve final protection is compatible with driver inrush and the breaking-capacity/energy limits established in Task 3. Individual RCBOs limit the effect of a residual-current fault to its own circuit; however, full short-circuit selectivity requires manufacturer coordination data.
 \subsection*{Emergency lighting assumption}
 Landlord emergency lighting and exit signage use independent essential supplies, separated from normal lighting under EMSD 6B(4). These feeds bypass tenant normal-lighting switches and RCBO load sides. Emergency-system loads are therefore outside this office normal-supply DB.

@@ -1,0 +1,4 @@
+phase,lighting_undiversified_A,socket_FCU_sum_A,socket_diversified_A,fixed_reserved_A,design_demand_A,undiversified_point_capacity_A
+L1,3.444444,65.0,45.5,0,48.6,68.444444
+L2,3.959596,52.0,39.0,0,42.563636,55.959596
+L3,3.989899,39.0,32.5,13.0,49.090909,55.989899
