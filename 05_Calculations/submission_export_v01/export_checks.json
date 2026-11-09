@@ -1,0 +1,22 @@
+{
+  "pages": 18,
+  "task_pages": {
+    "Task1": "2-5",
+    "Task2": "6-14",
+    "Task3": "15-18"
+  },
+  "six_CAD_drawing_pages_unchanged": [
+    4,
+    5,
+    11,
+    12,
+    13,
+    14
+  ],
+  "source_hashes_pass": true,
+  "sha256": "4dd41e84262d95c1f5dbae8a1bed9350e18266b7963b67f459d4c52967a075c2",
+  "bytes": 1746633,
+  "build": "XeLaTeX twice and finalization passed; no overfull or undefined-reference diagnostics",
+  "changes": "Latest latex_edit_v01 text; corrected export Python in versioned copy; page break before overload section",
+  "visual_review": "All 18 rendered pages inspected: complete task order and drawing sheets, no blank pages or clipped answer content; overload section starts cleanly on page18. Existing drawing density retained."
+}
