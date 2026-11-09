@@ -1,0 +1,313 @@
+Recording 6
+Title: T (Grp 2) - Power Factor Correction
+Date: 2026-09-17
+Source: https://polyu.zoom.us/rec/play/72BOXMh3DeOSfVVavK-d_8bfiAotDiqm1JQ4o2-mnkwWl5JRdVU1Go9PqMiMAYwPGHyI1hwojTWjZTA.MhyJWdNbv3UHgQj5
+Automatic Zoom transcript; recognition errors retained.
+
+Du Ya Ping, 0 minutes 31 seconds, Right, okay. All right, okay. We are going to talk about a question regarding the power Factor Correction. Actually, there are three questions.
+Du Ya Ping, 0 minutes 42 seconds, And, some of our questions also include, the calculation about the tariff, okay? The charge, demand charge, and the energy charge, okay? So, it's relatively comprehensive, okay? All right, so let's talk about the
+Du Ya Ping, 0 minutes 59 seconds, Question one, and we have, a building, supplied by a surface, circuit, and the…
+Du Ya Ping, 1 minutes 10 seconds, full load current of the power, okay, we have, given here, that means there are 3 different, types loads, okay? A, B, C, okay, and we are given by, the basic information about the loading, and actually, those are constant loading, okay?
+Du Ya Ping, 1 minutes 27 seconds, did not change with the time, okay? And
+Du Ya Ping, 1 minutes 32 seconds, If the overall power factor is correct, that means the overall power factor is improved, okay, 0.85, okay, by group compensation, and we need to find out the rating of the capacitors.
+Du Ya Ping, 1 minutes 48 seconds, And the power factor after the compensation, okay? And the capacitor bank step size is 10 kilowatt, okay? So this is a basic question about the power factor correction. So, we need to find out,
+Du Ya Ping, 2 minutes 6 seconds, The total reactive power, consumed by the loads and the target, okay,
+Du Ya Ping, 2 minutes 16 seconds, I mean, the reactive power. So, QC… It's…
+Du Ya Ping, 2 minutes 26 seconds, QC is equal to the original one, minus the second one, this is the target, this is the original one, okay? And,
+Du Ya Ping, 2 minutes 37 seconds, If you know the target power factor, this one.
+Du Ya Ping, 2 minutes 42 seconds, is equal to the P real power, which does not change, okay? You know, before the compensation and after compensation. Should be the same, times the tangent.
+Du Ya Ping, 2 minutes 53 seconds, Theta, theta is the cosine, okay, inverse function of the cosine, right? This is the target power factor, okay? So in this case, this is equal to 0.85, 0.85, okay?
+Du Ya Ping, 3 minutes 9 seconds, Alright? And, Q1…
+Du Ya Ping, 3 minutes 14 seconds, is the original one, so, will be calculated based on the lows, okay? A, B, C, ABC, okay? You reactiv far from A and B and the C, you add them together, okay? And then that is the Q1. And,
+Du Ya Ping, 3 minutes 32 seconds, Q2 is calculated by this one, okay? So, what we need to do is find out
+Du Ya Ping, 3 minutes 38 seconds, P and a Q.
+Du Ya Ping, 3 minutes 41 seconds, Okay? For each load, and then we need to find the summation of P and the summation of Q, okay? So, after that, then you can use this one to determine the reactive power required, okay? And then we can determine the size of the capacitor bank based on this one, okay?
+Du Ya Ping, 4 minutes 1 seconds, Based on this one, we can determine the size of,
+Du Ya Ping, 4 minutes 4 seconds, capacitor bank, okay? So that is the, the basic, procedure, okay? So now let's look at the solution, okay?
+Du Ya Ping, 4 minutes 20 seconds, Okay? So, we are given by, the three different loads, and the information for those loads are, different. For first load, we are given by the current and the power factor. For second one, we are given by the kilowatts
+Du Ya Ping, 4 minutes 35 seconds, for the third one, we got… we are given by the KVA, so, you know, in different units, but actually, we want to convert all those things to
+Du Ya Ping, 4 minutes 44 seconds, kilowatts and the kilovar, okay? So for first one, we know P, and we can find, the original i, so we use the formula, P…
+Du Ya Ping, 4 minutes 59 seconds, equal to, root square 3, line voltage, line current, and the power factor, cosine theta, okay? So,
+Du Ya Ping, 5 minutes 9 seconds, voltage… LAN voltage is 3080 volts. LAN current, which is given, okay, 100 MP. Power factor is 0.75. So by using that formula, you can find, P, okay? And, then you need to find Q,
+Du Ya Ping, 5 minutes 26 seconds, Okay, so, the Q, you can use, the power triangle.
+Du Ya Ping, 5 minutes 34 seconds, This is theta, this is the P, this is the Q. Okay, you can use the p-value to determine the Q, or you can use the S to determine the Q. So this is the S.
+Du Ya Ping, 5 minutes 46 seconds, This is the S. Okay, so if you use S for… for, for… to determine Q, and then this should be loose square 3, line voltage, line current, and, cosine, assign theta.
+Du Ya Ping, 6 minutes 2 seconds, Okay, and the theta…
+Du Ya Ping, 6 minutes 7 seconds, this Q, this theta, okay, don't be confused, okay? So the, the, the theta is equal to cosine inverse function, okay, point, this is a .75, 0.75, okay? So, this theta, okay, not, not, not the Q, this is a Q, okay, this is a Q, okay, this theta, okay, theta, okay.
+Du Ya Ping, 6 minutes 28 seconds, All right? So, in this way, you can find P and the Q, which are given, here, okay? P and the Q. All right? Okay? So this is the first load, okay, load A, or Plan A, okay? And for Plan B, it's very straightforward, because P is already given, okay?
+Du Ya Ping, 6 minutes 48 seconds, P's already given, okay, 30 kilos. And because power factor is equal to 1, that means Q…
+Du Ya Ping, 6 minutes 55 seconds, should be zero, right? Should be zero. So, that means the theta is zero degree, zero degree, okay? Okay.
+Du Ya Ping, 7 minutes 4 seconds, So use Q, P is 30 kilowatts, Q is 0, okay?
+Du Ya Ping, 7 minutes 9 seconds, All right, and then the third one is KVA is given. S is given. So again, that would be easy, so the P is equal to S cosine theta perfect is given. 0.6Q is equal to S sine theta.
+Du Ya Ping, 7 minutes 28 seconds, Zeda.
+Du Ya Ping, 7 minutes 29 seconds, Turn data, okay?
+Du Ya Ping, 7 minutes 33 seconds, All right, okay, so now you know everything, okay, for all three loads, the, real power, or active power, and the reactive power. And then you add together, you can find this
+Du Ya Ping, 7 minutes 48 seconds, the submission of Q, of P, and the submission of Q. That's the total, power consumption, real power, and total, reactive power consumption.
+Du Ya Ping, 7 minutes 59 seconds, Okay. All right, so that summation is just Q1, okay? It's Q1, okay?
+Du Ya Ping, 8 minutes 5 seconds, Yeah, and the Q2… It's calculated by this formula, and this is…
+Du Ya Ping, 8 minutes 12 seconds, P is the total, power, so this is submission, okay? Okay.
+Du Ya Ping, 8 minutes 18 seconds, Okay, again, it's given here, okay, it's given, yeah.
+Du Ya Ping, 8 minutes 22 seconds, Okay, so this is a P submission, this is a Q submission. Yeah, Q submission, okay. So you can see, after the calculation, this one is, based on here, 79.53…
+Du Ya Ping, 8 minutes 37 seconds, Okay? And, this one, okay.
+Du Ya Ping, 8 minutes 42 seconds, is equal to, 106, okay.36. This is a P, and this theta.
+Du Ya Ping, 8 minutes 52 seconds, Okay, the angle for, this power factor, okay? This is target, target. So the Teta, 10 in theta. So QC here, you can see it is equal to 13.61.
+Du Ya Ping, 9 minutes 7 seconds, kilovar, okay? So, this is the amount
+Du Ya Ping, 9 minutes 11 seconds, The reactive power we need to provide by using the capacitor, right? Capacitor bank.
+Du Ya Ping, 9 minutes 17 seconds, And, we know from the question that, the capacitor bank available in steps, right? And the step size is 10 kilowatts. And here we want to know how many steps we need, okay? So, we need to…
+Du Ya Ping, 9 minutes 36 seconds, And one more thing here you need to know, okay, are those steps, rating available under the voltage of 400 volts?
+Du Ya Ping, 9 minutes 45 seconds, Okay, so this is the amount of active power we need to produce at 380 volts.
+Du Ya Ping, 9 minutes 52 seconds, So we need to find out the amount of reactive power we need to provide at the voltage of 400 volts, right? So that is the conversion, okay? This way is to convert the reactive power at the 380 volts to
+Du Ya Ping, 10 minutes 7 seconds, reactive power generated at the 400 volts, okay? So this, that one was already mentioned during the, you know, the lecture, okay? So, we can find out the 15.08 kilowatts, that is the amount of reactive power we need.
+Du Ya Ping, 10 minutes 25 seconds, Okay? At the voltage, 400 volts, okay? And, we know each step is K… 10 kVA, kilova.
+Du Ya Ping, 10 minutes 36 seconds, Okay, and when you… 15.0…
+Du Ya Ping, 10 minutes 41 seconds, 15.08 kilowatt, okay? So, certainly, if we want to fulfill the requirement, we need to have two steps.
+Du Ya Ping, 10 minutes 52 seconds, Okay, so two steps, of course, is greater than, this required figure, okay? And then you cannot have a 1. That means they're still, not sufficient, and the power factor cannot be…
+Du Ya Ping, 11 minutes 5 seconds, improve to the target value. So, here, we need to have a two-step, okay? So, two-step, So, two steps…
+Du Ya Ping, 11 minutes 16 seconds, That means the total reactive power available is 2 times 10 kilova.
+Du Ya Ping, 11 minutes 22 seconds, Right?
+Du Ya Ping, 11 minutes 23 seconds, However, this is at 400 volts.
+Du Ya Ping, 11 minutes 28 seconds, And then we want to know the things, okay, the amount of reactive part available, okay, at the 300 volts.
+Du Ya Ping, 11 minutes 37 seconds, So again, we need to convert that one back to this one at the 380 volts. So 200… 2 times 10 multiplied by the voltage ratio. So that one is 380 divided by the 400 square. So that is the ratio for conversion.
+Du Ya Ping, 11 minutes 56 seconds, for conversion, okay? So, after calculation, you see the… the… the reactive power available, okay, from the capacitor band is 18.05 kilowatts, and this is the…
+Du Ya Ping, 12 minutes 10 seconds, reactive power required, okay? That means this is good enough, okay? It's greater than the thing we required. So definitely the power Factor can be approved, and it will be greater than the target one, the 0.8.
+Du Ya Ping, 12 minutes 25 seconds, 5.8.A5, okay? And, we also need to find out the… the…
+Du Ya Ping, 12 minutes 32 seconds, power factor after the capacitive band is switched on, okay? So we need to do the calculation again to find out the… the… the reactive power consumption, total reactive power consumption, okay, after the compensation, okay? So…
+Du Ya Ping, 12 minutes 49 seconds, here,
+Du Ya Ping, 12 minutes 59 seconds, So, originally, okay, this is the, 79 point…
+Du Ya Ping, 13 minutes 5 seconds, 50 CHUI, okay, and you provide… This much…
+Du Ya Ping, 13 minutes 11 seconds, Reactive far from the, capacitor Bank, which is 18.05.
+Du Ya Ping, 13 minutes 18 seconds, And this is the…
+Du Ya Ping, 13 minutes 20 seconds, net, okay, or the resultant reactive power, okay, consumption, okay, which be supposed to be supplied by the source, okay? So you have to make the difference, okay? So that one is the…
+Du Ya Ping, 13 minutes 35 seconds, resulting… resultant, reactive power consumption. So this is the amount, okay? 79.53 minus 18.05.
+Du Ya Ping, 13 minutes 47 seconds, The final one, okay? And then the P does not change, it's the same.
+Du Ya Ping, 13 minutes 52 seconds, Okay, steals a 106.
+Du Ya Ping, 13 minutes 58 seconds, 0.36, okay? No change. So, you got a new…
+Du Ya Ping, 14 minutes 3 seconds, S here, and the new power factor here.
+Du Ya Ping, 14 minutes 8 seconds, Okay, and for power factor, okay, this is the…
+Du Ya Ping, 14 minutes 14 seconds, Tang theta, and the arc TANG theta
+Du Ya Ping, 14 minutes 18 seconds, Okay, for the… for finding the… the angle here. Cosine…
+Du Ya Ping, 14 minutes 24 seconds, theta. This is a new theta, okay? This is new data, okay? You can call it theta prime, theta prime, okay? So, theta… theta prime here is TANG
+Du Ya Ping, 14 minutes 37 seconds, Okay, 79.53 minus 18.05 divided by the real power, okay, 106.36.
+Du Ya Ping, 14 minutes 49 seconds, Okay, so this is the, new power factor, a new power factor, okay? And then you can find the, the angle for a new power factor, okay? Then you can find the power factor, which is the point
+Du Ya Ping, 15 minutes 3 seconds, 866. And that one is greater than .85.
+Du Ya Ping, 15 minutes 8 seconds, 0.85.
+Du Ya Ping, 15 minutes 10 seconds, Okay, so 0.85 is the target one, but if, here, you know, we provide the two steps, that means the, the, the available, reactive power, is greater than required one, okay? So, we have the, sensing, have, we call the extra.
+Du Ya Ping, 15 minutes 30 seconds, Reactive power provided, so that's why the power factor will be further improved, okay?
+Du Ya Ping, 15 minutes 37 seconds, Alright, so this is the… You know,
+Du Ya Ping, 15 minutes 41 seconds, things for part one, and we show you the basic procedure, for determining, the capacity bank, the size, the steps, okay, okay.
+Du Ya Ping, 15 minutes 56 seconds, All right, and then second part. Second part is for tariff calculation. And, this is relatively straightforward, okay?
+Du Ya Ping, 16 minutes 6 seconds, So we have a demand charge and a energy charge.
+Du Ya Ping, 16 minutes 10 seconds, And for each charge, we have the,
+Du Ya Ping, 16 minutes 15 seconds, Rates, okay, but this is not fixed. Actually, the rate based on the,
+Du Ya Ping, 16 minutes 21 seconds, consumption, okay? So, for a different range of the consumption, you have different rates, okay? So, this is, again, is the common, tariff, used, okay, for, by the,
+Du Ya Ping, 16 minutes 37 seconds, The power company, okay? So, first of all, we need to find out
+Du Ya Ping, 16 minutes 43 seconds, The amount charged, okay? And,
+Du Ya Ping, 16 minutes 47 seconds, Because this constant load, okay? So, you… you already know this…
+Du Ya Ping, 16 minutes 53 seconds, part triangle, P and Q, then you can find the S.
+Du Ya Ping, 16 minutes 58 seconds, the S, okay? So… for that one, okay?
+Du Ya Ping, 17 minutes 6 seconds, This is the, S, okay? So the S is equal to,
+Du Ya Ping, 17 minutes 19 seconds, P squared plus RQ squared, then take root mean squared, okay? P is equal to this one, and Q is equal to the difference of those two values, okay? So you can find the S, so this S is 122,
+Du Ya Ping, 17 minutes 34 seconds, KVA.
+Du Ya Ping, 17 minutes 35 seconds, Okay? And then we need to, look at the rates, okay? So the rate structure says the first 100 KVA, the rate is 60, and for the remaining, okay, the rate is 65, okay, KVA. So…
+Du Ya Ping, 17 minutes 54 seconds, here you can see for, first 100 KVA, so 100 times 60, and, for remaining, that means the actual value minus 100, and that times 65. So that is the demand charge, demand charge, okay?
+Du Ya Ping, 18 minutes 16 seconds, Okay? And, for energy charge.
+Du Ya Ping, 18 minutes 20 seconds, Well, okay, we only need to, use this, because this constant load, so NH equal to P times the time, TAN we have, okay.
+Du Ya Ping, 18 minutes 35 seconds, 10 hours a day, 20 days a month, so times 10 hours, times 20
+Du Ya Ping, 18 minutes 43 seconds, days, this hour, this day. So this is the amount NH, okay?
+Du Ya Ping, 18 minutes 50 seconds, So the amount of energy, you can see, this is,
+Du Ya Ping, 18 minutes 53 seconds, 21,000 kilowatt hour. Okay, so this is the amount…
+Du Ya Ping, 18 minutes 58 seconds, Manage, again, we have the, rates, okay, based on the amount, okay, consumption. For first 200, the rates, $0.90. For, remaining, then it's 80 cents, okay?
+Du Ya Ping, 19 minutes 13 seconds, So, this is, 200, 20, okay, 20,000, okay? Okay, 20,000, okay, units, okay, then,
+Du Ya Ping, 19 minutes 26 seconds, This is, actual, NH minus 20,000, meaning remaining, times 0.8.
+Du Ya Ping, 19 minutes 35 seconds, Okay, so, again, you can find the… the value dollar case for, energy charge, and then you can find the total charge, okay? So, for, for the…
+Du Ya Ping, 19 minutes 48 seconds, tariff calculation, I think, relative, relatively straightforward, okay? So, you know, based on the tariff, okay, the structure, okay, then, just do some kind of, calculation, okay, simple calculation, you can get the results, okay?
+Du Ya Ping, 20 minutes 6 seconds, All right, okay, so, this is question one, okay? So we actually, you know, it covered two parts, capacity bank sizing and the tariff calculation, okay?
+Du Ya Ping, 20 minutes 22 seconds, Now, let's move to the second question, which, relatively,
+Du Ya Ping, 20 minutes 32 seconds, It's slightly different from the first one, okay? So, let's look at the question first. So, we have the factory, okay? We… in this case, okay, we know that
+Du Ya Ping, 20 minutes 44 seconds, energy consumption. But in the first question, we know the power, right? Is it in…
+Du Ya Ping, 20 minutes 50 seconds, ampi, or in kilowatts, or kVA, but here we know the energy. So, average energy consumption, okay, in a month.
+Du Ya Ping, 21 minutes 4 seconds, 80,000 kilowatts.
+Du Ya Ping, 21 minutes 8 seconds, hour, okay? So this is a given, okay? And, well, because for the capacitive sizing, okay, or for the demand charge calculation, we need to know the
+Du Ya Ping, 21 minutes 20 seconds, P, Q, and S.
+Du Ya Ping, 21 minutes 22 seconds, So we need to convert this one to P and Q. How can we do that?
+Du Ya Ping, 21 minutes 28 seconds, if we assume loading is constant, so it's very easy, okay? This one divided by the time, right? Divided by the hours, divided by days, then you can find out the power, right? But in this case, okay, we, it says, okay, we have the load factor.
+Du Ya Ping, 21 minutes 52 seconds, 0.7, okay? So what low effect means? So if you plot
+Du Ya Ping, 21 minutes 58 seconds, a profile, okay, for, the… the consumption of the… for the power over the here.
+Du Ya Ping, 22 minutes 5 seconds, This is a T, there's a P, okay. So, you… you may see things here. If it's constant, that's simple, right? But sometimes, like this…
+Du Ya Ping, 22 minutes 14 seconds, Like this, okay? So this is the peak value, I'll call the maximum demand, okay?
+Du Ya Ping, 22 minutes 21 seconds, Okay, so, what we want to know is that one, okay? But what we're given here is the average one.
+Du Ya Ping, 22 minutes 29 seconds, Average one. So, we get the average power… this average power is equal to energy divided by the day, okay? The hour, okay, the hour is 16 hours a day.
+Du Ya Ping, 22 minutes 43 seconds, And 24 or 25 days, walking day, 25 walk-in day.
+Du Ya Ping, 22 minutes 48 seconds, So this is the average power, so this is the average.
+Du Ya Ping, 22 minutes 52 seconds, Or average demand.
+Du Ya Ping, 22 minutes 54 seconds, But we won't know this one. Okay, how can we do that?
+Du Ya Ping, 22 minutes 58 seconds, By using the low factor.
+Du Ya Ping, 23 minutes 0 seconds, Okay, so low factor is equal to…
+Du Ya Ping, 23 minutes 8 seconds, Equals the average power, or average demand.
+Du Ya Ping, 23 minutes 13 seconds, Okay, divide the maximum demand.
+Du Ya Ping, 23 minutes 17 seconds, Maximum and demand.
+Du Ya Ping, 23 minutes 19 seconds, Okay? So, maximum demand is equal to the power average divided by load factor.
+Du Ya Ping, 23 minutes 30 seconds, Okay, so we know the average demand here, okay, and the low factor here, then we can find the maximum demand.
+Du Ya Ping, 23 minutes 38 seconds, So, in this way, we can get the…
+Du Ya Ping, 23 minutes 41 seconds, This is a P, okay? This is a P, okay? Little power, kilowatts, kilowatts, okay.
+Du Ya Ping, 23 minutes 48 seconds, Alright, so you can see, here,
+Du Ya Ping, 23 minutes 59 seconds, Okay, alright, okay, that should be the part, okay, that, that, okay, yeah, okay.
+Du Ya Ping, 24 minutes 10 seconds, Oh, this is any charge, okay? And, the amount charge is here, given here, okay? This is the amount charge, okay? So, you see, this is, E here is $80,025,
+Du Ya Ping, 24 minutes 25 seconds, 16 hours, 0.6 divided 0.6.
+Du Ya Ping, 24 minutes 30 seconds, Okay? So this is the, the maximum demand, okay? Right? This is the maximum demand, okay? And, we actually want to know the S. S equal to power divided by power factor.
+Du Ya Ping, 24 minutes 46 seconds, So, it is perfect at this point.
+Du Ya Ping, 24 minutes 50 seconds, 7, 8, okay, let me see, okay, what is perfect?
+Du Ya Ping, 24 minutes 54 seconds, Okay.
+Du Ya Ping, 24 minutes 57 seconds, Our profit is 6.6.
+Du Ya Ping, 25 minutes 0 seconds, Okay, so this is… this is a power factor. This is a low factor, okay? Low factor, okay? But anyway, okay, it doesn't matter, you move this one in the floor or at the end, okay? So you need to divide by the low factor, divided by the power factor as well. Both, okay, both, okay.
+Du Ya Ping, 25 minutes 21 seconds, Okay, so this is the demand, okay, in KVA.
+Du Ya Ping, 25 minutes 25 seconds, This is demand, okay?
+Du Ya Ping, 25 minutes 28 seconds, In kilowatts. Okay, yeah.
+Du Ya Ping, 25 minutes 32 seconds, So you can… you may say, again, it's maximum demand, but in S, there's a maximum demand in P, okay?
+Du Ya Ping, 25 minutes 43 seconds, Okay, and this is a demand charge, okay? And, the rate…
+Du Ya Ping, 25 minutes 50 seconds, the rate is, fixed, okay, the, demand charge is 60, 66.54 KVA.
+Du Ya Ping, 25 minutes 59 seconds, Okay,
+Du Ya Ping, 26 minutes 16 seconds, Okay, okay. So, I think that, that's the, the, the, the demand charge for energy charge. Well, because energy consumption is always given, so this one just multiplied by the rate, okay, here, okay. To…
+Du Ya Ping, 26 minutes 32 seconds, 1200,000 units, then this rate, okay? So, you can see here, okay,
+Du Ya Ping, 26 minutes 44 seconds, Well,
+Du Ya Ping, 26 minutes 53 seconds, Okay,
+Du Ya Ping, 27 minutes 9 seconds, Oh, okay, so, so, actually, the power consumption, energy consumption, okay, the maximum demand, all…
+Du Ya Ping, 27 minutes 16 seconds, Within the first…
+Du Ya Ping, 27 minutes 19 seconds, within level here, okay? So the second figure, okay, here, will not be used, okay, because this, the, overall consumption not…
+Du Ya Ping, 27 minutes 30 seconds, exceed the limit, okay, for the first… first item, okay? All right, and there's another one, okay, the huge adjustment.
+Du Ya Ping, 27 minutes 41 seconds, So, here, this is a few adjustments.
+Du Ya Ping, 27 minutes 43 seconds, Okay, for, for 44 gig join, okay, we got the rebate, okay? We got the, the refund, okay, $200.
+Du Ya Ping, 27 minutes 54 seconds, Okay, and we know the energy consumption in kilowatt hour.
+Du Ya Ping, 28 minutes 1 seconds, And here, the energy is gig joy. So how we… can we convert that one to gig joy? When you convert that one to…
+Du Ya Ping, 28 minutes 9 seconds, gig joy, okay?
+Du Ya Ping, 28 minutes 11 seconds, How can we do that, okay? So, kilowatt hour.
+Du Ya Ping, 28 minutes 17 seconds, Eager to kill a walk.
+Du Ya Ping, 28 minutes 19 seconds, Because 1 hour is sixth day…
+Du Ya Ping, 28 minutes 23 seconds, Minutes… 1 minute equal to 60 seconds.
+Du Ya Ping, 28 minutes 28 seconds, So that is the joy, right? Kido joy.
+Du Ya Ping, 28 minutes 32 seconds, Here we are. Just a minute.
+Du Ya Ping, 28 minutes 35 seconds, This is the second.
+Du Ya Ping, 28 minutes 37 seconds, Okay?
+Du Ya Ping, 28 minutes 38 seconds, Alright? And we are talking about this gig joy, okay? So, that means,
+Du Ya Ping, 28 minutes 47 seconds, This, this is Joy, okay? Kilowatt hour, okay? Yes, okay. So,
+Du Ya Ping, 28 minutes 57 seconds, That one, okay, kilowatt hour, hour, okay?
+Du Ya Ping, 29 minutes 19 seconds, Hmm.
+Du Ya Ping, 29 minutes 27 seconds, Okay, we'll put a union, okay, it's a union, okay. All right, and this one is equal to…
+Du Ya Ping, 29 minutes 35 seconds, Times, okay, .0… Zero… Sweet… 6, okay? Or equal to… T…
+Du Ya Ping, 29 minutes 50 seconds, 78 or something here right there.
+Du Ya Ping, 29 minutes 54 seconds, 27278. Okay, so that's the reason why we have the 278, okay? Here, okay. So, the actual gig jar is equal to
+Du Ya Ping, 30 minutes 9 seconds, kilowatts hour divided by 278, that is the gig jar. And for each, each gig jar, we, for…
+Du Ya Ping, 30 minutes 21 seconds, for,
+Du Ya Ping, 30 minutes 25 seconds, 44 gig joins, so we need to know how many 44 gig joins. So, so… so that's why I need to divide by the 44 here.
+Du Ya Ping, 30 minutes 33 seconds, And this is the…
+Du Ya Ping, 30 minutes 35 seconds, the quantity of the 44 gig joy, okay? And then multiply by $200, and that is the refund, okay? Total refund from the power company, regarding the fuel adjustment, okay? So that's $1,300.
+Du Ya Ping, 30 minutes 52 seconds, Yeah, and then we add all together, and then it turns out to be the total, charge, total charge. And then, the question also asks the flat rate, if you will use the flat rate. So we just divide the total charge
+Du Ya Ping, 31 minutes 9 seconds, by the total amount of energy. That is the cost. For each kilowatt hour, airway costs $1.
+Du Ya Ping, 31 minutes 19 seconds, about $1, okay? Okay, 1.068, okay, dollar for each kilowatt hour. So this is a flat rate, okay? So that means flat rate doesn't include… does not need to consider the demand, charge, and the
+Du Ya Ping, 31 minutes 34 seconds, Few adjustment, okay, so it's a flat, okay, it's a flat, okay.
+Du Ya Ping, 31 minutes 39 seconds, Alright, and this is the,
+Du Ya Ping, 31 minutes 43 seconds, Part A, okay, Part A is basically, this is the, thing regarding the, the tariff calculation, right? Okay.
+Du Ya Ping, 31 minutes 51 seconds, And then, the second part, we want to,
+Du Ya Ping, 31 minutes 56 seconds, Use the capacitor band to improve the power factor to 0.9.
+Du Ya Ping, 32 minutes 1 seconds, Okay? And in this case, we're not going to need to determine the capacity by size, but we need to know how much reactive power we need to provide, okay? Okay.
+Du Ya Ping, 32 minutes 13 seconds, So, so that means we need to find all the P and the, Q, okay, and the S as well, okay? So, here, okay, we consider,
+Du Ya Ping, 32 minutes 28 seconds, We also, we apply this, okay, low factor here, okay?
+Du Ya Ping, 32 minutes 34 seconds, we can, find out the P, okay? And, P…
+Du Ya Ping, 32 minutes 39 seconds, is, okay, 285.7, okay? This is the, I think it… yeah, this is actually the,
+Du Ya Ping, 32 minutes 51 seconds, the P, okay? 8,000 divided by 25, divided by 16, and 0.7. That is the P, okay? The P, okay.
+Du Ya Ping, 32 minutes 59 seconds, So there's a P equal to this one, okay, 285.7 kilowatts, okay? And this P…
+Du Ya Ping, 33 minutes 8 seconds, And then we need to find out the, the Q, okay, because P is given, then we can use
+Du Ya Ping, 33 minutes 16 seconds, She, TANG… theta, right? The theta is the original one, okay? Theta is equal,
+Du Ya Ping, 33 minutes 27 seconds, arc cosine, okay, 0.6, okay, 0.6, okay. So, by this way, you can find both P and the Q, P and the Q, okay? And,
+Du Ya Ping, 33 minutes 39 seconds, Again, we need to find a target, okay, so we call this a Q1, okay, Q1, okay.
+Du Ya Ping, 33 minutes 46 seconds, Okay, we need to find the target, QQQ2, which means P times tangent Target Paul Factor.
+Du Ya Ping, 33 minutes 56 seconds, Target 1 is 0.9.
+Du Ya Ping, 33 minutes 58 seconds, Here.
+Du Ya Ping, 34 minutes 0 seconds, Why am I here?
+Du Ya Ping, 34 minutes 2 seconds, So you can find that one, and the result here is not given here, but we know the difference, so required…
+Du Ya Ping, 34 minutes 11 seconds, reactive power equal to Q1 minus Q2.
+Du Ya Ping, 34 minutes 14 seconds, So, here you can see this is the original one, and this is the required one, so the difference is 243 kilowatt, okay? So this is the required one, okay?
+Du Ya Ping, 34 minutes 28 seconds, Well, in this case, we are not… we do not need to find out the capacity bank size. Supposedly we can provide this amount of reactive power in some ways, okay? And we want to know, the…
+Du Ya Ping, 34 minutes 42 seconds, cost saving, right? And this is the lifecycle analysis, and we know the cost, okay, the initial cost, okay, this one, okay, for each,
+Du Ya Ping, 34 minutes 53 seconds, for, for…
+Du Ya Ping, 34 minutes 56 seconds, This is the… the, cost for each KVA, and this is the total KVA, and this is the amount of…
+Du Ya Ping, 35 minutes 5 seconds, the charge, okay, the initial cost, okay, for installing the capacitor Bank, okay? And then we need to find out the saving.
+Du Ya Ping, 35 minutes 16 seconds, Okay, the saving, okay, because of the demand.
+Du Ya Ping, 35 minutes 20 seconds, reduction, right? We have original demand, and we have, extra demand, okay? So, let's say that… Hmm.
+Du Ya Ping, 35 minutes 41 seconds, So, we need to find the original one, S… Okay, and
+Du Ya Ping, 35 minutes 47 seconds, new S, okay, you can… S1, S2, okay? And the P does not change, and this Q,
+Du Ya Ping, 35 minutes 54 seconds, Actually be changed, okay?
+Du Ya Ping, 35 minutes 58 seconds, Okay, Q1 is Q1 minus Q.
+Du Ya Ping, 36 minutes 1 seconds, Okay, this is a Q minus Q2, QC.
+Du Ya Ping, 36 minutes 4 seconds, Here you see, okay. So, there's difference. So, the, the reduction here…
+Du Ya Ping, 36 minutes 10 seconds, will give us the saving, right? Okay, so here, this is the, before compensation, okay?
+Du Ya Ping, 36 minutes 18 seconds, You know, the theta quantity that is 0.6, and this is the,
+Du Ya Ping, 36 minutes 24 seconds, code KVA, okay, after the compensation. This, this P is given, and the Q is… you already calculated, and then you can find the S, okay? So this is the one here, given here.
+Du Ya Ping, 36 minutes 38 seconds, Okay, here, okay. So this is the QC, this is a QC, okay.
+Du Ya Ping, 36 minutes 43 seconds, So the difference times the rate for, 12… 9th and 10…
+Du Ya Ping, 36 minutes 54 seconds, 10 years, just 10 years, okay? So that, that means the total saving in 10 years. So, that is a total saving.
+Du Ya Ping, 37 minutes 4 seconds, Okay, so the same cost saving, okay? And you subtract this one, the subtract the initial cost from the saving by…
+Du Ya Ping, 37 minutes 15 seconds, The, the demand reduction, and this is… this is the one you have in your pocket, okay? Finally, okay? So you can have this game, okay, because of the, capacity bank, I mean, the installation, installation, okay?
+Du Ya Ping, 37 minutes 38 seconds, All right, okay, so this is the question two, okay? Okay. I think it's, relatively comprehensive, okay? Okay, so you cover all the things, right? The amount char… the charge, okay, energy charge, and the, the, the power Factor Correction, okay?
+Du Ya Ping, 38 minutes 1 seconds, Okay, question 3. Question 3 is very similar, okay? Nothing special, okay? So, we have, a transformer, supply… the transformer supplied the power to the HVAC load, okay? And, the power factor is 0.75.
+Du Ya Ping, 38 minutes 21 seconds, Okay, and we are going to install capacity bank, so the target power factor is improved to 0.95.
+Du Ya Ping, 38 minutes 28 seconds, Okay? And, we are given some other information, the, the cost, okay, for capacity bank, initial cost is this much, okay, $77 for, each step, and the maximum demand charge is given here.
+Du Ya Ping, 38 minutes 46 seconds, And the maximum demand charge,
+Du Ya Ping, 38 minutes 49 seconds, max entry bound, okay, total KV is 400, 400, okay. So that means we are knowing
+Du Ya Ping, 38 minutes 58 seconds, S is 400.
+Du Ya Ping, 39 minutes 2 seconds, for the load, okay, KVA, and the power factor is 0.
+Du Ya Ping, 39 minutes 6 seconds, 75, okay, and we want to input the power factor to 0.95.
+Du Ya Ping, 39 minutes 13 seconds, by using the capacitor band, okay? And the part B means a saving, cost saving. So, first one is to determine the capacitor band size, okay? So, well, for this one, the calculation is very straightforward, okay? So, you find out the Q1,
+Du Ya Ping, 39 minutes 30 seconds, Right? You'll notice S… And the P, so this is S… Tinds the power Factor.
+Du Ya Ping, 39 minutes 41 seconds, Oh, this is P1. This is P1.
+Du Ya Ping, 39 minutes 44 seconds, PEWIN.
+Du Ya Ping, 39 minutes 45 seconds, Okay? And then you can find a Q1.
+Du Ya Ping, 39 minutes 50 seconds, And then you can find the angle here.
+Du Ya Ping, 39 minutes 53 seconds, 0.87, then use the S, okay? So, basically, we are using the C formula, okay?
+Du Ya Ping, 40 minutes 2 seconds, this formula, okay, this formula, okay, same formula.
+Du Ya Ping, 40 minutes 7 seconds, Yeah.
+Du Ya Ping, 40 minutes 8 seconds, Okay, you can find a Q1, okay, so…
+Du Ya Ping, 40 minutes 13 seconds, This is a P, and this is the Q.
+Du Ya Ping, 40 minutes 17 seconds, 264, okay? So, this is the S, this is the, theta, sine theta, okay? So S…
+Du Ya Ping, 40 minutes 27 seconds, Times… Soundsida.
+Du Ya Ping, 40 minutes 31 seconds, Okay. All right, so you know both P1 and Q1, and then you can find the target, Q2,
+Du Ya Ping, 40 minutes 40 seconds, target is P1 times TANG… Cosine 0.95. This is the target data, target theta.
+Du Ya Ping, 40 minutes 54 seconds, target data. So you can find Q2, okay? And, this is Q2.
+Du Ya Ping, 41 minutes 1 seconds, There's a Q2, Okay, so this is a Q1, and then you can find it.
+Du Ya Ping, 41 minutes 7 seconds, QC… Q1 minus Q2.
+Du Ya Ping, 41 minutes 11 seconds, Okay, so that is the, 166 kilowatt.
+Du Ya Ping, 41 minutes 16 seconds, Yeah.
+Du Ya Ping, 41 minutes 17 seconds, Right? Okay, so this is a…
+Du Ya Ping, 41 minutes 18 seconds, very fundamental, you know, step, okay, for the sizing, okay? And then you can determine the size, okay? So, similar to question one, you need to convert this cube…
+Du Ya Ping, 41 minutes 33 seconds, QC, from 380 volts to 400 volts, so you need to multiply this one, okay? And this is the required one at the 400 volts.
+Du Ya Ping, 41 minutes 44 seconds, And then you need… because each step is 40 kilowatt, and then you need to have 5 steps, which means total is 200 kilowatt.
+Du Ya Ping, 41 minutes 55 seconds, Okay, so what you need is 184 kilov, and you, by capacitor bank, you will, you can provide, 200, kilowatts, okay?
+Du Ya Ping, 42 minutes 8 seconds, Then, you can do the, the…
+Du Ya Ping, 42 minutes 13 seconds, calculation by the… about the PQS after the capacitor band is installed. So this question is very similar to the first question, okay? Yeah.
+Du Ya Ping, 42 minutes 24 seconds, So, this one, okay, this one, this is the, actual reactive power provided by the capacitor bank, so you can need to do the conversion from, 400 volts back to 300 volts, right? And this actual amount of reactive power
+Du Ya Ping, 42 minutes 43 seconds, we can provide by using the capacitive band, okay? Okay. And, the diff… Oh, I'm sorry, this is the actual resultant capacity reactive power, okay? After
+Du Ya Ping, 42 minutes 54 seconds, We're installing… we install the, the capacitor band, okay? And then, this is a total S.
+Du Ya Ping, 43 minutes 2 seconds, Okay?
+Du Ya Ping, 43 minutes 4 seconds, Okay, so then, we know the original S is 400, and this is the… when, after…
+Du Ya Ping, 43 minutes 13 seconds, the capacitor bank is installed, okay? And multiplied by the
+Du Ya Ping, 43 minutes 19 seconds, Rate, and this is a month, so that means this is a saving.
+Du Ya Ping, 43 minutes 25 seconds, An annual saving in one year, in one year, okay?
+Du Ya Ping, 43 minutes 30 seconds, All right, and so here is about the life cycle analysis for cost, calculation. We want to know, whether the capacity band, the cost for the capacity band in stage can be
+Du Ya Ping, 43 minutes 44 seconds, compensated by the saving or not, and how many years we need to have, okay? So, total initial cost.
+Du Ya Ping, 43 minutes 52 seconds, It's $78,000 times 5?
+Du Ya Ping, 43 minutes 56 seconds, 350.
+Du Ya Ping, 43 minutes 58 seconds, Southern Doras.
+Du Ya Ping, 43 minutes 59 seconds, And each year, we can save $63,000. So, divide 3… 35… $350,000 by $36,000, and then we see the ratio is 5.5, which means
+Du Ya Ping, 44 minutes 16 seconds, The initial cost can be fully recovered.
+Du Ya Ping, 44 minutes 20 seconds, After 5.5 years.
+Du Ya Ping, 44 minutes 24 seconds, Okay, so that is the, recover period, and that, the period normally considered is reasonable, okay? So if the, payback period is around 5 years, okay, less than 10 years, okay.
+Du Ya Ping, 44 minutes 39 seconds, That would be considered as reasonable, okay, reasonable, okay? And if it's less than 5 years, that would be perfect.
+Du Ya Ping, 44 minutes 47 seconds, Okay? But anything less than 10 years, okay, could be considered as reasonable, okay?
+Du Ya Ping, 44 minutes 54 seconds, Alright, okay, so I think that's…
+Du Ya Ping, 44 minutes 58 seconds, all the things I want to talk about. Okay, we have three questions.
+Du Ya Ping, 45 minutes 3 seconds, And, so I think those questions are quite comprehensive, okay?
+Du Ya Ping, 45 minutes 10 seconds, So, I think you, it's not difficult to understand, but you need to… are familiar with the steps, okay?
+Du Ya Ping, 45 minutes 21 seconds, And, certainly, such kind of question, similar question would be given in the examination, okay? So, I do recommend to, to.
+Du Ya Ping, 45 minutes 31 seconds, To… to practice, okay, by yourself, okay, and then see whether…
+Du Ya Ping, 45 minutes 36 seconds, you can fully understand all the steps where you need to follow, okay? All right, okay, so that's it for the tutorial session today, and if you have any questions, then you can come to me, okay?
+Du Ya Ping, 45 minutes 56 seconds, for discussion. Okay, so that's all.

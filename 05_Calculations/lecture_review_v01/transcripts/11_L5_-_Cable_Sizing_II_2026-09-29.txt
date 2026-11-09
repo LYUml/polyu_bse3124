@@ -1,0 +1,564 @@
+Recording 11
+Title: L5 - Cable Sizing II
+Date: 2026-09-29
+Source: https://polyu.zoom.us/rec/play/-6_tjBchAykjiTvJY58zvYaBsygcum6EopcUlwneN9HDIVk7UtPoMwo-15ojdc8FzMFOvtenJOCwnlYN.Y-RTUmGg5CNusfOq
+Automatic Zoom transcript; recognition errors retained.
+
+Du Ya Ping, 0 hours 2 minutes 25 seconds, Alright, okay, today we are going to…
+Du Ya Ping, 0 hours 2 minutes 29 seconds, talk about the Cable Sizing again, okay? So we will cover, two additional tutorial questions, okay? So there will be no tutorial session, this week and the following week, okay?
+Du Ya Ping, 0 hours 2 minutes 41 seconds, Alright, okay, so let's…
+Du Ya Ping, 0 hours 2 minutes 46 seconds, and review the procedure, okay? Actually, I talked about the procedure about cable sizing during the tutorial, so here I just give you a further review, okay? So.
+Du Ya Ping, 0 hours 3 minutes 2 seconds, So what we need to do is to find out design current for each circuit.
+Du Ya Ping, 0 hours 3 minutes 9 seconds, Okay? So, that one basically, can be obtained through some kind of study we call the low, low assessment.
+Du Ya Ping, 0 hours 3 minutes 20 seconds, stage or the maximum demand calculation, okay? So, suppose we have such kind of information already available, so we know the maximum demand or design current for each circuit, and then…
+Du Ya Ping, 0 hours 3 minutes 34 seconds, We consider to select a protective device for that particular circuit, and each device
+Du Ya Ping, 0 hours 3 minutes 43 seconds, has a current rating, IN, okay? And IN is supposed to be greater than the design current, okay?
+Du Ya Ping, 0 hours 3 minutes 51 seconds, And, usually, if you look at the schematic diagram, you can see, probably you can choose, the fuse.
+Du Ya Ping, 0 hours 4 minutes 2 seconds, Okay, for the protection, right? And the MCB… MCCB…
+Du Ya Ping, 0 hours 4 minutes 9 seconds, ACB, okay, and something, which is not, discussed in detail, we call the thermal overload relay.
+Du Ya Ping, 0 hours 4 minutes 19 seconds, Or the reading.
+Du Ya Ping, 0 hours 4 minutes 21 seconds, Okay.
+Du Ya Ping, 0 hours 4 minutes 22 seconds, So the radar is a kind of device, okay, to monitor the current, okay? And, for the protection purpose, okay? So, normally, we have a thermal
+Du Ya Ping, 0 hours 4 minutes 36 seconds, Overloaded, really.
+Du Ya Ping, 0 hours 4 minutes 42 seconds, And that really particularly used for motor circuit, okay? Of course, we have some other relay, overcurrent relay, earth fault relay, and we talk about… we will talk about those relays later, okay? So, you can… here, you can consider the relay is a device, okay, used to detect the current for the protection purpose, okay?
+Du Ya Ping, 0 hours 5 minutes 3 seconds, And here, we want to talk about Little bit about the fuse.
+Du Ya Ping, 0 hours 5 minutes 8 seconds, and the MCB, okay? And the detailed discussion will be given next week, okay? So, probably you know the fuse, right? It's the device, okay, which can
+Du Ya Ping, 0 hours 5 minutes 19 seconds, used to… can be used to disconnect circuit if we have something called a fault current or overcurrent, okay? And such kind of device has some kind of tripping curve.
+Du Ya Ping, 0 hours 5 minutes 42 seconds, Okay, so time, current, okay, time-current characteristic curve, okay, and the curve looks like this.
+Du Ya Ping, 0 hours 5 minutes 51 seconds, So, it's called time inverse curve, okay? If you have a larger current, the operating time, okay, will be shorter. That means it takes less time to make the disconnection, okay? So, given by certain, current, okay, a value of current, you can find
+Du Ya Ping, 0 hours 6 minutes 11 seconds, Oh.
+Du Ya Ping, 0 hours 6 minutes 12 seconds, the particular time, okay, required for disconnection, okay, disconnection. And then we call this the, time, current characteristic curves, okay? And this is for fuse.
+Du Ya Ping, 0 hours 6 minutes 28 seconds, And, of course, we have some other things, like circuit breaker, MCB, MCCB, okay? So, for MCB,
+Du Ya Ping, 0 hours 6 minutes 42 seconds, We have a similar curve, okay, and the curve looks like this.
+Du Ya Ping, 0 hours 6 minutes 50 seconds, Okay, so basically, it consists of two, separate or different, curves, okay? They combine together, okay? And we call this one is similar to that one, we call that is for overload protection, okay? And the other one for short circuit protection, okay?
+Du Ya Ping, 0 hours 7 minutes 10 seconds, You don't need to worry, the detail at this moment, okay? You just need to know there's some kind of curve, okay? And, for MCB,
+Du Ya Ping, 0 hours 7 minutes 20 seconds, We have different type.
+Du Ya Ping, 0 hours 7 minutes 22 seconds, Okay, we call type B, type C.
+Du Ya Ping, 0 hours 7 minutes 27 seconds, and a type D.
+Du Ya Ping, 0 hours 7 minutes 29 seconds, So, the thing different, okay, is that, okay, you can have a same MCB current rating, but different
+Du Ya Ping, 0 hours 7 minutes 38 seconds, value of IM. We call this IM, okay? IM, okay? So, for…
+Du Ya Ping, 0 hours 7 minutes 58 seconds, So, this is a Type B.
+Du Ya Ping, 0 hours 8 minutes 1 seconds, And this is type C, and this is type D. So only thing different is the vertical, this vertical line, okay, for different… we call this this kind of stretch.
+Du Ya Ping, 0 hours 8 minutes 14 seconds, threshold current, okay? So you have a different threshold, okay? Or different, we call that… later we call this instantaneous tripping current, okay? So, MCB, no matter what type
+Du Ya Ping, 0 hours 8 minutes 29 seconds, It is, okay, the typical curve looks like this. The only thing different is that the threshold could be different, okay, for different types, okay?
+Du Ya Ping, 0 hours 8 minutes 38 seconds, Alright, and, we know, the fuse and the MCV, okay?
+Du Ya Ping, 0 hours 8 minutes 45 seconds, have different rating, current rating. So, in the tutorial, I said, okay.
+Du Ya Ping, 0 hours 8 minutes 52 seconds, Basically, there are a list of possible current ratings, okay, available, okay, you can find in the market, okay? So, if you look at the data table for
+Du Ya Ping, 0 hours 9 minutes 4 seconds, Fuse.
+Du Ya Ping, 0 hours 9 minutes 14 seconds, So you can see, okay, this is a fuse curve, very similar to the one, right, given here, and on the right-hand side here, you can see
+Du Ya Ping, 0 hours 9 minutes 24 seconds, A list of the…
+Du Ya Ping, 0 hours 9 minutes 26 seconds, current ratings. They… that… that… those are the possible ratings available to the market. That means you can choose
+Du Ya Ping, 0 hours 9 minutes 34 seconds, Any one of them, okay?
+Du Ya Ping, 0 hours 9 minutes 37 seconds, pick one of them, okay? So, for example, you can have a 6A fuse, 20A fuse, but you cannot find something like a 21A fuse, or 22A fuse. You have to choose a value, okay, given in this list, okay?
+Du Ya Ping, 0 hours 9 minutes 52 seconds, And, typically, okay, the fuse rating and, I mean, the range, okay, or the list of fuse rating.
+Du Ya Ping, 0 hours 10 minutes 1 seconds, It's the same as the list for MCB ratings. They are the same, okay? The same, okay? So you do have a MCB current rating.
+Du Ya Ping, 0 hours 10 minutes 10 seconds, of 6 MP, 20 MP, or 25 MP, okay? So, if you want to find
+Du Ya Ping, 0 hours 10 minutes 17 seconds, The MCV rating, you can use this table or the following table, okay? To pick up, okay, the suitable one, okay?
+Du Ya Ping, 0 hours 10 minutes 27 seconds, For… in your cable, Sizing calculation, okay? So, that is the…
+Du Ya Ping, 0 hours 10 minutes 35 seconds, The second part, okay, make sure that
+Du Ya Ping, 0 hours 10 minutes 39 seconds, The rating of the protective devices greater than the design current. And there is a special thing we need to consider for motor circuit, for the motor circuit.
+Du Ya Ping, 0 hours 10 minutes 55 seconds, If you have motor circuit.
+Du Ya Ping, 0 hours 11 minutes 0 seconds, Or the motor connector circuit, then it has a large starting current.
+Du Ya Ping, 0 hours 11 minutes 12 seconds, And the starting current can be.
+Du Ya Ping, 0 hours 11 minutes 15 seconds, Up to 6 or 7.
+Du Ya Ping, 0 hours 11 minutes 19 seconds, Times the full occurrence.
+Du Ya Ping, 0 hours 11 minutes 22 seconds, Okay? And well.
+Du Ya Ping, 0 hours 11 minutes 25 seconds, the starting normally lasts for a short period of time. For example, just a couple of seconds, 1 second, or 5 seconds, or 10 seconds, okay? So, after 10 seconds, then the…
+Du Ya Ping, 0 hours 11 minutes 38 seconds, the motor current will reduce to the normal operating current. Okay, so you will see A current, okay, curve.
+Du Ya Ping, 0 hours 11 minutes 48 seconds, From the motor.
+Du Ya Ping, 0 hours 12 minutes 3 seconds, Okay? So, you can plot this starting current, in the motor circuit on the same graph, okay, for the fuse, or for MCB, okay? So you can see this is the starting current.
+Du Ya Ping, 0 hours 12 minutes 19 seconds, Okay? Relatively large, and it may last for a few seconds, okay? Maybe a couple seconds, right? 5 seconds, or 2 seconds, 3 seconds, okay? Then, it will return to a normal current, which is a full of current. So this is called a starting current curve, okay?
+Du Ya Ping, 0 hours 12 minutes 35 seconds, All right. Okay. So, the starting, the most starting considers normal operation.
+Du Ya Ping, 0 hours 12 minutes 42 seconds, Okay, so it's not considered a fault, right? So the protective device is not supposed to
+Du Ya Ping, 0 hours 12 minutes 51 seconds, Disconnect circuit, and the normal starting.
+Du Ya Ping, 0 hours 12 minutes 54 seconds, So, nothing will happen to the protective device if it's just, if the motor has a normal starting condition, okay? So, like this case, you have the…
+Du Ya Ping, 0 hours 13 minutes 5 seconds, fuse curve, you have the starting current curve, right? So, those two curves, do not overlap.
+Du Ya Ping, 0 hours 13 minutes 12 seconds, Which means the fuse will not have any action.
+Du Ya Ping, 0 hours 13 minutes 17 seconds, resulting from that mode starting. Nothing will happen, okay? So the mode can be start successfully, okay? Everything will be fine, okay?
+Du Ya Ping, 0 hours 13 minutes 27 seconds, Now, let's consider another case.
+Du Ya Ping, 0 hours 13 minutes 30 seconds, We have a starting current this much.
+Du Ya Ping, 0 hours 13 minutes 35 seconds, A new starting current. And the duration is this long, okay? And then you can see
+Du Ya Ping, 0 hours 13 minutes 44 seconds, There's an overlapping between these two curves.
+Du Ya Ping, 0 hours 13 minutes 48 seconds, So, what does that mean?
+Du Ya Ping, 0 hours 13 minutes 50 seconds, It means, okay, up to this point.
+Du Ya Ping, 0 hours 13 minutes 55 seconds, Up to this point, okay? The fuse.
+Du Ya Ping, 0 hours 13 minutes 59 seconds, Curve cross over the starting current curve, which means the fuse will…
+Du Ya Ping, 0 hours 14 minutes 4 seconds, start burning. Okay, we be operated, and the circuit will be disconnected.
+Du Ya Ping, 0 hours 14 minutes 11 seconds, And the circuit disconnected, that means that the normal starting is stopped.
+Du Ya Ping, 0 hours 14 minutes 16 seconds, Okay? And which is considered is not the case we want, okay? So this caused some kind of interruption to the normal operation of the motor.
+Du Ya Ping, 0 hours 14 minutes 26 seconds, So that kind of design, This is not acceptable.
+Du Ya Ping, 0 hours 14 minutes 30 seconds, Okay, so in your design calculation, we have to take some additional
+Du Ya Ping, 0 hours 14 minutes 37 seconds, consideration, okay? To avoid this kind of abnormal situation here, okay? So that means the fuse curve, or the fuse should not cause any trouble.
+Du Ya Ping, 0 hours 14 minutes 49 seconds, to the motor starting, okay? The normal starting should not be interrupted by the fuse, okay? So, of course, this case.
+Du Ya Ping, 0 hours 14 minutes 58 seconds, It's not acceptable, okay? So what we can do, okay, we are dead.
+Du Ya Ping, 0 hours 15 minutes 5 seconds, There could be several methods for solving this kind of problem, and one method is that you increase
+Du Ya Ping, 0 hours 15 minutes 12 seconds, watershower: the fuse rating. For example, that one is 100 ampere.
+Du Ya Ping, 0 hours 15 minutes 18 seconds, This is a 100 MPF list.
+Du Ya Ping, 0 hours 15 minutes 21 seconds, And if I choose the larger one, let's say 160 MV fuse, that means the curve is shifted up. So you will have a curve something like this.
+Du Ya Ping, 0 hours 15 minutes 37 seconds, And this is a 160 MP fuse.
+Du Ya Ping, 0 hours 15 minutes 41 seconds, Alright, okay, so if you choose 160 ampere fuse, then there's no problem at all, no overlapping.
+Du Ya Ping, 0 hours 15 minutes 49 seconds, You cannot see any overlapping here under this graph.
+Du Ya Ping, 0 hours 15 minutes 53 seconds, Okay? So, by choosing a large
+Du Ya Ping, 0 hours 15 minutes 56 seconds, fuse reading, you can solve this problem, solve the problem, okay? Or, you may say, I try to do
+Du Ya Ping, 0 hours 16 minutes 5 seconds, Since about the starting current, I reduced the starting current. So, okay, this is the original starting current, and I reduced starting current from that value to a small value.
+Du Ya Ping, 0 hours 16 minutes 15 seconds, Okay? For example, in the tutorials, question I mentioned, okay? Direct online starting current and the start data starting current, right? Okay?
+Du Ya Ping, 0 hours 16 minutes 42 seconds, So, in the tutorial session, I talk about the starting current. Direct online starting current means the motor is connected to the supply directly, and the start data start means
+Du Ya Ping, 0 hours 16 minutes 55 seconds, We, connect motor wiring in Y at the beginning, and then after 10 seconds later, okay, when the starting's finished, I change it to
+Du Ya Ping, 0 hours 17 minutes 6 seconds, Data connection.
+Du Ya Ping, 0 hours 17 minutes 8 seconds, So by using this kind of starter, the starting current can be reduced to one-third of the original one. That means that you can have a much smaller starting current, okay? So, again, you can see by choose
+Du Ya Ping, 0 hours 17 minutes 23 seconds, a proper starter or starting method, you can reduce the starting current and solve this problem.
+Du Ya Ping, 0 hours 17 minutes 30 seconds, So basically, two different approaches you can consider. Either increase the rating of protective device or change the starting method to reduce the starting current.
+Du Ya Ping, 0 hours 17 minutes 46 seconds, Alright, so this is, for the, fuse.
+Du Ya Ping, 0 hours 17 minutes 51 seconds, How about the circuit breaker, MCB, okay? So, if you have sensing starting current.
+Du Ya Ping, 0 hours 18 minutes 9 seconds, like this, of course, there's no problem at all, right? Okay? And if you see something like this overlapping, then you may increase the MCB rating.
+Du Ya Ping, 0 hours 18 minutes 21 seconds, Okay? And this is, those are the things you can consider, right? Using the prop starting method, or increase the MCB rating, okay? And there's another method we can use, okay?
+Du Ya Ping, 0 hours 18 minutes 37 seconds, For example.
+Du Ya Ping, 0 hours 18 minutes 51 seconds, You have a larger starting current. And then you see the overlapping between MCV curve and the starting current curve. This is the overlapping.
+Du Ya Ping, 0 hours 19 minutes 4 seconds, Of course, that's not acceptable, okay? You may, in this case, you may consider to reduce the starting current by using the starting method, right? Start data, starting method, okay? And, but in that case.
+Du Ya Ping, 0 hours 19 minutes 21 seconds, you know, increase the MCV rating. It's not…
+Du Ya Ping, 0 hours 19 minutes 28 seconds, possible, okay, to solve the problem, okay? Why? If you increase the
+Du Ya Ping, 0 hours 19 minutes 33 seconds, MCB rating, you just increase this part.
+Du Ya Ping, 0 hours 19 minutes 38 seconds, Okay? But the other one, there's a curve, there's… this threshold curve, value does not change. You just change the part which is similar to the fuse, right? You move that up. But this vertical line does not change.
+Du Ya Ping, 0 hours 19 minutes 53 seconds, Okay, no change, okay? So, the fuse, rating, will not help you
+Du Ya Ping, 0 hours 19 minutes 59 seconds, Too much about that, okay? In this case, you may consider to change The type.
+Du Ya Ping, 0 hours 20 minutes 18 seconds, MCB type, okay? For example, this is type B.
+Du Ya Ping, 0 hours 20 minutes 23 seconds, And you can choose Type C.
+Du Ya Ping, 0 hours 20 minutes 25 seconds, So type C, that means you change… increase the… this threshold value. I am from Here to death.
+Du Ya Ping, 0 hours 20 minutes 35 seconds, If you move that one, okay, to upper
+Du Ya Ping, 0 hours 20 minutes 39 seconds, Position. Then you can solve this overlapping problem.
+Du Ya Ping, 0 hours 20 minutes 43 seconds, So for MCB, you can consider another measure to solve this problem by selecting the type C or type D. And if you see overlapping with type B or type C, then you can consider type C.
+Du Ya Ping, 0 hours 21 minutes 1 seconds, Okay, so Type B, Type C, Type D, all available in the market, okay, for your selection, okay? So most cases, okay, for motor circuit, we can use Type C, Type C, okay?
+Du Ya Ping, 0 hours 21 minutes 15 seconds, And, for ordinary circuit, for example, the circuit for socket outlets, for lighting circuit, Type B is good enough, okay? So, this Type B is good enough. But for a motor circuit, okay, you may consider to use Type C or the Type D.
+Du Ya Ping, 0 hours 21 minutes 33 seconds, Okay, yeah.
+Du Ya Ping, 0 hours 21 minutes 34 seconds, Alright, okay? So,
+Du Ya Ping, 0 hours 21 minutes 37 seconds, That's, the thing, okay? You, it's a special thing, okay? You need to consider if you do the cable sizing for the motor circuit, for the motor circuit, okay? Alright?
+Du Ya Ping, 0 hours 21 minutes 52 seconds, Okay, so now…
+Du Ya Ping, 0 hours 21 minutes 54 seconds, We can talk about, okay, the tutorial questions, okay? We didn't cover last week, okay? So, let's look at the question. Okay, this is the question.
+Du Ya Ping, 0 hours 22 minutes 15 seconds, 4, 5. Okay, so we have the motor. Okay.
+Du Ya Ping, 0 hours 22 minutes 23 seconds, Connect to the main LV switchboard via three general purpose non-AMA
+Du Ya Ping, 0 hours 22 minutes 30 seconds, 4-core PVC cable, okay? So this is a 4-core PVC cable, okay?
+Du Ya Ping, 0 hours 22 minutes 36 seconds, And those cable installed in Changing. Okay.
+Du Ya Ping, 0 hours 22 minutes 40 seconds, Okay, so 3 models. Okay, probably we have a 3
+Du Ya Ping, 0 hours 22 minutes 45 seconds, Circuit, one for each one, okay? And the distance is 150 meter, okay?
+Du Ya Ping, 0 hours 22 minutes 52 seconds, for their circuit, and the motor rating, okay, say 50 kilowatts, efficiency 90%, power factor 0.8, so those motors have the same rating, okay?
+Du Ya Ping, 0 hours 23 minutes 5 seconds, Okay? And we use the direct online starter. Yeah. So it has a larger starting curve. Right? Okay.
+Du Ya Ping, 0 hours 23 minutes 12 seconds, And we use fuse for the protection. And
+Du Ya Ping, 0 hours 23 minutes 17 seconds, The ambient temperature is 40 degree.
+Du Ya Ping, 0 hours 23 minutes 21 seconds, We know the site condition, okay? And such information is used to determine the factors, okay? Ambient temperature factor, grouping factor, okay?
+Du Ya Ping, 0 hours 23 minutes 33 seconds, And the possible fuse rating available, okay, 25, 32, 40, okay, etc. Or you can use the
+Du Ya Ping, 0 hours 23 minutes 42 seconds, the list, okay, in the data table, okay, to find a suitable one, okay, for the fuse rating, okay? And, determine the rating of the fuse.
+Du Ya Ping, 0 hours 23 minutes 54 seconds, For protection of the motor, assume the motor direct ion starter starting current is 6 times the full current.
+Du Ya Ping, 0 hours 24 minutes 3 seconds, Okay, the most starting time is 5 seconds, so that means, okay.
+Du Ya Ping, 0 hours 24 minutes 10 seconds, So, the flow current and the starting current is 6 times the flow current, and that duration is,
+Du Ya Ping, 0 hours 24 minutes 20 seconds, 5 second, right? It's a 5 second, 5 second, okay.
+Du Ya Ping, 0 hours 24 minutes 25 seconds, So, in this case, we need to ensure the normal starting should not be interrupted by the fuse.
+Du Ya Ping, 0 hours 24 minutes 34 seconds, Alright, so we do the question A first.
+Du Ya Ping, 0 hours 24 minutes 50 seconds, Okay, so, based on the procedure here.
+Du Ya Ping, 0 hours 24 minutes 55 seconds, We need to find the design current.
+Du Ya Ping, 0 hours 24 minutes 57 seconds, For the motor circuit, we also need to find out the starting current as well. Starting current.
+Du Ya Ping, 0 hours 25 minutes 4 seconds, All right, and, full low current, okay, this is the one, the scene which I talked many, many times, right? So.
+Du Ya Ping, 0 hours 25 minutes 20 seconds, So, the design current is just a flow current of the motor.
+Du Ya Ping, 0 hours 25 minutes 24 seconds, output power divided by efficiency, root square 3, LAM voltage, and the power factor, right? So this is the formula. Remember, you have to memorize that formula, alright? Okay? It's very important, okay? So, you know everything, the power, 50 kilowatts, the voltage, 380 volt.
+Du Ya Ping, 0 hours 25 minutes 43 seconds, And, efficiency power factor, okay? So, we just copied the result here. The full-row current is 105.
+Du Ya Ping, 0 hours 25 minutes 53 seconds, 0.5 cents.
+Du Ya Ping, 0 hours 25 minutes 56 seconds, So this is a design current, and we also need to find out, the starting current, right? Because this is a motor circuit. So if, non-motor circuit, so we don't need to worry about the starting, right? Okay, so the starting current.
+Du Ya Ping, 0 hours 26 minutes 15 seconds, is 6 times full occurrence.
+Du Ya Ping, 0 hours 26 minutes 19 seconds, Right? So, the result is given here, 633 MV.
+Du Ya Ping, 0 hours 26 minutes 25 seconds, Okay, for 5 seconds.
+Du Ya Ping, 0 hours 26 minutes 30 seconds, In 4 or 5 seconds.
+Du Ya Ping, 0 hours 26 minutes 32 seconds, Alright, so based on that one, we can plot the starting current curve.
+Du Ya Ping, 0 hours 26 minutes 37 seconds, Right? Okay, we know the flow current, and the starting current, and the duration, right?
+Du Ya Ping, 0 hours 26 minutes 46 seconds, So, we plot this curve on the graph for the fuse. We have different curves for different fuse readings, okay? And, here, because I don't have that graph, okay? So.
+Du Ya Ping, 0 hours 27 minutes 2 seconds, If you use…
+Du Ya Ping, 0 hours 27 minutes 11 seconds, 125, okay?
+Du Ya Ping, 0 hours 27 minutes 13 seconds, Let's see,
+Du Ya Ping, 0 hours 27 minutes 20 seconds, So, 125 MPa is… certainly is greater than the design current.
+Du Ya Ping, 0 hours 27 minutes 26 seconds, Okay, so first thing, you have to choose the one greater than, design current, 105, okay? And the next one, you need to ensure there's no overlapping between the fuse curve and the starting current curve, okay? So let's check the one here, 125.
+Du Ya Ping, 0 hours 27 minutes 44 seconds, Okay.
+Du Ya Ping, 0 hours 27 minutes 45 seconds, And…
+Du Ya Ping, 0 hours 27 minutes 47 seconds, This curve, okay? And the starting current is 600, 33. So this is, 102, 3, 4, 5, 6. 633, so somewhere here, this… between 600 and 700, okay? So you just, go up.
+Du Ya Ping, 0 hours 28 minutes 7 seconds, And you can see, well, the… this one, okay, the… for 80 ampere, okay, so certainly is not accepted. And, for, 120…
+Du Ya Ping, 0 hours 28 minutes 22 seconds, 5 MP. This is a 1, 2, 3, 4, 5, 5 seconds. Okay? So it's marginally okay. If you choose
+Du Ya Ping, 0 hours 28 minutes 39 seconds, If you choose, okay,
+Du Ya Ping, 0 hours 28 minutes 57 seconds, Okay, so, this is imaginary, okay, certainly, okay.
+Du Ya Ping, 0 hours 29 minutes 2 seconds, 100 MPa is not accepted. There's an overlapping, okay? And,
+Du Ya Ping, 0 hours 29 minutes 9 seconds, So, because the margin is not so much, okay, because there's some kind of variation, because this… the fuse curve is not exactly, okay? There's some kind of…
+Du Ya Ping, 0 hours 29 minutes 21 seconds, bending. Okay, arrow bend. Okay, so to
+Du Ya Ping, 0 hours 29 minutes 26 seconds, Have a safe operation, okay? So, we need to consider a size is…
+Du Ya Ping, 0 hours 29 minutes 32 seconds, Big that one, so it's called next available size, okay? So that is the… 160 amp.
+Du Ya Ping, 0 hours 29 minutes 40 seconds, Okay, so we choose the 160 MV, so this one.
+Du Ya Ping, 0 hours 29 minutes 47 seconds, 160. So, for 160 amp fuse, Oh.
+Du Ya Ping, 0 hours 29 minutes 53 seconds, 2, 3, 4, 5, 6.
+Du Ya Ping, 0 hours 29 minutes 56 seconds, Yeah.
+Du Ya Ping, 0 hours 29 minutes 57 seconds, So, the operating time, okay, will be much longer than 5 seconds, okay?
+Du Ya Ping, 0 hours 30 minutes 4 seconds, Could be, like, 20 or 30, more than 30 seconds, okay? So certainly, we can show, okay, those two curves, okay, we now have overlapping, okay, we don't have overlap, okay? So…
+Du Ya Ping, 0 hours 30 minutes 21 seconds, In the example here, we choose 160 MP fuse.
+Du Ya Ping, 0 hours 30 minutes 30 seconds, So, IN is equal to 160.
+Du Ya Ping, 0 hours 30 minutes 36 seconds, So here, in this question, we have one more step to consider. That means to check, starting, motor starting.
+Du Ya Ping, 0 hours 30 minutes 44 seconds, Condition, okay, see whether, the normal starting will be Interrupted or not, okay?
+Du Ya Ping, 0 hours 31 minutes 0 seconds, Alright, so if you know IN, then the following step will be the same, okay? No much difference, okay? So,
+Du Ya Ping, 0 hours 31 minutes 8 seconds, We need to determine.
+Du Ya Ping, 0 hours 31 minutes 11 seconds, A.
+Du Ya Ping, 0 hours 31 minutes 14 seconds, IT…
+Du Ya Ping, 0 hours 31 minutes 19 seconds, Divide by CACGCI, and we can find the ambient temperature factor, because the temperature is 40 degrees, and I'm not going to show all the detail, okay? So you… suppose you know how to do that, right?
+Du Ya Ping, 0 hours 31 minutes 33 seconds, 0.87 and 0.7. Okay, so the grouping factor and
+Du Ya Ping, 0 hours 31 minutes 39 seconds, Ambient temperature factor. Thermal insulation, okay?
+Du Ya Ping, 0 hours 31 minutes 43 seconds, In the question, we cannot find anything regarding the thermally insulated material, and then we can assume CI is equal to 1, okay? So this CI is equal to 1.
+Du Ya Ping, 0 hours 31 minutes 56 seconds, So this one is equal to 267.
+Du Ya Ping, 0 hours 32 minutes 3 seconds, So this is a minimum current capacity, okay? And, based on that one, and we already know this, those are the, non-AMR, multi-core cable.
+Du Ya Ping, 0 hours 32 minutes 22 seconds, 4-core cable. Now I'm a 4-core cable.
+Du Ya Ping, 0 hours 32 minutes 25 seconds, So, we need to select a… Table, okay.
+Du Ya Ping, 0 hours 32 minutes 39 seconds, So, multi-call…
+Du Ya Ping, 0 hours 32 minutes 42 seconds, Multicore PVC non-armor cable, so this is the one, okay? And, the cable installed in the trunking, right? So, enclosed, so this is enclosed, okay? So we use column 5.
+Du Ya Ping, 0 hours 32 minutes 56 seconds, Column 5, okay? And the current is 267, so 267, okay? So, looks like, okay, 297, right? Okay, and the size is 240.
+Du Ya Ping, 0 hours 33 minutes 12 seconds, So, 4 core PVC cable, 200, the table head, the table rider, is 297.
+Du Ya Ping, 0 hours 33 minutes 23 seconds, And the table size is 240 squared.
+Du Ya Ping, 0 hours 33 minutes 31 seconds, All right, okay.
+Du Ya Ping, 0 hours 33 minutes 33 seconds, So this step is similar to the one we talked about last week, right? No difference, okay? And finally, you need to check the voltage drop.
+Du Ya Ping, 0 hours 33 minutes 45 seconds, Okay, so the formula is the voltage drop table value, multiplied by the design card.
+Du Ya Ping, 0 hours 33 minutes 53 seconds, The lens… Divided by 380.
+Du Ya Ping, 0 hours 33 minutes 59 seconds, Okay, so the table value can be found… This one, 240.
+Du Ya Ping, 0 hours 34 minutes 7 seconds, and 3 call.
+Du Ya Ping, 0 hours 34 minutes 13 seconds, We use the Z value. Okay, so the Z value is point 2, 1.
+Du Ya Ping, 0 hours 34 minutes 18 seconds, 1, 2, 1.
+Du Ya Ping, 0 hours 34 minutes 21 seconds, So 0.21. And this is the length. And this is the design current.
+Du Ya Ping, 0 hours 34 minutes 32 seconds, This is volts, and this is percentage. So, here, everything is fine.
+Du Ya Ping, 0 hours 34 minutes 41 seconds, Okay, everything's fine. It's less than, 1.5 limit, okay? Then everything's fine, okay?
+Du Ya Ping, 0 hours 34 minutes 48 seconds, Alright, okay, so this is the question, okay,
+Du Ya Ping, 0 hours 34 minutes 51 seconds, You know, we… we need to… Consider, you know, a special…
+Du Ya Ping, 0 hours 34 minutes 58 seconds, thing, okay? Here, the starting issue, okay? Motor starting issue, okay?
+Du Ya Ping, 0 hours 35 minutes 3 seconds, Alright, okay. And, so…
+Du Ya Ping, 0 hours 35 minutes 15 seconds, And, you can… Okay, let me finish the other part, okay?
+Du Ya Ping, 0 hours 35 minutes 24 seconds, And then…
+Du Ya Ping, 0 hours 35 minutes 25 seconds, The second one, okay, to determine the size, okay, okay, ABC. Oh, we finished B, okay, C. If the model is star, data starting method is used.
+Du Ya Ping, 0 hours 35 minutes 39 seconds, What should be the rating of the fuse?
+Du Ya Ping, 0 hours 35 minutes 42 seconds, So if we use the starting Start Data Starter.
+Du Ya Ping, 0 hours 35 minutes 50 seconds, Okay.
+Du Ya Ping, 0 hours 35 minutes 51 seconds, So, the starting current is reduced.
+Du Ya Ping, 0 hours 35 minutes 54 seconds, So we use the smaller current.
+Du Ya Ping, 0 hours 36 minutes 4 seconds, So, then, okay, in that case, okay.
+Du Ya Ping, 0 hours 36 minutes 9 seconds, You can plot the curve, okay, starting current curve, okay, here, with a fuse, okay, and the new starting current here.
+Du Ya Ping, 0 hours 36 minutes 41 seconds, 211, yeah, 211, okay? So…
+Du Ya Ping, 0 hours 36 minutes 59 seconds, 311, okay, so in this case, okay, 300 sensing here, lasts for 5 seconds.
+Du Ya Ping, 0 hours 37 minutes 6 seconds, Okay, 1, 2, 3, 4, 5, sorry, second, okay? And this is a 125 ampere, and then you see a much large margin is available here. So, 125 ampere fuse will be considered good enough. Yeah, good enough, okay? So,
+Du Ya Ping, 0 hours 37 minutes 24 seconds, So here you can see, okay, that since when the
+Du Ya Ping, 0 hours 37 minutes 30 seconds, adopt, okay, for that kind of motor sizing, okay, for motor circuit. Either you reduce the starting current, or you increase the fuse rating.
+Du Ya Ping, 0 hours 37 minutes 44 seconds, And if you use MCB for the protection, and then you can consider, again, you can either reduce, consider reducing the starting current.
+Du Ya Ping, 0 hours 37 minutes 56 seconds, or increase the MCB rating, or you can change the type from B to C, from C to D. So, for MCB, you have three different options.
+Du Ya Ping, 0 hours 38 minutes 10 seconds, For your selection care.
+Du Ya Ping, 0 hours 38 minutes 15 seconds, Alright, so that is the question for
+Du Ya Ping, 0 hours 38 minutes 21 seconds, So any particular question you want to raise for this one.
+Du Ya Ping, 0 hours 38 minutes 35 seconds, Alright, okay, you may talk to me later, okay?
+Du Ya Ping, 0 hours 38 minutes 39 seconds, Then we go to question, 5, okay? Of question 6. We talked about question 5 already last week, okay? So, question 6.
+Du Ya Ping, 0 hours 38 minutes 50 seconds, Okay, so question 6, okay, again, for Cable Sizing, okay, so we, have, two groups for loads.
+Du Ya Ping, 0 hours 39 minutes 0 seconds, Group 1 has two 100 kVA
+Du Ya Ping, 0 hours 39 minutes 6 seconds, heating coil, three-phase circuit. And when you say this kind of electric heating coil, that means this is a resistive load.
+Du Ya Ping, 0 hours 39 minutes 14 seconds, Power factor is equal to 1, okay? I installed in the plant room.
+Du Ya Ping, 0 hours 39 minutes 19 seconds, It is 40 meters away from the switch room, okay?
+Du Ya Ping, 0 hours 39 minutes 22 seconds, and the ambient temperature could be up to 40 degree.
+Du Ya Ping, 0 hours 39 minutes 25 seconds, So, those two… Heating coils.
+Du Ya Ping, 0 hours 39 minutes 29 seconds, Are connected 2 by 2.
+Du Ya Ping, 0 hours 39 minutes 32 seconds, different sets of cables. We use the single-core cables, okay? Here, we use single-core cables.
+Du Ya Ping, 0 hours 40 minutes 6 seconds, Okay? And single call.
+Du Ya Ping, 0 hours 40 minutes 12 seconds, PVC Cable.
+Du Ya Ping, 0 hours 40 minutes 16 seconds, I think I installed in the chunking, okay?
+Du Ya Ping, 0 hours 40 minutes 21 seconds, In a Changi.
+Du Ya Ping, 0 hours 40 minutes 37 seconds, Okay, and when…
+Du Ya Ping, 0 hours 40 minutes 39 seconds, A car is connected by one circuit, that means there are two circuits. So, you use two to determine the grouping factor, okay?
+Du Ya Ping, 0 hours 40 minutes 48 seconds, And the length, okay, 40 meter.
+Du Ya Ping, 0 hours 40 minutes 55 seconds, and the ambient temperature the… 40 degree.
+Du Ya Ping, 0 hours 41 minutes 2 seconds, for the degree. Okay.
+Du Ya Ping, 0 hours 41 minutes 4 seconds, We need to determine Cable size. Then we have a group 2.
+Du Ya Ping, 0 hours 41 minutes 10 seconds, Globe 2 is a
+Du Ya Ping, 0 hours 41 minutes 15 seconds, It's a single-phase circuit, so this is three-phase circuit, okay, three-phase circuit.
+Du Ya Ping, 0 hours 41 minutes 20 seconds, And it is a single-phase circuit.
+Du Ya Ping, 0 hours 41 minutes 23 seconds, Okay, the loading, okay, 3 kVA.
+Du Ya Ping, 0 hours 41 minutes 28 seconds, Yeah. And, well… The distance and the temperature will be same, okay, because they
+Du Ya Ping, 0 hours 41 minutes 37 seconds, Located in the same location.
+Du Ya Ping, 0 hours 41 minutes 54 seconds, Again, we use a single core PVC cable.
+Du Ya Ping, 0 hours 41 minutes 58 seconds, Single-core PVC cable in Changi, okay? Alright?
+Du Ya Ping, 0 hours 42 minutes 5 seconds, Okay.
+Du Ya Ping, 0 hours 42 minutes 6 seconds, So, we need to determine, the cable size, okay? Cable size, okay?
+Du Ya Ping, 0 hours 42 minutes 10 seconds, So
+Du Ya Ping, 0 hours 42 minutes 24 seconds, Let's talk about group 1, okay? So, again, we just follow the procedure, okay?
+Du Ya Ping, 0 hours 42 minutes 29 seconds, Design current, and the full load current, that is full load current, and
+Du Ya Ping, 0 hours 42 minutes 37 seconds, The fuse rating, again, we use the fuse for protection and find the IT and determine the
+Du Ya Ping, 0 hours 42 minutes 43 seconds, table value, okay, current carrying capacity, and then find the cross-section area, and then, check the voltage drop, okay? And this is considered final circuit, the voltage drop, okay, limit, okay, 2.5%, okay, let's see, okay?
+Du Ya Ping, 0 hours 42 minutes 58 seconds, Alright, so the design current… Okay, because the power factor in this case, okay.
+Du Ya Ping, 0 hours 43 minutes 6 seconds, It's not the motor, so it is equal to.
+Du Ya Ping, 0 hours 43 minutes 11 seconds, Let's see, because you're given by the… S.
+Du Ya Ping, 0 hours 43 minutes 19 seconds, Okay, it's given by S, okay? KVA is S, okay? And also, we know the power factor is equal to 1, okay? So, it is just equal to, 152.
+Du Ya Ping, 0 hours 43 minutes 33 seconds, And well, it's quite easy to select the fuse rating because we do not need to consider the starting current. There's no issue like starting current. So the fuse rating is just 160 MP. This is greater than IB.
+Du Ya Ping, 0 hours 43 minutes 56 seconds, Okay? And then… We need to determine the minimum current capacity.
+Du Ya Ping, 0 hours 44 minutes 5 seconds, CA, CG, and the CI, okay? So, again, okay, I'm not going to show how to find a CA, CG, CI, okay? We…
+Du Ya Ping, 0 hours 44 minutes 14 seconds, That kind of thing many times, okay? So, you can figure out, okay, by yourself, okay? And, IT is a 230…
+Du Ya Ping, 0 hours 44 minutes 25 seconds, and the Chinese city. So there.
+Du Ya Ping, 0 hours 44 minutes 29 seconds, Alright, and then, we need to find out the table value.
+Du Ya Ping, 0 hours 44 minutes 34 seconds, Okay? Because this… those are single-core cables, okay? So, we have to, go to the…
+Du Ya Ping, 0 hours 44 minutes 42 seconds, Table, we call single, call cables.
+Du Ya Ping, 0 hours 44 minutes 48 seconds, Single call.
+Du Ya Ping, 0 hours 44 minutes 50 seconds, PVC insulated the cable, okay? And the cable installed inside the tranking.
+Du Ya Ping, 0 hours 44 minutes 56 seconds, So it's called enclosure, and I think that's the enclosure. Enclosed in conduit or in chunking. And it's a three-phase circuit.
+Du Ya Ping, 0 hours 45 minutes 6 seconds, And then you can see, okay, so 1, 230. So here we have 239. The size is 120 squared.
+Du Ya Ping, 0 hours 45 minutes 18 seconds, Okay.
+Du Ya Ping, 0 hours 45 minutes 19 seconds, Well, you can choose this one or next one, okay?
+Du Ya Ping, 0 hours 45 minutes 23 seconds, Nick.
+Du Ya Ping, 0 hours 45 minutes 26 seconds, 232 would be very close, okay? And if you have a considerable margin here, then use 269… oh, I'm sorry, this one.
+Du Ya Ping, 0 hours 45 minutes 37 seconds, 269, and the cable size is 150 squared.
+Du Ya Ping, 0 hours 45 minutes 43 seconds, So here, in this case, we use 120 ms squared.
+Du Ya Ping, 0 hours 45 minutes 51 seconds, And 239, but, okay, of course, you can choose, next available size, okay? 150mm square, and you may say this is the margin, okay, too small, okay? So both are acceptable, okay?
+Du Ya Ping, 0 hours 46 minutes 6 seconds, So here, we just follow the solution, okay?
+Du Ya Ping, 0 hours 46 minutes 11 seconds, in the handout. Okay, so this is a 239.
+Du Ya Ping, 0 hours 46 minutes 17 seconds, And the cross-section area is 120.
+Du Ya Ping, 0 hours 46 minutes 21 seconds, M squared.
+Du Ya Ping, 0 hours 46 minutes 25 seconds, All right. And then we can do the voltage drop calculation. Right? Okay. So, voltage drop.
+Du Ya Ping, 0 hours 46 minutes 50 seconds, So this is the formula, okay? And the design current is 152, the length is 40 meter.
+Du Ya Ping, 0 hours 46 minutes 56 seconds, and table value. Okay.
+Du Ya Ping, 0 hours 46 minutes 59 seconds, So you have to go to the table.
+Du Ya Ping, 0 hours 47 minutes 2 seconds, And, find the one, okay, enclosed in the condensed rephase, or Chang'e, okay, at 120, okay, that is the point.
+Du Ya Ping, 0 hours 47 minutes 13 seconds, 41.41. Zekan Puma.
+Du Ya Ping, 0 hours 47 minutes 17 seconds, So, 0.41. And this is the distance, and this is the design current, and the percentage is 0.7.
+Du Ya Ping, 0 hours 47 minutes 29 seconds, Percent, okay? And it's… it is less than limit. Limit is 2.5%, so this is accepted, yeah, acceptable.
+Du Ya Ping, 0 hours 47 minutes 39 seconds, So, we have a two…
+Du Ya Ping, 0 hours 47 minutes 42 seconds, sets of three-phase circuit, okay? Each circuit made by four single-core cables, okay? They are all installed inside the tranking. The cable size, okay, those are single-core PVC cables, and the cable size is 120 millimeters. So that is the result here from the
+Du Ya Ping, 0 hours 48 minutes 2 seconds, Cable Sizing Calculation.
+Du Ya Ping, 0 hours 48 minutes 8 seconds, Alright, so this is a group 1, okay, then we can find…
+Du Ya Ping, 0 hours 48 minutes 13 seconds, The table size for group 2.
+Du Ya Ping, 0 hours 48 minutes 19 seconds, So, again, you need to find the design current, okay, for group 2.
+Du Ya Ping, 0 hours 48 minutes 30 seconds, So, in this case, okay, again, but this is a single-phase circuit, so S divided by 220 volts.
+Du Ya Ping, 0 hours 48 minutes 39 seconds, Okay, so, here, 3 kVA, right, divided by 2020 is 13.
+Du Ya Ping, 0 hours 48 minutes 46 seconds, Point 16.
+Du Ya Ping, 0 hours 48 minutes 49 seconds, Okay? And then you need to find a…
+Du Ya Ping, 0 hours 48 minutes 52 seconds, the rating of the fuse. Okay, the available size is 16 amps. Okay? So you you can.
+Du Ya Ping, 0 hours 49 minutes 0 seconds, Find the one from the list, okay?
+Du Ya Ping, 0 hours 49 minutes 8 seconds, So, from the data table.
+Du Ya Ping, 0 hours 49 minutes 14 seconds, So you can choose the 16 ampere, right? 16 ampere.
+Du Ya Ping, 0 hours 49 minutes 28 seconds, All right, and then, well, again, okay, because most studies need to be considered, which is for the ordinary steps. Okay, find the IT…
+Du Ya Ping, 0 hours 49 minutes 41 seconds, Okay, I am… CACZCI. But in this case, we have a Chanking, which is separate from the
+Du Ya Ping, 0 hours 49 minutes 50 seconds, power circuit for the heating coil, okay? So you… there's only one
+Du Ya Ping, 0 hours 49 minutes 56 seconds, control circuit, okay, this is the assumption we made, okay? Those circuits installed in the separate trunkings, different trunkings, okay? So CG is equal to 1, and the CI are equal to 1, but CA should be considered, ambient temperature should be considered. So this is the case.
+Du Ya Ping, 0 hours 50 minutes 18 seconds, 18.4.
+Du Ya Ping, 0 hours 50 minutes 24 seconds, Alright, and the rest steps, okay,
+Du Ya Ping, 0 hours 50 minutes 30 seconds, There's nothing unusual, okay, in the following steps, okay? You find out,
+Du Ya Ping, 0 hours 50 minutes 36 seconds, the table value. Okay. And then go back to the single call PVC non-AMA cable.
+Du Ya Ping, 0 hours 50 minutes 44 seconds, the table for that, those kind of cables, okay? And you can find a 3.55… 3.5 millimeters, okay?
+Du Ya Ping, 0 hours 50 minutes 53 seconds, will be good enough. Okay? Oh, I'm sorry. Okay, that's not good enough. 2.5 ms square.
+Du Ya Ping, 0 hours 51 minutes 0 seconds, So let's see.
+Du Ya Ping, 0 hours 51 minutes 16 seconds, Okay? And then you do the voltage drop calculation, and find, okay, the voltage drop, if you use… if you use 2.5 MF squared cables, the voltage drop is 4.5.
+Du Ya Ping, 0 hours 51 minutes 29 seconds, So, this one is greater than 3.5 limits.
+Du Ya Ping, 0 hours 51 minutes 36 seconds, Okay.
+Du Ya Ping, 0 hours 51 minutes 37 seconds, And
+Du Ya Ping, 0 hours 51 minutes 39 seconds, You can increase the cable size to 6 square or even 10 square. And if you choose the 6 square, it's 1.8%. And well.
+Du Ya Ping, 0 hours 51 minutes 56 seconds, If we consider the limit is 2.5%, there's
+Du Ya Ping, 0 hours 52 minutes 0 seconds, should be acceptable, but if you set the limit as 1.5%, then you need to increase the cable size further to 10 squared. So, for this 2 squared.
+Du Ya Ping, 0 hours 52 minutes 13 seconds, 2.5M squared.
+Du Ya Ping, 0 hours 52 minutes 26 seconds, So that one should be okay. If the limit is 2.5%, should be fine, but if the limit is 1.5%, then you have to increase the cable size further, okay, to 10 squared.
+Du Ya Ping, 0 hours 52 minutes 41 seconds, Alright, okay, so that's the result. For the group 2, you have two single core PVC cable with the size of 6mm square, and those cables installed inside trunking.
+Du Ya Ping, 0 hours 52 minutes 56 seconds, And that is the end of the design calculation.
+Du Ya Ping, 0 hours 53 minutes 3 seconds, All right, okay, I think, okay, well, we talk about those questions, they are very comprehensive, okay?
+Du Ya Ping, 0 hours 53 minutes 13 seconds, So…
+Du Ya Ping, 0 hours 53 minutes 17 seconds, The only thing which is a little bit complicated is that if you have a motor circuit, you have to consider the mode starting, okay? And try to avoid
+Du Ya Ping, 0 hours 53 minutes 26 seconds, any possible interruption to the most starting care. So probably that is the special Things, okay, you need to…
+Du Ya Ping, 0 hours 53 minutes 36 seconds, To consider when do the Cable Sizing calculation, okay?
+Du Ya Ping, 0 hours 53 minutes 41 seconds, Alright, okay, so now we move to… back to the question 3, okay?
+Du Ya Ping, 0 hours 53 minutes 51 seconds, Question 3, okay? So, I think this question is not really, important, because we're not…
+Du Ya Ping, 0 hours 54 minutes 0 seconds, test you, okay, with this kind of question in the examination, okay? So this is just… this is just for the reference only, okay? So this one says, okay, you have a final ring circuit.
+Du Ya Ping, 0 hours 54 minutes 13 seconds, And the rating of the circuit is 30 MP.
+Du Ya Ping, 0 hours 54 minutes 17 seconds, Okay, so this is one determined by the
+Du Ya Ping, 0 hours 54 minutes 20 seconds, EMSD wiring regulation. The ring circuit rating should be 30 or 32 amperes, okay? And we have several socket outlets, and we know the current rating.
+Du Ya Ping, 0 hours 54 minutes 32 seconds, at each socket area. So it is given by the figure in the diagram. And we also know the distance.
+Du Ya Ping, 0 hours 54 minutes 41 seconds, For different sections of this ring circuit.
+Du Ya Ping, 0 hours 54 minutes 44 seconds, And we want to find out the voltage drop. Okay.
+Du Ya Ping, 0 hours 54 minutes 50 seconds, So, whether this is, less than, 2.5% or not, okay? So.
+Du Ya Ping, 0 hours 55 minutes 0 seconds, For this case, we cannot directly use the voltage drop calculation we talked about earlier. So, for this case, we have to use some kind of circuit theory to find out the current in each
+Du Ya Ping, 0 hours 55 minutes 15 seconds, Section, and then add the voltage of each segment together to determine the
+Du Ya Ping, 0 hours 55 minutes 20 seconds, total voltage drop, okay? The highest voltage drop in the circuit, okay? So…
+Du Ya Ping, 0 hours 55 minutes 47 seconds, Alright, so, because we don't know the current in each… because they're in circuit, I don't know the… there are two different branches, but I don't know…
+Du Ya Ping, 0 hours 55 minutes 56 seconds, the current in those two different branches, okay? So, we assume the current in one branch is X, IX, then the other branch will be
+Du Ya Ping, 0 hours 56 minutes 9 seconds, Okay, we go this way, okay? And we know this…
+Du Ya Ping, 0 hours 56 minutes 13 seconds, current 5 MA, then the next branch will be the current less than that one, so subtract 5
+Du Ya Ping, 0 hours 56 minutes 21 seconds, from IX. So that's the current in this branch, and then subject 10 again, you got this one, and subject 5 again, so you have IX minus 20. And then you can figure out
+Du Ya Ping, 0 hours 56 minutes 35 seconds, The branch… The current, okay, for each branch, or for each sections, okay?
+Du Ya Ping, 0 hours 56 minutes 41 seconds, And then, this is a loop.
+Du Ya Ping, 0 hours 56 minutes 43 seconds, And we know the voltage because it goes back to the origin.
+Du Ya Ping, 0 hours 56 minutes 48 seconds, So the vote is up submission.
+Du Ya Ping, 0 hours 56 minutes 52 seconds, If we add all the voter jobs.
+Du Ya Ping, 0 hours 56 minutes 54 seconds, on those sections, and total voltage drop is zero, because go back to the origin, okay? So, total voltage drop.
+Du Ya Ping, 0 hours 57 minutes 5 seconds, Very job, okay, for the loop.
+Du Ya Ping, 0 hours 57 minutes 9 seconds, Okay, it's equal to 0, and it is, equal to the voltage drop for the first
+Du Ya Ping, 0 hours 57 minutes 17 seconds, Section, okay? So, I times the resistance.
+Du Ya Ping, 0 hours 57 minutes 21 seconds, I assume the resistance per meter is small r, and times the distance, which is
+Du Ya Ping, 0 hours 57 minutes 30 seconds, The distance is already given, OK? 6, if you look at it.
+Du Ya Ping, 0 hours 57 minutes 37 seconds, This is a distance.
+Du Ya Ping, 0 hours 57 minutes 38 seconds, for each section. Okay, so
+Du Ya Ping, 0 hours 57 minutes 46 seconds, Times 6. Okay, then the next one, IX minus 5 times resistance per meter, and the distance is 4.
+Du Ya Ping, 0 hours 57 minutes 59 seconds, And then you keep moving, okay?
+Du Ya Ping, 0 hours 58 minutes 2 seconds, And by using that, way to determine the voltage of for, next…
+Du Ya Ping, 0 hours 58 minutes 9 seconds, Sections, and… and you have to include…
+Du Ya Ping, 0 hours 58 minutes 13 seconds, All the sections, okay? The voltage drop for all the sections, okay? And then in… and eventually this one is equal to zero.
+Du Ya Ping, 0 hours 58 minutes 23 seconds, Equal to 0. And then this is the equation.
+Du Ya Ping, 0 hours 58 minutes 27 seconds, And both side R can be
+Du Ya Ping, 0 hours 58 minutes 31 seconds, remove, because divide this equation by R on both sides, and then you have only single unknown.
+Du Ya Ping, 0 hours 58 minutes 40 seconds, variable available, IX. So, you can solve
+Du Ya Ping, 0 hours 58 minutes 45 seconds, This equation for IX, and the IX equal to 16.29 amperes.
+Du Ya Ping, 0 hours 58 minutes 52 seconds, So, if IX is given, then you can find the current in other branches, or other
+Du Ya Ping, 0 hours 59 minutes 0 seconds, Sections, okay? So, that means you can… no…
+Du Ya Ping, 0 hours 59 minutes 4 seconds, the currents in different sections, in different sections, okay? And if you know the current, okay, this is the result of the current in each
+Du Ya Ping, 0 hours 59 minutes 16 seconds, sections, okay?
+Du Ya Ping, 0 hours 59 minutes 18 seconds, And you can see the first one is 16.29, and 11.29, and then 1.29. And if you further subtract 5 from this one, that means it is negative value. Negative means
+Du Ya Ping, 0 hours 59 minutes 34 seconds, The current flow in the opposite direction. So, we assume in this direction, and it's negative, then the actual current goes this way.
+Du Ya Ping, 0 hours 59 minutes 44 seconds, So you can see the current, 30 ampere. Actually, split… Okay?
+Du Ya Ping, 0 hours 59 minutes 55 seconds, Into two parts, okay? And,
+Du Ya Ping, 0 hours 59 minutes 59 seconds, One branch has this much current, and then the…
+Du Ya Ping, 1 hours 0 minutes 4 seconds, The lowest voltage or highest voltage will occur At this point.
+Du Ya Ping, 1 hours 0 minutes 11 seconds, Okay, this is the point, okay? This is the… has the lowest voltage, or you may see the voltage drop is the highest.
+Du Ya Ping, 1 hours 0 minutes 19 seconds, So then, you can…
+Du Ya Ping, 1 hours 0 minutes 21 seconds, Calculate the voltage drop, okay, in this case, and the result is given here, okay, you just add a 3,
+Du Ya Ping, 1 hours 0 minutes 29 seconds, Items. Okay, 3 items. Okay, worry job for this one.
+Du Ya Ping, 1 hours 0 minutes 46 seconds, So, the voted job for this one, and that one, this one.
+Du Ya Ping, 1 hours 0 minutes 50 seconds, This one, 3, pass, and if you go this way again, voltage drop, plus voltage drop, and the plus voltage drop. And then you will get the same voltage drop at this point. So it doesn't matter you use result here for calculation or result in other branch for calculation, you will get the same results.
+Du Ya Ping, 1 hours 1 minutes 11 seconds, And, the… Voted. Job is…
+Du Ya Ping, 1 hours 1 minutes 17 seconds, this much, okay? And, we…
+Du Ya Ping, 1 hours 1 minutes 23 seconds, Need to multiply the resistance, okay?
+Du Ya Ping, 1 hours 1 minutes 27 seconds, For this…
+Du Ya Ping, 1 hours 1 minutes 29 seconds, final circuit because the cable size is given. And then you can see the voltage drop is 1.2 5 0 1.2 1.2%.
+Du Ya Ping, 1 hours 1 minutes 38 seconds, All right, okay, and you can do the voltage drop calculation if you know the… .
+Du Ya Ping, 1 hours 1 minutes 47 seconds, Kern. Ying.
+Du Ya Ping, 1 hours 1 minutes 50 seconds, At each socket outlet.
+Du Ya Ping, 1 hours 1 minutes 53 seconds, And you know the distance for each section, and you can precisely find out the voltage drop results.
+Du Ya Ping, 1 hours 2 minutes 1 seconds, But most cases, we know.
+Du Ya Ping, 1 hours 2 minutes 3 seconds, In the design stage, we don't know the actual current in each socket outlet, okay? And even we don't know, okay?
+Du Ya Ping, 1 hours 2 minutes 11 seconds, the distance for each section. So all the CN are not given, but we know the total length of this ring circuit. Okay, so if we… that kind of information is not given, what we can do for the voltage drop calculation? And then when we do the voltage drop calculation, and the worst scenario.
+Du Ya Ping, 1 hours 2 minutes 30 seconds, So, worst scenario means what?
+Du Ya Ping, 1 hours 2 minutes 55 seconds, So, what scenario means, okay, we have the ring circuit and all the loads.
+Du Ya Ping, 1 hours 3 minutes 0 seconds, Located in the middle point of the ring circuit.
+Du Ya Ping, 1 hours 3 minutes 3 seconds, Which means this one share half of the current 30 amp. That means 15 amp here, 15 amp here. And then, if the load all concentrate at the middle point, and then
+Du Ya Ping, 1 hours 3 minutes 13 seconds, This point, okay, is the worst scenario, okay? So, we cannot find the exact voltage drop for a particular ring circuit, but we can estimate the worst
+Du Ya Ping, 1 hours 3 minutes 26 seconds, the highest voltage jaw. So in the design calculation, we only need to
+Du Ya Ping, 1 hours 3 minutes 31 seconds, Find out… use this one, okay, the worst scenario for the voltage drop calculation, okay?
+Du Ya Ping, 1 hours 3 minutes 37 seconds, So, that means, okay, the total… assume total length here
+Du Ya Ping, 1 hours 3 minutes 44 seconds, is L, okay, and the voltage drop is equal to The table value.
+Du Ya Ping, 1 hours 3 minutes 54 seconds, Z, okay, then the milli ohm per meter times, okay, the design current, okay, half of this one, okay, half of this one.
+Du Ya Ping, 1 hours 4 minutes 9 seconds, Okay, so did Ampy.
+Du Ya Ping, 1 hours 4 minutes 11 seconds, And, times the… Lens.
+Du Ya Ping, 1 hours 4 minutes 16 seconds, Half of the lens.
+Du Ya Ping, 1 hours 4 minutes 20 seconds, and then divided by 200 divorce.
+Du Ya Ping, 1 hours 4 minutes 27 seconds, And this is the worst case.
+Du Ya Ping, 1 hours 4 minutes 29 seconds, It's a maximum voltage out.
+Du Ya Ping, 1 hours 4 minutes 33 seconds, Okay.
+Du Ya Ping, 1 hours 4 minutes 35 seconds, So in the design calculation, we just
+Du Ya Ping, 1 hours 4 minutes 39 seconds, Use that one to determine the voltage drop for the ring circuit.
+Du Ya Ping, 1 hours 4 minutes 47 seconds, All right, okay.
+Du Ya Ping, 1 hours 4 minutes 49 seconds, So that means, okay, you do not need to use that approach to find the voltage drop, okay? Because we don't have any… in the real case, we don't have that kind of information available.
+Du Ya Ping, 1 hours 4 minutes 59 seconds, So what we can do is just find out the worst.
+Du Ya Ping, 1 hours 5 minutes 3 seconds, Scenario, okay, the VOJO and the WOS scenario.
+Du Ya Ping, 1 hours 5 minutes 9 seconds, All right, so, I have covered all the tutorial questions, okay? And, I'm not going to have a… take a break, because I can finish the…
+Du Ya Ping, 1 hours 5 minutes 21 seconds, Last part quickly, maybe in five minutes. So after five minutes, we just dismiss today's lecture. OK? All right?
+Du Ya Ping, 1 hours 5 minutes 31 seconds, Alright, so any, particular question you want to ask for this one?
+Du Ya Ping, 1 hours 5 minutes 40 seconds, Okay, if not, then we move the last part we want to cover today.
+Du Ya Ping, 1 hours 5 minutes 52 seconds, Oh, okay, so, here you can see those are fuse curves I just, showed earlier, and this is the MCB.
+Du Ya Ping, 1 hours 6 minutes 1 seconds, Curve, we have type B, type C, and type D, okay? So here,
+Du Ya Ping, 1 hours 6 minutes 5 seconds, You can see the, two different things given. So this means this, curve for
+Du Ya Ping, 1 hours 6 minutes 13 seconds, MCB using… used in the AC circuit, and that part is the MCB curve.
+Du Ya Ping, 1 hours 6 minutes 22 seconds, for circuit break use in the DC circuit. Okay? So because in this subject, where we just focus on
+Du Ya Ping, 1 hours 6 minutes 30 seconds, and the AC circuit. So we only consider AC power, not DC power. Okay.
+Du Ya Ping, 1 hours 6 minutes 41 seconds, So, those motor starter, which is covered, okay.
+Du Ya Ping, 1 hours 6 minutes 45 seconds, In the tutorial session, right?
+Du Ya Ping, 1 hours 6 minutes 50 seconds, Alright, okay, so… We talk about Cable Sizing.
+Du Ya Ping, 1 hours 6 minutes 56 seconds, So basically, what we need to do is determine the cable size. But in the design.
+Du Ya Ping, 1 hours 7 minutes 1 seconds, Okay, cable size is the one thing, of course, is important, but not… it's not the only thing we need to determine.
+Du Ya Ping, 1 hours 7 minutes 8 seconds, Okay, most cases, we also need to determine The type of cable.
+Du Ya Ping, 1 hours 7 minutes 14 seconds, Whether this is a single call cable.
+Du Ya Ping, 1 hours 7 minutes 16 seconds, multi-core cable, whether this is a PVC cable or XLP cable, or whether this is an AMA cable or non-AMA cable. So that kind of thing, you also need to determine, okay, in the
+Du Ya Ping, 1 hours 7 minutes 27 seconds, Cable Sizing, okay, in the design calculation, okay? And apart from that, you also need to
+Du Ya Ping, 1 hours 7 minutes 36 seconds, Specify what kind of method.
+Du Ya Ping, 1 hours 7 minutes 39 seconds, For installation, cable installation.
+Du Ya Ping, 1 hours 7 minutes 42 seconds, Whether the cables installed on the surface of wall, or whether cables installed inside the trunking.
+Du Ya Ping, 1 hours 7 minutes 49 seconds, Or it's the conduit, or whatever, okay? So that kind of thing, you also need to determine, okay? So here, I just give you some kind of guideline, okay?
+Du Ya Ping, 1 hours 7 minutes 58 seconds, to help you to make the selection, okay? Of course, the result is not unique. That means you can choose that one or the other one, okay? So there's nothing we call the perfect, okay? So maybe, based on that consideration, you choose this
+Du Ya Ping, 1 hours 8 minutes 16 seconds, Design, okay?
+Du Ya Ping, 1 hours 8 minutes 19 seconds, Maybe in the other situation, you make another design. So for the design, there's nothing we call the best.
+Du Ya Ping, 1 hours 8 minutes 27 seconds, There's something we call this a suitable design, okay, suitable for this situation or not, okay?
+Du Ya Ping, 1 hours 8 minutes 33 seconds, Alright, okay, so, in the…
+Du Ya Ping, 1 hours 8 minutes 36 seconds, Schematic, you know, we have a different circuit, and those circuits can be classified into main circuit.
+Du Ya Ping, 1 hours 8 minutes 43 seconds, Submens, feeder circuit, rising man, subman, and the final circuit, okay?
+Du Ya Ping, 1 hours 8 minutes 49 seconds, For main circuit, so let's look at the schematic.
+Du Ya Ping, 1 hours 9 minutes 14 seconds, So the main circuit means the one.
+Du Ya Ping, 1 hours 9 minutes 17 seconds, Detained the transformer, and the Mary switch ball. Okay? So for this circuit, you know, very large curve.
+Du Ya Ping, 1 hours 9 minutes 28 seconds, Okay? And the distance normally is very short.
+Du Ya Ping, 1 hours 9 minutes 32 seconds, Could be less than 20 meter. Okay? So for this part, okay, probably there's only 2 arrangement, okay?
+Du Ya Ping, 1 hours 9 minutes 42 seconds, Two type of things conduct you can choose, okay? The one is the single core cable.
+Du Ya Ping, 1 hours 9 minutes 48 seconds, Large single core cable, okay? Single core cable size can be
+Du Ya Ping, 1 hours 9 minutes 52 seconds, up to 400 squared, or even 630 squared.
+Du Ya Ping, 1 hours 10 minutes 16 seconds, So, you can see this single call cable, right?
+Du Ya Ping, 1 hours 10 minutes 19 seconds, There's 400 and 630, okay? And in some cases, you may see the 800 and 1,000 squared, okay? And of course, in Hong Kong, we do not use such large-sized single cocktail.
+Du Ya Ping, 1 hours 10 minutes 36 seconds, The largest one is a 630 squared single core cable. And because the transformer —
+Du Ya Ping, 1 hours 10 minutes 45 seconds, rating. Normally, it's very large, right? 1,500 kVA, 2,000 kVA, and one single core cable is not
+Du Ya Ping, 1 hours 10 minutes 54 seconds, enough to carry this large current, okay? For example.
+Du Ya Ping, 1 hours 10 minutes 59 seconds, If you have a 1,500 K.
+Du Ya Ping, 1 hours 11 minutes 17 seconds, Transformer And the current from the transformer will be equal to 1500 kVA
+Du Ya Ping, 1 hours 11 minutes 24 seconds, Divided by root square root of 3, 380.
+Du Ya Ping, 1 hours 11 minutes 27 seconds, Okay, the current 2279 amperes, 2,000 amperes, okay? And if you look at this one.
+Du Ya Ping, 1 hours 11 minutes 38 seconds, Okay? For 630 MP, okay? The current, okay, could be, like, 1,000 MPs, okay? So that's… that is not enough, right? So, usually you have a multi…
+Du Ya Ping, 1 hours 11 minutes 51 seconds, are single core cables.
+Du Ya Ping, 1 hours 11 minutes 53 seconds, For the connection, okay? So…
+Du Ya Ping, 1 hours 12 minutes 23 seconds, You can see, okay, this photo, this is transformer, 1500 kVA transformer, and you can see those are single core cables.
+Du Ya Ping, 1 hours 12 minutes 31 seconds, And for each phase, you have three single cock cable. And this is for neutral and then ABC. Here you can see this. So probably you have 12 single cock cable.
+Du Ya Ping, 1 hours 12 minutes 44 seconds, So, this is the…
+Du Ya Ping, 1 hours 12 minutes 45 seconds, One possible arrangement for main circuit, this is called the main circuit, okay? And the other one we can consider to use for this main circuit is a bus stack.
+Du Ya Ping, 1 hours 12 minutes 55 seconds, So the best start. Okay, well, in this subject, when we we didn't.
+Du Ya Ping, 1 hours 12 minutes 59 seconds, watershed: touch the bus down, okay? So, you don't worry about that one, okay? So…
+Du Ya Ping, 1 hours 13 minutes 3 seconds, Bus duct can be used for the main circuit or the single core cable for main circuit. Okay. So, those are the normal practice. Okay.
+Du Ya Ping, 1 hours 13 minutes 22 seconds, All right. How about the feeder circuit or rising main circuit? Usually, we use —
+Du Ya Ping, 1 hours 13 minutes 31 seconds, Single call cable, you can use single call cable, or, I'm out Cable. And,
+Du Ya Ping, 1 hours 13 minutes 38 seconds, Bus start as well. And you can see feeder circuit, rising main circuit, or even sub main circuit, you can consider to use.
+Du Ya Ping, 1 hours 13 minutes 48 seconds, XLP cable could be single core, multi-core, or the bus stack.
+Du Ya Ping, 1 hours 13 minutes 54 seconds, Busta, okay. But the SubMain Circuit, Well… may not possibly Okay.
+Du Ya Ping, 1 hours 14 minutes 4 seconds, For… but sometimes you may also…
+Du Ya Ping, 1 hours 14 minutes 7 seconds, sees the small size bus step for the submain circuit, okay? And because, those circuit.
+Du Ya Ping, 1 hours 14 minutes 15 seconds, Circuits carry the larger current.
+Du Ya Ping, 1 hours 14 minutes 18 seconds, Okay? And for final main circuit, final circuit, usually the current is very small, so we use, okay, single core PVC cable.
+Du Ya Ping, 1 hours 14 minutes 31 seconds, So you can see there is clear.
+Du Ya Ping, 1 hours 14 minutes 34 seconds, cut off boundary, right? For large current circuit, we may use the XLP cable.
+Du Ya Ping, 1 hours 14 minutes 40 seconds, either single core or multi-core and the bus start. But for final circuit.
+Du Ya Ping, 1 hours 14 minutes 46 seconds, Final main circuit, we use PVC cable.
+Du Ya Ping, 1 hours 14 minutes 54 seconds, So, you can see, this is the final main circuit.
+Du Ya Ping, 1 hours 15 minutes 1 seconds, Okay.
+Du Ya Ping, 1 hours 15 minutes 30 seconds, So you can see, those final circuit, and then this is called the final main circuit, and all those circuits made by the PVC.
+Du Ya Ping, 1 hours 15 minutes 38 seconds, Single copy BCK, okay?
+Du Ya Ping, 1 hours 15 minutes 41 seconds, So, that is the normal practice, okay.
+Du Ya Ping, 1 hours 15 minutes 49 seconds, And, installation method, okay? The first one shows the type of cable we select, okay? And this one is just some kind of guideline for
+Du Ya Ping, 1 hours 16 minutes 0 seconds, installation method, okay? So if you use the single-core cables, you have to provide mechanical protection.
+Du Ya Ping, 1 hours 16 minutes 7 seconds, Yeah, because cable itself is very fridgeable, okay?
+Du Ya Ping, 1 hours 16 minutes 12 seconds, So, you have to provide the protection. You can use the cable tray, trunking, conduit. The conduit normally for final circuit for small size, trunking or cable tray can be used for the large size cable.
+Du Ya Ping, 1 hours 16 minutes 28 seconds, And for multi-core cable, you can direct clip on the surface, or you can put on the tray.
+Du Ya Ping, 1 hours 16 minutes 35 seconds, Okay.
+Du Ya Ping, 1 hours 16 minutes 38 seconds, Alright, so this is the,
+Du Ya Ping, 1 hours 16 minutes 40 seconds, Some kind of… the guideline for, Installation.
+Du Ya Ping, 1 hours 16 minutes 48 seconds, Master selection, okay?
+Du Ya Ping, 1 hours 16 minutes 50 seconds, And this table just,
+Du Ya Ping, 1 hours 16 minutes 54 seconds, Make a very simple comparison for different type of cable and the different installation method. Regarding the advantage or disadvantage.
+Du Ya Ping, 1 hours 17 minutes 7 seconds, And a single core cable normally installed within the enclosure.
+Du Ya Ping, 1 hours 17 minutes 13 seconds, Okay, such as the conduit and the chanking, okay? And if we put the cable inside the chanking and conduit, okay, the current capacity will be reduced.
+Du Ya Ping, 1 hours 17 minutes 24 seconds, Okay, will be smaller, okay? So, that could be a disadvantage, but, okay, it provides a mechanical, good mechanical protection, okay?
+Du Ya Ping, 1 hours 17 minutes 34 seconds, So it would…
+Du Ya Ping, 1 hours 17 minutes 35 seconds, will not be easily damaged, okay, you know, by a certain, you know, external force, okay? And unarmored cable.
+Du Ya Ping, 1 hours 17 minutes 45 seconds, It's not recommended, okay? We do not recommend NRMA, okay? Because ARMA is the way for protection. NRMA, okay, that means there's no protection provided, okay?
+Du Ya Ping, 1 hours 17 minutes 59 seconds, And ALMA Cable is also… this is a possible selection, and this is a possible selection, okay?
+Du Ya Ping, 1 hours 18 minutes 5 seconds, And
+Du Ya Ping, 1 hours 18 minutes 10 seconds, You… my table normally is very heavy.
+Du Ya Ping, 1 hours 18 minutes 14 seconds, Okay? Because the metallic wires provided, okay? So, you need to have a very rigid, okay, supporting structure, okay?
+Du Ya Ping, 1 hours 18 minutes 25 seconds, Well, again, it is good for protection, mechanical protection.
+Du Ya Ping, 1 hours 18 minutes 32 seconds, And, of course, it's good for fire withstand, because the enclosure, the armor, okay?
+Du Ya Ping, 1 hours 18 minutes 40 seconds, It's a layer which can be used for, provide certain degree of protection against the fire, okay? And the bus…
+Du Ya Ping, 1 hours 18 minutes 50 seconds, Bar or the bus stop, okay?
+Du Ya Ping, 1 hours 18 minutes 53 seconds, Well, normally used for
+Du Ya Ping, 1 hours 18 minutes 58 seconds, Large current, okay, circuit, and normally in the, in the meter room, okay, in the switch room, okay, but you cannot find that one in, you know,
+Du Ya Ping, 1 hours 19 minutes 9 seconds, for the… Final Circuit, okay, because…
+Du Ya Ping, 1 hours 19 minutes 13 seconds, It's relatively expensive, okay, compared with the cable, yeah.
+Du Ya Ping, 1 hours 19 minutes 22 seconds, Alright, okay, I think that's all, the thing I want to talk today, okay?
+Du Ya Ping, 1 hours 19 minutes 30 seconds, We still have some time left. So if you have any questions regarding the tutorial things, you can.
+Du Ya Ping, 1 hours 19 minutes 37 seconds, Come over here and have a discussion.
+Du Ya Ping, 1 hours 19 minutes 40 seconds, Alright, so that's all for lecture today, okay? Oh, by the way, okay.
+Du Ya Ping, 1 hours 19 minutes 47 seconds, the homework assignment in the original teaching skin, there's an assignment number one. So I removed that assignment, okay, you will not have any assignment. Actually, I combined one and two, assignment one and two together, so that will be
+Du Ya Ping, 1 hours 20 minutes 1 seconds, release, okay? It will be issued, later, okay? Not today, okay? So you only have one homework assignment, not two, okay? It's a combined one, okay? Right? Okay.

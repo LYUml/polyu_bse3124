@@ -1,0 +1,146 @@
+Recording 1
+Title: L1 - Introduction
+Date: 2026-09-01
+Source: https://polyu.zoom.us/rec/play/ICx8ShUL1kEPm5ZyD9z5negPR--OjFjOOS7OqBferL9kyKwghzu8O4kUOzd7p_EYc1ZGD_tPMkAVbxEn.WMvTF7mpQlRFm7Vd
+Automatic Zoom transcript; recognition errors retained.
+
+Du Ya Ping, 2 minutes 45 seconds, Right?
+Du Ya Ping, 2 minutes 47 seconds, But when you got me go?
+Du Ya Ping, 2 minutes 51 seconds, This is the modules.
+Du Ya Ping, 3 minutes 9 seconds, You, Sanjo, you as a student, Anna, good chat.
+Du Ya Ping, 3 minutes 19 seconds, We're… we're as students.
+Du Ya Ping, 3 minutes 21 seconds, We're fine, yeah.
+Du Ya Ping, 3 minutes 31 seconds, real fine yet.
+Du Ya Ping, 3 minutes 36 seconds, No, she doesn't coming here
+Du Ya Ping, 3 minutes 42 seconds, Hey, nigga… nigga, Samuel, Sammy, Samuel.
+Du Ya Ping, 3 minutes 48 seconds, Thanks to each other.
+Du Ya Ping, 3 minutes 49 seconds, Be aware of.
+Du Ya Ping, 3 minutes 52 seconds, Oh.
+Du Ya Ping, 3 minutes 54 seconds, Was it all, was there any problems sending a joster?
+Du Ya Ping, 4 minutes 1 seconds, What's a new student have MIFA here?
+Du Ya Ping, 4 minutes 19 seconds, module, modules, they will, some of those Zoom meetings… Dead.
+Du Ya Ping, 4 minutes 29 seconds, No, she hasn't.
+Du Ya Ping, 4 minutes 47 seconds, Finally else.
+Du Ya Ping, 4 minutes 55 seconds, The publisher is the student view, will you take a look at it?
+Du Ya Ping, 5 minutes 0 seconds, Was it… Still a really comfortable.
+Du Ya Ping, 5 minutes 5 seconds, No, you would expect.
+Du Ya Ping, 5 minutes 13 seconds, Yes, I think, don't any published.
+Du Ya Ping, 5 minutes 17 seconds, Well, none of this.
+Du Ya Ping, 5 minutes 21 seconds, Oh.
+Du Ya Ping, 5 minutes 23 seconds, Oh.
+Du Ya Ping, 5 minutes 32 seconds, But I'm finally learning offs.
+Du Ya Ping, 5 minutes 41 seconds, I'm crazy.
+Du Ya Ping, 5 minutes 47 seconds, True.
+Du Ya Ping, 5 minutes 54 seconds, module, module.
+Du Ya Ping, 6 minutes 39 seconds, Ya mas va.
+Du Ya Ping, 6 minutes 54 seconds, Let's swing that.
+Du Ya Ping, 6 minutes 56 seconds, It's together.
+Du Ya Ping, 7 minutes 1 seconds, Being tangent to someone's album.
+Du Ya Ping, 7 minutes 5 seconds, We'll just study, man.
+Du Ya Ping, 7 minutes 28 seconds, Goodbye, Hollywood.
+Du Ya Ping, 7 minutes 47 seconds, mobile time.
+Du Ya Ping, 7 minutes 49 seconds, Yes, sir.
+Du Ya Ping, 8 minutes 1 seconds, Okay.
+Du Ya Ping, 8 minutes 3 seconds, Big attention.
+Du Ya Ping, 8 minutes 9 seconds, Again, Ms.
+Du Ya Ping, 8 minutes 11 seconds, Was she the… See?
+Du Ya Ping, 8 minutes 17 seconds, Or maybe an alternative is for that.
+Du Ya Ping, 8 minutes 23 seconds, I don't know why one nigga recording you may hear them.
+Du Ya Ping, 8 minutes 32 seconds, Welcome to the other.
+Du Ya Ping, 8 minutes 50 seconds, We have been.
+Du Ya Ping, 8 minutes 57 seconds, All right, okay, I don't have… I don't know the solution, okay? The system's very slow, okay, so busy, okay, this is the first day, okay? I think the thing's not going to smooth, okay? And, I'll figure out later, okay, so we…
+Du Ya Ping, 9 minutes 13 seconds, Certainly we, we… Ua can… you can…
+Du Ya Ping, 9 minutes 17 seconds, see the, the, all the, the notes, okay, later. I'll figure out, later, after the lecture, okay? So, the, the, the things, okay, are…
+Du Ya Ping, 9 minutes 28 seconds, Before the break, I would say I will talk about the schematic, because
+Du Ya Ping, 9 minutes 32 seconds, the system is stuck there, okay, so I cannot download this schematic, okay? But I will use…
+Du Ya Ping, 9 minutes 41 seconds, The schematic, okay, given here.
+Du Ya Ping, 9 minutes 47 seconds, This schematic, schematic.
+Du Ya Ping, 9 minutes 53 seconds, All right, okay, so we… we look at this one. First, I give you an overview, okay, about this schematic, okay? So, what you see here…
+Du Ya Ping, 10 minutes 3 seconds, You know, If I,
+Du Ya Ping, 10 minutes 9 seconds, before the break, right, we talked about the supply system, right? And, the supply…
+Du Ya Ping, 10 minutes 15 seconds, provide… the power company provides underground 11KV cable to the building, and that cable connect to the transformer, right? And the transformer will step down the voltage.
+Du Ya Ping, 10 minutes 29 seconds, From 11 kV to 300…
+Du Ya Ping, 10 minutes 34 seconds, 88 volts. This is a 3-phase voltage, and 208 volts, okay, single-phase, voltage, okay? And in the schematic diagram, you can see
+Du Ya Ping, 10 minutes 46 seconds, The stuff symbol here, Two circles.
+Du Ya Ping, 10 minutes 50 seconds, So those two circles represent the transformer.
+Du Ya Ping, 10 minutes 54 seconds, transform, okay? So, this is the high voltage side, which is not given in the schematic, because the schematic normally is for the electrical installation in the building, so we are not responsible for any high voltage
+Du Ya Ping, 11 minutes 10 seconds, circuit, okay? So the… the HV side…
+Du Ya Ping, 11 minutes 13 seconds, is not given in the schematic, okay? And the ALV side, okay, the… this ALV side, it is connected
+Du Ya Ping, 11 minutes 23 seconds, the switchball.
+Du Ya Ping, 11 minutes 25 seconds, switchable, okay? So the whole thing here… It's called a switchball.
+Du Ya Ping, 11 minutes 31 seconds, Yeah, so we talked about switchboard a little bit later, okay? So, after switchboard, you have outgoing circuit, and two different
+Du Ya Ping, 11 minutes 41 seconds, users, or different tenants, okay, by using, those cables, or whatever, cables, the bus bars, or bus stop, okay? And then.
+Du Ya Ping, 11 minutes 52 seconds, we have the loads, okay? So here.
+Du Ya Ping, 11 minutes 56 seconds, We should, loads, only should lifts, okay? But, of course, we have some other loads, okay? Lighting, small power, air conditioning equipment, okay, etc, okay? And, but in this diagram, we call this the main schematic.
+Du Ya Ping, 12 minutes 15 seconds, the loads normally is not given, okay? The information of the load is not given, okay? We only show the major circuit, okay, the LV switch for
+Du Ya Ping, 12 minutes 26 seconds, outgoing circuits, but for, there's another one, okay?
+Du Ya Ping, 12 minutes 32 seconds, schematic, okay? We call that MCB schematic, and that schematic normally shows the detail for that.
+Du Ya Ping, 12 minutes 39 seconds, Final circuit, and for the loads, yeah, for loads.
+Du Ya Ping, 12 minutes 44 seconds, Alright, so let's talk about transformer and the switchball. So we go back to…
+Du Ya Ping, 13 minutes 1 seconds, this diagram, okay? So you can see, this is the transformer role.
+Du Ya Ping, 13 minutes 10 seconds, Okay, and this is the switchball, and the… this loom, okay, we call the switch…
+Du Ya Ping, 13 minutes 17 seconds, room, switch room, okay? So you have the transform room, and then switch room. Normally, they…
+Du Ya Ping, 13 minutes 24 seconds, next to each other, okay? You do have a transformer and a switch room. You have to provide another long kind of switch room. So, the transformer is connected to the switchboard here, switchboard, okay? And, the layout, okay.
+Du Ya Ping, 13 minutes 45 seconds, for the transformer room.
+Du Ya Ping, 13 minutes 47 seconds, Okay? And the switch room. Okay, so this drawing provided by the power companies.
+Du Ya Ping, 13 minutes 54 seconds, Okay, because we know the transformer is provided by a company, so the transformer loans actually
+Du Ya Ping, 14 minutes 2 seconds, It's owned by the power company, okay? So, because we are not…
+Du Ya Ping, 14 minutes 8 seconds, to not use anything inside this transformer. And the way…
+Du Ya Ping, 14 minutes 15 seconds, handle is the thing, okay, in the switch room. This is the switch room, okay, switch room. So, in the transformer room, you can see, this is the one, the location, okay, for HV switchboard.
+Du Ya Ping, 14 minutes 31 seconds, HVC is 11 kVC, okay? And this one here.
+Du Ya Ping, 14 minutes 37 seconds, is the transformer. So this is the single transformer loan. And also, we have the layout for two transformers, three transformers, and those kind of layouts are normally provided by Power Company, okay?
+Du Ya Ping, 14 minutes 52 seconds, And, this is the…
+Du Ya Ping, 14 minutes 54 seconds, switchboard, and then the… the connection, the conductors we provide, for the connection of the transformer to the switchboard, okay? So the switch, okay? And, we know that
+Du Ya Ping, 15 minutes 10 seconds, 11kv cable underground, right? 11kv coming to the switch, the transformer. So, you can see this is called a cable trench.
+Du Ya Ping, 15 minutes 22 seconds, So, cable trench means… Since he, like.
+Du Ya Ping, 15 minutes 45 seconds, So this is the, the broad level.
+Du Ya Ping, 15 minutes 48 seconds, Okay? And this part of the trench is the space, okay?
+Du Ya Ping, 15 minutes 53 seconds, Which he used to… Post.
+Du Ya Ping, 15 minutes 57 seconds, All the tables. We haven't been… Lovely.
+Du Ya Ping, 16 minutes 2 seconds, This is about the… So we call this a, cable trench. So it's the…
+Du Ya Ping, 16 minutes 10 seconds, the space, okay, for accommodating the cables, okay? And this is the cover, this is the cover, bedroom cover.
+Du Ya Ping, 16 minutes 19 seconds, So, this is the cable trench, the,
+Du Ya Ping, 16 minutes 35 seconds, This is the outside building, yeah. So, underground cable coming into the…
+Du Ya Ping, 16 minutes 43 seconds, Switch, transformer, and then you'll see this one.
+Du Ya Ping, 16 minutes 50 seconds, cover, you know, within these two sort… the salt line here, this area, again, is the trench, and the ground trench. So the 11 KV cable go into the switchboard.
+Du Ya Ping, 17 minutes 5 seconds, 11KB switchboard here, and then through the switchboard, there's outgoing 11KB cable, go to the transformer.
+Du Ya Ping, 17 minutes 15 seconds, Here, HEV side, connected to the HEV side trench, okay? And this is the trench, again.
+Du Ya Ping, 17 minutes 21 seconds, Okay? The cable can be used for the connection.
+Du Ya Ping, 17 minutes 27 seconds, To the switchboard here, yeah, so the cable would run again.
+Du Ya Ping, 17 minutes 32 seconds, But here, the cables is 380…
+Du Ya Ping, 17 minutes 36 seconds, volt cable. This is 11 cable, cables.
+Du Ya Ping, 17 minutes 45 seconds, And we have photo for the… Transformer Lord.
+Du Ya Ping, 17 minutes 54 seconds, So this is the transformer, okay, it's…
+Du Ya Ping, 17 minutes 59 seconds, different from the previous, okay? So the incoming cable, this is the 11KB cable, because this is the transformer.
+Du Ya Ping, 18 minutes 9 seconds, on the up floor, yeah, so here we do not use the cable in trench, and the edge of cable comes from, somewhere outside the transformer. Overhead. So this is the…
+Du Ya Ping, 18 minutes 23 seconds, Incoming cable, 11KV cable. Yeah, this is actually quite a sweet spot.
+Du Ya Ping, 18 minutes 31 seconds, 11 feet.
+Du Ya Ping, 18 minutes 36 seconds, So you have, one, cable coming in.
+Du Ya Ping, 18 minutes 40 seconds, to the transformer at the HV side, and then you see a bunch of cables here. Those are the LV cables.
+Du Ya Ping, 18 minutes 51 seconds, So, those are single core.
+Du Ya Ping, 18 minutes 56 seconds, 300.
+Du Ya Ping, 19 minutes 0 seconds, So, we know these three-phase, transformers, so we have, line 1,
+Du Ya Ping, 19 minutes 8 seconds, 92, 93, and then neutral. Or traditionally, we call this a red face, yellow face, blue face, and then neutral. Okay, so for each face.
+Du Ya Ping, 19 minutes 21 seconds, We have 3 single-core cables. So, you see here, we have 3, 3 single-core cables, and this is for neutral.
+Du Ya Ping, 19 minutes 33 seconds, or neutral. And then we see, 9 cables here, and then 3 for each phase, for L1, L2, L3. All together, we have 12…
+Du Ya Ping, 19 minutes 45 seconds, Single column.
+Du Ya Ping, 19 minutes 46 seconds, So those… Cables for the connection
+Du Ya Ping, 19 minutes 51 seconds, between transformer and the switchboard. The switchboard is located…
+Du Ya Ping, 19 minutes 57 seconds, In the switch room, next to the transformer.
+Du Ya Ping, 20 minutes 1 seconds, So, you can see the cable, those cables go.
+Du Ya Ping, 20 minutes 5 seconds, on this one. This is called a tray, Madden Troy.
+Du Ya Ping, 20 minutes 13 seconds, I hope so true.
+Du Ya Ping, 20 minutes 15 seconds, So, go to the… On the MetaTrade, they go to the switch… switch…
+Du Ya Ping, 20 minutes 33 seconds, So here, the switch room. So, switch room here, you got the switchboard. You may have a single switchboard, you have multiple switchboards, in the building, okay? So here.
+Du Ya Ping, 20 minutes 45 seconds, We have a photo for the switch room.
+Du Ya Ping, 20 minutes 50 seconds, So this is a switch view.
+Du Ya Ping, 20 minutes 53 seconds, So you may have multiple switchboards like this, okay? And one part of the switchboard is connected to the
+Du Ya Ping, 21 minutes 2 seconds, transformers by using the cables. So the cable, this is the decimal, under, one trench here, but this is the one
+Du Ya Ping, 21 minutes 13 seconds, for the connection to the transformer. So the cables…
+Du Ya Ping, 21 minutes 17 seconds, coming from the trench, and then go to… from the bottom, go to the… into the switchboard wheel, okay? And then there's some other parts, okay?
+Du Ya Ping, 21 minutes 28 seconds, For the connection to the outgoing circuit.
+Du Ya Ping, 21 minutes 32 seconds, Oh, Greece, yeah?
+Du Ya Ping, 21 minutes 34 seconds, And there's one thing you can see here.
+Du Ya Ping, 21 minutes 37 seconds, the red color. So, if you see sensing with the red color, and this is the one for the fire service
+Du Ya Ping, 21 minutes 46 seconds, circuit for the fire service, and it is for the fire service
+Du Ya Ping, 21 minutes 52 seconds, switchboard. So if you see sensing red, that means for the SPY service.

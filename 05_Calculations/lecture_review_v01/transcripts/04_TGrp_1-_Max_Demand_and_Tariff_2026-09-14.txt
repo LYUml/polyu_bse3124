@@ -1,0 +1,304 @@
+Recording 4
+Title: T(Grp 1)- Max. Demand and Tariff
+Date: 2026-09-14
+Source: https://polyu.zoom.us/rec/play/Hg1C009AevU8EFZoKYoKd9XjZWK21IET7Sv70FF5QTpZg5fuQdIOew-OfEvCUW3IYWOOTKJIudvhZWSz.khJIHTYG4sybowrT
+Automatic Zoom transcript; recognition errors retained.
+
+Du Ya Ping, 1 minutes 19 seconds, Maybe we just wait for a few minutes? I don't know how many students we have.
+Du Ya Ping, 3 minutes 25 seconds, All right, okay, let's start it, okay? Well, this… in this tutorial, we are going to talk about, two types of calculation, okay? One is the, demand estimation, the other one is the tariff calculation, okay? So let's talk about the demand calculation.
+Du Ya Ping, 3 minutes 43 seconds, And, basically, we have two different approaches used for demand.
+Du Ya Ping, 3 minutes 49 seconds, you call calculation or estimation, okay? We call… one is the, diversity approach, another one is called a density, approach. So here, we're talking about the, diversity, approach, okay? So basically, we have two,
+Du Ya Ping, 4 minutes 7 seconds, a different kind of formula can be used, okay? One is called the demand factor, okay, Demand factor. The other one is called a diversity factor, okay? And the demand factor normally is used to determine the maximum demand if the connected load is given.
+Du Ya Ping, 4 minutes 25 seconds, So, what ConnectLoad is, basically, it is the data, you know, available for a…
+Du Ya Ping, 4 minutes 33 seconds, particular, equipment, okay, which means that, not data on the nameplate, okay? So, if the connect load is available, then we use
+Du Ya Ping, 4 minutes 46 seconds, the concept, demand factor to determine the maximum demand. And, if the
+Du Ya Ping, 4 minutes 53 seconds, that one is not variable, but that diversity is variable, then we use this approach to determine the maximum demand, okay? So if you look at this schematic, we normally, start
+Du Ya Ping, 5 minutes 9 seconds, Okay? From the end of the circuit, the final circuit, we…
+Du Ya Ping, 5 minutes 14 seconds, Given by the connect load, and then we can find the maximum demand for each circuit. And at this point, we call distribution point, and then we apply diversity factor, because in this case.
+Du Ya Ping, 5 minutes 29 seconds, The maximum demands given, not the…
+Du Ya Ping, 5 minutes 32 seconds, connect load, okay, is given, okay? So we apply the diversity effect to determine the maximum demand in the incoming circuit, and then you move further.
+Du Ya Ping, 5 minutes 44 seconds, you know, to… towards the source, and then you have another distribution point here, and then you have addition… a different diversity factor, and applied
+Du Ya Ping, 5 minutes 55 seconds, their concept, and then you can determine the maximum demand for this incoming circuit. And then finally, you can find other
+Du Ya Ping, 6 minutes 4 seconds, Maximum demand for
+Du Ya Ping, 6 minutes 6 seconds, the main circuit, okay, which means the one for all the electrical installation, okay? So, basically, this approach we are going to talk about, okay?
+Du Ya Ping, 6 minutes 19 seconds, So now let's look at the question.
+Du Ya Ping, 6 minutes 25 seconds, This is a question, okay. So,
+Du Ya Ping, 6 minutes 29 seconds, The first question is about the demand calculation. The other two, basically.
+Du Ya Ping, 6 minutes 33 seconds, are related to the tariff calculation, okay? So, here we just consider, a small shop, okay? And, we…
+Du Ya Ping, 6 minutes 44 seconds, Now, this is the single-phase supply for this, small shop, okay? And, this shop has the following,
+Du Ya Ping, 6 minutes 52 seconds, loads connected, and we are given by the information here for each type of loads, and then based on that, when we can find out the thing we call the connector load for that
+Du Ya Ping, 7 minutes 5 seconds, kind of, loads, okay? So this connector load, okay? And what we want to…
+Du Ya Ping, 7 minutes 12 seconds, do is to find out the maximum demand for this shop, okay, by using, some factors, okay? Because the connect load is given, we'll use the demand factor, and actually, here in the COP, we call this the
+Du Ya Ping, 7 minutes 30 seconds, diversity for allow… allowance for diversity, okay? So this is the…
+Du Ya Ping, 7 minutes 48 seconds, Okay, this is the table we're going to use, okay? It's called a COP Allowance for Diversity. So basically, this is a demand factor, okay?
+Du Ya Ping, 7 minutes 59 seconds, And this is a table which tells us the value of the allowance, okay, for different types of loads and the different situations. So we have 3 different
+Du Ya Ping, 8 minutes 10 seconds, Scenario. The first one is called a… Residential,
+Du Ya Ping, 8 minutes 20 seconds, residential flat, and the second one is a small shop, the third one is a small, hotels, okay? So we are now from the question where we know this is a small shop, so we use…
+Du Ya Ping, 8 minutes 33 seconds, you know, the figures in, this load, okay? And we know here, here's the list of the type of loads, okay? You have
+Du Ya Ping, 8 minutes 43 seconds, lighting, heating device, cooking, AC unit, water heater, AC unit, and the socket outlets, etc. So, we will use the figures in this table to determine the maximum demand for
+Du Ya Ping, 9 minutes 0 seconds, each type of loads, because this… we have different types of loads. Based on this table, we can find out the maximum amount for that type of loads, okay?
+Du Ya Ping, 9 minutes 12 seconds, So for the lighting, okay, this is the value, okay, allowance, and for socket outlet, and you can see, the, the, the thing's slightly different. It says, okay, 100%, or let's look at certain amp socket outlet.
+Du Ya Ping, 9 minutes 27 seconds, 100% of the current demand of the largest circuit, plus 50% of the current demand for
+Du Ya Ping, 9 minutes 35 seconds, other circuits, yeah. So this will figure 100%, and this 50% are the kind of allowance, okay, for diversity, okay?
+Du Ya Ping, 9 minutes 46 seconds, Alright, so let's go back the question.
+Du Ya Ping, 9 minutes 51 seconds, Okay, so we have an air conditioner, okay, one single one, and a cooking appliances, we got two.
+Du Ya Ping, 9 minutes 58 seconds, And the wall heater, we call it, again, two units. Lighting fixture, we combine all the lumia together in this case, okay? So we know the connect load, okay? This is the connect load, okay? And, socket outlets, okay, so we have five different type of lobes, okay? So.
+Du Ya Ping, 10 minutes 38 seconds, So, this… this is the schematic, for MCB bar, okay, MCB bar. So, all the circuits protected by the MCB, okay, we have, the one called the AC unit, okay, the second one's cooking appliances.
+Du Ya Ping, 10 minutes 55 seconds, The third one is the water heater.
+Du Ya Ping, 10 minutes 59 seconds, And then, lighting…
+Du Ya Ping, 11 minutes 4 seconds, And, sock outlets.
+Du Ya Ping, 11 minutes 6 seconds, Okay? So here, some of, them, okay, may have several,
+Du Ya Ping, 11 minutes 14 seconds, circuit. For example, for the AC…
+Du Ya Ping, 11 minutes 19 seconds, For… for… for socket outlets. So here, we got the four… this kind of socket outlets, okay? But here, because for the purpose of…
+Du Ya Ping, 11 minutes 29 seconds, Calculation, low estimation, we…
+Du Ya Ping, 11 minutes 32 seconds, combine those together, okay? But physically, we got the four number of circuits, because here, we just want to know the demand, okay?
+Du Ya Ping, 11 minutes 42 seconds, Alright, so what we need to do is find out the maximum demand for each type of circuit.
+Du Ya Ping, 11 minutes 47 seconds, And then find the maximum demand for incoming circuit. Okay, so maximum demand here.
+Du Ya Ping, 11 minutes 55 seconds, and the maximum demand for each outgoing circuit. So this is the… the…
+Du Ya Ping, 12 minutes 1 seconds, The thing we wanted to do, okay? Okay.
+Du Ya Ping, 12 minutes 4 seconds, Alright, so now let's go to the solution, okay?
+Du Ya Ping, 12 minutes 8 seconds, So, because the calculation is very straightforward, so I put the table here, which summarizes the result, okay? And the approach, or the formula for calculation. Because here, everything here
+Du Ya Ping, 12 minutes 21 seconds, given in MPACE, so we need to find out the
+Du Ya Ping, 12 minutes 26 seconds, connect load in the unit of AMP based on the, you know, data we are given. So.
+Du Ya Ping, 12 minutes 33 seconds, Most of them are given by the… the power, kilowatts, so we need to convert the…
+Du Ya Ping, 12 minutes 40 seconds, kilowatts to the current, okay? And, because this is the single-phase circuit, the current
+Du Ya Ping, 12 minutes 51 seconds, I is equal to P divided by… because the single-phase circuit, 220 volts.
+Du Ya Ping, 12 minutes 59 seconds, and a power factor. So this is a formula, okay, for the calculation. This is a single-phase circuit.
+Du Ya Ping, 13 minutes 7 seconds, All right? And, later, you may see a CHUI phase distribution block, and then you may see the surface load. Of course, in this case, we only consider single phase, okay? So if it's CHUI phase, okay.
+Du Ya Ping, 13 minutes 21 seconds, The power… the current is equal to input power
+Du Ya Ping, 13 minutes 26 seconds, divided by load square 3, 380 volts, and the power factor. So this is a 3-phase circuit, or three-phase load. Yeah, three-phase low, okay? And sometimes, okay, you may know the load.
+Du Ya Ping, 13 minutes 42 seconds, is the motor.
+Du Ya Ping, 13 minutes 44 seconds, Okay, so the motor, normally power for the motor
+Du Ya Ping, 13 minutes 50 seconds, is output power. So basically, in case the motor, normally power available is the output power. So… but here, it's input power. When we say output power, it means the motor
+Du Ya Ping, 14 minutes 2 seconds, The power provided by motor.
+Du Ya Ping, 14 minutes 4 seconds, at the mechanical side, normally the motor is used to drive the fan, or whatever, okay? So, that power is the mechanical power. But in our calculation, we need to use the input power. So.
+Du Ya Ping, 14 minutes 16 seconds, output power… is equal to input power divided by the efficiency. So here, if we use output power.
+Du Ya Ping, 14 minutes 27 seconds, Apart from, those two squared 3, 380 volts power factor, you also need to divide by efficiency.
+Du Ya Ping, 14 minutes 35 seconds, Ada, yeah. Efficiency, okay? Alright, so those are the formulas, basic formulas.
+Du Ya Ping, 14 minutes 41 seconds, we use, okay, through the semester, okay? Okay, so you need to know, okay, that… those formulas, okay, to… for the calculation of the current, okay? Of course, in… in this question, we only need to use this formula, because this is a single-phase circuit, okay?
+Du Ya Ping, 14 minutes 57 seconds, Alright, okay, so now let's look at the air conditioning.
+Du Ya Ping, 15 minutes 1 seconds, air conditioners, okay? So, find… first thought to find out the connect load in the unit of MB. So you use this one. So here, the power is 10 kilowatts, and the power factor is 0.8, which is given, okay? So.
+Du Ya Ping, 15 minutes 19 seconds, You can find all the current, okay.
+Du Ya Ping, 15 minutes 22 seconds, It's 56.8, okay? So if you want to use that formula for the calculation, this is 10 kilowatts divided by those, I'm sorry, 220 volts, okay, and the power factor is 0.8, and the current is 56.
+Du Ya Ping, 15 minutes 42 seconds, 0.8 amp, okay? So this is a connect load for air conditioning, okay? And then we need to look at the allowance for diversity, right? So we need to look at the table.
+Du Ya Ping, 15 minutes 56 seconds, here, air conditioner. This is air conditioner. And this is the figures, okay, for allowance. 100% for the current largest
+Du Ya Ping, 16 minutes 9 seconds, Point of utilization, 70%.
+Du Ya Ping, 16 minutes 12 seconds, 75% for the others, because here we just have a single unit, so we just… you pick up figure, 100%, that's all, okay? So that's why we have 100%. And this is the maximum demand for the lighting, for the AC circuit.
+Du Ya Ping, 16 minutes 32 seconds, So this is the maximum demand for that circuit, okay?
+Du Ya Ping, 16 minutes 37 seconds, And then we look at the, the second one, okay, here's water heaters. We have, let's see, water heater.
+Du Ya Ping, 16 minutes 45 seconds, water heater, we have, two… unions.
+Du Ya Ping, 16 minutes 50 seconds, They have identical
+Du Ya Ping, 16 minutes 53 seconds, reading, okay? So, for the connect load of each unit, we still use that formula, but the…
+Du Ya Ping, 17 minutes 2 seconds, heater normally is made by the resistor. Resistive
+Du Ya Ping, 17 minutes 6 seconds, component. So the power factor for heater.
+Du Ya Ping, 17 minutes 10 seconds, definitely is equal to 1, okay? So, you put the 1.0 here, and this is 6 kilowatts and 220 volts, and the current here is
+Du Ya Ping, 17 minutes 22 seconds, 27.3.
+Du Ya Ping, 17 minutes 24 seconds, 27.3, okay?
+Du Ya Ping, 17 minutes 37 seconds, Okay, then we need to look at the allowance, okay, this water heater is here.
+Du Ya Ping, 17 minutes 42 seconds, It's called instantaneous type. Instantaneous type, that means it uses the electricity, so it's a resistive low, okay? So, it is 100% of the largest one, and 1.5% again for the second largest one, then 25% for the others. So we got two.
+Du Ya Ping, 17 minutes 58 seconds, So all the figures alongside are equal to 100%.
+Du Ya Ping, 18 minutes 3 seconds, Yeah, so 100%, let's see, okay, 100% here. So this is the maximum demand, yeah, 27.3.
+Du Ya Ping, 18 minutes 15 seconds, Okay, for, for, yeah, for both, together, okay, for together, okay, yeah.
+Du Ya Ping, 18 minutes 25 seconds, Together, okay. And, then the cooking appliances, we have two units. So, again, the cooking appliances, okay, let's say, okay,
+Du Ya Ping, 18 minutes 36 seconds, power factor equal to 1.0 as well, okay? So, we use that formula again. You can find out the connect loads.
+Du Ya Ping, 18 minutes 44 seconds, But… The, the, the, the rating of,
+Du Ya Ping, 18 minutes 49 seconds, The power rating difference, so the connect loads…
+Du Ya Ping, 18 minutes 53 seconds, Okay, in the union of current will be different, okay? And then we need to figure out the allowance.
+Du Ya Ping, 19 minutes 1 seconds, For the appliance, cooking appliances, okay, number 3. 100% of the largest one, and
+Du Ya Ping, 19 minutes 9 seconds, 80% for the second largest to win.
+Du Ya Ping, 19 minutes 12 seconds, Okay, so here's a 100%,
+Du Ya Ping, 19 minutes 16 seconds, the largest one, and the 80% for the second largest one. So you can find the connect low current, you add it together, and then this is the maximum for that group
+Du Ya Ping, 19 minutes 28 seconds, of loads. 37.3.
+Du Ya Ping, 19 minutes 34 seconds, For cooking appliances together, two units together, yeah.
+Du Ya Ping, 19 minutes 39 seconds, Okay? And then, lighting, okay? Lighting, okay? So, for lighting, the power effect is 0.95.
+Du Ya Ping, 19 minutes 47 seconds, And again, you can find all the connect load in the unit of current is 19.1, and then the…
+Du Ya Ping, 19 minutes 57 seconds, Figure for allowance the lighting, the first one is the lighting. You see here is 90%.
+Du Ya Ping, 20 minutes 6 seconds, of the connect loads.
+Du Ya Ping, 20 minutes 9 seconds, So here, you have… 90%.
+Du Ya Ping, 20 minutes 14 seconds, Okay, so the maximum demand for a lighting circuit is 17.2.
+Du Ya Ping, 20 minutes 21 seconds, 70 Bonsai, okay?
+Du Ya Ping, 20 minutes 25 seconds, All right, and finally is a socket outlet, and then we have a four socket outlets, and each circuit has a rating of 20 amp. So let's go to the table here. All the socket outlet has a rating of 30… 13 amp, so we use…
+Du Ya Ping, 20 minutes 43 seconds, item 12 here, okay? And it is 100% of the largest one, and 50% for others.
+Du Ya Ping, 20 minutes 54 seconds, So 100% for the largest one, because they all have the same rating, 10-day AMP, okay? And the 50% for others. So overall here, 10-day plus 30 is 50.
+Du Ya Ping, 21 minutes 8 seconds, Everything, yeah.
+Du Ya Ping, 21 minutes 10 seconds, Now, okay, we can't see… We have…
+Du Ya Ping, 21 minutes 15 seconds, obtained maximum demand for individual, let's say, type of loads, okay? We have 5 different type of loads, okay?
+Du Ya Ping, 21 minutes 28 seconds, All right, and what we want to know, okay, is the maximum demand for incoming circuit. So, based on the formula, right, given the notes, maximum demand, okay, is equal to…
+Du Ya Ping, 21 minutes 44 seconds, submission of… individual.
+Du Ya Ping, 21 minutes 50 seconds, individual.
+Du Ya Ping, 21 minutes 53 seconds, Maximity amount.
+Du Ya Ping, 21 minutes 56 seconds, Okay, divided by the diversity factor.
+Du Ya Ping, 21 minutes 59 seconds, diversity effect, okay? So… If you add all together here.
+Du Ya Ping, 22 minutes 9 seconds, It tends to be 188.6 CMP.
+Du Ya Ping, 22 minutes 13 seconds, Okay? And then we need to consider diversity factor, okay? And then, since the diversity factor is not given in the question, and then you can assume, if it's not given, then you can
+Du Ya Ping, 22 minutes 27 seconds, put the number… reason the number here. So if it, let's say, have no idea about that, okay, you can pick up a 1.0.
+Du Ya Ping, 22 minutes 35 seconds, their figure.
+Du Ya Ping, 22 minutes 37 seconds, Okay, so normally, diversity factor should be greater than or equal to 1.0, okay? The practical value could be 1.2, 1.3, okay?
+Du Ya Ping, 22 minutes 47 seconds, Or something like that, okay? But if you have no idea, okay, about that, then you just pick up 1.0. But you cannot say it is equal to 0.9 or 0.8.
+Du Ya Ping, 22 minutes 57 seconds, Because that one should be greater than 1, 1 positive, okay?
+Du Ya Ping, 23 minutes 1 seconds, So in this case, we assume it is equal to 1.0, okay? Then we can tell the maximum demand is 188.6 MP.
+Du Ya Ping, 23 minutes 12 seconds, For the incoming circuit.
+Du Ya Ping, 23 minutes 14 seconds, For the incomesaki, okay? Yeah.
+Du Ya Ping, 23 minutes 18 seconds, Alright? And, the total connect… Low, okay?
+Du Ya Ping, 23 minutes 24 seconds, You just add all together, it is…
+Du Ya Ping, 23 minutes 27 seconds, equal to 224.1. So, this maximum demand is much, much less than that one. It's, almost like, 85%, 84% of the connected loan, okay? So, usually, we use this
+Du Ya Ping, 23 minutes 44 seconds, maximum demand to determine the… okay, here, the cable size. We do not use the 224, the connect load to determine the cable size. And here, we use this current to determine the cable size here, okay, the current here determines this cable size, but, we…
+Du Ya Ping, 24 minutes 4 seconds, Use the connect load.
+Du Ya Ping, 24 minutes 7 seconds, Full.
+Du Ya Ping, 24 minutes 8 seconds, That, the determination, or the cable size determination, okay?
+Du Ya Ping, 24 minutes 15 seconds, Alright, so this is the, question regarding the
+Du Ya Ping, 24 minutes 20 seconds, low estimation, and particularly, we talk about the calculation for a small shop, which basically is, and, and the user, okay, and the user, okay, all right, okay.
+Du Ya Ping, 24 minutes 33 seconds, So if you know the maximum demand for each circuit for a particular users, and then you can find out the distribution point, okay.
+Du Ya Ping, 24 minutes 44 seconds, At the up level, okay, the maximum demand, okay, for
+Du Ya Ping, 24 minutes 50 seconds, The… the distribution, but on the upper level, okay?
+Du Ya Ping, 24 minutes 57 seconds, All right, okay, and a quick question regarding this tutorial.
+Du Ya Ping, 25 minutes 0 seconds, Precious?
+Du Ya Ping, 25 minutes 5 seconds, Okay, and I think the calculation is relatively straightforward, okay? It's nothing special, okay? So if you just follow that procedure, I don't think you have any
+Du Ya Ping, 25 minutes 16 seconds, problem, but one thing I, may need to highlight here, this is the single, face…
+Du Ya Ping, 25 minutes 27 seconds, MCB ball, and if it's a three-phase MCB ball, then that means you have to look at the, the current, okay? If it's… this is the,
+Du Ya Ping, 25 minutes 38 seconds, total current. You need to divide this current by 3.
+Du Ya Ping, 25 minutes 43 seconds, Okay? Because you have three single-phase circuits, and one phase will share one set of the total current. So that is the, the point, okay, probably still, student, okay, we, we,
+Du Ya Ping, 25 minutes 59 seconds, We're not… we… we… we made the mistake, okay? Okay, they, they just, used this current to determine the capable size for the surface circuit. So,
+Du Ya Ping, 26 minutes 10 seconds, That is not the case. If a three-phase circuit, this one should be divided by 3, okay?
+Du Ya Ping, 26 minutes 17 seconds, All right, now let's look at the question two. This basically is a tariff calculation, okay? And, we know, basically the utility, charge the customer based on the
+Du Ya Ping, 26 minutes 35 seconds, power consumption, right? Energy consumption. But some, cases, they will charge the customer the demand, okay, for the demand, okay? This is special for, commercial, users, okay? So, here we have example.
+Du Ya Ping, 26 minutes 52 seconds, For the calculation, okay, use the, demand charge and the energy charge, okay? All right, okay, let's look at the question, okay, here. Overseas, factory is operating with a constant low, 2,500 KVA at the power factor 0.85,
+Du Ya Ping, 27 minutes 11 seconds, from 7 a.m. to 11 p.m. for 26 days in 30 days months. During the remaining hours of each working day, and for the whole day on Sunday, the load drops to a constant 100KV at the point 9.
+Du Ya Ping, 27 minutes 29 seconds, Okay, power factor. So let's look at the power consumption pattern during a day, okay, or over the months. So here we have two different patterns, okay, about power consumption. One is on working day, another is on…
+Du Ya Ping, 27 minutes 45 seconds, Sunday. Okay, we have four Sundays.
+Du Ya Ping, 27 minutes 49 seconds, And the 26 walking days, right, in a month, yeah.
+Du Ya Ping, 28 minutes 33 seconds, Right? Okay, so on working day, we know this is a low pattern, okay? From, 7 a.m. to 11 p.m, okay?
+Du Ya Ping, 28 minutes 44 seconds, this is among the KVA, perfect, and others, okay? 100,
+Du Ya Ping, 28 minutes 50 seconds, Kv… 100, KVA… yeah, KVA.
+Du Ya Ping, 28 minutes 55 seconds, And the power factor 9. And the way to call it this is, like, an on-pick period.
+Du Ya Ping, 29 minutes 3 seconds, as an off-peak period, yeah. So these are…
+Du Ya Ping, 29 minutes 7 seconds, Walking day, no, we have a 26 working day. And on Sunday, okay, we have 4th Sunday.
+Du Ya Ping, 29 minutes 21 seconds, On Sunday, the loading is constant.
+Du Ya Ping, 29 minutes 33 seconds, No matter peak period and off-peak period, okay? So this is a…
+Du Ya Ping, 29 minutes 38 seconds, on peak period, okay? But the load is constant, okay? So, those are the, you know, patterns, right? One for working day, one for Sunday, okay? And, let's see,
+Du Ya Ping, 29 minutes 51 seconds, what we're given, okay, what we need to do, okay? So, we want to, we know the target for electricity supply at 11 kV is the maximum demand, Demand charge, okay? Demand charge is $8 per kilowatt, okay?
+Du Ya Ping, 30 minutes 7 seconds, And, energy charge, kilowatt hour, okay, 9, 8 cents per unit. Peak period, okay, so this peak period, the… the rate is…
+Du Ya Ping, 30 minutes 19 seconds, Pawn zero…
+Du Ya Ping, 30 minutes 24 seconds, 8… per union And, off-pick is… 0.07… Okay? Per union.
+Du Ya Ping, 30 minutes 36 seconds, Okay, so any charge is, you know, diff… different, okay? Demand charge, okay, there's single demand charge, maximum demand, okay, no matter this on-peak period and the off-peak period, okay, the single one, okay?
+Du Ya Ping, 30 minutes 49 seconds, Alright, so, let's look at the, demand charge. So, we have to find the maximum demand, okay?
+Du Ya Ping, 31 minutes 0 seconds, Okay, so maximum demons, certainly…
+Du Ya Ping, 31 minutes 3 seconds, observe, okay, during the unpick period, and the demand charge based on kilowatts. So the P is equal to 2,500 kVA times the power factor 0.85. So the P is equal to
+Du Ya Ping, 31 minutes 22 seconds, Ya.
+Du Ya Ping, 31 minutes 23 seconds, Here.
+Du Ya Ping, 31 minutes 25 seconds, 22125.
+Du Ya Ping, 31 minutes 27 seconds, Here it was.
+Du Ya Ping, 31 minutes 30 seconds, So this is the, maximum demand, and the demand charge is equal to maximum demand times the rate, okay? So, here you can see 2125 times $8, so
+Du Ya Ping, 31 minutes 46 seconds, The charge here is $17,000, okay, dollars, okay, for, for the… Demand. Maximum demand, yeah.
+Du Ya Ping, 31 minutes 56 seconds, Alright, okay, so,
+Du Ya Ping, 32 minutes 0 seconds, Then we need to look at the energy charge, and the energy charge, we have, energy consumption during the peak period and the off-peak period, and because energy consumption on Sunday, Sunday, and the organ, they're different, so we need to calculate the energy consumption, okay, or charge.
+Du Ya Ping, 32 minutes 20 seconds, Walk-in day, and then the charge on Sunday, okay?
+Du Ya Ping, 32 minutes 28 seconds, Okay, so let's look at the, the charge, okay, on peak period first, okay? So we need to find out energy consumption.
+Du Ya Ping, 32 minutes 41 seconds, During the peak period on working day, energy consumption on peak period, on Sunday, okay? So, energy consumption.
+Du Ya Ping, 32 minutes 55 seconds, Okay.
+Du Ya Ping, 32 minutes 57 seconds, armpit is equal to this much power, okay, the power, which is this one, times the
+Du Ya Ping, 33 minutes 6 seconds, The duration on pay, which is 26.
+Du Ya Ping, 33 minutes 11 seconds, So… 2, 1, 2, 5 times 26.
+Du Ya Ping, 33 minutes 17 seconds, Oh, on, let's see, okay, 16, okay, sorry, 16. This is 16 hours.
+Du Ya Ping, 33 minutes 23 seconds, Okay, and we have 10 days, 6 walking days, so… Tin Day 6.
+Du Ya Ping, 33 minutes 31 seconds, So this is our modern energy consumption during peak period on a working day. And don't forget that we have the energy consumption
+Du Ya Ping, 33 minutes 42 seconds, on peak period on Sundays. So, on Sundays, it's equal to 100, okay, times… 0.9? Yeah.
+Du Ya Ping, 33 minutes 53 seconds, Tines, okay, 16 hours, again, this is, again, 16 hours.
+Du Ya Ping, 34 minutes 2 seconds, But there are only 4 days, 4 Sundays.
+Du Ya Ping, 34 minutes 6 seconds, So this is a faucet dance.
+Du Ya Ping, 34 minutes 8 seconds, So… Overall, okay, the power consumption, okay.
+Du Ya Ping, 34 minutes 13 seconds, I don't have that figure, okay? So you can find out of the… the power consumption… energy consumption, okay? And then, the charge…
+Du Ya Ping, 34 minutes 23 seconds, For peak period, it's equal to
+Du Ya Ping, 34 minutes 26 seconds, Oh, this is the energy consumption, okay, this is the energy consumption.
+Du Ya Ping, 34 minutes 39 seconds, kilowatt hour, okay. So, energy consumption, it is, equal to, this much, and, the charge equal to that one times the, rate, 0.08, and the, the, the cost is among, around, 7…
+Du Ya Ping, 34 minutes 56 seconds, 7 day1,000, okay, since yeah, around 7 day1,000. Okay, so this is the…
+Du Ya Ping, 35 minutes 1 seconds, Energy charge on peak period, and then we can find the energy charge, on off-peak period.
+Du Ya Ping, 35 minutes 12 seconds, So, energy consumption, off pic…
+Du Ya Ping, 35 minutes 19 seconds, Okay, it is equal to, again, 100 times 0.9, because for other hours, so 24 minus 60, okay, so, it is equal to 8,
+Du Ya Ping, 35 minutes 34 seconds, Okay, 24 minus 6, 8, and then how many days? Because no matter the walk-in day or Sunday, the energy consumption, power consumption, same, so it's just multiplied by 30. So, this is the…
+Du Ya Ping, 35 minutes 50 seconds, energy consumption, okay.
+Du Ya Ping, 35 minutes 56 seconds, Okay.
+Du Ya Ping, 35 minutes 58 seconds, So, then multiply by the rate, 7 cents.
+Du Ya Ping, 36 minutes 3 seconds, Per unit, and this is the amount of
+Du Ya Ping, 36 minutes 6 seconds, Charge, okay, which is, relatively small compared with this one, okay?
+Du Ya Ping, 36 minutes 13 seconds, Alright, then the overall charge, okay, you add all 3 items together, and this is the result, okay? It's about $89,000, okay,
+Du Ya Ping, 36 minutes 26 seconds, For the customer, okay? So this is the total charge, yeah.
+Du Ya Ping, 36 minutes 32 seconds, All right, and here we use the restructure consisting of the demand charge and the energy charge.
+Du Ya Ping, 36 minutes 40 seconds, And then we move to another structure, which is considered energy charge.
+Du Ya Ping, 36 minutes 46 seconds, So, in Part B, if the factory obtained the electricity at the 380V, Electricity, Beaut.
+Du Ya Ping, 36 minutes 58 seconds, It's calculated based on the…
+Du Ya Ping, 37 minutes 0 seconds, energy charge, and then the… the… the rate is 0.14, for each unit, okay? So then we can see,
+Du Ya Ping, 37 minutes 11 seconds, The difference, okay, the part A and the part B, using different structure, okay, supply at the 11 kV side and the 400… 300V side, okay?
+Du Ya Ping, 37 minutes 23 seconds, All right, so in this case, we don't need to worry about demand, we just find our total energy consumption, okay? So we add this one and that one together, so overall, it's about 900,
+Du Ya Ping, 37 minutes 39 seconds, and the 11,000, kilowatt hour, and then multiply by the rates, 0.14, dollar, okay, for each unit, and then the total cost for the B, okay, the bill, okay, is $127.
+Du Ya Ping, 37 minutes 57 seconds, thousands. And here, it's about 89,000. This is 127,000. So you can see the difference, okay? So that's why, okay, in some cases, the customer preferred to consider the high voltage supply instead of,
+Du Ya Ping, 38 minutes 15 seconds, LV supplier, okay? Okay, so that, that's the, the advantage. You can reduce the energy, the cost, electricity bill cost, okay?
+Du Ya Ping, 38 minutes 29 seconds, fall, fall, fall.
+Du Ya Ping, 38 minutes 31 seconds, For the installation care.
+Du Ya Ping, 38 minutes 35 seconds, All right, so this is the second, questions, okay? So we're talking about the different structures, okay, and, perform the calculation, right, to find out the cost, okay, for using the electricity, okay?
+Du Ya Ping, 38 minutes 56 seconds, Okay, then we move to question 3.
+Du Ya Ping, 39 minutes 3 seconds, In question 3, it's related to the Tariff calculation, okay? So, the energy audit shows the electricity power can be reduced by replacing the traditional, the pump motors with the new high-efficiency motors.
+Du Ya Ping, 39 minutes 22 seconds, And we want to find out the saving, okay?
+Du Ya Ping, 39 minutes 27 seconds, because of… Replacement of the…
+Du Ya Ping, 39 minutes 33 seconds, motor with the new high-efficiency motor, okay? So, we are given by the motor rating and the efficiency of those,
+Du Ya Ping, 39 minutes 45 seconds, Motus, okay?
+Du Ya Ping, 39 minutes 47 seconds, the… there are two, sets of condensing water pumps, and two sets of chill water pumps. That means there are four different motors, okay? And, condensing pump…
+Du Ya Ping, 40 minutes 0 seconds, driven by the motor, okay? 60…
+Du Ya Ping, 40 minutes 3 seconds, House power was efficient at 83, and the chitted water pump, okay, 75.
+Du Ya Ping, 40 minutes 11 seconds, horsepower with efficiency 83. And then we… if we use the efficiency, high efficiency, the efficiency, for new motor is 90% instead of 83, and, 90% again for 83, okay?
+Du Ya Ping, 40 minutes 27 seconds, So, the horsepower is the union, okay, using America, for the motor. So, one horsepower, as you can see here.
+Du Ya Ping, 40 minutes 38 seconds, It's equal to 746 watts, okay?
+Du Ya Ping, 40 minutes 47 seconds, So, we want to find out the saving, okay? So, in order to find our saving, we need to, find out
+Du Ya Ping, 40 minutes 55 seconds, the energy…
+Du Ya Ping, 40 minutes 57 seconds, the reduction of energy consumption by using the, new motor. So, we need to find out the energy consumption of the
+Du Ya Ping, 41 minutes 7 seconds, old motors, and then energy consumption of new motors, and then we can get the difference. And that's the, energy consumption reduction, and then multi-private cost that we can do the energy saving, okay?
+Du Ya Ping, 41 minutes 24 seconds, Alright, and because… As I said earlier, okay.
+Du Ya Ping, 41 minutes 30 seconds, If we have the motor, the power given normally is output power. So here, we are talking about the input power, electrical power, okay, so for motor.
+Du Ya Ping, 41 minutes 43 seconds, The output power is the mechanical power.
+Du Ya Ping, 41 minutes 49 seconds, Okay, and input power is electrical power.
+Du Ya Ping, 41 minutes 55 seconds, Okay, electrical power. So, of course, we are… we need to… because the… the power company charges the customer based on the electrical power, not the mechanical power, okay? So, the input power is equal to output power divided by the efficiency.
+Du Ya Ping, 42 minutes 14 seconds, So we know the efficiency, we know the output power, okay, and then we can find the input power. So you can see here.
+Du Ya Ping, 42 minutes 22 seconds, for, condensed… Water pump, okay, the power is 60 kilowatts.
+Du Ya Ping, 42 minutes 29 seconds, I'm sorry, 60 horsepower.
+Du Ya Ping, 42 minutes 32 seconds, Things… 746, it turns out that
+Du Ya Ping, 42 minutes 37 seconds, total input power or output power of the motor, and then divide by the efficiency, and then you can get the input power. And here you got the two units, so that's why you need to have a
+Du Ya Ping, 42 minutes 50 seconds, put the T here, okay? And for CHU water pumps, similarly, you know, you can get the
+Du Ya Ping, 42 minutes 59 seconds, Power consumption, power consumption, yeah.
+Du Ya Ping, 43 minutes 3 seconds, And if we use the new motor, that means the efficiency… the other thing are the same, only thing changed is the efficiency.
+Du Ya Ping, 43 minutes 10 seconds, efficiency, right? So you can see, if it is a high efficiency, the power consumption is reduced, right? This is 99% kilowatts, this is 107 kilowatts, and this is 124, and this is 134, okay? And then you can see the difference
+Du Ya Ping, 43 minutes 28 seconds, And that difference is for CHUI water pumps, and that difference is for
+Du Ya Ping, 43 minutes 33 seconds, This is for condensing water pump. This is for chiller water.
+Du Ya Ping, 43 minutes 38 seconds, pumps, okay? So, if you add it all together, there's a total power consumption, okay, caused by
+Du Ya Ping, 43 minutes 47 seconds, Running the new type of models, okay?
+Du Ya Ping, 43 minutes 53 seconds, All right, and then this is the, total power and the saving.
+Du Ya Ping, 43 minutes 59 seconds, So you need to do the energy… consumption, okay?
+Du Ya Ping, 44 minutes 4 seconds, it is equal to the total power, P, which is 18.6.888, times
+Du Ya Ping, 44 minutes 15 seconds, This kilowatts, if you're talking about energy, you have to multiply by the time, so you have a 24 hour for a day.
+Du Ya Ping, 44 minutes 23 seconds, And I said, 365 days a year.
+Du Ya Ping, 44 minutes 31 seconds, So that is the total energy
+Du Ya Ping, 44 minutes 34 seconds, Saving in a year, okay, in a year.
+Du Ya Ping, 44 minutes 38 seconds, Okay? Alright, and then multiply by the… rates, okay, 0.14,
+Du Ya Ping, 44 minutes 47 seconds, Okay, and then you can find out the cost saving, which is 23…
+Du Ya Ping, 44 minutes 54 seconds, $1,000, $23,000. So that's the annual saving, annual saving, okay? And in most cases, okay, this kind of calculation will be used in the so-called cost or life cycle analysis, okay?
+Du Ya Ping, 45 minutes 17 seconds, So that means, the replacement of the motors is cost
+Du Ya Ping, 45 minutes 25 seconds, justified or not, or cost-effective or not. So you may, compare the cost for the installation of the
+Du Ya Ping, 45 minutes 35 seconds, New motors.
+Du Ya Ping, 45 minutes 37 seconds, Okay, let's say, the total cost
+Du Ya Ping, 45 minutes 41 seconds, Okay, for replacement of those motors, okay, it's… 100,000.
+Du Ya Ping, 45 minutes 50 seconds, dollars.
+Du Ya Ping, 45 minutes 51 seconds, So that's the total cost, okay? And then, on the other end, you need to…
+Du Ya Ping, 45 minutes 56 seconds, find out the saving caused by using the new motors. So this is the saving.
+Du Ya Ping, 46 minutes 8 seconds, So, roughly, I just used roughly figure, okay? 23 thousandths, okay? And then, you can see if I want to recover the installation cost.
+Du Ya Ping, 46 minutes 20 seconds, So I need to run… Okay, those motors, at least 5 years.
+Du Ya Ping, 46 minutes 31 seconds, So that means… After 5 years.
+Du Ya Ping, 46 minutes 35 seconds, The saving will be greater than the initial cost.
+Du Ya Ping, 46 minutes 40 seconds, Which the cost is fully recovered.
+Du Ya Ping, 46 minutes 43 seconds, Recover, okay? And then, After that, the 6 years, 7 years, okay, then the…
+Du Ya Ping, 46 minutes 52 seconds, the… the saving is a true saving, okay? It's the… it's the… it's… it is the… the… the actual, cost you can save. So the… for the first years, okay, first five years, you need to… the… the saving will be used to recover the cost, okay? But after that, you got the…
+Du Ya Ping, 47 minutes 10 seconds, true savings, okay? And that is kind of the idea with something we call the life cycle analysis, which means, okay, where's the… the…
+Du Ya Ping, 47 minutes 21 seconds, the… the… the replacement, versus… Is it acceptable or not, okay, right? So, 5 years, Returned, okay.
+Du Ya Ping, 47 minutes 32 seconds, normally considered acceptable, okay? Sometimes maybe up to 6 years, 7 years, okay? Okay. It's also acceptable, okay?
+Du Ya Ping, 47 minutes 44 seconds, All right, okay, so I think that's all I want to talk, today, okay, about, this topic. Okay, we cover one,
+Du Ya Ping, 47 minutes 56 seconds, Demand calculation, and the other one is the tariff calculation, okay?
+Du Ya Ping, 48 minutes 3 seconds, And, we still have a few minutes left, so if you have a question, then you can raise right now, okay?
+Du Ya Ping, 48 minutes 13 seconds, If not, okay, probably we just dismiss the tutorial session, okay? Okay, so that's it.

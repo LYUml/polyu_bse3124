@@ -1,0 +1,298 @@
+Recording 16
+Title: T ( Grp A) - Fault Current Calculation
+Date: 2026-10-26
+Source: https://polyu.zoom.us/rec/play/gOXHoY3E90QBuEE7_nnHYbP8qkOKn8Ktm9BUTLfkFLYN8-Z9t5hOCrQTNJq3smldnewWbpWGvDSTBNt7.HJE6xbNlplmjDqB0
+Automatic Zoom transcript; recognition errors retained.
+
+Du Ya Ping, 3 minutes 45 seconds, Alright? Okay,
+Du Ya Ping, 3 minutes 48 seconds, Let's talk about the question related to the Fault Current Calculation, and we have two questions to…
+Du Ya Ping, 3 minutes 57 seconds, Talk about?
+Du Ya Ping, 3 minutes 59 seconds, And, let's… Moved to question.
+Du Ya Ping, 4 minutes 10 seconds, Yeah, okay.
+Du Ya Ping, 4 minutes 12 seconds, All right, so, we talk about the master Fault Calculation, okay? We have two kinds of faults,
+Du Ya Ping, 4 minutes 19 seconds, We call that… Chui Phase 4 and the Earth's 4, okay? Chui Phase 4.
+Du Ya Ping, 4 minutes 28 seconds, and the S4.
+Du Ya Ping, 4 minutes 34 seconds, So, two different kind of, force currents, okay, three-phase force, basically.
+Du Ya Ping, 4 minutes 43 seconds, contribute the largest fall current, and the S4 is considered the minimum 4 current, okay? And we have different kind of calculation methods, okay? So.
+Du Ya Ping, 4 minutes 53 seconds, Particularly, okay, the method for, determining the impedance.
+Du Ya Ping, 4 minutes 59 seconds, Okay, of, cables, etc. The, the, the method will be different, and we call it using the, this one is using I, COP table.
+Du Ya Ping, 5 minutes 14 seconds, Okay, and then this one, we use, called schedules.
+Du Ya Ping, 5 minutes 21 seconds, Schedules, okay. So, you don't mix, okay, don't be mixed, okay?
+Du Ya Ping, 5 minutes 27 seconds, By the, those two different tables, okay? So you have to choose the right one, for, for the calculation, okay? And the basic formula is the same, okay? The full current, okay, basically equal to
+Du Ya Ping, 5 minutes 40 seconds, 320 volts, okay, divided by the impedance, okay? And that impedance, okay, if it's a surface fault, we call it ZS, and this one we call the Earth Follow impedance.
+Du Ya Ping, 5 minutes 54 seconds, Okay, S for impedance, okay, can we call it ZS, okay, ZS, should be ZS, okay. So…
+Du Ya Ping, 6 minutes 1 seconds, And then this is called a Earth Fault Current, okay? So… The…
+Du Ya Ping, 6 minutes 7 seconds, the only thing different is the way you determine those, impedance, social impedance, okay? All right, so now let's look at the question, okay? The first question, we are given by, some information about.
+Du Ya Ping, 6 minutes 22 seconds, The supply and the switchboard and the outgoing circuit. So we can…
+Du Ya Ping, 6 minutes 30 seconds, Based on that one, we can draw the schematic, okay, diagram, okay? Then we can, know, what… how can we find out the, impedance here, okay? So, first of all, we have the HV…
+Du Ya Ping, 6 minutes 46 seconds, supply circuit, and then we are given by the Fault rating, okay? So, transformer…
+Du Ya Ping, 6 minutes 55 seconds, So, HV circuit normally, here.
+Du Ya Ping, 7 minutes 1 seconds, We… what we need, okay, is the Ford rating, or in other words, we use a short circuit capacity.
+Du Ya Ping, 7 minutes 11 seconds, So, basically, it is called a… 4 rating.
+Du Ya Ping, 7 minutes 18 seconds, For the same. So this one is equal to 350 MVA.
+Du Ya Ping, 7 minutes 23 seconds, MVA, okay? And then we have the transformer, the information about transformers given. Okay, this is 11 kV over 3080V, and the transformer rating is 1500 KVA.
+Du Ya Ping, 7 minutes 41 seconds, Okay? And, impedance is given the resistance, It's .0… 0.5%.
+Du Ya Ping, 7 minutes 49 seconds, And the total impedance is 6.5%, okay? So, that is the thing… information, okay, for transformer, and then we go to…
+Du Ya Ping, 8 minutes 7 seconds, LV switchboard and one outgoing circuit.
+Du Ya Ping, 8 minutes 10 seconds, And, we know the outgoing circuit is made by the Basta.
+Du Ya Ping, 8 minutes 22 seconds, Okay, and, impedance about the bus that is given, okay, so, the bus start…
+Du Ya Ping, 8 minutes 31 seconds, The resistance, okay, given is… 0.031 milli ohms per meter.
+Du Ya Ping, 8 minutes 40 seconds, And the reactants pasta… 0.115 minimum per meter, okay?
+Du Ya Ping, 8 minutes 49 seconds, All right, so, those are the things given, and we want to find the first one, okay? It's the 4 current.
+Du Ya Ping, 9 minutes 0 seconds, Okay, when you have a 4, 3-phase 4, okay, at the remote end, okay, both RMS value and the peak value, okay? And if you use,
+Du Ya Ping, 9 minutes 12 seconds, the formula here… That means the result will be the IMS value, so this is the IMS value.
+Du Ya Ping, 9 minutes 21 seconds, Okay? And the peak value… Is… can be calculated by…
+Du Ya Ping, 9 minutes 29 seconds, the formula, okay? Blue square 2,
+Du Ya Ping, 9 minutes 32 seconds, I… This IMS value times the K.
+Du Ya Ping, 9 minutes 38 seconds, And the K… Is the… It's determined by… this formula?
+Du Ya Ping, 9 minutes 48 seconds, Which Ori discussed, okay, during the lecture, okay?
+Du Ya Ping, 9 minutes 54 seconds, RSC over XSC, okay? So this is already given in the…
+Du Ya Ping, 10 minutes 8 seconds, Okay, so this is a K, okay, this is a K, okay, already, given the lecture notes. Okay, lecture notes, okay. All right, so, this is…
+Du Ya Ping, 10 minutes 20 seconds, 1 for peak value, this is a peak.
+Du Ya Ping, 10 minutes 23 seconds, this epic. So basically, we just use those,
+Du Ya Ping, 10 minutes 28 seconds, formulas, okay, for the calculation, okay? All right, and because we…
+Du Ya Ping, 10 minutes 36 seconds, Want to find the forefront at the remote end.
+Du Ya Ping, 10 minutes 39 seconds, Of the circuit, so that means we need to… when we…
+Du Ya Ping, 10 minutes 43 seconds, one final, we need to include all the impedance, okay, include the best start, okay, transformer, and the HV circuit. And because…
+Du Ya Ping, 10 minutes 55 seconds, The Fault is…
+Du Ya Ping, 10 minutes 57 seconds, far away from the main RV switchboard, because the lens here, this lens here is 240.
+Du Ya Ping, 11 minutes 4 seconds, meter. So, the switchboard impedance, such as circuit brake impedance and bus stop impedance within the switchboard.
+Du Ya Ping, 11 minutes 14 seconds, they are normally, negligated, okay? So we do not, do not need to consider, because the Fault is far away, and the impedance compared with that one, but that impedance is a little, very small, so we can ignore those, components, okay? So what we,
+Du Ya Ping, 11 minutes 33 seconds, Need to do is to… let's say, switch face.
+Du Ya Ping, 11 minutes 38 seconds, Okay. It's included, HV circuit.
+Du Ya Ping, 11 minutes 44 seconds, impudence, transformer impudence, and Buster impedience.
+Du Ya Ping, 11 minutes 50 seconds, So, 3 components.
+Du Ya Ping, 11 minutes 53 seconds, Okay, we need to consider, okay, in the calculation, okay? And for HV circuit impudence and transforming impudence, the result actually, the calculation actually already given in the lecture notes, okay?
+Du Ya Ping, 12 minutes 12 seconds, Alright, so, exactly the same, okay? You have the Fault rating, 350 MVA, okay? And,
+Du Ya Ping, 12 minutes 21 seconds, Voltage 11 over 380, so you can use data, okay, and got the result here. And for the transformer, okay, the resistance is 0.5%, and the total impedance is 6.5%, and then, you can use the results here.
+Du Ya Ping, 12 minutes 40 seconds, So basically, those two items… Already,
+Du Ya Ping, 12 minutes 46 seconds, you know, present, okay, in the lecture notes, okay, the calculation, okay? And the bus stop…
+Du Ya Ping, 12 minutes 56 seconds, It's eager to, the… the impedance value given here, multiplied by 240.
+Du Ya Ping, 13 minutes 7 seconds, Okay, so again, can be… Determined, okay.
+Du Ya Ping, 13 minutes 20 seconds, 240, and… because…
+Du Ya Ping, 13 minutes 23 seconds, This is a milliohm, so you have to change to the, ohm, divided by the 1000, okay?
+Du Ya Ping, 13 minutes 31 seconds, So you can get the unit as an ohm, okay? All right, and then everything given, and then you can, using this one, to find all the three-phase 4 current, okay? So the, the result…
+Du Ya Ping, 13 minutes 56 seconds, Okay, the detailed result is given here, and you can see, this is the formula we're just talking about, and the transforming impedance, the HV circuit impedance, and the BSD impedance is given here, okay?
+Du Ya Ping, 14 minutes 11 seconds, It's given here, okay? So, and they add all three components together, and then the Fault Current here is 6,000.
+Du Ya Ping, 14 minutes 22 seconds, The Fault Current.
+Du Ya Ping, 14 minutes 25 seconds, 6,000… 258.
+Du Ya Ping, 14 minutes 30 seconds, Kido, So this is the IMS value.
+Du Ya Ping, 14 minutes 35 seconds, I am Savannah, okay?
+Du Ya Ping, 14 minutes 37 seconds, Alright, okay, so, Oh…
+Du Ya Ping, 14 minutes 40 seconds, Well, that's basically the procedure, okay, for the calculation. And, here, we…
+Du Ya Ping, 14 minutes 49 seconds, Don't have any cables, okay? So we have an additional question, later,
+Du Ya Ping, 14 minutes 55 seconds, for the case when the cable is present, okay? So we'll talk about that one a little bit later, okay? Okay, so next item is the peak value. So peak value, we just use that formula because
+Du Ya Ping, 15 minutes 8 seconds, Totally, this is… Determined by the…
+Du Ya Ping, 15 minutes 13 seconds, IMS value, which is given here, and the resistant value, and the reactance value, which is given here. Okay, so you see, this is the resistant value.
+Du Ya Ping, 15 minutes 23 seconds, And this reactance value. So you can see here, the resistance value is 7.92, and the reactance value is
+Du Ya Ping, 15 minutes 31 seconds, 34.25, milliohm, okay? So you substitute all this in, this is the, status, IMS value, and then you can find the peak value.
+Du Ya Ping, 15 minutes 48 seconds, Okay, the peak value here is 13.287 kilohmp.
+Du Ya Ping, 15 minutes 54 seconds, Okay, so you can see this is the peak value.
+Du Ya Ping, 16 minutes 2 seconds, Okay, so the peak value, obviously, is, high, much higher than the, the IMS value, okay?
+Du Ya Ping, 16 minutes 13 seconds, All right, okay. So, that is the,
+Du Ya Ping, 16 minutes 19 seconds, answer, okay, for, for the first part of the question, okay? The steady state, current, and the, the Fall current, and the peak value of the fall current in the surface 4, in the surface 4, okay?
+Du Ya Ping, 16 minutes 36 seconds, All right, okay, now, we need to talk about the case. If the cable is connected, so, question in the part 3 here, we have additional, cable, okay, this,
+Du Ya Ping, 16 minutes 54 seconds, this A, and a B.
+Du Ya Ping, 16 minutes 57 seconds, We have, 400mm a square.
+Du Ya Ping, 17 minutes 3 seconds, 4Core.
+Du Ya Ping, 17 minutes 13 seconds, for PVC, XLP, XLP… She, steel white armor.
+Du Ya Ping, 17 minutes 20 seconds, PVC.
+Du Ya Ping, 17 minutes 22 seconds, Cable.
+Du Ya Ping, 17 minutes 24 seconds, So we have one cable connected, again, let's say the bus stop is replaced by these, cables, this cable, and we want to find, again, 3-phase 4 current when the 4 is
+Du Ya Ping, 17 minutes 37 seconds, at the end of this cable, okay? So, in this case, The Swift is 4 Current?
+Du Ya Ping, 17 minutes 47 seconds, is equal to…
+Du Ya Ping, 17 minutes 49 seconds, 200 volts divided by, HV circuit impedance, there's no change, right? And the transforming impedance, again, does not change. And, here, the buster impedance will be replaced by the cable impedance here.
+Du Ya Ping, 18 minutes 5 seconds, Okay, Wing to this again.
+Du Ya Ping, 18 minutes 7 seconds, Okay, so now we need to know how to find out this cable impedance.
+Du Ya Ping, 18 minutes 12 seconds, And remember the formula?
+Du Ya Ping, 18 minutes 18 seconds, And this formula, okay? So you can see, okay, first of all, you need to find the impedance from the table, COP table, and then you need to consider the temperature factor, okay? If it's a PVC, it's a 1.15, and if XIP cables, it's 1.25.
+Du Ya Ping, 18 minutes 36 seconds, And then divide the whole thing here by loose square 3, and then we…
+Du Ya Ping, 18 minutes 41 seconds, Basically, we want to change the line impedance from the COP table to the
+Du Ya Ping, 18 minutes 47 seconds, face impedance, okay? So, here, we know we are using XLP cable.
+Du Ya Ping, 18 minutes 54 seconds, Right? So the multiplying factor is 1.25.
+Du Ya Ping, 18 minutes 58 seconds, Okay, and then we need to find all the resistant value and the reactance value for this 400…
+Du Ya Ping, 19 minutes 6 seconds, multi-core cables, okay? So, here we have to go to the data table, okay? Find out the tables for, multi-core XLP steel-wide armor cable.
+Du Ya Ping, 19 minutes 27 seconds, Multicore, XLP insulator. This is a non-armor, so we move next one.
+Du Ya Ping, 19 minutes 33 seconds, Single core cable, this is not the right one.
+Du Ya Ping, 19 minutes 37 seconds, And a multi-core ARMA XLP incarcerated cable, so this is the one.
+Du Ya Ping, 19 minutes 44 seconds, So, we're not… here, we do not need to know the information about the current current capacity, but we need this impedance. We call the voltage drop per ampere per meter. So, this is the impedance, okay? And the cable size is 400…
+Du Ya Ping, 20 minutes 1 seconds, Okay, squared, and, we know this is a 4-core cable, so we have, had to use the data in column 4, and, here, for 400mm squared cable, the resistance value is 0.115, so this is 0.115.
+Du Ya Ping, 20 minutes 20 seconds, Right? And the reactance is 0.12.
+Du Ya Ping, 20 minutes 26 seconds, And then divide by loose square 3. And remember that the result is a milliohm, so you need to divide by
+Du Ya Ping, 20 minutes 35 seconds, They're 1,000, okay? So the result is a milli-ohm. Oh, the ohm, okay.
+Du Ya Ping, 20 minutes 48 seconds, Alright, so the cable impedance… Okay, it's, It's this one, okay? A3, 8.3 plus J,
+Du Ya Ping, 20 minutes 58 seconds, 6.64 milli ohm. Okay, so this is… 8.3… Press G.
+Du Ya Ping, 21 minutes 6 seconds, 6.64… Times… 10 to minus 3 ohm.
+Du Ya Ping, 21 minutes 14 seconds, Okay?
+Du Ya Ping, 21 minutes 15 seconds, All right, so, then we replace this one with the result here, and then you can find the,
+Du Ya Ping, 21 minutes 23 seconds, the current, okay, this is a 2L.
+Du Ya Ping, 21 minutes 28 seconds, 0.5 kiloAm.
+Du Ya Ping, 21 minutes 31 seconds, Okay, so, this is the, case if you have a cable, okay, in the circuit. So, for the cable, there's a little bit complicated, because you have to find the impedience in this way, okay? In this way, okay?
+Du Ya Ping, 21 minutes 52 seconds, All right, so this, is the case for CHUI phase 4, okay? And now we, need to consider Earth Fork Current Calculation, okay? And, basically, we use this one, okay? And when we,
+Du Ya Ping, 22 minutes 10 seconds, do the calculation, we know ZS… can be,
+Du Ya Ping, 22 minutes 17 seconds, divided into two parts, and we call ZE, Earth Fault root impedance, outside the electrical installation. We call it external to the electrical installation, okay, plus the impedance within the electrical,
+Du Ya Ping, 22 minutes 35 seconds, installation, okay? So… Question,
+Du Ya Ping, 22 minutes 39 seconds, part two, okay? Basically, it's the one for, the Earth for…
+Du Ya Ping, 22 minutes 49 seconds, current calculation in the final circuit, okay? So, 30, mid and long, 3-phase, 20 amp circuit.
+Du Ya Ping, 22 minutes 57 seconds, Protected by, fuse.
+Du Ya Ping, 23 minutes 0 seconds, Here, which connect the transformer, so we have the circuit.
+Du Ya Ping, 23 minutes 6 seconds, Okay. This circuit, okay. Circuit…
+Du Ya Ping, 23 minutes 11 seconds, has a length 30 meter, okay? And this circuit is made by 4 single-core cables, PVC cables. The size is, let's see, okay…
+Du Ya Ping, 23 minutes 23 seconds, sit, the circuit, okay, it's, 20 MP circuit.
+Du Ya Ping, 23 minutes 33 seconds, And the lens is 30 meters.
+Du Ya Ping, 23 minutes 36 seconds, And, the cables, okay, we have a four single-core Cable, okay, the size… 16mm… Cable.
+Du Ya Ping, 23 minutes 49 seconds, Okay.
+Du Ya Ping, 23 minutes 50 seconds, And, the cables installed in the… The mitochondrial?
+Du Ya Ping, 23 minutes 59 seconds, Oh, 4 AMM, okay. 4 AM, okay.
+Du Ya Ping, 24 minutes 2 seconds, in condu.
+Du Ya Ping, 24 minutes 8 seconds, And the corneal diameter is 16 millimeter.
+Du Ya Ping, 24 minutes 12 seconds, Okay, so this is the size, this is the cable size, the condo size, okay? And,
+Du Ya Ping, 24 minutes 19 seconds, We also know the Earth's Fault rule impedance external to the electrical insulation is given, which is 0.5 ohm.
+Du Ya Ping, 24 minutes 27 seconds, Okay?
+Du Ya Ping, 24 minutes 29 seconds, Alright, then we need to, find out
+Du Ya Ping, 24 minutes 33 seconds, the… the S4 Current, okay? What is the Earth-4 Current? So this is the Earth-4 Current.
+Du Ya Ping, 24 minutes 40 seconds, So this is the Earth for current, okay?
+Du Ya Ping, 24 minutes 48 seconds, Okay, and so actually, there's two different cases. We cannot… although we have the cable here, we cannot use this method for the calculation. We have to use the schedule.
+Du Ya Ping, 25 minutes 3 seconds, schedule to determine, the impedance, okay? So, the basic formula is the same, right? Okay, so S for current.
+Du Ya Ping, 25 minutes 15 seconds, is equal to 220 volts divided by ZE plus Z1 plus Z2.
+Du Ya Ping, 25 minutes 23 seconds, Okay? And ZE is given…
+Du Ya Ping, 25 minutes 25 seconds, by, the data here, and Z1 plus Z2 is the influence for the cable installation. So we have to…
+Du Ya Ping, 25 minutes 34 seconds, Find a schedule which can… tells us the impedance.
+Du Ya Ping, 25 minutes 41 seconds, for Condu, okay?
+Du Ya Ping, 25 minutes 43 seconds, For the circuit with a condo, okay.
+Du Ya Ping, 25 minutes 46 seconds, So…
+Du Ya Ping, 25 minutes 51 seconds, We go to the data table.
+Du Ya Ping, 25 minutes 53 seconds, We have a couple of schedules.
+Du Ya Ping, 25 minutes 59 seconds, So, the schedule, okay, this one, 3.8, no, single-phase income…
+Du Ya Ping, 26 minutes 8 seconds, In condo, so this is the one, okay? 2.8.
+Du Ya Ping, 26 minutes 13 seconds, B, okay? So this is the, impedance of, oh, sorry, not this one, 12, okay? So this is not this one.
+Du Ya Ping, 26 minutes 24 seconds, 2.12.
+Du Ya Ping, 26 minutes 29 seconds, 2.12, okay? So this is the impedance of carb conductors and the steel condu, okay? We have three subtles, and here we are using a heavy-grade condu, okay?
+Du Ya Ping, 26 minutes 42 seconds, HG.
+Du Ya Ping, 26 minutes 46 seconds, Have a great condo, okay? So, it's the middle one, this is the one, okay? And the cable, single-core cable, cable size is 4mm squared, so we have a 4mm squared here, 4mm squared, 4mm squared, okay? And,
+Du Ya Ping, 27 minutes 2 seconds, Condu size is 16mm, so this is the 16mm, so we have to…
+Du Ya Ping, 27 minutes 8 seconds, Look at the one here, so the combination 4mm squared and the 16, millimeter diameter. And this one…
+Du Ya Ping, 27 minutes 17 seconds, shows here, you can see this is the, impedance in… for the S4, C1 plus Z2, or R1 plus R2, here is 20.29… oh, no, sorry, this one.
+Du Ya Ping, 27 minutes 34 seconds, Here, 19.121, okay? So this is the impedance for the single core cable in the condo, okay?
+Du Ya Ping, 27 minutes 48 seconds, Okay, so, you know, 19 point…
+Du Ya Ping, 27 minutes 52 seconds, 1 to 1, and then multiply by the length. So this is the, well, actually, this one should be divided by 1000, okay?
+Du Ya Ping, 28 minutes 12 seconds, Du Z… S equal to, ZE plus ROMP.
+Du Ya Ping, 28 minutes 20 seconds, or Z1 plus Z2, it doesn't matter, okay? So this 0.1 ohm plus 19
+Du Ya Ping, 28 minutes 28 seconds, 1.121, this is a milliohm, multiply a certain meter divided by 1,000, so this one tends to be the ohm, so the result is 1.07 ohm, okay? All right, so there's a missing here, divided by 1,000, okay?
+Du Ya Ping, 28 minutes 45 seconds, Okay.
+Du Ya Ping, 28 minutes 46 seconds, So, anyway, okay, you can then, you can find out the 4 current, S4 currents.
+Du Ya Ping, 28 minutes 57 seconds, is equal to 220 volts divided by 1.07, and it's, you know, 205 MPs. Yeah, so…
+Du Ya Ping, 29 minutes 8 seconds, Here you can see, okay, the Earth's Fault Current, okay?
+Du Ya Ping, 29 minutes 19 seconds, Okay, it's very small, okay, very small, compared with the surface for current, okay? And, well, okay, so,
+Du Ya Ping, 29 minutes 30 seconds, And later, okay, when we're talking about the protection,
+Du Ya Ping, 29 minutes 36 seconds, where we know some kind of requirements, regarding the Earth Fault protection, and the one requirement, a particular requirement is the disconnection time and the Earth Fault. So that means under this Earth Fault Current, okay, that this connection time should be less than… in some cases, it could be 5 seconds.
+Du Ya Ping, 29 minutes 55 seconds, And some other cases, 0.4 seconds.
+Du Ya Ping, 29 minutes 58 seconds, Okay, so, we can, use this fork current to see whether those requirements are fulfilled or not, okay? So, if you go to the data table…
+Du Ya Ping, 30 minutes 16 seconds, Because this circuit protected by 20 amp fuse.
+Du Ya Ping, 30 minutes 27 seconds, Alright? 20 MP, so this is a 20MP.
+Du Ya Ping, 30 minutes 31 seconds, fuse curve turned the amp, right? Okay? And, the Fault Current is 200, right? 205, so 200, this is 100, 100, 200, somewhere here. So we can say…
+Du Ya Ping, 30 minutes 45 seconds, Well, of course, you cannot see any curve, okay, for the disconnection time, less than 0.1 seconds, but we can tell this curve will go further. And then, in this way, then means that all pulling time will be less than 5 seconds.
+Du Ya Ping, 31 minutes 2 seconds, Okay? So…
+Du Ya Ping, 31 minutes 13 seconds, So, we do not see any curve. This is a… Time, this is occurring.
+Du Ya Ping, 31 minutes 20 seconds, beyond, you know, this 0.1 second. But we can tell this one is supposed to be less than that one. So if you have a current, this is a 205 MP, and we can tell the operating time certainly is less than 0.1 second.
+Du Ya Ping, 31 minutes 38 seconds, Okay? Of course, here, the limit is… 0.4 seconds, or…
+Du Ya Ping, 31 minutes 47 seconds, 5 seconds, so definitely this one is less than, those limits, which means, okay, the…
+Du Ya Ping, 31 minutes 54 seconds, protection, against S4, okay, can be achieved.
+Du Ya Ping, 32 minutes 0 seconds, In this circuit, okay, in this circuit, okay. So, we were talking about the… those requirements, okay, tomorrow, okay, during the lecture, okay, and that time, I probably can have a, much better understanding about this, okay?
+Du Ya Ping, 32 minutes 17 seconds, Alright, so this is the…
+Du Ya Ping, 32 minutes 21 seconds, thing we want to talk about for question one, for question one, okay? And then we will talk about another thing in the concept, what we call the maximum Earth for Current, loop impedance, okay, later, okay? Yeah.
+Du Ya Ping, 32 minutes 38 seconds, Well, actually, I mentioned this one, okay?
+Du Ya Ping, 32 minutes 41 seconds, Maybe a sometime earlier, okay? But anyway, we'll talk about this one, again, later, okay?
+Du Ya Ping, 32 minutes 51 seconds, Okay, now let's talk about second question, okay,
+Du Ya Ping, 32 minutes 57 seconds, Okay? And actually, there's not much difference, okay? More or less the same, okay? Again, you have the LV switch bar, okay?
+Du Ya Ping, 33 minutes 11 seconds, You have the, LV switch bar here.
+Du Ya Ping, 33 minutes 18 seconds, And it connects to the transformer.
+Du Ya Ping, 33 minutes 20 seconds, And you have HV circuit, okay, very similar, okay, but some data parameter could be different, okay? So, HV circuit here…
+Du Ya Ping, 33 minutes 30 seconds, No change, okay.
+Du Ya Ping, 33 minutes 33 seconds, Fault level, or the short circuit capacity is 300mVA.
+Du Ya Ping, 33 minutes 38 seconds, And the transformer… Here, impedance changed a little bit.
+Du Ya Ping, 33 minutes 47 seconds, So, the system value, this is 1,000 again… Rating the same.
+Du Ya Ping, 33 minutes 57 seconds, But the impedance, a little bit different.
+Du Ya Ping, 34 minutes 0 seconds, He is poi… 015… Press G.
+Du Ya Ping, 34 minutes 7 seconds, 0.055.
+Du Ya Ping, 34 minutes 10 seconds, in percentage.
+Du Ya Ping, 34 minutes 12 seconds, In percentage, okay?
+Du Ya Ping, 34 minutes 14 seconds, And, the one diff… Significant difference is that, okay?
+Du Ya Ping, 34 minutes 23 seconds, We have the cable, okay, cables, single-core cables for the connection between
+Du Ya Ping, 34 minutes 30 seconds, Mayor LV switchboard and the transformer.
+Du Ya Ping, 34 minutes 33 seconds, And, in this case, okay, we have… 3 cables, Let's see…
+Du Ya Ping, 34 minutes 43 seconds, Connect together for each phase.
+Du Ya Ping, 34 minutes 47 seconds, For each phase, okay? So that… let's say this is for, L1, and for L2, L3, and the neutrals. So, probably have, 3 times 4,
+Du Ya Ping, 35 minutes 1 seconds, 12 single-core cables for the connection, okay? And we know the impedance
+Du Ya Ping, 35 minutes 9 seconds, For each cable, and the phase impedance, okay, for each cable, okay, is equal to…
+Du Ya Ping, 35 minutes 20 seconds, 0.04 plus J.08.
+Du Ya Ping, 35 minutes 26 seconds, merit-owned permita.
+Du Ya Ping, 35 minutes 28 seconds, Okay?
+Du Ya Ping, 35 minutes 29 seconds, Alright, but we have 3 cables for each face.
+Du Ya Ping, 35 minutes 35 seconds, So,
+Du Ya Ping, 35 minutes 37 seconds, the total impedance certainly is different from that one. So the cable impedance in this case, we do not need to use the COP table, because impedance values are already given, okay? It's already given, so we do not need to use that one. We just use this one, okay? And, because we have three
+Du Ya Ping, 35 minutes 57 seconds, cables connected in parallel, so total impedance is equal to, one cable impedance.
+Du Ya Ping, 36 minutes 6 seconds, Let's say this is for one table imputes. Divide by 3.
+Du Ya Ping, 36 minutes 11 seconds, Okay, so, this is the, the, the,
+Du Ya Ping, 36 minutes 17 seconds, basically, this is the conclusion we learned from some fundamental subject of electrical technology. So, if you have a two…
+Du Ya Ping, 36 minutes 27 seconds, impedance… Connect together.
+Du Ya Ping, 36 minutes 31 seconds, Have the same impedance, the total impedance, We'll be eager to…
+Du Ya Ping, 36 minutes 36 seconds, impedance for each component divided by the 2. If you have 3 connected, divided by 3,
+Du Ya Ping, 36 minutes 43 seconds, If you have N conductors or n components connected in parallel, and then it will be divided by the N, okay? So here, we just use this conclusion here, okay?
+Du Ya Ping, 36 minutes 56 seconds, Okay, we'll put a 3 here, right? So it is equal to 0.04 plus… 0.08 divided by 3.
+Du Ya Ping, 37 minutes 6 seconds, Okay, so the impedance
+Du Ya Ping, 37 minutes 16 seconds, It's given here, okay?
+Du Ya Ping, 37 minutes 19 seconds, By Wednesday, sweet.
+Du Ya Ping, 37 minutes 22 seconds, Prestige, boy.
+Du Ya Ping, 37 minutes 25 seconds, 2, 6, 7, milliohm.
+Du Ya Ping, 37 minutes 27 seconds, Okay, -
+Du Ya Ping, 37 minutes 29 seconds, You also need to multiply by the lens. Yeah, the lens.
+Du Ya Ping, 37 minutes 34 seconds, Tammy, though.
+Du Ya Ping, 37 minutes 36 seconds, Okay, so this is the… cable impedance, okay, for the transformer, okay? All right, and the question, actually.
+Du Ya Ping, 37 minutes 46 seconds, Is… is that, to find all the four…
+Du Ya Ping, 37 minutes 52 seconds, Okay? At the main LV switchboard, okay? So, in this case, okay, the Fault Current, we need to include
+Du Ya Ping, 38 minutes 2 seconds, We need to, need to include the components.
+Du Ya Ping, 38 minutes 6 seconds, Ngo the HV circuit.
+Du Ya Ping, 38 minutes 9 seconds, Transform And the cable.
+Du Ya Ping, 38 minutes 14 seconds, The impedience of what is cable.
+Du Ya Ping, 38 minutes 17 seconds, Okay, three components, okay? And is it HV…
+Du Ya Ping, 38 minutes 22 seconds, is the same, because the port rating is the same, so we can use the previous value, okay? And the transformer, although there's, we have different values, but you can use the same approach, for the calculation, so there's no much,
+Du Ya Ping, 38 minutes 39 seconds, difference, okay? Just use that formula, okay? And this one is given here.
+Du Ya Ping, 38 minutes 45 seconds, Okay.
+Du Ya Ping, 38 minutes 46 seconds, So, you… Substitute those values in the formula here, and then you can get the result.
+Du Ya Ping, 38 minutes 57 seconds, The Fault Current is 35.
+Du Ya Ping, 39 minutes 0 seconds, Point.
+Du Ya Ping, 39 minutes 1 seconds, 64 kiloamp.
+Du Ya Ping, 39 minutes 3 seconds, So that is the, Fault Current, okay? When you have a Fault in the LV main LV switch, switchboard, okay? RF, okay?
+Du Ya Ping, 39 minutes 14 seconds, Alright, so this current is…
+Du Ya Ping, 39 minutes 16 seconds, you know, compare with the result in the question when it's relatively large, okay? And,
+Du Ya Ping, 39 minutes 24 seconds, But it would… it is smaller than…
+Du Ya Ping, 39 minutes 29 seconds, This one's smaller than the maximum 4 current in the electrical installation, okay, in all the cases. So, 40 kilohmp is the
+Du Ya Ping, 39 minutes 40 seconds, for Current… Okay? A maximum Fall Current, okay?
+Du Ya Ping, 39 minutes 46 seconds, In the electrical installation, in the low voltage electrical installation, okay? So the current cannot be more than that one, okay? So, in our calculation, the result is 35.64, okay? And, we, note, okay.
+Du Ya Ping, 40 minutes 3 seconds, When we're talking about the four current
+Du Ya Ping, 40 minutes 11 seconds, The first slide, you can see here. We need to
+Du Ya Ping, 40 minutes 15 seconds, after the calculation, we need to determine the braking capacity of the circuit breaker, okay? So here, this figure, can be used to determine the max, the braking capacity of this circuit breaker here.
+Du Ya Ping, 40 minutes 30 seconds, Okay? So, the braking capacity should be greater than this maximum Fault Current, right? And, usually the braking capacity
+Du Ya Ping, 40 minutes 47 seconds, We choose, okay? For such case, it's 40 kilogram.
+Du Ya Ping, 40 minutes 51 seconds, 40km, okay? And you know, the maximum 44 current is 40 kilomp, and the braking capacity is supposed to be good enough for this 40 kilometers. So, based on that, when we can tell, okay.
+Du Ya Ping, 41 minutes 6 seconds, for the circuit breaker, main LOV, main LOV switchboard, for incoming circuit.
+Du Ya Ping, 41 minutes 13 seconds, Okay? It doesn't matter which building is located, the braking capacity… capacity of circuit braking should be at least 40 kilohmp.
+Du Ya Ping, 41 minutes 24 seconds, for the curriculum, okay? So, that's why, okay, if you look at the schematic.
+Du Ya Ping, 41 minutes 56 seconds, All right, so you see, this is a 1500 KVA trans… also a 1500 KVA transformer, and this is the main ROV switchboard, and those are the incoming circuit breaker.
+Du Ya Ping, 42 minutes 9 seconds, And, well, based on the calculation result, we can tell, in this case, the Fall Current could be up to 35.6 kilohmp.
+Du Ya Ping, 42 minutes 19 seconds, And, also we know, okay, no matter what kind of switchball, what buildings are they located, okay, the maximum Fault Current will not be greater than 40 kilohmpere, okay, for those circuit breakers. So we can…
+Du Ya Ping, 42 minutes 33 seconds, concur… without any detail calculation. The braking capacity for those circuit breakers, okay, should be at least 40 kilohms. Yeah, 40 kilometers. But 40 kilometers is considered to be, adequate, okay? And then for circuit break.
+Du Ya Ping, 42 minutes 52 seconds, Okay, here, outgoing.
+Du Ya Ping, 42 minutes 54 seconds, circuit breaker. The braking capacity, okay, could be…
+Du Ya Ping, 43 minutes 0 seconds, less than 30 kilometers, okay? If you consider the impedance, okay, for the circuit breaker and the bus pass, and then maybe you can choose 35 kilometers, okay? But you have to,
+Du Ya Ping, 43 minutes 18 seconds, do the calculation, okay, based on the calculation result to determine the braking capacity, okay? And definitely, the circuit breaker here.
+Du Ya Ping, 43 minutes 28 seconds, the braking capacity, okay, should be less than 40 kiloAmp. It's not necessary to use the
+Du Ya Ping, 43 minutes 39 seconds, circuit breaker with braking capacity of 40km, okay? So you have to do the calculation of the 4 current, okay, at this location, and to determine, the braking capacity of those circuit breakers, okay?
+Du Ya Ping, 43 minutes 54 seconds, Alright, okay, I think that's all.
+Du Ya Ping, 43 minutes 58 seconds, I want to talk about, okay, today, so we, talk about the calculation,
+Du Ya Ping, 44 minutes 5 seconds, for two different cases, okay, the Earth Fault and the surface force, and we, demonstrate, okay, we, need to use different,
+Du Ya Ping, 44 minutes 17 seconds, tables, okay, or, use COP tables for 3 Phase 4 Current Calculation and, schedules for Earth 4 Current Calculation, okay? So, those two different, totally are different, okay?
+Du Ya Ping, 44 minutes 35 seconds, Alright, okay, so… any questions?
+Du Ya Ping, 44 minutes 38 seconds, Regarding those, The calculation details.
+Du Ya Ping, 44 minutes 47 seconds, Okay, if no, so we just, dismissed the tutorial session today, okay?

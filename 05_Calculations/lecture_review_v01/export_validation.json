@@ -1,0 +1,146 @@
+[
+  {
+    "number": 1,
+    "file": "01_L1_Introduction_2026-09-01.txt",
+    "segments": 140,
+    "first_segment": "Du Ya Ping, 2 minutes 45 seconds, Right?",
+    "last_segment": "Du Ya Ping, 21 minutes 52 seconds, switchboard. So if you see sensing red, that means for the SPY service.",
+    "sha256": "35c4ff76891dcef1366536ad531abe166dd3a3c875b809269c999835074bd192"
+  },
+  {
+    "number": 2,
+    "file": "02_L2_-_Maximum_Demand_Tariff_2026-09-08.txt",
+    "segments": 557,
+    "first_segment": "Du Ya Ping, 0 hours 1 minutes 26 seconds, Alright? Okay.",
+    "last_segment": "Du Ya Ping, 1 hours 25 minutes 26 seconds, the charge… the energy charge, or demand charge, okay, calculation. So, that's all for the lecture today, okay?",
+    "sha256": "39a3dbe1e11911f745427e38ed7af963df38e0a8ddf7436bd35bfbcf4ba25214"
+  },
+  {
+    "number": 3,
+    "file": "03_TGrp_2_-_Max_Demand_nd_Tariff_2026-09-10.txt",
+    "segments": 320,
+    "first_segment": "Du Ya Ping, 0 minutes 26 seconds, Here, go ahead.",
+    "last_segment": "Du Ya Ping, 45 minutes 9 seconds, Oh, okay. If we not give it, okay, you can lose chances are very particular.",
+    "sha256": "024fbe806f57393557e45bbd10ffd117893599be85e7b92ceabb6ec996f55051"
+  },
+  {
+    "number": 4,
+    "file": "04_TGrp_1-_Max_Demand_and_Tariff_2026-09-14.txt",
+    "segments": 298,
+    "first_segment": "Du Ya Ping, 1 minutes 19 seconds, Maybe we just wait for a few minutes? I don't know how many students we have.",
+    "last_segment": "Du Ya Ping, 48 minutes 13 seconds, If not, okay, probably we just dismiss the tutorial session, okay? Okay, so that's it.",
+    "sha256": "358629f5fa4cb5a0009af177bebcdf2df10363a454613a2e1ad7a7ef0649b626"
+  },
+  {
+    "number": 5,
+    "file": "05_L3_-_Power_Factor_Correction_2026-09-15.txt",
+    "segments": 436,
+    "first_segment": "Du Ya Ping, 0 hours 0 minutes 19 seconds, Alright, Kate?",
+    "last_segment": "Du Ya Ping, 1 hours 5 minutes 17 seconds, Today, okay? So we, dismissed the lecture today, okay, if you don't have any, questions, okay? And then we do have a tutorial question, okay, in the following week for this topic, okay, for this one.",
+    "sha256": "ec0f470d312fb9181b8a7740cf9450b5ebc5dfbae02d40cbd932c087e79f6099"
+  },
+  {
+    "number": 6,
+    "file": "06_T_Grp_2_-_Power_Factor_Correction_2026-09-17.txt",
+    "segments": 307,
+    "first_segment": "Du Ya Ping, 0 minutes 31 seconds, Right, okay. All right, okay. We are going to talk about a question regarding the power Factor Correction. Actually, there are three questions.",
+    "last_segment": "Du Ya Ping, 45 minutes 56 seconds, for discussion. Okay, so that's all.",
+    "sha256": "736da580e3e9656a166910190fb14236c2e06c132ea191444b3ed381dfdc0897"
+  },
+  {
+    "number": 7,
+    "file": "07_T_Grp_A_-_Power_Factor_Correction_2026-09-21.txt",
+    "segments": 294,
+    "first_segment": "Du Ya Ping, 3 minutes 47 seconds, All right, okay, let's start it.",
+    "last_segment": "Du Ya Ping, 49 minutes 47 seconds, All right, okay, so that's it, for… for… for the tutorial session today, okay?",
+    "sha256": "51e4ef88b55db5ef2ffac0b070081a4c87c6791878ccef676ccc5da0bb03a685"
+  },
+  {
+    "number": 8,
+    "file": "08_L4_-_Cable_Sizing_2026-09-22.txt",
+    "segments": 686,
+    "first_segment": "Du Ya Ping, 0 hours 1 minutes 12 seconds, We know this is an electrical schematic, and we understand this is a major, output, okay, in our design, okay? So, what we need to do is just, you know, based on the information we have to,",
+    "last_segment": "Du Ya Ping, 1 hours 43 minutes 22 seconds, All right, okay, so that's it here for the lecture today.",
+    "sha256": "bded36d19ff41f1a7a876cedd152dbdc78065e089e163c453d0f9ad1266e898c"
+  },
+  {
+    "number": 9,
+    "file": "09_T_Grp_B_-_Cable_Sizing_2026-09-24.txt",
+    "segments": 303,
+    "first_segment": "Du Ya Ping, 0 minutes 28 seconds, Okay, all right, okay, now we are going to talk about…",
+    "last_segment": "Du Ya Ping, 46 minutes 21 seconds, Bye.",
+    "sha256": "ac15ba07e3f6afb3a2bd4bb645505edbfef299c932514d75769ff9a2d0bcac16"
+  },
+  {
+    "number": 10,
+    "file": "10_T_Grp_A_-_Cable_Sizing_2026-09-28.txt",
+    "segments": 319,
+    "first_segment": "Du Ya Ping, 2 minutes 9 seconds, We… we are going to talk about the question regarding the cable sizing, okay? And actually, this is the…",
+    "last_segment": "Du Ya Ping, 43 minutes 44 seconds, If no, okay, we just, dismiss lecture, tutorial session today, okay? All right? And, then we will continue the discussion, tomorrow, okay, about the Cable Sizing, okay? So, that's it.",
+    "sha256": "4caecba217bf2392be02ef65706c194e2a76a1b9dab1cf4ff2621f05396901d9"
+  },
+  {
+    "number": 11,
+    "file": "11_L5_-_Cable_Sizing_II_2026-09-29.txt",
+    "segments": 558,
+    "first_segment": "Du Ya Ping, 0 hours 2 minutes 25 seconds, Alright, okay, today we are going to…",
+    "last_segment": "Du Ya Ping, 1 hours 20 minutes 1 seconds, release, okay? It will be issued, later, okay? Not today, okay? So you only have one homework assignment, not two, okay? It's a combined one, okay? Right? Okay.",
+    "sha256": "9cc3150b29bebac9876a97baa2adcc8423bd4aae7e31cac67e670daea86370ce"
+  },
+  {
+    "number": 12,
+    "file": "12_T_Grp_B_-_Generator_Sizing_2026-10-08.txt",
+    "segments": 263,
+    "first_segment": "Du Ya Ping, 0 minutes 33 seconds, Talk about the question regarding the, general sizing, okay? And we have a couple of questions.",
+    "last_segment": "Du Ya Ping, 42 minutes 47 seconds, All right, okay, so I think it's almost the time, right? Okay, yeah. So, that's all the things I want to talk today, okay? So if you have any questions, got any questions, you can just come to here to talk to me, okay? All right, so that's it.",
+    "sha256": "b9d4bbc976a67421e7c1a50f24661ab6ef629e0abd5b929997d738f98e3ebab5"
+  },
+  {
+    "number": 13,
+    "file": "13_T_Grp_A_-_Generator_Sizing_2026-10-12.txt",
+    "segments": 305,
+    "first_segment": "Du Ya Ping, 0 minutes 47 seconds, Okay, all right, yeah.",
+    "last_segment": "Du Ya Ping, 45 minutes 34 seconds, know the schedule or the time, okay, such kind of information before, take, taking the test, okay? Alright, so that's it, okay?",
+    "sha256": "b6342888d57cc62a9bc2071eabaab85d0e6e3572bac365af50b84e5af6ca0ac5"
+  },
+  {
+    "number": 14,
+    "file": "14_L8_-_Fault_Current_Calculation_2026-10-20.txt",
+    "segments": 667,
+    "first_segment": "Du Ya Ping, 0 hours 0 minutes 39 seconds, Alright.",
+    "last_segment": "Du Ya Ping, 1 hours 36 minutes 41 seconds, All right, okay, so, that's it, okay, for today's lecture.",
+    "sha256": "fe9ef2169fa00b1cb2819241573ce56766383565208f41cdf81f8acd303ccecf"
+  },
+  {
+    "number": 15,
+    "file": "15_T_Grp_B_-_Fault_Current_Calculation_2026-10-22.txt",
+    "segments": 315,
+    "first_segment": "Du Ya Ping, 0 minutes 8 seconds, Kind of probable.",
+    "last_segment": "Du Ya Ping, 46 minutes 54 seconds, I was stupid.",
+    "sha256": "8bf5a400bd253a5a311aeade0d3643093cdd10081f040981cc1b8675da3a5958"
+  },
+  {
+    "number": 16,
+    "file": "16_T_Grp_A_-_Fault_Current_Calculation_2026-10-26.txt",
+    "segments": 292,
+    "first_segment": "Du Ya Ping, 3 minutes 45 seconds, Alright? Okay,",
+    "last_segment": "Du Ya Ping, 44 minutes 47 seconds, Okay, if no, so we just, dismissed the tutorial session today, okay?",
+    "sha256": "a574427d422bb25391c900d6abb9443711d25c374a509e443600139a8578b071"
+  },
+  {
+    "number": 17,
+    "file": "17_BSE3124_-_ELECTRICITY_AND_BUILDINGS_2026-10-27.txt",
+    "segments": 563,
+    "first_segment": "Du Ya Ping, 0 hours 1 minutes 40 seconds, Alright, hey,",
+    "last_segment": "Du Ya Ping, 1 hours 43 minutes 8 seconds, Our lecture today.",
+    "sha256": "533034381e1e0c62558a4e4cb2ce1fa1e759b656dceb881aaed34bab8d1750a0"
+  },
+  {
+    "number": 18,
+    "file": "18_BSE3124_Electricity_and_Buildings_2026-10-29.txt",
+    "segments": 298,
+    "first_segment": "Du Ya Ping, 1 minutes 9 seconds, Okay, we are going to talk about, two questions.",
+    "last_segment": "Du Ya Ping, 48 minutes 7 seconds, where we talk about the protective devices, okay, in detail, okay, during the next lecture next… next week, okay? Okay, so that's it.",
+    "sha256": "26c0aa1ca645aac5594a05f6a68aa485599ec1f6151ac7e2ed7de09a7323243a"
+  }
+]

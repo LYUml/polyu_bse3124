@@ -1,0 +1,309 @@
+Recording 9
+Title: T (Grp B) - Cable Sizing
+Date: 2026-09-24
+Source: https://polyu.zoom.us/rec/play/4cKrO5DskFn14uv2tr8SVKM_vu2NnHO5cjlHrNF22F5aqluyYq_D2oegLNLN6FmWJf78dhENwVaIhhY.Lro11oQyNnIrg6Zi
+Automatic Zoom transcript; recognition errors retained.
+
+Du Ya Ping, 0 minutes 28 seconds, Okay, all right, okay, now we are going to talk about…
+Du Ya Ping, 0 minutes 34 seconds, some question regarding the cable sizing, okay? So we, during the lecture, we, talk about the procedure for cable sizing, okay? So here, I'll just give you some kind of, summary about the procedure, okay?
+Du Ya Ping, 0 minutes 50 seconds, So, first thing we need to do is find out the design current.
+Du Ya Ping, 0 minutes 57 seconds, Okay? And then…
+Du Ya Ping, 1 minutes 1 seconds, we need to determine the protective device rating, RN, based on the design current, so we need to make sure the rating
+Du Ya Ping, 1 minutes 12 seconds, Of the device greater than the… Design current, okay?
+Du Ya Ping, 1 minutes 18 seconds, Then, based on that, the current rating, we need to determine something called the minimum current current capacity, IT,
+Du Ya Ping, 1 minutes 26 seconds, Okay, IT is equal to IM divided by CAGCI, okay? So those factors actually can be determined based on the site information, right? The ambient temperature.
+Du Ya Ping, 1 minutes 41 seconds, the grouping information and, whether there's a thermal, installation material or not, okay? So, we can use the tables.
+Du Ya Ping, 1 minutes 52 seconds, to find the values, okay? And, to get this sensing we call the minimum current current capacity, and then we go to the, the table, okay?
+Du Ya Ping, 2 minutes 5 seconds, the COP table to find out the table value, okay? So make sure this table value is greater than the minimum current carrying capacity, and then we can find the cross-section area.
+Du Ya Ping, 2 minutes 20 seconds, By using the, COP table, okay?
+Du Ya Ping, 2 minutes 31 seconds, All right? Okay. And, so we can get the size,
+Du Ya Ping, 2 minutes 37 seconds, Well, another thing we need to… also need to do is to check the voltage job, because we know we don't want to see a big voltage reduction, okay, caused by the… the cables. So, additional thing is to find other voltage drop.
+Du Ya Ping, 2 minutes 55 seconds, Okay? Make sure this one is less than the limit.
+Du Ya Ping, 2 minutes 59 seconds, So we have, limits, right? For…
+Du Ya Ping, 3 minutes 4 seconds, Subman circuit, a rising main circuit is 0.5, point, let's say 1.5, okay? And, this is 1.5%, and for final circuit, or feeder circuit, it's 2.5%, okay?
+Du Ya Ping, 3 minutes 18 seconds, So, until all the things, okay, here, the requirements are fulfilled, then we say, that is the result, okay?
+Du Ya Ping, 3 minutes 30 seconds, for the, cable sizing, okay? So,
+Du Ya Ping, 3 minutes 34 seconds, this is the general procedure. So, here we are going to apply the procedure, for certain, design calculation, okay? So, now, let's look at the, the first question, which is relatively easy, okay? A single-phase circuit made by two core 7-day
+Du Ya Ping, 3 minutes 53 seconds, degree PVC insulated armor cable. So, from here, you can see the type of cable we…
+Du Ya Ping, 4 minutes 1 seconds, are given, okay, so 2-core cable, okay, PVC, okay, you can, right, in this way, and the PVC…
+Du Ya Ping, 4 minutes 13 seconds, armor… Cable, okay?
+Du Ya Ping, 4 minutes 21 seconds, Okay, so this is the type of cables, we use, okay? And, we also know, okay, this is, the installation method cables on…
+Du Ya Ping, 4 minutes 31 seconds, On the non-metallical surface, on the surface, okay?
+Du Ya Ping, 4 minutes 37 seconds, On the surface. So this one tells us the mass of the installation, okay? The mass of the installation, okay? And the conductor is made by copper, okay?
+Du Ya Ping, 4 minutes 48 seconds, And the cross-section area is given, or in this case, we are not going to find out the cross-section area, so we want to, find the voter job. Okay, so actually, this is a question about the voter job, okay?
+Du Ya Ping, 5 minutes 2 seconds, Okay, so cross-section area is, 16mm square.
+Du Ya Ping, 5 minutes 9 seconds, Okay, and the design current is given, okay, IB is given, okay, 65 MP, okay, and the ambient temperature.
+Du Ya Ping, 5 minutes 21 seconds, 35 degree… Okay, and the power factor of the load is 0.7. Okay. And the cable length.
+Du Ya Ping, 5 minutes 32 seconds, Okay, the length here, again, is given, okay, so I'll put here, the length, okay, is equal to 18 meters.
+Du Ya Ping, 5 minutes 39 seconds, Okay. All right, so those are the things given, okay? And what we want to do is find out
+Du Ya Ping, 5 minutes 49 seconds, the voltage, job. So, this is the question as you relate to the final step, the final step, okay? So, well, it's very straightforward, okay? So, we know the formula for voltage drop.
+Du Ya Ping, 6 minutes 5 seconds, Okay, the voltage job, if you go back to the notes, it is equal to the voltageOb table value.
+Du Ya Ping, 6 minutes 14 seconds, Times the design current.
+Du Ya Ping, 6 minutes 16 seconds, Multiplied by the lens, okay, divided by the, voltage, because this is a two-core cable, so it's supposed to be a single-phase circuit.
+Du Ya Ping, 6 minutes 26 seconds, So, for a single-phase circuit, the volt is 2008 volts.
+Du Ya Ping, 6 minutes 32 seconds, So that… this is the formula. This is the formula, okay? So let's look at the results here.
+Du Ya Ping, 6 minutes 43 seconds, Okay.
+Du Ya Ping, 6 minutes 44 seconds, All right, okay, so, you know, design current is given, okay, this is,
+Du Ya Ping, 6 minutes 53 seconds, 65mp, and the lens is given…
+Du Ya Ping, 6 minutes 58 seconds, Right? Okay? And then what… what we need to do is find the, the table value for voltage of. So we are given by the type of cable.
+Du Ya Ping, 7 minutes 9 seconds, Okay, we can… and the cable size, then we can find the voltage job.
+Du Ya Ping, 7 minutes 14 seconds, the table value, okay? So, we go to the data table. So data table, includes all the, the tables, formulas that we need to use, for the design calculation. So let's find the table for, two core PVC armor cables, okay?
+Du Ya Ping, 7 minutes 33 seconds, 3 core PVCRM out Cable.
+Du Ya Ping, 7 minutes 37 seconds, Within geometry.
+Du Ya Ping, 7 minutes 42 seconds, Okay, you can suppose the multi-core PVC armor cable, okay? So this is a single-core, and this is a multi-core PVC, but, armor, okay?
+Du Ya Ping, 7 minutes 53 seconds, So, this is the one, okay?
+Du Ya Ping, 8 minutes 2 seconds, Alright, so this is a multi-core.
+Du Ya Ping, 8 minutes 4 seconds, PVC insulated cable, okay? So, here, we know that
+Du Ya Ping, 8 minutes 11 seconds, Cross-section areas, 16, so this is a 16mm, right? And we have many columns, 4 columns, so let's see which column we, need to use. So, first, this is the single-phase circuit.
+Du Ya Ping, 8 minutes 25 seconds, So, we have a 2-core cable here.
+Du Ya Ping, 8 minutes 28 seconds, Okay, a 3-core cable here, and a 3-core cable here. So what is difference? So this means the reference measure when, okay, clipped direct, and this means that the cables on the tray, okay, all in free air.
+Du Ya Ping, 8 minutes 42 seconds, So, we are… we know this on the surface, so that means this one, is not in free air, so it is this one, okay, this one, okay. So, we…
+Du Ya Ping, 8 minutes 54 seconds, look at the column 2, second column, okay? And, 16 millimeter, so it is, 18.9, okay, it's 89.9, okay?
+Du Ya Ping, 9 minutes 12 seconds, Oh, okay, I used the wrong, okay, table. Okay, this is the current kind capacity. The impedance is given here, the following one, okay?
+Du Ya Ping, 9 minutes 22 seconds, Okay, 2 core, okay? So, 16 millimeter, so impedance here is 2.8, 2.8, okay?
+Du Ya Ping, 9 minutes 31 seconds, So, here… you can see this single value, okay?
+Du Ya Ping, 9 minutes 39 seconds, So, this is a DC, and then this is the AC. So, AC, DC, there's no difference, okay? No difference. But for large…
+Du Ya Ping, 9 minutes 48 seconds, size cable, then you can see the difference, okay? For DC cable, that means no inductance, okay? Because frequency is zero, the reactance value
+Du Ya Ping, 10 minutes 1 seconds, is zero, right? So the reactance value is equal to omega L, right? So for the… in the DC case, omega is 0, so the reactance value is 0. So here, you just see the resistance, there's no reactant… no reactants. But for
+Du Ya Ping, 10 minutes 15 seconds, AC circuit, so you do have the resistance, reactance, and the total impedance, okay?
+Du Ya Ping, 10 minutes 22 seconds, So here, for this size, we only see single value, which means the reactance value is considered to be zero, very small. So we just use 2.8, 2.8, okay? So, 2.8, okay, 2.8, this is the current.
+Du Ya Ping, 10 minutes 42 seconds, And this is the length, and then 10 to minus 3, 10 to the power of minus 3, this is the conversion from milli ohm to ohm. So divide by 200 volts, so the percentage here is 1.4%.
+Du Ya Ping, 10 minutes 59 seconds, 1.45%, okay? So, so that, you know, this is a very simple question, and the things you need to know is, how to find the value, okay, impedance value, by using the table, okay? Table, okay? So this is the way, okay?
+Du Ya Ping, 11 minutes 19 seconds, All right, okay, so this question is very straightforward, okay, so I don't think that we have any…
+Du Ya Ping, 11 minutes 25 seconds, problem with that, okay?
+Du Ya Ping, 11 minutes 28 seconds, So let's move to the second one, okay?
+Du Ya Ping, 11 minutes 36 seconds, Okay, I think we are about to move to… we will talk this one.
+Du Ya Ping, 11 minutes 42 seconds, later, finally, okay? So let's talk about question 3, okay? Question 3, okay.
+Du Ya Ping, 11 minutes 54 seconds, So, question three, we have a 3-phase circuit, for a motor, the motor rating. So, this is a motor, okay?
+Du Ya Ping, 12 minutes 3 seconds, Moder.
+Du Ya Ping, 12 minutes 5 seconds, Rating.
+Du Ya Ping, 12 minutes 6 seconds, or the power. So this is the output power.
+Du Ya Ping, 12 minutes 10 seconds, 30, 20 rewards.
+Du Ya Ping, 12 minutes 14 seconds, And the power factor.
+Du Ya Ping, 12 minutes 17 seconds, 8…
+Du Ya Ping, 12 minutes 19 seconds, And the efficiency, 0.7, right? So this is information about load. And the motor is connected by a single-core PVC insulator cable, so we are using single-core PVC cable.
+Du Ya Ping, 12 minutes 37 seconds, So this three-phase circuit, okay? Three-phase.
+Du Ya Ping, 12 minutes 40 seconds, 3 face, okay, okay. And, the cables…
+Du Ya Ping, 12 minutes 46 seconds, Installed in Changing, so in Chenking.
+Du Ya Ping, 12 minutes 52 seconds, Ying, okay? And the length… is… 100 meter.
+Du Ya Ping, 13 minutes 1 seconds, 100 meter, okay?
+Du Ya Ping, 13 minutes 3 seconds, Ambient temperature.
+Du Ya Ping, 13 minutes 7 seconds, 35 degree.
+Du Ya Ping, 13 minutes 10 seconds, Okay?
+Du Ya Ping, 13 minutes 11 seconds, the circuit protected by MCB.
+Du Ya Ping, 13 minutes 15 seconds, Type.
+Du Ya Ping, 13 minutes 17 seconds, CMCB.
+Du Ya Ping, 13 minutes 20 seconds, Okay?
+Du Ya Ping, 13 minutes 21 seconds, And, we need, the minimum size, we need to find the minimum size, and the voltage odd limit is okay, we're doing the voltage yard limit.
+Du Ya Ping, 13 minutes 32 seconds, It's 2.5%.
+Du Ya Ping, 13 minutes 34 seconds, Okay, so those are the things given, and we want to find out The minimum cable size.
+Du Ya Ping, 13 minutes 48 seconds, Cable size. So we need to find out the minimum cable size, okay?
+Du Ya Ping, 13 minutes 52 seconds, Alright, so we just followed the procedure here, right? So, first of all, determining the design current, and then the rating of the MCB, okay, and then the minimum current current capacity, then the table value, then the…
+Du Ya Ping, 14 minutes 7 seconds, The size, then the voltage job, okay? So, we go… when by… when, okay?
+Du Ya Ping, 14 minutes 18 seconds, Okay. All right, so, the design current for this motor circuit is just a fuller current of the motor.
+Du Ya Ping, 14 minutes 25 seconds, Okay? So it's a full occurren.
+Du Ya Ping, 14 minutes 30 seconds, The design curve is just a fuller kernel.
+Du Ya Ping, 14 minutes 34 seconds, Of the motor, okay. And then the formula, I told you formula for the calculation of motor current is, was already, you know, discussed before, right, in the previous lecture. So it is equal to output power divided by efficiency.
+Du Ya Ping, 14 minutes 54 seconds, root square 3, LAM voltage, and the power factor. So this is the formula, right? Okay? So, you know, this is 20 kilowatts.
+Du Ya Ping, 15 minutes 3 seconds, And root squared 3, LAN voltage is 380, and the power factor and the efficiency, so the current here is 54.3 MP. So that is a… this is a design current.
+Du Ya Ping, 15 minutes 20 seconds, Okay?
+Du Ya Ping, 15 minutes 22 seconds, Alright, so we know the design current, then we can find the…
+Du Ya Ping, 15 minutes 27 seconds, rating of the MCB, and how can we know the rating, right? So, you can,
+Du Ya Ping, 15 minutes 37 seconds, go to this data table, okay? So, you see some kind of… Chipping curve for MCB.
+Du Ya Ping, 15 minutes 47 seconds, So… You know, those… those… Two, a couple of,
+Du Ya Ping, 15 minutes 57 seconds, pages for MCB, okay? So, Type B, type C, okay? And those are the possible current ratings available in the market. So, you need to choose one of them.
+Du Ya Ping, 16 minutes 11 seconds, Okay? And, but it should be greater than the design current, okay? We normally choose the one, we call the next available, which means greater than that one, but not too bigger, okay? So the current's 54, so here is 50 amperes, not…
+Du Ya Ping, 16 minutes 30 seconds, adequate, and the next available size is 6 days, 3 MPs, so…
+Du Ya Ping, 16 minutes 38 seconds, IN is 6 states, 3 EMPs.
+Du Ya Ping, 16 minutes 42 seconds, Okay? So this is 1 greater than… IB, right? IB, yeah.
+Du Ya Ping, 17 minutes 2 seconds, Okay?
+Du Ya Ping, 17 minutes 3 seconds, All right, okay, now then… We need to determine the minimum current carrying capacity, right? IT.
+Du Ya Ping, 17 minutes 14 seconds, IT.
+Du Ya Ping, 17 minutes 15 seconds, IT equal to, 6 days free.
+Du Ya Ping, 17 minutes 21 seconds, Okay, well, copy the formula, okay?
+Du Ya Ping, 17 minutes 26 seconds, So this… this is a 63, so we need to find the CACGCI, right? And the CA is determined by the temperature here, so this one tells us the CA, okay? So, we need to, go to the, table.
+Du Ya Ping, 17 minutes 44 seconds, for…
+Du Ya Ping, 17 minutes 52 seconds, For a temperature… temperature, factor.
+Du Ya Ping, 17 minutes 58 seconds, Okay? So, here… It's the temperature.
+Du Ya Ping, 18 minutes 4 seconds, Factor, the table for temperature effect.
+Du Ya Ping, 18 minutes 10 seconds, Okay, so, the temperature's 35 degree PVC cable, so this is a PVC cable. 35 degrees, so that is 0.94.
+Du Ya Ping, 18 minutes 19 seconds, C8.94.
+Du Ya Ping, 18 minutes 23 seconds, Okay? And how about CG and the CI?
+Du Ya Ping, 18 minutes 28 seconds, So, we don't have any detailed information about
+Du Ya Ping, 18 minutes 32 seconds, The thermal insulation material and the grouping.
+Du Ya Ping, 18 minutes 36 seconds, information. So we make an assumption here, they are all equal to 1, because the detailed information is not given, right? So we cannot tell exact value, so we just assume there's no such kind of, thermal insulation material, or the only single circuit is in the trunking.
+Du Ya Ping, 18 minutes 58 seconds, oh, okay, 0.8, okay, so that, that means they're sensing, there's another thing, okay.
+Du Ya Ping, 19 minutes 11 seconds, Oh, where's another circuit, sorry. There's another circuit, so two circuits in… okay.
+Du Ya Ping, 19 minutes 20 seconds, Here's another setting.
+Du Ya Ping, 19 minutes 27 seconds, The total number of a circuits is 2.
+Du Ya Ping, 19 minutes 34 seconds, Okay, so this is the case, the cables, are enclosed in the tranking, so enclosure, okay, and the number of circuit here is 2, so 0.8, so that's 0.8, okay, so…
+Du Ya Ping, 19 minutes 53 seconds, C… G is .8.
+Du Ya Ping, 19 minutes 56 seconds, And the CI is equal to 1, okay? So, no information is given, okay? So you make an assumption, okay, no semi-insulation material, okay?
+Du Ya Ping, 20 minutes 5 seconds, So, after that, you can use that formula for the calculation. Okay, the result here, you can see, is…
+Du Ya Ping, 20 minutes 14 seconds, 83.am.
+Du Ya Ping, 20 minutes 17 seconds, Okay.
+Du Ya Ping, 20 minutes 18 seconds, All right? Okay, so based on that one, we can find out the table value, okay, from the COP table, okay? So we need to find the table for this, this single PVC cable.
+Du Ya Ping, 20 minutes 31 seconds, So, we need to go to the single-core PVC cable, not ARMA.
+Du Ya Ping, 20 minutes 38 seconds, Multicore is a multi-core.
+Du Ya Ping, 20 minutes 41 seconds, this single-core PVC insulated non-armount cable, so this is the cable, okay?
+Du Ya Ping, 20 minutes 47 seconds, We used…
+Du Ya Ping, 20 minutes 53 seconds, Okay? And, which, which one we need to use, right? We know the cable, are installed
+Du Ya Ping, 21 minutes 5 seconds, in tranking, enclosure. So this mess, okay, enclosed in conduit or in tranking. So this is the one, okay? And we have a single-phase circuit and a three-phase circuit circuit. So this is a three-phase circuit. So we need to find the figure in column 5.
+Du Ya Ping, 21 minutes 24 seconds, Column 5, and, we need to find the figure which is greater than 83.88, so this is 89, right? 89, okay? So, to here, so this is 89, table values 89, okay? And,
+Du Ya Ping, 21 minutes 45 seconds, 89, and the cross-section area is 25mm squared.
+Du Ya Ping, 21 minutes 53 seconds, Okay?
+Du Ya Ping, 21 minutes 54 seconds, Alright, so this, Step 4, okay, we get the initial size for this…
+Du Ya Ping, 22 minutes 3 seconds, I mean, for those cables, okay? And, then we need to, check the voltage job, okay, UED, okay? And, the table value?
+Du Ya Ping, 22 minutes 18 seconds, Times the design curve, the length.
+Du Ya Ping, 22 minutes 21 seconds, and 380 volts. So this is a Swift circuit. So we know the design current, which is given here, right? And we know the length, which is given in the question is 100 meters. So we need to find other table value, therefore, voltage job, okay?
+Du Ya Ping, 22 minutes 40 seconds, So, this is, for…
+Du Ya Ping, 22 minutes 43 seconds, current kind capacity. The next one is for voltage job, voltage job, okay? So we know the size, 25, and then the masses,
+Du Ya Ping, 22 minutes 53 seconds, It's 1, okay, reference, reference mass, 3, okay, should be 3. In close, in Condi, or tracking, okay? And, so you see, for this one, the system value is 1.5, reactance value is 0.29,
+Du Ya Ping, 23 minutes 10 seconds, And, the total impedance is 1.55. So here, we use the total impedance, Z value, Z value, okay? So…
+Du Ya Ping, 23 minutes 22 seconds, For Z value, it's a 1.7, This one, 1.55.
+Du Ya Ping, 23 minutes 29 seconds, Yeah, 1.55.
+Du Ya Ping, 23 minutes 32 seconds, Okay, so you see, this is a 1.55.
+Du Ya Ping, 23 minutes 36 seconds, Okay? Okay. And this is the design current, which we got here, okay? And the 100 meters length.
+Du Ya Ping, 23 minutes 46 seconds, So, that when, the 8.4 volts divided by 380 is 2.2%.
+Du Ya Ping, 23 minutes 56 seconds, 3.2%, okay? So the limit here is…
+Du Ya Ping, 24 minutes 4 seconds, 2.5 limit, because this is a final circuit. It's a final circuit. So, final circuit vote, the limit, okay.
+Du Ya Ping, 24 minutes 13 seconds, For the final circuit, the limit is 2.5.
+Du Ya Ping, 24 minutes 26 seconds, Innocent.
+Du Ya Ping, 24 minutes 32 seconds, All right, okay, so, finally, we can say,
+Du Ya Ping, 24 minutes 37 seconds, For this circuit, we use, okay, a select 25mm square single-core PVC cables, and this cable is installed in Chunky. So that's the final result, okay?
+Du Ya Ping, 24 minutes 51 seconds, For the cable sizing, okay, every time.
+Du Ya Ping, 24 minutes 56 seconds, All right, okay, any quick questions?
+Du Ya Ping, 25 minutes 6 seconds, Okay, so, this is the, question I actually,
+Du Ya Ping, 25 minutes 13 seconds, you need to use the, the, the, the, the procedure, okay? Actually, it will demonstrate how each, the, the, how those formulas are approached, we can, use, okay, for this, answer these questions, okay?
+Du Ya Ping, 25 minutes 39 seconds, All right, and then I jump to question 5, and the question 4 and 6 will be discussed.
+Du Ya Ping, 25 minutes 48 seconds, in the lecture, okay, next week, okay? So we don't have any tutorial session next week, okay? So I talk about those tutorial, those questions in, during the lecture time, okay? Okay, so today I'm gonna just cover question 1, 3, and 5, okay?
+Du Ya Ping, 26 minutes 5 seconds, So let's talk about 5, okay?
+Du Ya Ping, 26 minutes 20 seconds, Okay, so in this case, okay, we need to, determine the cross-section area, okay, for, for a certain circuit, so we have, again, the…
+Du Ya Ping, 26 minutes 33 seconds, The motor, okay, the motor, same as question 3, right? The motor.
+Du Ya Ping, 26 minutes 39 seconds, Moder, okay, output power is… 20 kilowatts.
+Du Ya Ping, 26 minutes 47 seconds, Paul Factor… A6 efficiency.
+Du Ya Ping, 26 minutes 55 seconds, 0.9?
+Du Ya Ping, 26 minutes 57 seconds, Okay?
+Du Ya Ping, 26 minutes 58 seconds, And then, we, you start data starting, okay? So I'll talk about startting a little bit later, okay? And the supply cable to start a little bit… well, made a single-core cable, okay? Single-core, similar, okay? Single-core PVC cables.
+Du Ya Ping, 27 minutes 15 seconds, Okay? In condu.
+Du Ya Ping, 27 minutes 18 seconds, Okay, similar to the previous one. The previous ones in rankings. The model Cable for, okay.
+Du Ya Ping, 27 minutes 27 seconds, And, the motor cable… cables from starter are also a single-core PVC cable, okay?
+Du Ya Ping, 27 minutes 41 seconds, And, in another section conduit, okay? So, all the single-core, PVC cable, okay? So, in this case, we need to find out cross-section area, okay, and also the temperature.
+Du Ya Ping, 27 minutes 55 seconds, Adventures.
+Du Ya Ping, 27 minutes 59 seconds, To the degree, okay. this question does not ask to, do the voter job calculation, just to find, do the steps up to number 4, so we need to find out
+Du Ya Ping, 28 minutes 15 seconds, Cross that Cable car session area.
+Du Ya Ping, 28 minutes 20 seconds, Okay, by following…
+Du Ya Ping, 28 minutes 26 seconds, steps… 1, 2, 4, okay? Not 5, okay? So we are not going to…
+Du Ya Ping, 28 minutes 33 seconds, Check the voltage up, okay, because the cable lens is not given here, okay, not given here, okay.
+Du Ya Ping, 28 minutes 43 seconds, Okay,
+Du Ya Ping, 28 minutes 49 seconds, Let's talk about the, Motor, okay?
+Du Ya Ping, 28 minutes 55 seconds, Actually, okay, let's see, okay, motor…
+Du Ya Ping, 30 minutes 21 seconds, Thank you.
+Du Ya Ping, 30 minutes 34 seconds, All right, so, we just talked a little bit about the motor, okay? So, the motor, normally, has three widenings, three-facing motor, okay? So, those widings, are connecting data.
+Du Ya Ping, 30 minutes 48 seconds, Okay, in data. And this is supply, supply, okay? So, here,
+Du Ya Ping, 30 minutes 56 seconds, Says, okay, this one, start with star…
+Du Ya Ping, 31 minutes 3 seconds, Start data starter, which means, during the…
+Du Ya Ping, 31 minutes 8 seconds, starting period, okay, those Y in Y.
+Du Ya Ping, 31 minutes 14 seconds, Okay, why? And then, when starting finish, it will change the connection to data. We call it a star…
+Du Ya Ping, 31 minutes 22 seconds, This is star data starter. So in the beginning, we have a star connection, and then, after certain seconds, and then we change to, data connection, okay? And the reason is that, okay, because when you start model, you have larger starting current.
+Du Ya Ping, 31 minutes 40 seconds, And this starting current is proportion to the voltage. And here is voltage is 380, and this Y connection is 220. So you reduce the voltage on each face, and then you reduce the current, starting current, okay? So the reason, okay, for using star data star is to,
+Du Ya Ping, 32 minutes 0 seconds, reduce the starting current. So, we call the, when is the direct online starter?
+Du Ya Ping, 32 minutes 15 seconds, Another star data starter.
+Du Ya Ping, 32 minutes 27 seconds, Okay, so direct honesty, that means we always keep the connection, okay?
+Du Ya Ping, 32 minutes 32 seconds, be data all the time, during the starting and the normal operation. But start data means, okay, in the very beginning, we used the Y connection, and then after a few seconds, we change it to data connection, okay? And the starting current.
+Du Ya Ping, 32 minutes 48 seconds, Starting current, okay, for each phase, okay, it would be different in two different cases, and you can see start data starting current.
+Du Ya Ping, 32 minutes 59 seconds, is… Equal to direct online starting current.
+Du Ya Ping, 33 minutes 5 seconds, Divide by 3. So that means…
+Du Ya Ping, 33 minutes 8 seconds, there's a significant reduction of the starting current, okay? Starting current, okay?
+Du Ya Ping, 33 minutes 13 seconds, All right, okay, so, in this case, okay, we, need to…
+Du Ya Ping, 33 minutes 24 seconds, Okay, I need to determine the cable size, okay? So, let's look at the answer here, okay?
+Du Ya Ping, 33 minutes 32 seconds, Question 5, okay. So, again, we, need to, follow step, 1 to 2, okay, 1 to… 1 to 4, okay? So, first…
+Du Ya Ping, 33 minutes 45 seconds, The design current, so again, this is a fuller current of the motor.
+Du Ya Ping, 33 minutes 50 seconds, Okay, so we use the same formula we just talked about, okay? So actually the results given here, okay? So this is the kilowatts, this is the voltage, in this case of 415 volts, and this is the power factor and the efficiency, okay? So the…
+Du Ya Ping, 34 minutes 9 seconds, Design current is 35.
+Du Ya Ping, 34 minutes 11 seconds, 9 AMP.
+Du Ya Ping, 34 minutes 13 seconds, Okay.
+Du Ya Ping, 34 minutes 14 seconds, And,
+Du Ya Ping, 34 minutes 18 seconds, For the motor circuit, normally we choose the, the rating, okay? Or, sometimes we use something called, another device, we call the rally, okay? Rally is kind of,
+Du Ya Ping, 34 minutes 34 seconds, Component in the protective device, for…
+Du Ya Ping, 34 minutes 39 seconds, detecting the current, okay? So you can consider this kind of a rating. So we use the rating for the relay, okay, to be the, which is the same as the full current, okay? Fuller current.
+Du Ya Ping, 34 minutes 53 seconds, So it's, 35.9.
+Du Ya Ping, 34 minutes 57 seconds, Okay? So, this is a ray, okay, current, okay? We call it a thermal overload rayleigh, okay? So it's not the MCB, not the FUs, not the, other, circuit breakers.
+Du Ya Ping, 35 minutes 14 seconds, It is the rally, okay, used for the mode circuit only, and then the value can be, adjusted, okay, continuously, okay? So, we can choose this one to be 35.1.
+Du Ya Ping, 35 minutes 28 seconds, MPs, okay? And then, we…
+Du Ya Ping, 35 minutes 35 seconds, Need to find out the minimum current capacity.
+Du Ya Ping, 35 minutes 40 seconds, So, I and C divided by CACG and the CI, okay? So, in this case, okay,
+Du Ya Ping, 35 minutes 48 seconds, This temperature, okay.
+Du Ya Ping, 35 minutes 54 seconds, It's 30 degrees, so that means the CA here It's equal to 1.
+Du Ya Ping, 36 minutes 1 seconds, We can assume CA is equal to 1, and there's no other information about thermal insulation, so this is CI is equal to 1. Okay, CI equal to 1, okay?
+Du Ya Ping, 36 minutes 23 seconds, So, then, okay, so, the minimum…
+Du Ya Ping, 36 minutes 31 seconds, cross-section area for the, supply, cables, okay? So, because CAICI all equal to 1, okay?
+Du Ya Ping, 36 minutes 49 seconds, Okay.
+Du Ya Ping, 36 minutes 51 seconds, So, the table minimum value is 35.6.9 MP.
+Du Ya Ping, 36 minutes 56 seconds, Okay.
+Du Ya Ping, 36 minutes 56 seconds, So, then we can, go back to…
+Du Ya Ping, 37 minutes 0 seconds, The table, okay, this is the, again, single-core cable, right? So… okay.
+Du Ya Ping, 37 minutes 9 seconds, Okay, this should be column 5 again, okay? So, this is the case 36. So the table value is 36.
+Du Ya Ping, 37 minutes 24 seconds, And the cross-section area.
+Du Ya Ping, 37 minutes 27 seconds, is… Six…
+Du Ya Ping, 37 minutes 33 seconds, squared, okay? All right, well, you can choose the next available size, okay, 210mm square. And, the reason that, there's, this one is too close
+Du Ya Ping, 37 minutes 48 seconds, Okay? To each other, okay? Those are very too close, to each other, okay? So, which means the margin is not, large enough, okay? Of course, theoretically, this size is okay, but, practically, it would be better to have, some margins, okay?
+Du Ya Ping, 38 minutes 8 seconds, So you can choose the next available size, which is 10mm squared.
+Du Ya Ping, 38 minutes 12 seconds, Okay, damn square cat.
+Du Ya Ping, 38 minutes 19 seconds, Alright, okay, so, this is the supply…
+Du Ya Ping, 38 minutes 23 seconds, cable, supply cable, okay? And, so, any questions?
+Du Ya Ping, 38 minutes 36 seconds, Ripple.
+Du Ya Ping, 38 minutes 45 seconds, As I said earlier, okay, in this question, okay, we are not, we are not, we do not need to do the, voltage drop calculation, because the length is not given, okay, so just,
+Du Ya Ping, 39 minutes 0 seconds, following the steps, okay? Just follow the step 1 to 2, 1 to 4, okay? Do not need to do the step 5, okay?
+Du Ya Ping, 39 minutes 30 seconds, Okay, and, then, we need to…
+Du Ya Ping, 39 minutes 35 seconds, Find all the size for… In the stature.
+Du Ya Ping, 39 minutes 41 seconds, the cable in the starter, okay? The Cable in the starter, okay? Let's look at this one, okay, here. So, I don't have a join here, okay? This is a join, okay? So this is a starter, starter, start, supply cables here.
+Du Ya Ping, 39 minutes 57 seconds, Right? So here, okay? And, the cable…
+Du Ya Ping, 40 minutes 3 seconds, starter cable is the cable within, the starter, okay? So, this cable certainly carries a current different from the
+Du Ya Ping, 40 minutes 13 seconds, It's kind of in the supply cable.
+Du Ya Ping, 40 minutes 16 seconds, Okay, so because, that one, okay.
+Du Ya Ping, 40 minutes 22 seconds, That Cable during the operation, okay?
+Du Ya Ping, 40 minutes 27 seconds, So that means that the cable here carried the current. This is a line current, this is a phase current. So, for… start the cable.
+Du Ya Ping, 40 minutes 42 seconds, Okay, so the, the, the design current, this is a supply cable, okay?
+Du Ya Ping, 40 minutes 53 seconds, Okay, so this is the, starter cable. So starter cable is equal to, supply cable current, supply cable is the line current, and here is the phase current. So this is actually, I use a point here. So it actually is a phase current, so it is equal to line current divided by los square 3.
+Du Ya Ping, 41 minutes 13 seconds, Okay, so he… now you have 35…
+Du Ya Ping, 41 minutes 19 seconds, 35.9 divided by root squared 3, so that current is 20…
+Du Ya Ping, 41 minutes 24 seconds, 0.7 MP, okay? So you… you have a supply cable and a starter cable, they are different, they are different, okay? They carry different currents, different currents, okay? And
+Du Ya Ping, 41 minutes 40 seconds, Then, you need to look at, okay, for the cables in the starters.
+Du Ya Ping, 41 minutes 45 seconds, So, let's say, how many cables do we have?
+Du Ya Ping, 41 minutes 49 seconds, We have one… 2, 3, right? And then… Full…
+Du Ya Ping, 41 minutes 57 seconds, 5, 6. So, 6 number of… Single-core cables.
+Du Ya Ping, 42 minutes 4 seconds, 3 for… 3 cables for this circuit.
+Du Ya Ping, 42 minutes 8 seconds, And 3 cables for other terminal of the wardings.
+Du Ya Ping, 42 minutes 12 seconds, So, there are two… CHUI phase… Circuits.
+Du Ya Ping, 42 minutes 20 seconds, This considers one circuit, three-phase circuit.
+Du Ya Ping, 42 minutes 23 seconds, This is considered another… three-phase circuit. So, total number of circuit.
+Du Ya Ping, 42 minutes 36 seconds, is equal to 2.
+Du Ya Ping, 42 minutes 39 seconds, Okay? So unlike the supply cable here, the supply cable here, right, you have 3 cables only, and those cables for one surface circuit. But here, in the starter, starter cables.
+Du Ya Ping, 42 minutes 53 seconds, Okay?
+Du Ya Ping, 42 minutes 55 seconds, For start cables, there are two circuits, okay? One for this group.
+Du Ya Ping, 43 minutes 0 seconds, and another for these groups, okay? So, then you can, find out, okay?
+Du Ya Ping, 43 minutes 20 seconds, Okay, then you can, use the setting, relay setting, okay? So this IB, then the IN, okay, it's a really, okay?
+Du Ya Ping, 43 minutes 32 seconds, Okay, so it is equal to, 35.
+Du Ya Ping, 43 minutes 41 seconds, Ice, it's good at, 10-day, 10-day, sorry, 10-day…
+Du Ya Ping, 43 minutes 45 seconds, 7, 27 amp, okay? And then, the minimum current capacity.
+Du Ya Ping, 43 minutes 55 seconds, is equal to 20.7 divided by 0.8. Why is 0.8? Because CG is equal to 0.8.
+Du Ya Ping, 44 minutes 5 seconds, Alright, two circuits, two circuits, okay? And the CAICI are equal to 1.
+Du Ya Ping, 44 minutes 13 seconds, Equal to 1. Okay, so this one is equal to, 25.9.
+Du Ya Ping, 44 minutes 22 seconds, 25.9, okay.
+Du Ya Ping, 44 minutes 24 seconds, Alright, and then… you can use…
+Du Ya Ping, 44 minutes 29 seconds, This one, okay, 25.9, so column 5, 25.9 is 28, so…
+Du Ya Ping, 44 minutes 39 seconds, eye table where it's Tunde.
+Du Ya Ping, 44 minutes 43 seconds, 8th cross-section area.
+Du Ya Ping, 44 minutes 46 seconds, It's 4, right?
+Du Ya Ping, 44 minutes 52 seconds, It's a four amen script.
+Du Ya Ping, 44 minutes 58 seconds, Okay, so this is the result, okay, this is the result, okay. So, this question, okay,
+Du Ya Ping, 45 minutes 5 seconds, Actually asks you to determine the cables, not just the supply cable size, but also the starter cable size.
+Du Ya Ping, 45 minutes 14 seconds, But those starter cables and the supply cable actually are under different conditions, right? Okay, the big difference that, there are two differences, right? The first one, the current, the design current, is different, okay? The second one, okay, the grouping factor.
+Du Ya Ping, 45 minutes 31 seconds, as different.
+Du Ya Ping, 45 minutes 33 seconds, Okay.
+Du Ya Ping, 45 minutes 35 seconds, All right, okay, since I don't have time to, cover another question, so I'll leave the, other question, okay, to the, lecture next week, okay? Okay, so we will talk about, questioning
+Du Ya Ping, 45 minutes 50 seconds, 3, and 4, 6, okay, during the lecture time, okay?
+Du Ya Ping, 45 minutes 57 seconds, Alright, so that's it for the…
+Du Ya Ping, 46 minutes 1 seconds, Tutorial, session today, and, any, questions?
+Du Ya Ping, 46 minutes 21 seconds, Bye.

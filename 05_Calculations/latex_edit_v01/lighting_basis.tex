@@ -1,0 +1,17 @@
+% !TeX root = main.tex
+\subsection*{Lighting calculation}
+Manufacturer LDT intensities are given in cd/klm. Scale each profile by its selected flux: 2843.45 lm at 22 W, 3555.30 lm at 28 W and 4685.55 lm at 38 W. For each workplane grid cell (spacing at most 0.2 m), calculate
+\[
+E=0.80\sum_j\frac{I_j(C,\gamma)\cos\gamma}{d_j^2}.
+\]
+Adopt a 1.9 m luminaire-to-workplane height, corresponding to a 2.7 m ceiling and 0.8 m workplane. The maintenance factor of 0.80 assumes periodic cleaning and replacement. Room boundaries use the adopted plan envelopes; each room receives light from its own fittings. The calculation includes direct light only.
+\begin{center}\begin{tabular}{lrrrr}\toprule
+Zone & Lamps & Area m$^2$ & Mean lx & Min/mean\\\midrule
+Open office & 67 & 231.87 & 592.9 & 0.136\\
+Pantry & 11 & 29.54 & 546.3 & 0.390\\
+Upper east room & 10 & 33.68 & 588.5 & 0.267\\
+South east room & 4 & 13.07 & 662.6 & 0.175\\
+\bottomrule\end{tabular}\end{center}
+All four mean illuminances exceed the adopted 500 lx target. The four south-east panels use the 38 W setting to provide mounting-height tolerance. At 2.2 m above the workplane, the respective means are 573.0, 505.8, 545.0 and 589.2 lx; the south-east room retains a 17.8\% margin.
+
+The minimum/mean ratios include perimeter cells. These results assess mean direct illuminance; a detailed task-area check would also account for furniture, reflections and glare.

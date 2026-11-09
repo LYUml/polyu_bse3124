@@ -1,0 +1,128 @@
+[
+  {
+    "title": "L1 - Introduction",
+    "meeting": "848 5353 1501",
+    "when": "2026年9月01日 2:32 下午",
+    "date": "2026-09-01",
+    "number": 1
+  },
+  {
+    "title": "L2 - Maximum Demand Tariff",
+    "meeting": "816 6064 8225",
+    "when": "2026年9月08日 2:32 下午",
+    "date": "2026-09-08",
+    "number": 2
+  },
+  {
+    "title": "T(Grp 2) - Max. Demand nd Tariff",
+    "meeting": "821 1090 5540",
+    "when": "2026年9月10日 2:32 下午",
+    "date": "2026-09-10",
+    "number": 3
+  },
+  {
+    "title": "T(Grp 1)- Max. Demand and Tariff",
+    "meeting": "836 1215 5854",
+    "when": "2026年9月14日 12:29 下午",
+    "date": "2026-09-14",
+    "number": 4
+  },
+  {
+    "title": "L3 - Power Factor Correction",
+    "meeting": "819 5745 9822",
+    "when": "2026年9月15日 2:29 下午",
+    "date": "2026-09-15",
+    "number": 5
+  },
+  {
+    "title": "T (Grp 2) - Power Factor Correction",
+    "meeting": "821 0535 1332",
+    "when": "2026年9月17日 2:33 下午",
+    "date": "2026-09-17",
+    "number": 6
+  },
+  {
+    "title": "T (Grp A) - Power Factor Correction",
+    "meeting": "818 3584 4195",
+    "when": "2026年9月21日 12:29 下午",
+    "date": "2026-09-21",
+    "number": 7
+  },
+  {
+    "title": "L4 - Cable Sizing",
+    "meeting": "861 5484 6855",
+    "when": "2026年9月22日 2:32 下午",
+    "date": "2026-09-22",
+    "number": 8
+  },
+  {
+    "title": "T (Grp B) - Cable Sizing",
+    "meeting": "852 2435 6779",
+    "when": "2026年9月24日 2:31 下午",
+    "date": "2026-09-24",
+    "number": 9
+  },
+  {
+    "title": "T (Grp A) - Cable Sizing",
+    "meeting": "820 3620 6213",
+    "when": "2026年9月28日 12:30 下午",
+    "date": "2026-09-28",
+    "number": 10
+  },
+  {
+    "title": "L5 - Cable Sizing II",
+    "meeting": "898 6557 7721",
+    "when": "2026年9月29日 2:30 下午",
+    "date": "2026-09-29",
+    "number": 11
+  },
+  {
+    "title": "T (Grp B) - Generator Sizing",
+    "meeting": "873 6447 3766",
+    "when": "2026年10月08日 2:36 下午",
+    "date": "2026-10-08",
+    "number": 12
+  },
+  {
+    "title": "T (Grp A) - Generator Sizing",
+    "meeting": "878 9085 3240",
+    "when": "2026年10月12日 12:32 下午",
+    "date": "2026-10-12",
+    "number": 13
+  },
+  {
+    "title": "L8 - Fault Current Calculation",
+    "meeting": "867 1433 5097",
+    "when": "2026年10月20日 2:31 下午",
+    "date": "2026-10-20",
+    "number": 14
+  },
+  {
+    "title": "T (Grp B) - Fault Current Calculation",
+    "meeting": "851 9575 4884",
+    "when": "2026年10月22日 2:32 下午",
+    "date": "2026-10-22",
+    "number": 15
+  },
+  {
+    "title": "T ( Grp A) - Fault Current Calculation",
+    "meeting": "894 3913 1556",
+    "when": "2026年10月26日 12:30 下午",
+    "date": "2026-10-26",
+    "number": 16
+  },
+  {
+    "title": "BSE3124 - ELECTRICITY AND BUILDINGS",
+    "meeting": "883 2435 2859",
+    "when": "2026年10月27日 2:34 下午",
+    "date": "2026-10-27",
+    "number": 17
+  },
+  {
+    "title": "BSE3124 - ELECTRICITY AND BUILDINGS",
+    "meeting": "851 1776 0026",
+    "when": "2026年10月29日 2:32 下午",
+    "date": "2026-10-29",
+    "number": 18
+  }
+]

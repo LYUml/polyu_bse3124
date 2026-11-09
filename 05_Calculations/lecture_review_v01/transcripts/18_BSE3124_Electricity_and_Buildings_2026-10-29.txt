@@ -1,0 +1,304 @@
+Recording 18
+Title: BSE3124 - ELECTRICITY AND BUILDINGS
+Date: 2026-10-29
+Source: https://polyu.zoom.us/rec/play/hYgOuScIQWUFLuLzglP84dsY44EMUI0J00IIKRIJTwO5Tr6iSDnjsB6OHCcquHkkG4Zw4zGBZyh0rN_F.BQXexHp4EEXQFwX9
+Automatic Zoom transcript; recognition errors retained.
+
+Du Ya Ping, 1 minutes 9 seconds, Okay, we are going to talk about, two questions.
+Du Ya Ping, 1 minutes 12 seconds, or maybe Shui again, regarding the, protection, for the circuit. So we, we, we talk about the, protection requirements.
+Du Ya Ping, 1 minutes 23 seconds, for three different types, protections, right? Overload protection, face fall protection, and earth fall protection, okay? Some of the requirements, okay, are different, okay? Based on the different kind of consideration, okay? Now let's look at the questions.
+Du Ya Ping, 1 minutes 49 seconds, So, this question looks like a cable sizing question, okay? So we are given by, information, okay? Supply, okay, this is supply, okay,
+Du Ya Ping, 2 minutes 2 seconds, This is the load, okay, we have,
+Du Ya Ping, 2 minutes 7 seconds, There's a heating coil, okay? Heating coil, okay? This is the 6-day kilowatts three-phase.
+Du Ya Ping, 2 minutes 17 seconds, Loads, okay? And the circuit is, Made by a four-call PVC steel armor cable.
+Du Ya Ping, 2 minutes 33 seconds, Cables, okay, and the length is 120 meter, okay, and the cable installed on tray.
+Du Ya Ping, 2 minutes 44 seconds, Okay? With the other two circus.
+Du Ya Ping, 2 minutes 50 seconds, I got to circulate.
+Du Ya Ping, 2 minutes 52 seconds, So, that information will be used to determine the grouping factor, okay, all right? And, it's protected by fuse. We use fuse for protection, okay, so here's a fuse, okay, for protection, coming from, some kind of,
+Du Ya Ping, 3 minutes 9 seconds, Distribution boards, okay, actually, okay, let's see… Okay.
+Du Ya Ping, 3 minutes 16 seconds, Okay, this is a main area switch, but let's see, okay, so…
+Du Ya Ping, 3 minutes 27 seconds, Okay. And, we consider TT-RC arrangement and, this EarthC terminal here, okay.
+Du Ya Ping, 3 minutes 36 seconds, Met and, asphalt low impedance accent to the, electrical insulation, okay, at this,
+Du Ya Ping, 3 minutes 48 seconds, Distribution bought, yes.
+Du Ya Ping, 3 minutes 50 seconds, And ZE equal to 0.1 ohm, 0.01 ohm, okay. And, steel armor as a CPC.
+Du Ya Ping, 3 minutes 58 seconds, steel white armor.
+Du Ya Ping, 4 minutes 2 seconds, is the CPC, is the CPC, okay? And the ambient temperature…
+Du Ya Ping, 4 minutes 9 seconds, Up to 40 degree, 40 degree, okay?
+Du Ya Ping, 4 minutes 14 seconds, All right, and what we want to do is to determine, design this circuit, okay, we want to determine the cable size, okay, the cable size.
+Du Ya Ping, 4 minutes 25 seconds, Okay? And check the size of the protective conductor, okay? Also, we want to know whether the armor is good enough for use, okay? And automatic disconnection.
+Du Ya Ping, 4 minutes 39 seconds, should be made within 5 seconds in case of earth fall, okay? So, this question is not just about the cable sizing.
+Du Ya Ping, 4 minutes 49 seconds, And because we already, already, discussed the protection, so when you design the circuit, okay, when you select the cable size, also need to consider three kinds of protection, okay? Overload protection.
+Du Ya Ping, 5 minutes 8 seconds, Overload protection, short circuit protection, and the earth fall protection.
+Du Ya Ping, 5 minutes 18 seconds, So…
+Du Ya Ping, 5 minutes 20 seconds, after the selection of the cable, like the size or type, okay, you have to make sure all the requirements are fulfilled, all right? Okay, and we know, overload protection, the cable sizing procedure is basically, for the consideration of overload protection. So if you,
+Du Ya Ping, 5 minutes 40 seconds, follow the procedure, sizing procedure, then you can simply say, achieve the, overload protection. And then we need to check the, face fault, and finally we need to check the earth ford protection.
+Du Ya Ping, 5 minutes 53 seconds, see whether the requirements are fulfilled or not. So, first step, we need to,
+Du Ya Ping, 5 minutes 58 seconds, follow the cable sizing procedure, okay? Of course, if you've done that.
+Du Ya Ping, 6 minutes 5 seconds, then we can say, the overload protection is achieved, okay? So, the table sizing procedure basically is… was, discussed, you know, for many times, okay? So, here, we quickly go through all the steps.
+Du Ya Ping, 6 minutes 22 seconds, Right? Okay, and then spend some time to talk about the requirements, okay? How the requirements can be achieved, okay? So let's…
+Du Ya Ping, 6 minutes 31 seconds, I'll go to the Sarushi here.
+Du Ya Ping, 6 minutes 42 seconds, Alright, okay, so this is the one, okay? And, well…
+Du Ya Ping, 6 minutes 48 seconds, So, first of all, you need to find out the design current, because this is a heating…
+Du Ya Ping, 6 minutes 53 seconds, coil, okay? So, the power factor equal to 1, so, the current here, so I'm not going to repeat that one, because it's very straightforward, okay? The power divided by the
+Du Ya Ping, 7 minutes 4 seconds, voltage, because the power factor equal to 1. Okay, so actually this is, P divided by root squared 3 line voltage.
+Du Ya Ping, 7 minutes 14 seconds, And the power factor. But power factor equal to 1. So, this current is 901.
+Du Ya Ping, 7 minutes 20 seconds, Point T…
+Du Ya Ping, 7 minutes 22 seconds, MPs, okay? And because this is the… the heat coin, heating coil is not molded, so there's nothing we need to worry about regarding the starting, right? So starting is not an issue, so we don't need to worry about starting, we just, use the requirement
+Du Ya Ping, 7 minutes 41 seconds, to determine
+Du Ya Ping, 7 minutes 44 seconds, RN. So RN here simply equal to 100mp, okay? Because this is greater than the 91.2 MPs, okay?
+Du Ya Ping, 7 minutes 55 seconds, All right, and then we need to determine the minimum current capacity, which is equal to IN divided by CAG and the CI.
+Du Ya Ping, 8 minutes 7 seconds, Okay?
+Du Ya Ping, 8 minutes 9 seconds, And the temperature factor can be determined by this temperature, and the CG can be determined by the
+Du Ya Ping, 8 minutes 17 seconds, the information here, so… so that means total number of circuit here means 3, right? 1 plus 2, 1 plus 2.
+Du Ya Ping, 8 minutes 25 seconds, Okay, so, here I just give you the result, okay? You can find out, by using the tables that are available in the data…
+Du Ya Ping, 8 minutes 35 seconds, table, okay? So, C, A is equal to 0.87, CG is 0.82, okay? So, that one is equal to 100 divided by 0.
+Du Ya Ping, 8 minutes 48 seconds, A T… And the point is save it and save it.
+Du Ya Ping, 8 minutes 53 seconds, Okay, so the result is a 140 MP.
+Du Ya Ping, 8 minutes 57 seconds, for them, okay.
+Du Ya Ping, 9 minutes 1 seconds, Alright, and the base, this one, you can, this is an armor cable, okay? So, cable on the tree.
+Du Ya Ping, 9 minutes 34 seconds, So this is a multi-core armor PVC cable, right? And the cable on the tray…
+Du Ya Ping, 9 minutes 42 seconds, Okay, this is on the, okay, Mass 11, okay, cable's on the tree, okay. So, we have a… this is a 3-phase circuit, and the current is 140, so here, certainly, you… the table value is…
+Du Ya Ping, 9 minutes 57 seconds, 100… 6 states… Okay, 3, and then cross-section area is…
+Du Ya Ping, 10 minutes 15 seconds, Like, 50, right? 50, okay. 50mm square, okay.
+Du Ya Ping, 10 minutes 20 seconds, Okay.
+Du Ya Ping, 10 minutes 21 seconds, Okay, and
+Du Ya Ping, 10 minutes 28 seconds, 15 minutes again. And then we need to check the voltage all.
+Du Ya Ping, 10 minutes 32 seconds, Vertile job is equal to VD table value Z component times the
+Du Ya Ping, 10 minutes 38 seconds, Design current multiplied by length, divided by 380 volts.
+Du Ya Ping, 10 minutes 48 seconds, Right? So, again, you can find the impedance value from the table.
+Du Ya Ping, 10 minutes 56 seconds, The second one, okay? So this is the, surface core… of, Core 4 core cables, and the, impedance, okay, for 50mm squared cable is equal to…
+Du Ya Ping, 11 minutes 10 seconds, Well, okay.
+Du Ya Ping, 11 minutes 15 seconds, Fifth day.
+Du Ya Ping, 11 minutes 18 seconds, It's a point A1, right? It's a point A1.
+Du Ya Ping, 11 minutes 22 seconds, Times the design current 140… oh, no, 91, okay.
+Du Ya Ping, 11 minutes 39 seconds, Okay, here.
+Du Ya Ping, 11 minutes 43 seconds, This is another one point.
+Du Ya Ping, 11 minutes 46 seconds, to multiply by length, 120 meter, and divide by 380 rows. So this one is equal to, 2.3%.
+Du Ya Ping, 11 minutes 58 seconds, And the final, okay, that considers final circuit, the limit is 2.5.
+Du Ya Ping, 12 minutes 4 seconds, So, up to this point, okay, we complete the cable sizing procedure, okay? And, so this is adequate, okay, in terms of the voltage job requirement and the thermal requirement, okay?
+Du Ya Ping, 12 minutes 23 seconds, All right, okay, so, this is the first step, and then we need to see where the overload protection requirement is fulfilled.
+Du Ya Ping, 12 minutes 36 seconds, Okay, so we know this is an overload protection requirement, okay? So IZ is equal to table value
+Du Ya Ping, 12 minutes 45 seconds, Times CAG, and the CI. So CI certainly is equal to 1, so for the CI, it's equal to 1 here.
+Du Ya Ping, 12 minutes 53 seconds, See, I see you two wind, okay.
+Du Ya Ping, 12 minutes 55 seconds, So, IZ… Based on the result here,
+Du Ya Ping, 13 minutes 4 seconds, 0.82 times 0.87 times, table values 163, so it is equal to 116 MP.
+Du Ya Ping, 13 minutes 20 seconds, Okay, 60 amp, okay? So, then we conclude, okay, so the, design currency 91.2 amp, and, the fuse rating is 100MP, and,
+Du Ya Ping, 13 minutes 35 seconds, Iz is 100…
+Du Ya Ping, 13 minutes 40 seconds, 16, okay, MPs. So, the requirement, okay, the first requirement is to fulfill, okay? This fulfiller, okay?
+Du Ya Ping, 13 minutes 49 seconds, And, you can check the second one, okay? Second one is, I2… Should be less than…
+Du Ya Ping, 13 minutes 57 seconds, 1.45 IZ.
+Du Ya Ping, 14 minutes 1 seconds, And I2, okay, normally for fuse.
+Du Ya Ping, 14 minutes 6 seconds, we can say, the highest diet is 1.6 times, okay,
+Du Ya Ping, 14 minutes 13 seconds, IN, okay? It is equal to… 100…
+Du Ya Ping, 14 minutes 19 seconds, 60 MP. So why we have a 1.2… 1.6? Because this is given by the standard, okay? So you can use that figure, okay, for fuels, okay? So we're talking about it during the, lecture next week, about this one, okay? Anyway, okay, then 1.4…
+Du Ya Ping, 14 minutes 39 seconds, 1.645 times the IZ.
+Du Ya Ping, 14 minutes 43 seconds, Is… okay.
+Du Ya Ping, 14 minutes 47 seconds, Is the one given here as a 100.
+Du Ya Ping, 14 minutes 51 seconds, 6 to 8 MP. So then we can see this requirement is fulfilled, this requirement is fulfilled.
+Du Ya Ping, 15 minutes 0 seconds, Alright, so up to now, we can say the overload protection requirement…
+Du Ya Ping, 15 minutes 7 seconds, is fulfilled with this kind of design, okay, for, 50mm, squared, PVC, 4-core PVC, CY Armor PVC cable. So this is, adequate, okay, by,
+Du Ya Ping, 15 minutes 28 seconds, This is 100 amperes, okay.
+Du Ya Ping, 15 minutes 31 seconds, All right, and then we need to look at the short circuit protection.
+Du Ya Ping, 15 minutes 41 seconds, Okay, and then there… again, there are two… two…
+Du Ya Ping, 15 minutes 45 seconds, items, okay, of the requirement. The first one… is the…
+Du Ya Ping, 15 minutes 51 seconds, braking capacity requirement for the purpose of protection of the protective device. And for the fuse.
+Du Ya Ping, 15 minutes 58 seconds, Okay? The braking capacity is 40 kilomp.
+Du Ya Ping, 16 minutes 3 seconds, Oh, I'm sorry, etiquette. Etiquette, okay. And… and this is the…
+Du Ya Ping, 16 minutes 9 seconds, LV electrical, installation, where I say the maximum for, no matter what building it is, what kind of, switchboard, and the maximum fork current here, will not exceed
+Du Ya Ping, 16 minutes 25 seconds, Okay.
+Du Ya Ping, 16 minutes 26 seconds, 40 kilohmp. So, 40 kilompy is the maximum.
+Du Ya Ping, 16 minutes 31 seconds, It's the maximum, okay? So although we do not do any kind of calculation here, but we can tell it certainly is less than 40 kilomp. And then.
+Du Ya Ping, 16 minutes 42 seconds, there, okay, if we use Fuse, their figure is Definitely, it's greater than…
+Du Ya Ping, 16 minutes 48 seconds, The maximum flow current, in the electrical installation.
+Du Ya Ping, 16 minutes 54 seconds, Okay, because that one is equal to 40 kilomp.
+Du Ya Ping, 16 minutes 58 seconds, Right, so the first requirement
+Du Ya Ping, 17 minutes 0 seconds, is fulfilled, okay? But if you use the circuit breaker, MCCB, then you need to have to find… find out the maximum fork current here, and the braking capacity of the MCCB, okay, and make sure
+Du Ya Ping, 17 minutes 16 seconds, the braking capacity of the MCC is greater than the maximum fork current, okay? And then we need to look at the second one, the added equation, which is K squared S squared greater than
+Du Ya Ping, 17 minutes 29 seconds, I squared T, we call the energy we stand, is greater than energy less 0, okay? And, if you, go back to the notes, I said, okay.
+Du Ya Ping, 17 minutes 53 seconds, Okay?
+Du Ya Ping, 17 minutes 54 seconds, According to the IEY regulation, the equation is to be checked only if the short circuit protective device is different from
+Du Ya Ping, 18 minutes 1 seconds, it's not for, overload protection.
+Du Ya Ping, 18 minutes 7 seconds, So here, we use this fuse.
+Du Ya Ping, 18 minutes 10 seconds, For both overload and the short circuit protection, and then this kind of calculation is not necessary, and we consider requirements automatically fulfilled.
+Du Ya Ping, 18 minutes 19 seconds, Okay? So, I think this is the most case. Okay, this is a…
+Du Ya Ping, 18 minutes 25 seconds, it's kind of a general situation, okay? So most of the cases, in a way, use a single device for both overload and the short circuit protection, and then this…
+Du Ya Ping, 18 minutes 36 seconds, kind of calculation is not necessary to be performed, okay? It's considered to be achieved automatically, okay? So, up to now, we can say that the short circuit protection can be achieved with this kind of design, okay?
+Du Ya Ping, 18 minutes 51 seconds, And then, we need to look at the… Earth for protection.
+Du Ya Ping, 19 minutes 3 seconds, And for the Earth's protection, basic requirement is the disconnection time, okay? So for…
+Du Ya Ping, 19 minutes 11 seconds, If you look at this one… Okay,
+Du Ya Ping, 19 minutes 17 seconds, For any circuit, okay, or distribution board, if the current is greater than 32 amp, then the requirement, okay, if the equipment is installed within the building, and the disconnection requirement is 5 seconds.
+Du Ya Ping, 19 minutes 33 seconds, for, the circuits outside building is 0.4 seconds. So here, we need to, ensure that this connection time is less than 5 seconds, okay? So that, we have to find the Earth for current.
+Du Ya Ping, 19 minutes 49 seconds, So, Earth's fault current is equal to 220 volts divided by Earth's fault load impedance, and it is equal to Earth's fault load impedance outside the electrical installation plus the
+Du Ya Ping, 20 minutes 2 seconds, Z1 and Z2. That means the impedance within the electrical installation, right? So for the impedance outside electrical installations given in the question, okay.
+Du Ya Ping, 20 minutes 14 seconds, Here, this is the… 1, okay, 0.1 ohm.
+Du Ya Ping, 20 minutes 20 seconds, Pine 1 ohm. So we just use 0.1 ohm here.
+Du Ya Ping, 20 minutes 24 seconds, Okay, but we need to find out Z1 and the Z2.
+Du Ya Ping, 20 minutes 29 seconds, Basically, it's the one for the cable.
+Du Ya Ping, 20 minutes 32 seconds, So, basically, it's the impedance for the cable. Of course, you have, here the CPC, isn't made by…
+Du Ya Ping, 20 minutes 41 seconds, Steel white armor. Steel white armor, okay?
+Du Ya Ping, 20 minutes 45 seconds, So, the cable…
+Du Ya Ping, 20 minutes 55 seconds, Because for Earth's fault.
+Du Ya Ping, 20 minutes 58 seconds, The, the impedance,
+Du Ya Ping, 21 minutes 3 seconds, Can be found using the schedule.
+Du Ya Ping, 21 minutes 7 seconds, So we have to find out the schedule.
+Du Ya Ping, 21 minutes 22 seconds, So this is the schedule, Schedule 2.
+Du Ya Ping, 21 minutes 25 seconds, Using, using, using schedule.
+Du Ya Ping, 21 minutes 34 seconds, 2. AB.
+Du Ya Ping, 21 minutes 38 seconds, Okay, so, here is the impedance of multi-core cable, PVC, steel wire on PVC cables, okay? And we have a two-core
+Du Ya Ping, 21 minutes 48 seconds, 3 core and 4-core. So here we use 4 core, and we use the data in column C, because current C is the impedance between phase conductor and the CPC, okay? So here, we got the 50mm squared, so the…
+Du Ya Ping, 22 minutes 5 seconds, Impedance here is equal to 2.45, right?
+Du Ya Ping, 22 minutes 11 seconds, 3.45 minutes, and don't forget, multiply by the length, 120 meter.
+Du Ya Ping, 22 minutes 19 seconds, And the cross-section area, actually, 50 and… It's a 110th Street.
+Du Ya Ping, 22 minutes 31 seconds, For our warrants in the city.
+Du Ya Ping, 22 minutes 35 seconds, Good.
+Du Ya Ping, 22 minutes 43 seconds, All right, and then, you can put this one here, the impedance, okay, I don't know, exact value here. This is a 2.45…
+Du Ya Ping, 22 minutes 54 seconds, Times 120 divided by… 1000, okay. So the result here, or the total impedance here, is…
+Du Ya Ping, 23 minutes 12 seconds, 0.39 ohm.
+Du Ya Ping, 23 minutes 15 seconds, Possibly none for home.
+Du Ya Ping, 23 minutes 16 seconds, And the full current here is 557A.
+Du Ya Ping, 23 minutes 23 seconds, Okay.
+Du Ya Ping, 23 minutes 26 seconds, All right, okay, so now you know the current, and then you can use the, graph
+Du Ya Ping, 23 minutes 32 seconds, fuse graph to determine the operating time of the fuse, okay? So the fuse rating is 100,
+Du Ya Ping, 23 minutes 59 seconds, 100 amp, so this curve is 100 amp, okay? And the current is 557, so 100, 200, 300, 400, 500, okay? So, this one…
+Du Ya Ping, 24 minutes 12 seconds, 500, so it's very difficult to, you know, find the exact value, okay? Okay, because we don't have so… such a small scale, okay, you know, on, on the graph, but one thing we can, do is to check
+Du Ya Ping, 24 minutes 32 seconds, the data from this table. So this table shows, okay, we… if I make the good… larger.
+Du Ya Ping, 24 minutes 41 seconds, So you can see for 100 ampere fuels, okay, 5 seconds connection time, will be made by the current 550A, so that means
+Du Ya Ping, 25 minutes 2 seconds, This is 5 seconds, and this is 550. So, the current which caused the fuse to operate, okay, at the 5 second is 550.
+Du Ya Ping, 25 minutes 15 seconds, And now the full current here is 557. So based on this graph, you can see the operating time, okay, somewhere definitely is less than 5 seconds, but it's very difficult to tell exact value of this time. So T should be less than 5 seconds.
+Du Ya Ping, 25 minutes 36 seconds, Alright?
+Du Ya Ping, 25 minutes 37 seconds, Okay? So, well, based on that one, we say this requirement is okay.
+Du Ya Ping, 25 minutes 44 seconds, To satisfy this requirement, okay?
+Du Ya Ping, 25 minutes 47 seconds, Okay.
+Du Ya Ping, 25 minutes 49 seconds, So, the disconnection requirement is fulfilled. Fulfilled, okay?
+Du Ya Ping, 25 minutes 57 seconds, Okay, so this table also gives us the disconnection, okay, if
+Du Ya Ping, 26 minutes 2 seconds, at the 0.4 second, 0.2 second, 0.1 second, okay, at the different level of current, okay? So if you want the disconnection time 0.4 second, and then make sure the full current, okay.
+Du Ya Ping, 26 minutes 15 seconds, should be greater than 980 MP. Otherwise, you may have trouble in meeting the requirements, okay?
+Du Ya Ping, 26 minutes 24 seconds, All right, so the, the disconnection time requirement is fulfilled, okay? And, of course, okay, you may check the, the CPC size is adequate or not. Okay, so we want to check
+Du Ya Ping, 26 minutes 42 seconds, energy within, whether this one's less or greater than, energy less true, okay, let's true, okay? And, for, for this
+Du Ya Ping, 26 minutes 54 seconds, For, this energy last rule, we know the cable size, okay? 50mm squared, so 50 square, and the K value. K value you can find from the table, okay? So for, for the armor, okay, so it goes to table 11.
+Du Ya Ping, 27 minutes 15 seconds, Table 11.
+Du Ya Ping, 27 minutes 38 seconds, 11-2, okay.
+Du Ya Ping, 27 minutes 49 seconds, Okay? 112, so we need to look at the armor, okay? So, which wins the armor, okay?
+Du Ya Ping, 28 minutes 0 seconds, Protective conductor, protective for sheath, you know. K value for protective conduct is a sheath or armor of the cable, so this is the case, okay? And we have a PVC cable, so this is, steel, steel white armor, and this is a PVC cable, so the value of case is 51.
+Du Ya Ping, 28 minutes 19 seconds, 51, okay? So K is 51.
+Du Ya Ping, 28 minutes 23 seconds, Square. So this is the energy withstand.
+Du Ya Ping, 28 minutes 27 seconds, Energy withstand. And the energy last through, okay, we know the full current, this fall current is 500…
+Du Ya Ping, 28 minutes 33 seconds, 57, 7.
+Du Ya Ping, 28 minutes 36 seconds, And how about the time? And because I don't know exact time, but we definitely, we know it's less than 5 seconds. So 5 seconds is the worst case, so we use the 5 seconds here.
+Du Ya Ping, 28 minutes 48 seconds, 5 seconds here. And after calculation, we found that this one is greater than that one.
+Du Ya Ping, 28 minutes 55 seconds, Okay, so energy…
+Du Ya Ping, 28 minutes 57 seconds, energy withstand, okay, it's greater than energy that's true, okay? Okay, so here we use 4 seconds, okay? Even if you use 5 seconds, it's fine, okay? So now we can say.
+Du Ya Ping, 29 minutes 10 seconds, the Earth for protection, can be achieved with the circuit, okay, we, designed, okay?
+Du Ya Ping, 29 minutes 24 seconds, All right, okay, so this is kind of, comprehensive question, okay? Okay? Okay, so, we are definitely, okay, I tell you, okay, in the examination, you will have, such kind of questions, okay?
+Du Ya Ping, 29 minutes 39 seconds, So you need to know how to…
+Du Ya Ping, 29 minutes 41 seconds, you know, answer such questions, okay? All right, and Part B is, is just, some, discussion, so I'm not going to talk about that, okay? So you can, look at it by yourself, okay? It's… okay, so I, I, I will go to the question two.
+Du Ya Ping, 30 minutes 0 seconds, Okay, question two is similar, it's a similar one, but the, the heater, is replaced by the motor.
+Du Ya Ping, 30 minutes 10 seconds, So, again, you have the 6… 60 kilowatts.
+Du Ya Ping, 30 minutes 13 seconds, motor, and, similar, say, type of cable, but then the length is 50, meter, and the S-forward impedance external to the installation is 0.1 again, and, we want to determine the fuse rating, and,
+Du Ya Ping, 30 minutes 32 seconds, the cable size, and the motor, is used, we use the direct online starter, for…
+Du Ya Ping, 30 minutes 43 seconds, this motor, okay? And the motor, efficiency, power factor, starting factor are… are all given, okay? So in the question, you can see…
+Du Ya Ping, 30 minutes 56 seconds, The starting current, okay, starting time, okay, power factor, okay? Efficiency is not given, which means this 60 kilowatts is the input power. So if the efficiency is given, then that means the power given here is the output power, okay? So here, this is the input power, so, okay.
+Du Ya Ping, 31 minutes 25 seconds, Alright? Okay. So, the only thing different here is the motor. So,
+Du Ya Ping, 31 minutes 33 seconds, we have to consider the, the mode starting, and the diffuse should not cause any trouble to a normal operation, including the mode starting, okay? So this is the additional point we need to consider, okay?
+Du Ya Ping, 31 minutes 47 seconds, All right, and again, we need to do the similar thing, okay, to determine the cable, size and fuse rating, and make sure all the requirements, fulfilled, okay, yeah.
+Du Ya Ping, 32 minutes 6 seconds, Okay, so we start with the calculation of the design current.
+Du Ya Ping, 32 minutes 12 seconds, So the design curve here, because the 60 kilos input power, input power, so, we do not need to divide that one by efficiency, so we just use the formula, okay, input power.
+Du Ya Ping, 32 minutes 28 seconds, Divide root square 3, LAN voltage, and the power factor. And if it's output power, then you have to divide by efficiency.
+Du Ya Ping, 32 minutes 36 seconds, So this one's for output power.
+Du Ya Ping, 32 minutes 41 seconds, Alright, so I think the calculation is, straightforward, so I just copied the result here. That is, 114 amperes.
+Du Ya Ping, 32 minutes 51 seconds, And because of the models, we have to know the starting curve, so the starting current…
+Du Ya Ping, 32 minutes 56 seconds, is equal to 6.2 times the flow of current, okay? 114, that is the 707 MP for 4 seconds.
+Du Ya Ping, 33 minutes 8 seconds, Okay.
+Du Ya Ping, 33 minutes 11 seconds, All right, and, so, well, I think we have done such kind of question, early, in the early, tutorial session, and then we need to plot curve on the fuse graph, and then make sure there's no overlapping between the curve.
+Du Ya Ping, 33 minutes 26 seconds, Starting current curve and the fuse curve. So, in this case, okay, the 125MP could be marginal, okay? So, to avoid, the possible problem, and then we can use the fuse rating, okay? In is 160MP… 60MP, okay?
+Du Ya Ping, 33 minutes 47 seconds, Alright, and
+Du Ya Ping, 33 minutes 49 seconds, If you, after selection of the field rating, then you just do the, you know, the routine calculation for cable sizing, okay? And, the…
+Du Ya Ping, 34 minutes 2 seconds, minimum current kind capacity is IN divided by CAG, and CI, okay? And all the things I've had to say as the first question, okay? No difference, CAG the same, but only seeing difference is 1in, okay? So this one, is equal to…
+Du Ya Ping, 34 minutes 22 seconds, 200…
+Du Ya Ping, 34 minutes 24 seconds, 24 MPs, okay? So here, I'm not going to show all the detailed steps, so we just, show the result, okay? So we select
+Du Ya Ping, 34 minutes 37 seconds, The cable was the size 100.
+Du Ya Ping, 34 minutes 40 seconds, 20mm square, and the table value, It's equal to 290.
+Du Ya Ping, 34 minutes 49 seconds, MPs, okay? And the IZ… Which is the effective current current capacity, is 207.
+Du Ya Ping, 35 minutes 1 seconds, Alright, and well… It can… Check the overload.
+Du Ya Ping, 35 minutes 8 seconds, protection requirement.
+Du Ya Ping, 35 minutes 13 seconds, Okay?
+Du Ya Ping, 35 minutes 14 seconds, So,
+Du Ya Ping, 35 minutes 19 seconds, And, Because… IB… Here is… 114…
+Du Ya Ping, 35 minutes 28 seconds, And this is 160, and this is 207, so no problem at all, right? Okay.
+Du Ya Ping, 35 minutes 37 seconds, And, of course, you can check another one, okay, IB times, IZ, I2, less than…
+Du Ya Ping, 35 minutes 49 seconds, I2 is less than… 1.45 IZ. So, I don't, I don't have any,
+Du Ya Ping, 35 minutes 57 seconds, detailed things given here, okay, but you can do it by yourself, okay? Supposed to be, fulfilled, okay? Fulfilled, okay? So, overload protection, it is fine, okay, it is fine, okay, overload protection, okay?
+Du Ya Ping, 36 minutes 14 seconds, And the short circuit… protection.
+Du Ya Ping, 36 minutes 21 seconds, Okay.
+Du Ya Ping, 36 minutes 22 seconds, And the short circuit, again, first one is the braking capacity, so… the braking capacity, okay? Well, there's… there's nothing different, right? Here, between this one, and the previous one, okay?
+Du Ya Ping, 36 minutes 36 seconds, So, bringing capacity of the fuse is adequate, and, it, the better equation requirement.
+Du Ya Ping, 36 minutes 49 seconds, Again, it's adequate because we use the fuse for both overload and the short circuit protection. So then.
+Du Ya Ping, 36 minutes 57 seconds, there's no need to have additional calculation here to see whether the short circuit protection requirements is fulfilled or not, okay? All right, so this is very straightforward, then the S4…
+Du Ya Ping, 37 minutes 11 seconds, Protection?
+Du Ya Ping, 37 minutes 16 seconds, Okay, so we need to find the Earth-4 current, okay, Earth-4 current. So, again, Earth-4 current is…
+Du Ya Ping, 37 minutes 27 seconds, is equal to 200 volts divided by ZE plus Z1.
+Du Ya Ping, 37 minutes 34 seconds, Z2, similar to the previous one, okay? So there's nothing special, and
+Du Ya Ping, 37 minutes 42 seconds, ZE is given, which is equal to 0.1 ohm, okay? And the only thing you need to do is find Z1.Z2, okay? So this is an arm cable again, but the size is a 120mm square PVC cable. So, you have to use…
+Du Ya Ping, 38 minutes 11 seconds, schedule at 2.8B again, but in this case, it's 120, right? So, 4 core cable here, so that one is 1.27, okay? 1.27.
+Du Ya Ping, 38 minutes 26 seconds, Times the lens, what is the lens here?
+Du Ya Ping, 38 minutes 30 seconds, 50 meter, okay? And, divide by…
+Du Ya Ping, 38 minutes 37 seconds, 1,000, okay? So, it is equal to… well.
+Du Ya Ping, 38 minutes 42 seconds, 1,345 fan page. Yeah, I believe that.
+Du Ya Ping, 38 minutes 53 seconds, Alright, and then you can determine the operating time of the fuse.
+Du Ya Ping, 39 minutes 0 seconds, Okay? So again, you can use the table, okay?
+Du Ya Ping, 39 minutes 4 seconds, not just a graph, okay? For table, it's much… because the requirement is 5 seconds, again, in this case.
+Du Ya Ping, 39 minutes 22 seconds, 160, this is 160.
+Du Ya Ping, 39 minutes 29 seconds, So, 160, and the current which caused the fuse to operate at the 5 seconds is 900. Now you have a 100.
+Du Ya Ping, 39 minutes 39 seconds, 1,300mps. So definitely, this one is less than 5 seconds.
+Du Ya Ping, 39 minutes 47 seconds, Okay? Or roughly, you can say, okay, but it's not so accurate, okay? You may tell this is, like, 1 second or 2 seconds, okay? So, probably, one… between 1 to 2 seconds, okay? But definitely, it's 5 seconds.
+Du Ya Ping, 40 minutes 5 seconds, 75 seconds, okay? You may choose 2 seconds, okay? I like the worst case, your worst case, okay? Certainly, so the requirements are fulfilled, okay?
+Du Ya Ping, 40 minutes 15 seconds, And then you need to check the… And then you…
+Du Ya Ping, 40 minutes 20 seconds, Automatic equation, energy with stand should be greater than energy less true.
+Du Ya Ping, 40 minutes 24 seconds, And the fall currently has a 1000… 345.
+Du Ya Ping, 40 minutes 33 seconds, Operating time, you can use 2 seconds, right? And the K, this is still, the steel white armor, similar to previous one, so 51…
+Du Ya Ping, 40 minutes 43 seconds, square times the cable size. Cable size is 120 m squared. So again, this one with energy within is greater than the energy level.
+Du Ya Ping, 40 minutes 56 seconds, Okay. So, by this kind of calculation, we…
+Du Ya Ping, 41 minutes 1 seconds, conclude, okay, the requirement, okay?
+Du Ya Ping, 41 minutes 6 seconds, for overcurrent protection, short circuit protection, and S4 protection.
+Du Ya Ping, 41 minutes 11 seconds, all the requirements are fulfilled. Yeah, fulfilled. So, all the design calculation,
+Du Ya Ping, 41 minutes 20 seconds, demonstrate, okay? The circus, okay, we…
+Du Ya Ping, 41 minutes 24 seconds, produce, what we come up with, okay, is adequate, okay, and fulfill all the relevant requirements, okay, according to the, IE wiring regulation, or according to the COP, okay, wiring regulation, okay?
+Du Ya Ping, 41 minutes 42 seconds, All right, okay, so those two questions, okay, I think those are very comprehensive, okay?
+Du Ya Ping, 41 minutes 48 seconds, Okay?
+Du Ya Ping, 41 minutes 49 seconds, So, definitely you need to, you know, familiar with the, all the steps, okay? So, probably,
+Du Ya Ping, 42 minutes 4 seconds, Next week, okay, I will give you some assignment, okay? This is, not the mini design plot, it's the calculation assignment, okay? So, just using, apply this, kind of procedures here.
+Du Ya Ping, 42 minutes 20 seconds, to, determine whether the circuit you design is adequate or not. And, instead of fuse…
+Du Ya Ping, 42 minutes 29 seconds, Here, we will use the MCB, okay, MCB for protection, or MCCB, okay? So, that will be, the, the summit will be announced, like, next week, after discussion about, protective devices, okay?
+Du Ya Ping, 42 minutes 49 seconds, All right, we have, just a couple minutes, so, let me see whether I can, do the question 3 and 4, okay?
+Du Ya Ping, 42 minutes 58 seconds, I think there's, there's… the questions today are very straightforward, okay?
+Du Ya Ping, 43 minutes 6 seconds, So, you have the ring circuit, okay, and, we know the cable size, 16 millimeter square for both face conductor and the CPC, okay, this CPC, the face conductor.
+Du Ya Ping, 43 minutes 19 seconds, and the LAN neutral conductor. And the impedances are all given, And,
+Du Ya Ping, 43 minutes 27 seconds, Okay, this is not ring circuit, just as a radio circuit, okay? And we want to determine the,
+Du Ya Ping, 43 minutes 36 seconds, The device combined with the connection requirement, okay? And,
+Du Ya Ping, 43 minutes 45 seconds, this is a fixed equipment, okay, so this connection requirement is a point within the, building, it's a 0.4 second, okay, for fixed equipment, 0.4 seconds. So you find the full current.
+Du Ya Ping, 43 minutes 56 seconds, Okay, the four current, and then use the, think it is a fuse, then use the fuse graph to determine the operating time, or the current which caused the fuse to operate at the, 0.4 seconds. So, something like this…
+Du Ya Ping, 44 minutes 11 seconds, Okay, so, here… 50 amp fuse.
+Du Ya Ping, 44 minutes 18 seconds, So we have the 50 amp fields here.
+Du Ya Ping, 44 minutes 22 seconds, Okay, and the current which caused the fuse to operate, okay, the 4 second, 0.4 second is…
+Du Ya Ping, 44 minutes 29 seconds, 380 MP. So make sure the, 4 current… S4 current is greater than that value, and then you can, say the requirement is fulfilled, okay?
+Du Ya Ping, 44 minutes 41 seconds, So, then check the cable with standard energy level, okay,
+Du Ya Ping, 44 minutes 49 seconds, under the S4, okay, so in that case, you just use this, you know, alphabetic equation to check, okay, whether, energy less than is greater than energy less to or not, okay? So.
+Du Ya Ping, 45 minutes 5 seconds, I think this is nothing special, okay? So, the…
+Du Ya Ping, 45 minutes 12 seconds, the solution here also, showed all the detailed steps, okay? So, probably I don't need to spend the time to, to talk about, okay? All right, and, question four,
+Du Ya Ping, 45 minutes 30 seconds, So, it's about the… there are three,
+Du Ya Ping, 45 minutes 33 seconds, three parts here. The first one is determine the cable size, okay? For this ring circuit, again, this is this old stuff, okay, so you know how to do that, okay? And, the second one is the thing regarding the,
+Du Ya Ping, 45 minutes 55 seconds, the requirement, okay? This… this one, okay? So that means…
+Du Ya Ping, 46 minutes 1 seconds, Ra, during the lecture, I say that RA times RA should be less than 50 volts.
+Du Ya Ping, 46 minutes 10 seconds, So the… the resistance, from the…
+Du Ya Ping, 46 minutes 15 seconds, From the, the distribution bar, okay, from the consumer bar.
+Du Ya Ping, 46 minutes 20 seconds, to the Earth in terminal, okay? This 50 milli ohms times IA, okay, should be less than 50 volts. IA is the current which caused the MCB to operate.
+Du Ya Ping, 46 minutes 35 seconds, at, 5 seconds, 5 seconds, okay? So, because here, we haven't talked about the MCB curves, okay? Just to mention a little bit.
+Du Ya Ping, 46 minutes 47 seconds, in the lecture last time, but I don't have time to further illustrate that one, so probably we'll talk about this one, later when we talk about the MCB, chipping curve, okay?
+Du Ya Ping, 47 minutes 0 seconds, Okay. And,
+Du Ya Ping, 47 minutes 8 seconds, And the pass C, Well…
+Du Ya Ping, 47 minutes 15 seconds, It's against finder, the four current, okay? Determine the, the, the…
+Du Ya Ping, 47 minutes 22 seconds, capacity, okay? So, the question here is just, you know, here it asks you to find the impedance, okay, and the forward current.
+Du Ya Ping, 47 minutes 31 seconds, If you have the four in the middle points, okay, and then check the energy withstand, okay, okay, whether, it's greater than energy less or not, okay? So again, the
+Du Ya Ping, 47 minutes 46 seconds, the calculation is very similar to the calculation we talk about in question 1 and question 2, okay? So there's no special, items, okay, we need to adjust, okay?
+Du Ya Ping, 48 minutes 0 seconds, Alright, okay, so I have to stop, now again, so…
+Du Ya Ping, 48 minutes 7 seconds, where we talk about the protective devices, okay, in detail, okay, during the next lecture next… next week, okay? Okay, so that's it.

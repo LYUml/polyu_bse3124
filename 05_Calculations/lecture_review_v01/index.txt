@@ -1,0 +1,25 @@
+BSE3124 Zoom transcripts / 2026-11-09
+
+Numbering: chronological recording order, including tutorials; original lecture labels retained.
+Source: https://canvas.polyu.edu.hk/courses/5074/external_tools/13
+Scope: all 18 recordings visible on two Cloud Recordings pages. Missing class recordings cannot be reconstructed.
+Texts retain automatic transcription errors and recording-relative timestamps.
+
+01 | 2026-09-01 | L1 - Introduction | 01_L1_Introduction_2026-09-01.txt
+02 | 2026-09-08 | L2 - Maximum Demand Tariff | 02_L2_-_Maximum_Demand_Tariff_2026-09-08.txt
+03 | 2026-09-10 | T(Grp 2) - Max. Demand nd Tariff | 03_TGrp_2_-_Max_Demand_nd_Tariff_2026-09-10.txt
+04 | 2026-09-14 | T(Grp 1)- Max. Demand and Tariff | 04_TGrp_1-_Max_Demand_and_Tariff_2026-09-14.txt
+05 | 2026-09-15 | L3 - Power Factor Correction | 05_L3_-_Power_Factor_Correction_2026-09-15.txt
+06 | 2026-09-17 | T (Grp 2) - Power Factor Correction | 06_T_Grp_2_-_Power_Factor_Correction_2026-09-17.txt
+07 | 2026-09-21 | T (Grp A) - Power Factor Correction | 07_T_Grp_A_-_Power_Factor_Correction_2026-09-21.txt
+08 | 2026-09-22 | L4 - Cable Sizing | 08_L4_-_Cable_Sizing_2026-09-22.txt
+09 | 2026-09-24 | T (Grp B) - Cable Sizing | 09_T_Grp_B_-_Cable_Sizing_2026-09-24.txt
+10 | 2026-09-28 | T (Grp A) - Cable Sizing | 10_T_Grp_A_-_Cable_Sizing_2026-09-28.txt
+11 | 2026-09-29 | L5 - Cable Sizing II | 11_L5_-_Cable_Sizing_II_2026-09-29.txt
+12 | 2026-10-08 | T (Grp B) - Generator Sizing | 12_T_Grp_B_-_Generator_Sizing_2026-10-08.txt
+13 | 2026-10-12 | T (Grp A) - Generator Sizing | 13_T_Grp_A_-_Generator_Sizing_2026-10-12.txt
+14 | 2026-10-20 | L8 - Fault Current Calculation | 14_L8_-_Fault_Current_Calculation_2026-10-20.txt
+15 | 2026-10-22 | T (Grp B) - Fault Current Calculation | 15_T_Grp_B_-_Fault_Current_Calculation_2026-10-22.txt
+16 | 2026-10-26 | T ( Grp A) - Fault Current Calculation | 16_T_Grp_A_-_Fault_Current_Calculation_2026-10-26.txt
+17 | 2026-10-27 | BSE3124 - ELECTRICITY AND BUILDINGS | 17_BSE3124_-_ELECTRICITY_AND_BUILDINGS_2026-10-27.txt
+18 | 2026-10-29 | BSE3124 - ELECTRICITY AND BUILDINGS | 18_BSE3124_Electricity_and_Buildings_2026-10-29.txt

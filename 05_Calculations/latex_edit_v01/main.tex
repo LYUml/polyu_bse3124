@@ -1,0 +1,109 @@
+\documentclass[11pt]{article}
+\usepackage{fontspec}\setmainfont{Times New Roman}
+\usepackage[paperwidth=595.32bp,paperheight=841.92bp,left=80bp,right=80bp,top=111bp,bottom=104bp]{geometry}
+\usepackage{amsmath,amssymb,booktabs,longtable,array,pdfpages,hyperref,eso-pic,graphicx}
+\hypersetup{hidelinks,pdftitle={BSE3124 Group 1 Final Answer Sheets}}
+\pagestyle{empty}\setlength{\parindent}{0pt}\setlength{\parskip}{5pt}
+\setlength{\tabcolsep}{4pt}\renewcommand{\arraystretch}{1.16}\emergencystretch=2em
+\setlength{\unitlength}{1bp}
+\newcommand{\slot}[4]{\put(#1,\dimexpr841.92bp-#2bp\relax){\makebox(0,0)[lt]{\begin{minipage}[t]{#3bp}\vspace{0pt}\fontsize{11}{13}\selectfont\setlength{\parskip}{5pt} #4\end{minipage}}}}
+% Match the teacher's restrained heading hierarchy.
+\makeatletter
+\renewcommand\section{\@startsection{section}{1}{0pt}{12pt}{7pt}{\normalfont\fontsize{12}{14}\selectfont\bfseries}}
+\renewcommand\subsection{\@startsection{subsection}{2}{0pt}{10pt}{5pt}{\normalfont\fontsize{11}{13}\selectfont\bfseries}}
+\makeatother
+\newcommand{\tenantselection}{\textbf{The office tenant chosen for layout design: Office 1.}}
+\newcommand{\task}[1]{\section*{#1}}
+\widowpenalty=10000\clubpenalty=10000
+\AddToShipoutPictureFG{\ifnum\value{page}>1\AtPageLowerLeft{\put(\dimexpr0.5\paperwidth\relax,24){\makebox(0,0){\fontsize{9}{11}\selectfont\thepage}}}\fi}
+\newcommand{\sheet}[2]{\long\gdef\currentsheetoverlay{#2}\includepdf[pages=#1,fitpaper=true,noautoscale=true,pagecommand={\AddToShipoutPictureFG*{\AtPageLowerLeft{\currentsheetoverlay}}}]{assets/official-template.pdf}}
+\begin{document}
+\sheet{1}{
+\slot{220}{599}{205}{1}
+\slot{220}{640}{205}{LYU Mingliang (24099296D)}
+\slot{220}{668}{205}{HUANG Celine (24034414D)}
+\slot{220}{696}{205}{LIU Wing Kei (24093229D)}}
+\sheet{2}{\slot{80}{153}{435}{
+\textbf{Basis and assumptions.} Ten identical office floors, each with usable areas assumed to be 309, 309 and 410\,m$^2$. Supplied CLP COP215 Rev 07 is the course basis. The 1000\,kW in the question is cooling output, not electrical demand. Assume packaged air-cooled AC, PF 0.90, five lifts and equal allocation to two supply zones.
+\begin{align*}
+A&=10(309+309+410)=10\,280\ {\rm m^2},\\
+S_{\rm office}&=10\,280(0.16)=1644.8\ {\rm kVA},\\
+P_{\rm AC}&=(1000/3.51685)(1.85)=526.039\ {\rm kW},\\
+S_{\rm AC}&=526.039/0.90=584.488\ {\rm kVA},\\
+S_{\rm public}&=5(40)=200\ {\rm kVA},\\
+S_{\rm design}&=1.10(1644.8+584.488+200)=2672.216\ {\rm kVA}.
+\end{align*}
+The 40\,kVA/lift allowance is an aggregate public-services reference, not a lift motor rating. A public-services overlap allowance of 0--200\,kVA gives 2452.216--2672.216\,kVA; adopt the upper bound. COP215: 3.1.7, 3.3.1 and Appendices 2/7.
+
+\textbf{Selection.} Two 1500\,kVA transformers provide 3000\,kVA. Each serves five floors and half the plant/public allowance: 1336.108\,kVA per section. Full-load N--1 is not provided; a failed transformer requires load shedding. Prevent unauthorised parallel operation.
+
+\textbf{Room location.} Use the lower-left ground-floor perimeter for the 12430$\times$5450\,mm transformer room and adjacent 12430$\times$3500\,mm main LV room (LV depth assumed). This allows external delivery/access, short LV interfaces, separation from the central lift/stair/AHU core and independent customer access.
+
+Reserve 3\,m delivery access within 20\,m of unloading. Adopt COP101 v16 4.3 clearance envelopes, 2-hour partitions, sealed penetrations and raised floor level; these are planning conditions. Door sweeps require sequential use. Louvres provide 1.20\,m$^2$ free area at the assumed 50\% free ratio. Equipment/ventilation and 10.03/10.31\,m LV interfaces are detailed in the continuation and ground-floor drawings.
+}}
+\AddToShipoutPictureBG{\AtPageLowerLeft{\includegraphics[page=1,width=\paperwidth,height=\paperheight]{assets/continuation-template.pdf}}}
+\input{task1.tex}
+\clearpage\ClearShipoutPictureBG
+\includepdf[pages=-,fitpaper=true]{assets/task1-drawings.pdf}
+\sheet{3}{
+% Replace the unselected template options with the adopted tenant.
+\put(76,711){\color{white}\rule{445bp}{18bp}}
+\slot{77.664}{114}{435}{\fontsize{12}{14}\selectfont\tenantselection}
+\slot{80}{181}{435}{
+\textbf{Selected tenant: Office 1.} See attached lighting/power plans, filled board template and detailed L/N/PE schematic.
+
+\textbf{Lighting.} 92 PIL PLATO 600 panels: sixty 22\,W, twenty-eight 28\,W and four 38\,W, total 2256\,W. Seven circuits LC-A--LC-G have 18/17/18/11/14/10/4 lamps, each protected by B10 Type A 30\,mA 1P+N RCBO. Each has its own neutral and local manual control S-A--S-G. Different-phase switches use separate enclosures. Ceiling-grid and furniture relationships guide positions.
+
+\textbf{Lighting performance.} Manufacturer LDT calculations give maintained mean direct illuminances of 592.9/546.3/588.5/662.6\,lx for the open office/pantry/upper east/south east rooms at 1.9\,m above the workplane and MF 0.80. Four 38\,W panels in the south east room retain 589.2\,lx at 2.2\,m, providing a 17.8\% margin above the 500\,lx design target. The continuation gives the calculation method and room results.
+
+\textbf{Power.} Nine four-socket floorboxes, three twin sockets and FS01. Every assembly has one upstream 13\,A FCU; its outlets share that capacity. P1--P4: 6\,mm$^2$ A1 rings/B32; P5/P6/P8: 10\,mm$^2$ A2 radials/B32; P7: 4\,mm$^2$ dedicated radial/B16. Each local fused spur is 4\,mm$^2$, assumed 0.5\,m. FCUs precede the spur cable. Separate pantry circuits from ordinary office circuits. FS01 reserves 13\,A without inventing an appliance rating.
+
+\textbf{Protection and containment.} Keep L/N/CPC ring continuity and return both ends to the same circuit. Apply EMSD Table 6(1)'s A1 ring conditions. Separate the lighting group, ring banks A/B, radial bank C, P7 and incoming feeder so the stated grouping factors remain valid. See the new installation-detail sheet.
+
+\textbf{Supply and controls.} Source C63 4P; 4C35\,mm$^2$ + CPC16; 100\,A 4P DB isolation. Dedicated neutrals pass through their own RCBO; PE is unswitched. Specify 10\,kA interruption and the stated total-energy/inrush limits. Select apparatus meeting these performance limits. Landlord emergency lighting and exit signs use independent essential supplies.
+}}
+\AddToShipoutPictureBG{\AtPageLowerLeft{\includegraphics[page=2,width=\paperwidth,height=\paperheight]{assets/continuation-template.pdf}}}
+\input{task2.tex}
+\clearpage\ClearShipoutPictureBG
+\sheet{5}{\put(105,190){\rotatebox{90}{\begin{minipage}{450bp}\fontsize{9}{11}\selectfont\textbf{DB-O1: 8-way TPN chassis; 15 used single-phase outgoing positions}\par\smallskip\begin{tabular}{llll}\toprule Way & L1 & L2 & L3\\\midrule
+1 & LC-A / B10 & LC-B / B10 & LC-C / B10\\
+2 & LC-F / B10 & LC-E / B10 & LC-D / B10\\
+3 & P1 / B32 & P3 / B32 & LC-G / B10\\
+4 & P2 / B32 & P4 / B32 & P6 / B32\\
+5 & P5 / B32 & Spare & P7 / B16\\
+6 & Spare & Spare & P8 / B32\\
+7 & Spare & Spare & Spare\\
+8 & Spare & Spare & Spare\\
+\bottomrule\end{tabular}\par\smallskip
+Positions indicate phase allocation; each RCBO also needs its own N path. Confirm chassis/module capacity for 1P+N devices. Incoming: C63 4P at MS-O1; local main switch is 100A 4P (including N), supplementing the template's TP SW symbol. The detailed appended schematic governs neutral/PE connections and ring returns. All final RCBOs: Type A, 30mA, 10kA; see energy/inrush specifications.\end{minipage}}}}
+\includepdf[pages=-,fitpaper=true]{assets/office-lighting.pdf}
+\includepdf[pages=-,fitpaper=true]{assets/office-power.pdf}
+\includepdf[pages=-,fitpaper=true]{assets/office-db.pdf}
+\includepdf[pages=-,fitpaper=true]{assets/installation-details.pdf}
+\sheet{4}{\slot{80}{139}{435}{
+For lighting, $I=P/(220\times0.90)$. EMSD Table 7(1): take 90\% of lighting and 100\% of the largest Code 6E circuit plus 50\% of the remaining circuits on each phase. Reserve P7 at 100\% separately. The 13\,A per assembly is an intended maximum continuous load, not an instantaneous fuse clamp.
+\begin{center}\begin{tabular}{lrrrr}\toprule
+Phase & Light A$^*$ & Sockets A & Fixed A & Demand A\\\midrule
+L1 & 3.444 & 45.500 & 0 & 48.600\\
+L2 & 3.960 & 39.000 & 0 & 42.564\\
+L3 & 3.990 & 32.500 & 13 & 49.091\\\bottomrule
+\end{tabular}\end{center}
+$^*$Lighting column is before the 90\% factor. Maximum demand is \textbf{49.091\,A}; select 63\,A source protection and 100\,A DB. Maximum undiversified phase allowance is 68.444\,A. Full branch currents are retained for outgoing cable sizing.
+}
+\slot{80}{402}{435}{
+Select 4-core 35\,mm$^2$ PVC copper plus 16\,mm$^2$ CPC, Method B. Route 28.5119\,m plus assumed 3\,m vertical/termination allowance = 31.5119\,m. At 40\,$^\circ$C, $C_a=0.87$, $C_g=1$; adopt $C_h=0.86$ for the stated third-harmonic range (15--33\%).
+\begin{align*}
+I_{z,25}&=80(0.87)(0.86)=59.856<63\ {\rm A},\\
+I_{z,35}&=99(0.87)(0.86)=74.0718\ {\rm A},\\
+I_b&=49.091\le I_n=63\le I_z=74.0718\ {\rm A}.
+\end{align*}
+Ratings: EMSD A6(2), column 5. CPC: Table 11(2)(a). Full-size neutral retained; neutral current must remain within the adopted bound.
+
+At 63\,A, feeder drop is 2.521606\,V. Add 2.2\,V pre-origin allowance and the calculated branch drops: worst complete drop 3.031\% of 220\,V, below 4\%. Adopt TN-S, source $Z_e=0.20\,\Omega$ and PFC $\le6$\,kA. Then DB external loop is 0.264129\,$\Omega$; source C63 disconnection and outgoing B-curve checks pass under those conditions.
+
+\textbf{Outgoing circuits are also included}, as required by the assignment: all 15 sizes, currents, lengths, voltage drops, earth-fault checks and apparatus energy requirements are tabulated in the continuation.
+}}
+\AddToShipoutPictureBG{\AtPageLowerLeft{\includegraphics[page=3,width=\paperwidth,height=\paperheight]{assets/continuation-template.pdf}}}
+\input{task3.tex}
+\clearpage\ClearShipoutPictureBG
+\end{document}

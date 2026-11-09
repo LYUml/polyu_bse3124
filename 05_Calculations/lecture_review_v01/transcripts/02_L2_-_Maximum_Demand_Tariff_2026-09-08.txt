@@ -1,0 +1,563 @@
+Recording 2
+Title: L2 - Maximum Demand Tariff
+Date: 2026-09-08
+Source: https://polyu.zoom.us/rec/play/OHkWw6R-tp6MLD2lkXUpscDAmSvqpoPXjPVbDXZCjiFHWI6_3IBqF4nyVqsJ2JAhQxODL8isExRHfoyz.vqvM9ZLZLqY7FKWE
+Automatic Zoom transcript; recognition errors retained.
+
+Du Ya Ping, 0 hours 1 minutes 26 seconds, Alright? Okay.
+Du Ya Ping, 0 hours 1 minutes 28 seconds, This is the schematic. Suppose I,
+Du Ya Ping, 0 hours 1 minutes 33 seconds, Discussed last week, because for some technical problem, okay, for this,
+Du Ya Ping, 0 hours 1 minutes 41 seconds, Canvas, okay? So we didn't talk about that. So, I spent a few minutes, today to talk about this schematic, okay? I think this is very comprehensive, okay?
+Du Ya Ping, 0 hours 1 minutes 55 seconds, schematic, okay? Almost include, all the things we want to talk about, okay? So, first of all, at the bottom of this one, you can see the, the transformer
+Du Ya Ping, 0 hours 2 minutes 9 seconds, Transformer room, okay? So, let me move up a little bit.
+Du Ya Ping, 0 hours 2 minutes 14 seconds, Okay, so the box here is the transformer room, okay? And we know the transformer here, the… everything here belongs to… to the power company, so we are not responsible for
+Du Ya Ping, 0 hours 2 minutes 28 seconds, the detailed design for the transformer loan. So here, in the schematic, we just showed the
+Du Ya Ping, 0 hours 2 minutes 36 seconds, the symbol of those transformers. So here we have 3 transformers, okay? And then,
+Du Ya Ping, 0 hours 2 minutes 45 seconds, The one next to that one we call the switch room.
+Du Ya Ping, 0 hours 2 minutes 49 seconds, Okay, so in the switch room, we… No, okay,
+Du Ya Ping, 0 hours 2 minutes 54 seconds, that's the room for the switchboard, and we consider this is the origin of the electrical installation within the building, okay? So you have, one circuit breaker, for, one transformer. So we call this the main circuit. This is another main circuit.
+Du Ya Ping, 0 hours 3 minutes 13 seconds, Okay? And three… we have three main circuits here, because we got 3 transformers, okay? And then we have, the bus bus, okay? And then we have outgoing circuit, okay? And, here.
+Du Ya Ping, 0 hours 3 minutes 27 seconds, On this side, you can see, those, the line with, you know, T of point, or you can say you have a lot of branches, and we call this is the
+Du Ya Ping, 0 hours 3 minutes 38 seconds, Rising Man Circuit.
+Du Ya Ping, 0 hours 3 minutes 40 seconds, Okay, this is the main circuit, this is the rising main circuit, okay, because, you know, there's a lot of tee-off points, okay? And, basically, this one is for the residential building. So, certainly, you know, all the tenant loads.
+Du Ya Ping, 0 hours 3 minutes 56 seconds, are connected to those risers, risers, okay? And then, you see this one here, this is the one circuit in the mid room, so we call this the subman. This is the rising man, and this is the third man, okay? And then to the distribution bar.
+Du Ya Ping, 0 hours 4 minutes 14 seconds, Over there, okay?
+Du Ya Ping, 0 hours 4 minutes 25 seconds, Okay, so… so this is the, one in the meet room on every floor, okay? And then you see the, the, the, the circle there? Those are the…
+Du Ya Ping, 0 hours 4 minutes 37 seconds, energy meter.
+Du Ya Ping, 0 hours 4 minutes 38 seconds, Those are the energy meter, okay? And, you know, one meter for one tenant, right? So, this outgoing circuit here is connected to the distribution wall for one particular tenant, okay? So, in the residential building, there is the flat, okay? And then.
+Du Ya Ping, 0 hours 4 minutes 57 seconds, after that, but this is called a man's schematic. So, we only shoot the major parts, okay, up to the meters, okay? So, we have another drawing, shooter
+Du Ya Ping, 0 hours 5 minutes 11 seconds, Shows the schematic after, that meter, okay, energy meter.
+Du Ya Ping, 0 hours 5 minutes 26 seconds, So this is a schematic for the, distribution ball inside the flat, okay? So you see, this is the incoming circuit from the energy meter, okay? And then you have, this box, this is the MCB ball.
+Du Ya Ping, 0 hours 5 minutes 44 seconds, MCB bar. Within they are flat, okay? And then, again, you can see, those outgoing circuits, okay? And, typically, we have three types of circuits, okay? Socket RS circuits.
+Du Ya Ping, 0 hours 5 minutes 58 seconds, AC circuit and the lighting circuit. And this is a very typical arrangement, and we call… you can see this is a closed ring circuit.
+Du Ya Ping, 0 hours 6 minutes 9 seconds, Okay, and if you look at the notes, we know there are 3 different types
+Du Ya Ping, 0 hours 6 minutes 14 seconds, a software circuit, we call A1, A2, A3. So this is an A1, type A1, okay? It's a ring circuit, and the rating of the circuit MCB is 30A, so this is a fixed, okay? You cannot change that value, okay?
+Du Ya Ping, 0 hours 6 minutes 29 seconds, as long as you say this is an A1 circuit, so it should be 32, okay, or 30 ampere, okay? If it's an A2, there should be, I think it's a 20A, okay, something like that, okay? And the lighting circuit normally is the radio circuit.
+Du Ya Ping, 0 hours 6 minutes 45 seconds, and the AC circuit against the radius circuit. So usually, when… circuit for…
+Du Ya Ping, 0 hours 6 minutes 52 seconds, each unit. If you're at home, if you have three different units, okay, and then you need to have three, different AC circuits. So normally it's one circuit for, one unit only, okay? So this is a very typical, arrangement, okay, for the final circuit, okay?
+Du Ya Ping, 0 hours 7 minutes 16 seconds, And, okay, so those are the tenant loads, okay? And we have the landlord loads on that side, okay, on that side, okay? And you see the energy meter here. So this is the energy meter, for the tenant, or for the landlords only, okay? So, because everything here
+Du Ya Ping, 0 hours 7 minutes 36 seconds, Belongs to the landlord, okay? So you have, let's say, two parts, okay? This is the…
+Du Ya Ping, 0 hours 7 minutes 44 seconds, For, non-essential loads, and this is for, essential loads. So here you see the loads, like a fire service pump.
+Du Ya Ping, 0 hours 7 minutes 54 seconds, fireman's, emergency lighting, okay, etc, okay? And also, there's one circuit connect to the, lift the machine room.
+Du Ya Ping, 0 hours 8 minutes 6 seconds, This is a lifter machine room. So that…
+Du Ya Ping, 0 hours 8 minutes 9 seconds, Because we do have something called the Feynman's lift, okay, which means this lift will be connected to the
+Du Ya Ping, 0 hours 8 minutes 17 seconds, Essential bar here. Essential bar here, okay?
+Du Ya Ping, 0 hours 8 minutes 20 seconds, So, that is the…
+Du Ya Ping, 0 hours 8 minutes 23 seconds, typical arrangement, okay, for, a building, okay, residential building, okay, for office building, you will see, the schematic will be very similar. So you have the tenant loads, you have the landlord loads, you have the non-essential loads.
+Du Ya Ping, 0 hours 8 minutes 40 seconds, And then you have the essential loans, okay? So that's the typical arrangement, okay?
+Du Ya Ping, 0 hours 8 minutes 47 seconds, of the circuits, within the building, okay? All right, so, today we are going to talk about the, the very fundamental issue that we call the low estimation, okay? So if you look at the, the circuit here, so the, the major part
+Du Ya Ping, 0 hours 9 minutes 6 seconds, Okay? You know… are the conductors.
+Du Ya Ping, 0 hours 9 minutes 10 seconds, Cables, bus bars, They are used to deliver the power or energy from the supply to the loads.
+Du Ya Ping, 0 hours 9 minutes 19 seconds, Okay? And if you look at the…
+Du Ya Ping, 0 hours 9 minutes 22 seconds, The info… you can find the information, the label for those circuits, okay? For example, the cable…
+Du Ya Ping, 0 hours 9 minutes 31 seconds, It's… it's not very clear here, but if you look at the, your notes, you can find, that it will tell you the size of the cable, okay, the size of a cable, okay? And, for example, 400mm squared.
+Du Ya Ping, 0 hours 9 minutes 48 seconds, Okay? That means the cross-section area of the cable, okay? And this cable size actually determine, the largest current
+Du Ya Ping, 0 hours 10 minutes 0 seconds, it can carry out, okay? And there are some other things, okay? You can see the bus bar here, and you can see the bus bar
+Du Ya Ping, 0 hours 10 minutes 10 seconds, Again, it has some kind of, information provided here.
+Du Ya Ping, 0 hours 10 minutes 18 seconds, So, let's say, this one is, 2005,
+Du Ya Ping, 0 hours 10 minutes 23 seconds, 500 ampere. That means it's the largest current it can carry out, okay? And for the circuit breaker, again, you can see some figures available, 2,500 amp.
+Du Ya Ping, 0 hours 10 minutes 35 seconds, And for that circuit breaker, okay, let's say this is a… I'm not sure this is, like, a 400 or 600MP. So anyway, okay, so the components, okay, no matter this switch or the conductor, you have to provide that kind of figure we call the rating.
+Du Ya Ping, 0 hours 10 minutes 54 seconds, or size, okay? And, so that means this is the largest current That device can carry all.
+Du Ya Ping, 0 hours 11 minutes 5 seconds, Okay, and if actual current is greater than that size, okay, or the rating, and then we see some kind of trouble, okay, maybe
+Du Ya Ping, 0 hours 11 minutes 13 seconds, some overheating problem, okay, or some other problems, okay? So definitely, we have to make sure, okay, the figure here, provided here, is large enough
+Du Ya Ping, 0 hours 11 minutes 26 seconds, To handle the actual current
+Du Ya Ping, 0 hours 11 minutes 28 seconds, In the circuit, okay? All right, so in the design, we have to determine that figure. So, based on the discussion here, we know if I want to determine that figure, we have to know in advance the actual current in the circuit.
+Du Ya Ping, 0 hours 11 minutes 44 seconds, Okay, so based on that one day, I can determine that figure, and then we can provide
+Du Ya Ping, 0 hours 11 minutes 50 seconds, this kind of information in the schematician. So this is a design that
+Du Ya Ping, 0 hours 11 minutes 54 seconds, you can say this is the first step in the design. If you know the actual current, and then you can determine the rating here, and then you can produce this kind of drawing. So, that is the first step, or first thing we need to do in the design, okay? So, to determine
+Du Ya Ping, 0 hours 12 minutes 13 seconds, The determination of that current, okay, actual current, we call it the… Demand estimation, because
+Du Ya Ping, 0 hours 12 minutes 22 seconds, This is just an estimation, because we…
+Du Ya Ping, 0 hours 12 minutes 25 seconds, Never, ever, know the exact figure, but we want to…
+Du Ya Ping, 0 hours 12 minutes 31 seconds, estimate the largest current, okay? So we could provide this estimation, and then based on this estimation to determine that one, yeah, that figure, okay? So this is the thing, actually, we want to talk about today, okay?
+Du Ya Ping, 0 hours 12 minutes 56 seconds, Okay, so we call the maximum demand. Okay, the other one related to that one we call the tariff calculation. So tariff then means the
+Du Ya Ping, 0 hours 13 minutes 4 seconds, That seems, okay, the way the power company charged the customer for using the electricity, okay?
+Du Ya Ping, 0 hours 13 minutes 16 seconds, All right, and actually you see, okay, the… the demand, okay, sometimes we, can use
+Du Ya Ping, 0 hours 13 minutes 24 seconds, Okay, use the current, okay, or…
+Du Ya Ping, 0 hours 13 minutes 27 seconds, kilowatt, or KVA, or kilowatts is a demand, okay? So it doesn't matter, okay, which one we use, okay? Because, in the…
+Du Ya Ping, 0 hours 13 minutes 39 seconds, In the actual circuit, you can convert, from KVA to
+Du Ya Ping, 0 hours 13 minutes 46 seconds, current MP, offline MP to KDA, okay?
+Du Ya Ping, 0 hours 14 minutes 0 seconds, So, if it is the single-phase circuit.
+Du Ya Ping, 0 hours 14 minutes 9 seconds, Okay? KVA… is equal to the current kiloampy.
+Du Ya Ping, 0 hours 14 minutes 15 seconds, past 200 volts.
+Du Ya Ping, 0 hours 14 minutes 17 seconds, Okay. If it's three-phase circuit.
+Du Ya Ping, 0 hours 14 minutes 23 seconds, KVA.
+Du Ya Ping, 0 hours 14 minutes 25 seconds, It's equal to kilo energy times, 380.
+Du Ya Ping, 0 hours 14 minutes 31 seconds, And a loose square suite.
+Du Ya Ping, 0 hours 14 minutes 34 seconds, Okay, so that means they are equivalent, it doesn't matter which one you use, okay? Kva or kilohm, or…
+Du Ya Ping, 0 hours 14 minutes 41 seconds, MP or VA, okay? Basically the same, okay? So, now here.
+Du Ya Ping, 0 hours 14 minutes 48 seconds, You can see, okay, the actual…
+Du Ya Ping, 0 hours 14 minutes 52 seconds, loading, okay, for a particular equipment, or for a particular circuit, or even for the whole building. That means they change with time.
+Du Ya Ping, 0 hours 15 minutes 2 seconds, Okay, tenuous time, okay? So, of course, we consider the worst case.
+Du Ya Ping, 0 hours 15 minutes 7 seconds, That is the peak value, right? So we want to ensure that the cable, or that
+Du Ya Ping, 0 hours 15 minutes 13 seconds, circuit breaker can handle the largest current. If it can handle this peak value, there will be no problem for any other currents, right? This is common sense, okay? But in our discussion, we're not just looking at the instantaneous value.
+Du Ya Ping, 0 hours 15 minutes 31 seconds, Not that… The highest the peak value.
+Du Ya Ping, 0 hours 15 minutes 35 seconds, We are looking at the average value over a certain period of time.
+Du Ya Ping, 0 hours 15 minutes 40 seconds, Okay, we use that value as a demand. Okay, demand. And it…
+Du Ya Ping, 0 hours 15 minutes 45 seconds, For the calculation, okay? So here, you can see this is the average value for this period.
+Du Ya Ping, 0 hours 15 minutes 52 seconds, And there's the average value, another period. So, eventually, you will get the…
+Du Ya Ping, 0 hours 15 minutes 57 seconds, The amount, okay, something like this, okay, over a period of time.
+Du Ya Ping, 0 hours 16 minutes 2 seconds, And the depth here could be 10 minutes, 15 minutes, 30 minutes, or 1 hour.
+Du Ya Ping, 0 hours 16 minutes 10 seconds, It really depends on… the, the utility, the power company, okay? They will determine, okay, the time period for
+Du Ya Ping, 0 hours 16 minutes 19 seconds, calculated demand. I think it,
+Du Ya Ping, 0 hours 16 minutes 22 seconds, Most cases 15 minutes, but some cases could be, half an hour, half an hour, okay?
+Du Ya Ping, 0 hours 16 minutes 36 seconds, Okay? So, let's say, okay, we want to know the demand, maximum demand, okay? Which means the maximum average value, okay?
+Du Ya Ping, 0 hours 16 minutes 45 seconds, Okay, and, so here I give you some very general, idea about that demand. Okay, for example, if we have the LAMP, okay, and, it is a 100 watts LAM,
+Du Ya Ping, 0 hours 16 minutes 59 seconds, Okay, it's a single-phase equipment, and then you can calculate, because this is just a LAM, okay, it's a resistor, okay? So you can find the current, by using, the, power divided by the
+Du Ya Ping, 0 hours 17 minutes 22 seconds, power divided by the voltage, because… because this is the resistance, the power factor equal to 1, okay? So you can find out the current is 0.45 amp, okay? And then we say this is the demand, okay? And this is the… because this is the LAMP, okay, that if switched on, it's always, okay.
+Du Ya Ping, 0 hours 17 minutes 41 seconds, Equal to 0.45M.
+Du Ya Ping, 0 hours 17 minutes 44 seconds, Okay, so sometimes we call this is the…
+Du Ya Ping, 0 hours 17 minutes 48 seconds, connect the low, okay, because it does not change with… it's the maximum value, okay, for this piece of, equipment, okay? All right, but in the building, we know we have a lot of, those kind of small devices connected together.
+Du Ya Ping, 0 hours 18 minutes 5 seconds, Okay? And to the wind circuit, to the distribution bar, and for the whole building, okay? For example, like this case, we have a number of, okay.
+Du Ya Ping, 0 hours 18 minutes 15 seconds, such kind of device, or circuits, connect to that one, okay? And we want to know the maximum demand, okay, for that group of loads, okay? And, so, we know, the demand for one.
+Du Ya Ping, 0 hours 18 minutes 33 seconds, piece of equipment.
+Du Ya Ping, 0 hours 18 minutes 34 seconds, or another one, okay? And,
+Du Ya Ping, 0 hours 18 minutes 38 seconds, then we need to determine this one. And one thing is relatively easy is that just add those tokens together.
+Du Ya Ping, 0 hours 18 minutes 47 seconds, Okay? And if you do that way, probably your estimation is considered as too big. We call it overestimation, okay? Why? Because two different pieces of equipment may operate in different ways, okay?
+Du Ya Ping, 0 hours 19 minutes 4 seconds, So that means that the actual maximum demand is… less than…
+Du Ya Ping, 0 hours 19 minutes 11 seconds, the submission of IA plus IB for such kind of reason, okay? Current demand, okay, Demand
+Du Ya Ping, 0 hours 19 minutes 20 seconds, will be changed, okay? And, control mechanism. Sometimes we may have a dimming controller, so the lighting device could be dimmed, right? So the power consumption will be reduced, right? Time of use.
+Du Ya Ping, 0 hours 19 minutes 36 seconds, And that LAM may be used during daytime. The other one may be used at the night.
+Du Ya Ping, 0 hours 19 minutes 41 seconds, So, during daytime, and the other one.
+Du Ya Ping, 0 hours 19 minutes 45 seconds, Current zero. But in the evening.
+Du Ya Ping, 0 hours 19 minutes 48 seconds, the first one be zero. So you will never see the situation two LAMPs, okay, consume the
+Du Ya Ping, 0 hours 19 minutes 57 seconds, that amount of
+Du Ya Ping, 0 hours 19 minutes 59 seconds, at the same time, at the same time, okay? So, because of this, okay, the maximum demand usually, most cases, less than the submission of the maximum demand.
+Du Ya Ping, 0 hours 20 minutes 12 seconds, for those, devices, okay? So here, we introduce a concept, concept, okay?
+Du Ya Ping, 0 hours 20 minutes 22 seconds, Okay? We call it the Maximum Demand Factor, okay? And before, we talk about
+Du Ya Ping, 0 hours 20 minutes 29 seconds, That, concept… let me show you a more, realistic examples about this
+Du Ya Ping, 0 hours 20 minutes 39 seconds, issue, okay? So here we have the kitchen, okay? Four different
+Du Ya Ping, 0 hours 20 minutes 45 seconds, Piece of equipment, okay? And each equipment has its own operation pattern.
+Du Ya Ping, 0 hours 20 minutes 52 seconds, Okay? And this is the, let's say, the first one is the washing machine, the dry… dryer, okay? And, this one, let's see, okay, the heater, okay? And this is the toast, okay? So you can see…
+Du Ya Ping, 0 hours 21 minutes 9 seconds, The… during the period of 2 hours, The patterns of those devices.
+Du Ya Ping, 0 hours 21 minutes 17 seconds, are totally different, okay? They are totally different, okay? And you can say this is the maximum demand for this
+Du Ya Ping, 0 hours 21 minutes 24 seconds, equipment, and that is for another one, and this one is constant, okay? And certainly, this is not constant. So if you put them together, you have the
+Du Ya Ping, 0 hours 21 minutes 36 seconds, Pattern, like this.
+Du Ya Ping, 0 hours 21 minutes 38 seconds, Right this. So you never see all those pieces of device operate
+Du Ya Ping, 0 hours 21 minutes 46 seconds, And the maximum demand at the same time.
+Du Ya Ping, 0 hours 21 minutes 49 seconds, Okay, so some, piece of equipment, you know, has a maximum
+Du Ya Ping, 0 hours 21 minutes 56 seconds, Demand during that period, and this one during this period, so totally, different, okay? So, the maximum demand here
+Du Ya Ping, 0 hours 22 minutes 9 seconds, Okay, based on the actual result, you can see it's this much. It's about sensing between 35MB to 40MB, okay? Actually, this is 38MP, okay?
+Du Ya Ping, 0 hours 22 minutes 21 seconds, Alright, however, if you just add the maximum demand, okay, for Each piece of equipment together.
+Du Ya Ping, 0 hours 22 minutes 29 seconds, And then total figure here is a 4-day foren.
+Du Ya Ping, 0 hours 22 minutes 33 seconds, So, 38.
+Du Ya Ping, 0 hours 22 minutes 36 seconds, MP is less than 44.
+Du Ya Ping, 0 hours 22 minutes 39 seconds, For the reason we just talked about earlier, in the previous slide.
+Du Ya Ping, 0 hours 22 minutes 43 seconds, They have a different… Demand pattern, and, copy control mechanism could be different, or…
+Du Ya Ping, 0 hours 22 minutes 52 seconds, Maybe due to some other reasons, okay? And, we call this the maximum demand, and this is based on the
+Du Ya Ping, 0 hours 23 minutes 2 seconds, calculation. Using the… Maximum for… individual Piece of equipment.
+Du Ya Ping, 0 hours 23 minutes 14 seconds, Okay, this calculation, based on the maximum demand for individual
+Du Ya Ping, 0 hours 23 minutes 20 seconds, piece of equipment, okay? So we call this the connect load, okay? Means then… that means that you assume all the, different pieces of equipment
+Du Ya Ping, 0 hours 23 minutes 32 seconds, operate together.
+Du Ya Ping, 0 hours 23 minutes 35 seconds, At the maximum.
+Du Ya Ping, 0 hours 23 minutes 37 seconds, demand condition, yeah? So that's called a, connector… total connector load.
+Du Ya Ping, 0 hours 23 minutes 46 seconds, Okay? So, you see the, the, the connected load, okay.
+Du Ya Ping, 0 hours 23 minutes 53 seconds, Using the maximum demand for individual piece of equipment, okay?
+Du Ya Ping, 0 hours 24 minutes 0 seconds, is usually… it's greater than the maximum demand for group of circuit, group of loads, okay? And this is greater than when… and then…
+Du Ya Ping, 0 hours 24 minutes 9 seconds, In our discussion for the estimation, okay, usually we need to use sensing coder
+Du Ya Ping, 0 hours 24 minutes 16 seconds, Maximum Demand Factor, okay, because that could be calculated, okay, easily, because if you know
+Du Ya Ping, 0 hours 24 minutes 24 seconds, you have no detail of that piece of equipment, you can find out the connector easily based on the nameplate data of the equipment, okay? And if you want to know the maximum amount for that group of
+Du Ya Ping, 0 hours 24 minutes 37 seconds, Loads, you need to know this one, and the sensing we call the maximum Demand factor.
+Du Ya Ping, 0 hours 24 minutes 48 seconds, So, we introduced this concept, the maximum demand factor. It is equal to maximum demand for a group of loads
+Du Ya Ping, 0 hours 24 minutes 58 seconds, Divided by total connect load of those global loads.
+Du Ya Ping, 0 hours 25 minutes 4 seconds, And usually, this one in our calculation, or in our estimation stage, this one is available.
+Du Ya Ping, 0 hours 25 minutes 12 seconds, Okay, it's available, okay? For example, the COP…
+Du Ya Ping, 0 hours 25 minutes 16 seconds, For warning regulations, provide that kind of… provide some kind of tables Okay.
+Du Ya Ping, 0 hours 25 minutes 22 seconds, containing, such kind of, figure, okay, figure. So that one is available. So if this one is available, and the total connect load normally can be calculated easily, then we can determine the maximum demand, okay, by using, this, formula, okay?
+Du Ya Ping, 0 hours 25 minutes 44 seconds, So, usually, you know, in the COP, this maximum demand factor,
+Du Ya Ping, 0 hours 25 minutes 54 seconds, the name is different, slightly different. It's called the Allowance for Diversity, but actually, this one is similar to that one, okay? So let's look at that table, okay?
+Du Ya Ping, 0 hours 26 minutes 9 seconds, So this is the one, okay, provided in the COP. Okay, so you can see, this is called, allowance for diversity, okay? You have, different kind of loads, okay, lighting.
+Du Ya Ping, 0 hours 26 minutes 24 seconds, heating device, cooking, appliances, some kind of motor for the lifts, okay? And here you got, air conditioners.
+Du Ya Ping, 0 hours 26 minutes 37 seconds, AC units, okay? And, this… those are the socket outlets. This is for 15 amp socket outlets, this is for 13 amp socket outlets, okay? And, this is for, refrigerator, okay? So, for each type of load, you have 3 different
+Du Ya Ping, 0 hours 26 minutes 54 seconds, category or classes. This is for in the individual household, this is for small, short, and, this is for some, hotel or guest house, yeah, etc. Yeah, so if you look… look at the first one, the lighting, you can see 60…
+Du Ya Ping, 0 hours 27 minutes 12 seconds, 6% of total current demand.
+Du Ya Ping, 0 hours 27 minutes 15 seconds, The total current demand is the connector low, the data from the nameplay of the lighting device. 66%, that is the… you can say that here's called the allowance for diversity, but actually this is the
+Du Ya Ping, 0 hours 27 minutes 31 seconds, Demand factor, Demand factor. They are the same, they are the same.
+Du Ya Ping, 0 hours 27 minutes 35 seconds, So that is the… the WIN, okay, we usually use, okay? And, but…
+Du Ya Ping, 0 hours 27 minutes 42 seconds, For some other loads, that one slightly changed, okay? If you look at this one.
+Du Ya Ping, 0 hours 27 minutes 50 seconds, For circuit outlet circuit, we know from the schema drawing, we have the ring type socket outlet circuit, right? And 100% of the current amount of the largest circuit, plus 40% current amount of the every other circuit.
+Du Ya Ping, 0 hours 28 minutes 9 seconds, Okay? So, here is slightly different from the other one. You have, two…
+Du Ya Ping, 0 hours 28 minutes 15 seconds, items. The second one, okay, 40% of blah blah blah is very similar to the lighting circuit, but you have to add the 100% for the largest one. So this additional one, okay? So this is a variation of this
+Du Ya Ping, 0 hours 28 minutes 30 seconds, Demand… Factor, and so here we call those are the allowance.
+Du Ya Ping, 0 hours 28 minutes 40 seconds, for diversity, okay? So…
+Du Ya Ping, 0 hours 28 minutes 48 seconds, So, for example, here,
+Du Ya Ping, 0 hours 28 minutes 53 seconds, You estimate the maximum demand for those group of loads. They are the lighting, the socket outer circuit.
+Du Ya Ping, 0 hours 29 minutes 0 seconds, And, you have three, according to that, statement, you… The largest one, you need to multiply by 100%, because they are all the same. 30, you got two, not three, two. The largest one, because they are the same. So it is equal to 30,
+Du Ya Ping, 0 hours 29 minutes 19 seconds, plus 40% of other one, okay? Others, so it is equal to…
+Du Ya Ping, 0 hours 29 minutes 39 seconds, Right? Okay, this is equal to 100% of the largest one, 40% of the others, okay? So overall here is… this is 30, this is a 12, right? So 42 ending.
+Du Ya Ping, 0 hours 29 minutes 53 seconds, So that is the maximum amount for that group of circuits.
+Du Ya Ping, 0 hours 29 minutes 58 seconds, Saka Oresaki.
+Du Ya Ping, 0 hours 30 minutes 6 seconds, So, there is the…
+Du Ya Ping, 0 hours 30 minutes 11 seconds, Demand factor, or allowance for diversity, okay?
+Du Ya Ping, 0 hours 30 minutes 19 seconds, All right, okay, we got the examples here, okay? So here, we have, domestic flats, okay? The distribution bar for domestic flat, we got 10 number of, lamps, okay? And, 6 number of frozen lamps, okay? The, the, the first one was 10.
+Du Ya Ping, 0 hours 30 minutes 38 seconds, lamps. And then we have the two ring final circuit, and one number of 3 kilowatts, storage type wall heater, and then one unit for dining and living room, okay? This is the air conditioning equipment, okay? And totally, we have three.
+Du Ya Ping, 0 hours 30 minutes 55 seconds, Yeah, we have seen. So we, just use the table, okay? COP table, okay? find out the maximum amount for each…
+Du Ya Ping, 0 hours 31 minutes 8 seconds, type of loads, okay? So, first of all, we need to find all the connect loads for
+Du Ya Ping, 0 hours 31 minutes 16 seconds, that group of circuits, the connect loads, okay? So…
+Du Ya Ping, 0 hours 31 minutes 43 seconds, So, the maximum demand for each group of loads equal to connect loads times them
+Du Ya Ping, 0 hours 31 minutes 49 seconds, Maximum Demand Factor, or here called the allowance, okay, the same, okay? So, the maximum demand, okay, connect load.
+Du Ya Ping, 0 hours 31 minutes 57 seconds, Can be calculated by using the nameplate data.
+Du Ya Ping, 0 hours 32 minutes 0 seconds, Okay, which provide… that means the data, the power consumption or current consumption from the name place of the equipment, okay? So you can say this is the largest current, the equipment.
+Du Ya Ping, 0 hours 32 minutes 12 seconds, We consume, okay? So, here for 10 number of the LAMPs, because this is… those are just the resistive loads, okay? So the power factor equal to 1, so total power here.
+Du Ya Ping, 0 hours 32 minutes 25 seconds, divided by 200, and 10 is the resistance, and this one, the inductive loads. So here, for fluorescent fittings, we have to multiply by 1.8. This is the
+Du Ya Ping, 0 hours 32 minutes 41 seconds, multiply factors for, particularly for frozen lamps, okay? But not for others. So if you have the frozen lamps, then you have to use the 1.8 again.
+Du Ya Ping, 0 hours 32 minutes 55 seconds, multiplying factor, okay? And divide by the voltage, you got the current. So that is the connected loads, which is calculated based on the nameplay data, okay? And the allowance here means the
+Du Ya Ping, 0 hours 33 minutes 11 seconds, Maximum Demand Factor. So that one is 66%, so…
+Du Ya Ping, 0 hours 33 minutes 17 seconds, The maximum demand for that group of… Loads is 4.3 MPs.
+Du Ya Ping, 0 hours 33 minutes 26 seconds, Okay? And for socket area, we just talked about, okay, here, yeah, first one is 100%, the other 40%, so it's a 42. So here is a…
+Du Ya Ping, 0 hours 33 minutes 41 seconds, 42, 30 plus 12, okay?
+Du Ya Ping, 0 hours 33 minutes 43 seconds, And for what heater, The first wall heater, okay, again?
+Du Ya Ping, 0 hours 33 minutes 49 seconds, Calculate the connect load.
+Du Ya Ping, 0 hours 33 minutes 51 seconds, Okay? Again, the heater is a resistive heater, so the power factor is equal to 1,
+Du Ya Ping, 0 hours 33 minutes 57 seconds, So it's power divided by voltage, so 13.6 mAs. And, allowance is 100%,
+Du Ya Ping, 0 hours 34 minutes 10 seconds, What Peter?
+Du Ya Ping, 0 hours 34 minutes 14 seconds, wall heater, okay? So, 100%, Okay, for the largest one, yeah?
+Du Ya Ping, 0 hours 34 minutes 24 seconds, And, for air conditioners, okay.
+Du Ya Ping, 0 hours 34 minutes 28 seconds, We have 3 units, the largest one is 18MP, the smaller, the other, others are 7 ampies, okay? So, air-conditioned unit, okay, 100% for the largest one, and 40% for others.
+Du Ya Ping, 0 hours 34 minutes 43 seconds, Yeah.
+Du Ya Ping, 0 hours 34 minutes 45 seconds, So, 100% for the largest ones, 18, and 40% for others, and the overall here is, 23.6 million.
+Du Ya Ping, 0 hours 34 minutes 56 seconds, Alright? So, up to now.
+Du Ya Ping, 0 hours 34 minutes 59 seconds, we find out the maximum demand, okay, for each group of loans, okay? And then we add together, and then we may come up with the total maximum demand for
+Du Ya Ping, 0 hours 35 minutes 13 seconds, This distribution ball.
+Du Ya Ping, 0 hours 35 minutes 16 seconds, But actually, Where…
+Du Ya Ping, 0 hours 35 minutes 19 seconds, you add together, this is a distribution ball. So here, you have to consider another factor we call diversity factor, okay?
+Du Ya Ping, 0 hours 35 minutes 29 seconds, Diversity effect normally is not… not equal to 1. Normally, it's greater than 1, okay? So, the actual maximum demand will be less than
+Du Ya Ping, 0 hours 35 minutes 40 seconds, the figure given in this table, okay? So we talk about the diversity back in the next slide, okay? So you don't need to worry this figure here, but you have to understand, okay, how those figures
+Du Ya Ping, 0 hours 35 minutes 55 seconds, Pim out, okay?
+Du Ya Ping, 0 hours 36 minutes 3 seconds, All right, so in the previous discussion, we know, okay, if I know the connector loads, I can find out the maximum demand by using the Maximum factor, or allowance. And, in the electrical installation, just like water waste,
+Du Ya Ping, 0 hours 36 minutes 21 seconds, saw the scheme, okay, there. So you have, different circuits. Ya not just need to know that this circuit, maximum demand, but also need to know the incoming circuit here, and then the incoming circuit there.
+Du Ya Ping, 0 hours 36 minutes 36 seconds, So, let's see if I know the maximum demand here for each circuit, how can we find out the maximum demand for incoming circuit?
+Du Ya Ping, 0 hours 36 minutes 45 seconds, And we used a similar approach we discussed earlier, okay? Because we know that, okay, those demands, okay.
+Du Ya Ping, 0 hours 36 minutes 55 seconds, Changed with time, okay? And the…
+Du Ya Ping, 0 hours 36 minutes 59 seconds, operation pattern will be different, or maybe caused by the time of use, okay? So the actual Maximum may not appear at the same time for all those circuits.
+Du Ya Ping, 0 hours 37 minutes 10 seconds, Okay, so there, again, we need to consider a factor here for distribution ball, okay, or for the switch ball. And we call that one is the
+Du Ya Ping, 0 hours 37 minutes 21 seconds, Maximum, diversity factor.
+Du Ya Ping, 0 hours 37 minutes 28 seconds, So, diversity factor defined as slightly different from that, the maximum demand factor, okay? So, it is equal to maximum demand of the whole system, or the outgoing circuit, and here is the individual maximum demand, okay?
+Du Ya Ping, 0 hours 37 minutes 47 seconds, For the incoming circuit.
+Du Ya Ping, 0 hours 37 minutes 49 seconds, incoming set. So this one is like the inverse of the previous one, okay? Inverse of previous. So this one is greater than 1, the other one is less than 1, okay? So why we need to introduce, those two different
+Du Ya Ping, 0 hours 38 minutes 6 seconds, terms, okay? Diversity factor and the demand factor, okay? Well.
+Du Ya Ping, 0 hours 38 minutes 12 seconds, Those two factors are actually used for… in the different situations, okay?
+Du Ya Ping, 0 hours 38 minutes 21 seconds, So, if… You know, okay, that… Those are individual…
+Du Ya Ping, 0 hours 38 minutes 31 seconds, Piece of equipment, and if you know the kinet loads.
+Du Ya Ping, 0 hours 38 minutes 35 seconds, And then we… and I want to estimate the total maximum demand, then you need to use the factor, okay, demand factor. If the connect loads given, and then you apply the demand factor for the calculation of the maximum demand.
+Du Ya Ping, 0 hours 38 minutes 54 seconds, And if…
+Du Ya Ping, 0 hours 38 minutes 56 seconds, the maximum demand is given, not the connect low, okay? And then, you need to apply the diversity factor, diversity factor. So, basically, those two different factors are used for two different, situations, for two different situations, okay? So.
+Du Ya Ping, 0 hours 39 minutes 15 seconds, Here you can see, okay, demand factor normally,
+Du Ya Ping, 0 hours 39 minutes 20 seconds, Applied to a group of similar
+Du Ya Ping, 0 hours 39 minutes 22 seconds, circuit or loads. That means, if you look at that one, okay.
+Du Ya Ping, 0 hours 39 minutes 30 seconds, This one is given for similar
+Du Ya Ping, 0 hours 39 minutes 34 seconds, Loads, that means the lighting loads.
+Du Ya Ping, 0 hours 39 minutes 37 seconds, And this one is…
+Du Ya Ping, 0 hours 39 minutes 39 seconds, used for similar loads, that suck our circuit, and the wall heater, and the air conditioning. So, it's clear, okay, if you have the same type of loads, and then you…
+Du Ya Ping, 0 hours 39 minutes 51 seconds, Use the… Demand factor, okay, Demand factor.
+Du Ya Ping, 0 hours 39 minutes 56 seconds, And then here, you got the different type of loads. If you want to find the total maximum demand, then you have to use another one called the diversity effect. Diversity effect.
+Du Ya Ping, 0 hours 40 minutes 10 seconds, And it doesn't matter, okay, whether it's just the demand factor, diversification factor, normally they are available, okay, in some tables, and then you just need to pick up the right figure, and for a calculation, okay?
+Du Ya Ping, 0 hours 40 minutes 23 seconds, But remember, okay, they are using in different situations, and, when…
+Du Ya Ping, 0 hours 40 minutes 32 seconds, It's greater than 1, and it's less than 1, yeah.
+Du Ya Ping, 0 hours 40 minutes 45 seconds, And in this example, just put those two concepts together for the estimation, okay? So, you can see here, consider four individual feeder circuits.
+Du Ya Ping, 0 hours 40 minutes 56 seconds, Okay, with connect load of 250 kVA, 200, 150, and 400 kVA. So, that means this is a group of loads, or it doesn't matter, a group of loads or single loads, but connect load,
+Du Ya Ping, 0 hours 41 minutes 13 seconds, for, those loads are given. So, it's, 250, 200, 150, and 400.
+Du Ya Ping, 0 hours 41 minutes 22 seconds, Okay? And, allowance, okay, or the demand factor is given, 90%, okay? 80%, 75%, 85%, okay? And,
+Du Ya Ping, 0 hours 41 minutes 34 seconds, Well, if you want to estimate the maximum for an incoming circuit, and the diversity factor is given. So you can see this is less than 1, this is greater than 1.
+Du Ya Ping, 0 hours 41 minutes 46 seconds, Okay? So, the maximum demand is equal to for this…
+Du Ya Ping, 0 hours 41 minutes 55 seconds, Incoming circuit equal to maximum demand of individual circuit.
+Du Ya Ping, 0 hours 42 minutes 2 seconds, You then add them together, divide by 1.5.
+Du Ya Ping, 0 hours 42 minutes 7 seconds, Okay? So, you have to find the submission of the maximum demand, okay, for all those outgoing circuits, and that one is equal to 250 times the demand factor for first one, and then the second one, okay?
+Du Ya Ping, 0 hours 42 minutes 25 seconds, 80%, and just use that,
+Du Ya Ping, 0 hours 42 minutes 30 seconds, Formula, okay, to find out the submission of maximum demand for individual, piece of equipment, okay?
+Du Ya Ping, 0 hours 42 minutes 39 seconds, So, the total one is 837.5 kVA, and then divide that one by the diversity factor, and then it turns out to be 558 kVA.
+Du Ya Ping, 0 hours 42 minutes 55 seconds, So that is the maximum demand for incoming circuit.
+Du Ya Ping, 0 hours 43 minutes 1 seconds, So, you can see here,
+Du Ya Ping, 0 hours 43 minutes 4 seconds, How those factors are used, okay, in the calculation of the maximum demand, okay?
+Du Ya Ping, 0 hours 43 minutes 13 seconds, So, so usually with staff from…
+Du Ya Ping, 0 hours 43 minutes 20 seconds, The final circuit. Okay, first… And then move…
+Du Ya Ping, 0 hours 43 minutes 24 seconds, move to the MCB ball, or some logo distribution ball, and then to the maximum, or the, the, the, the final…
+Du Ya Ping, 0 hours 43 minutes 33 seconds, a switchball, or we call the main area switchball, yeah. So usually, here, you have a maximum demand, and then you use a diversity factor, and then you have a diversity factor here, and then you have a diversity factor here.
+Du Ya Ping, 0 hours 43 minutes 55 seconds, All right, so, this is the one approach, we use for the, determination… determination of, maximum demand for a different circuits, okay? You start from the final circuit, you can, move further down to the
+Du Ya Ping, 0 hours 44 minutes 11 seconds, the main circuit, and then you can determine the maximum demand for almost all the circuits, okay? So that's the one approach, okay? Normally, it's used in the detailed design stage.
+Du Ya Ping, 0 hours 44 minutes 23 seconds, Sometimes in the initial stage, we don't want to know the
+Du Ya Ping, 0 hours 44 minutes 30 seconds, you know, the maximum demand for one particular circuit, but we want to know the maximum demand for a whole electrical installation, okay? And that kind of information may be used to determine
+Du Ya Ping, 0 hours 44 minutes 45 seconds, the transformer rating. Okay, for example.
+Du Ya Ping, 0 hours 44 minutes 53 seconds, In this schematic, yeah, so probably the first thing we want to know is that the… how many transformers we want.
+Du Ya Ping, 0 hours 45 minutes 1 seconds, We want to know the maximum demand, okay? Okay, for the whole installation, and we don't want to…
+Du Ya Ping, 0 hours 45 minutes 8 seconds, We don't need to worry about the detail at this stage, okay? The maximum demand for this outgoing circuit. We can do it later, okay? But initially, we want to know, okay, how many transformers we want.
+Du Ya Ping, 0 hours 45 minutes 23 seconds, to have, and that one will help us to determine how large, how big the transformer lens window provides. So that will be determined in the initial design of
+Du Ya Ping, 0 hours 45 minutes 35 seconds, electrical insertion, okay? So, here we… we adopt a different approach. We call it a density approach.
+Du Ya Ping, 0 hours 45 minutes 48 seconds, So the density approach is relatively easy, okay? We don't need to worry that, you know, what equipment we need to install, okay? How many pieces of equipment we installed. We just want to know
+Du Ya Ping, 0 hours 46 minutes 3 seconds, the over, the… Let's see, okay,
+Du Ya Ping, 0 hours 46 minutes 11 seconds, The floor area, gross floor area.
+Du Ya Ping, 0 hours 46 minutes 14 seconds, for the whole building, of… for the whole installation, okay? So we know to figure out, okay, the floor… for example, we have 10 floors, right? And then figure out floor area for
+Du Ya Ping, 0 hours 46 minutes 28 seconds, We call it gross floor area, okay? For one floor, and then when you multiply by 10, because we assume the floor area is the same, okay?
+Du Ya Ping, 0 hours 46 minutes 37 seconds, for all those flaws, okay? If we know that one, okay, we then… the maximum demand can be determined by this simple way, okay? The low density, okay, the low density.
+Du Ya Ping, 0 hours 46 minutes 51 seconds, times raw area.
+Du Ya Ping, 0 hours 46 minutes 54 seconds, And then we'll put the submission here, because sometimes we need to
+Du Ya Ping, 0 hours 47 minutes 0 seconds, Divide the whole area into different
+Du Ya Ping, 0 hours 47 minutes 4 seconds, sub-areas, okay, sometimes, okay? And this is, for one particular type of area, and then we put together, okay?
+Du Ya Ping, 0 hours 47 minutes 13 seconds, put together, okay? And when you use that approach, sometimes we need to consider, what we call the fixed equipment.
+Du Ya Ping, 0 hours 47 minutes 23 seconds, loading, okay? So, apart from, the result from this, density, You know…
+Du Ya Ping, 0 hours 47 minutes 31 seconds, from this density, okay? We add some additional type of prima, we call a fixed agreement, and put it together, and then we can
+Du Ya Ping, 0 hours 47 minutes 40 seconds, find out the maximum demand for whole installation, yeah. And that pouch, okay.
+Du Ya Ping, 0 hours 47 minutes 46 seconds, It's normally used by the power company, because we want to estimate
+Du Ya Ping, 0 hours 47 minutes 52 seconds, the maximum demand for whole installation, for whole building. The power company wants to know Okay?
+Du Ya Ping, 0 hours 48 minutes 0 seconds, how many transformers they need to put in this building, right? And how big or large the transformer they… they need to… they… they need to have. So this is the information the power company wants to know, okay? So they normally use… adopt this approach to determine the maximum demand, okay?
+Du Ya Ping, 0 hours 48 minutes 25 seconds, All right, and so this is the table egg trade.
+Du Ya Ping, 0 hours 48 minutes 29 seconds, Extract from the… Clp.
+Du Ya Ping, 0 hours 48 minutes 35 seconds, COP, for substation design, okay? So that… this is a COP, not the… the one…
+Du Ya Ping, 0 hours 48 minutes 43 seconds, Published by EMSD, it's, published by the power company, COP, I think it's,
+Du Ya Ping, 0 hours 48 minutes 50 seconds, 215, I guess, okay, I couldn't remember exact number, okay, maybe 215, or… or… or, yes, 21… 21… 205, okay, so…
+Du Ya Ping, 0 hours 49 minutes 1 seconds, Okay, we will find out the code number later, okay? So you can see…
+Du Ya Ping, 0 hours 49 minutes 6 seconds, They… this is for commercial buildings.
+Du Ya Ping, 0 hours 49 minutes 11 seconds, They put the, the list here, you can see, commercial complex.
+Du Ya Ping, 0 hours 49 minutes 18 seconds, That means the mixed, right? You have commercial, you have commercial, you have maybe have some other.
+Du Ya Ping, 0 hours 49 minutes 25 seconds, things, okay? 0.3, the density figure is 0.3, okay? And for a general shot, okay, 0.6 is, okay, 2, I think, okay, I don't, have full notes here, okay? The one with, air conditioning.
+Du Ya Ping, 0 hours 49 minutes 40 seconds, That weren't, without air conditioning, yeah?
+Du Ya Ping, 0 hours 49 minutes 45 seconds, And for hotel, okay, and for office.
+Du Ya Ping, 0 hours 49 minutes 49 seconds, for cinema, and for car parts, so the density figure would be different. So that's why we need to have a submission, because one building may have
+Du Ya Ping, 0 hours 49 minutes 58 seconds, you know, different types of area. You may have a car park, may have an office, you may have a commercial, area, okay? So, you need to find out the gross for area for each type, okay, you know,
+Du Ya Ping, 0 hours 50 minutes 16 seconds, for each type, okay, things here. And,
+Du Ya Ping, 0 hours 50 minutes 21 seconds, Then you add together, don't forget that the last one is called a fixed equipment, so here, they just use lifts.
+Du Ya Ping, 0 hours 50 minutes 31 seconds, Okay, as a reference for fixed equipment, okay? Of course, okay, we have some other
+Du Ya Ping, 0 hours 50 minutes 38 seconds, things, like, public lighting, like, warp pumps, okay? Fresh water pump, okay? Whatever, okay? So they…
+Du Ya Ping, 0 hours 50 minutes 48 seconds, Because this initial design, okay, they don't need to know the detail. They just cut the number of the lifts.
+Du Ya Ping, 0 hours 50 minutes 55 seconds, Okay? And this lift… each lift consumes 40KVA, 40KVA. But actually, this…
+Du Ya Ping, 0 hours 51 minutes 5 seconds, the actual power consumption for LIB will be less than 1, maybe 20 or 30. So, 40 means some additional service
+Du Ya Ping, 0 hours 51 minutes 14 seconds, the loading, okay, for additional… additionally for service, they also included. So you don't need to worry about the other things, okay? You just count the number of lifts. This already can include.
+Du Ya Ping, 0 hours 51 minutes 27 seconds, other… the loading for other services, okay? So you have density figures, you have the fixed equipment figures, you add together, and then you can come up with the maximum demand for whole installation. So this approach.
+Du Ya Ping, 0 hours 51 minutes 43 seconds, Normally.
+Du Ya Ping, 0 hours 51 minutes 44 seconds, Use, okay, in the initial design, okay? And used to determine number of transformers and the largest… the size of the transformer.
+Du Ya Ping, 0 hours 51 minutes 56 seconds, All right, okay, before we take a break, okay, I just, have a footnote here. So, what we did here is just the estimation. This is not actual results, okay? So, estimation certainly could be different from the
+Du Ya Ping, 0 hours 52 minutes 12 seconds, you know, actual one, okay? So, usually, that, based on that approach, the estimation will be… actually be
+Du Ya Ping, 0 hours 52 minutes 22 seconds, Lit will be greater than the…
+Du Ya Ping, 0 hours 52 minutes 24 seconds, I mean, the estimation will be greater than the actual value, okay? But…
+Du Ya Ping, 0 hours 52 minutes 29 seconds, anything could happen, okay? So usually, the estimation, okay, the result.
+Du Ya Ping, 0 hours 52 minutes 36 seconds, For the safety reason, you may add the additional safety margin, okay?
+Du Ya Ping, 0 hours 52 minutes 46 seconds, to that estimated results. For example, 20%, or sometimes maybe 50%, okay? Well, of course, this kind of safety margin, subject to approval from the power company, okay? Okay, so there's some kind of negotiation, okay? How much
+Du Ya Ping, 0 hours 53 minutes 5 seconds, additional margin.
+Du Ya Ping, 0 hours 53 minutes 7 seconds, We need to consider, okay?
+Du Ya Ping, 0 hours 53 minutes 11 seconds, in the… in your request for the electricity, okay? But anyway, okay, this is the approach, okay, we need to follow, okay?
+Du Ya Ping, 0 hours 53 minutes 20 seconds, in your design, it's a first step with STEM.
+Du Ya Ping, 0 hours 53 minutes 25 seconds, Alright, so, let's take a 10-minute break, okay?
+Du Ya Ping, 0 hours 53 minutes 29 seconds, We have, after break, we talk about the tariff, okay? And Tariff, okay, the charge, okay?
+Du Ya Ping, 0 hours 53 minutes 40 seconds, By the… the power company for using the electricity, okay? And then we have, this week, okay, we have a tutorial session, regarding this, that kind of category. The calculation is very straightforward, okay? So we have a tutorial session for that topic.
+Du Ya Ping, 0 hours 53 minutes 57 seconds, Okay, this, Thursday evening, no, sorry, Thursday afternoon, and there's another group,
+Du Ya Ping, 0 hours 54 minutes 5 seconds, The coming… incoming Monday, the Monday, next Monday, okay. All right, so let's take a break, okay?
+Du Ya Ping, 0 hours 56 minutes 1 seconds, Alright, okay, let's… talk about the tariffs, okay? So, basically, this is the…
+Du Ya Ping, 0 hours 56 minutes 12 seconds, way, okay, for power company to charge the customer for using the electricity, okay? And
+Du Ya Ping, 0 hours 56 minutes 20 seconds, There are different, structures, okay, for charging the customer, and here, you can see…
+Du Ya Ping, 0 hours 56 minutes 31 seconds, the items, okay, which can be used for, determining the charge, okay? Of course, the first one is the most important one, okay? The energy, okay? How much energy consumed by the, the customer, okay? So we call this is the,
+Du Ya Ping, 0 hours 56 minutes 49 seconds, energy charge, okay, is determined by the, we call it the amount of electricity consumed in kilowatt hour. So kilowatt hour means, the power times the
+Du Ya Ping, 0 hours 57 minutes 5 seconds, tying, yeah.
+Du Ya Ping, 0 hours 57 minutes 13 seconds, So, the NH, okay, or the electricity is type of energy, okay? So, NH is equal to power times the time, okay? For example, if the… the power consumption, a particular, for the particular piece of equipment is 1 kilowatts.
+Du Ya Ping, 0 hours 57 minutes 32 seconds, And, we rent this equipment for 1 hour.
+Du Ya Ping, 0 hours 57 minutes 39 seconds, And then the energy consumption by this piece of equipment is 1 kilowatt hour.
+Du Ya Ping, 0 hours 57 minutes 47 seconds, One kilowatt. So, kilowatt hour is the unit for energy.
+Du Ya Ping, 0 hours 57 minutes 52 seconds, charge, okay? So, based on the number of kilowatt hour, the power company will determine the total energy charge, energy charge, okay? So,
+Du Ya Ping, 0 hours 58 minutes 4 seconds, There's the first one, okay? The second one is the Maximum Demand Charge.
+Du Ya Ping, 0 hours 58 minutes 11 seconds, The maximum demand can be in kilowatts KV. Okay, in most cases, we use kilowatts.
+Du Ya Ping, 0 hours 58 minutes 17 seconds, And a KVA, okay? So, that… the maximum amount.
+Du Ya Ping, 0 hours 58 minutes 26 seconds, in KVA.
+Du Ya Ping, 0 hours 58 minutes 30 seconds, So, why… Power company charge the customer For the Maximum, okay?
+Du Ya Ping, 0 hours 58 minutes 38 seconds, Because, you know, the power or the energy delivers through the utility system. The transformer, so the transformer from the line cable into the customers. So each transformer, or each particular cable.
+Du Ya Ping, 0 hours 58 minutes 54 seconds, You know, has a limit, up limit for
+Du Ya Ping, 0 hours 58 minutes 59 seconds, power delivery. For example, the transformer
+Du Ya Ping, 0 hours 59 minutes 11 seconds, The typical transformer rating for the, the one used in building is 1,500 KVA.
+Du Ya Ping, 0 hours 59 minutes 20 seconds, Okay, so, if the demand is much higher, okay, that means, you need to, let's say, demand over the 100,000… 1,500 kV, they need to
+Du Ya Ping, 0 hours 59 minutes 33 seconds, Provide two…
+Du Ya Ping, 0 hours 59 minutes 36 seconds, transformers. So they need to put additional piece of equipment, in the transformer room, and they would certainly, incur some, you know.
+Du Ya Ping, 0 hours 59 minutes 47 seconds, the cost, right? So they have, put the additional cost
+Du Ya Ping, 0 hours 59 minutes 52 seconds, to deliver the power or energy to that particular users, okay? So, if the demand is higher, then certainly, they will
+Du Ya Ping, 1 hours 0 minutes 3 seconds, charge you, more, okay? So, demand charge
+Du Ya Ping, 1 hours 0 minutes 8 seconds, is another item, okay, will be used, okay? And the demand charge is normally used for large customer, for commercial
+Du Ya Ping, 1 hours 0 minutes 17 seconds, Users, okay? Not, useful…
+Du Ya Ping, 1 hours 0 minutes 21 seconds, the residential users. For residential users, you just use the amount of energy consumed, okay?
+Du Ya Ping, 1 hours 0 minutes 28 seconds, And the third one is the fuel, okay?
+Du Ya Ping, 1 hours 0 minutes 32 seconds, Adjustment, okay, because, normally we use the,
+Du Ya Ping, 1 hours 0 minutes 38 seconds, the… the… the fuel, okay, import, okay, overseas, right? And the price of the fuel fluctuated, okay? And sometimes it's higher, and sometimes it's low, okay? So, but the rate here is normally fixed for energy consumption, for demand,
+Du Ya Ping, 1 hours 0 minutes 59 seconds, consumption. They are fixed, but the few costs
+Du Ya Ping, 1 hours 1 minutes 3 seconds, change from time to time. So they put the, additional item called the fuel adjustment, okay? If the fuel, cost higher, then they charge you more based on… they change the fuel.
+Du Ya Ping, 1 hours 1 minutes 17 seconds, adjustment, okay, to… to a certain level, okay? And if the… the… the fuel cost is lower, then they reduce that one, okay? So this is, again, used, okay, in, charging the customers, okay? And then some other things, okay?
+Du Ya Ping, 1 hours 1 minutes 33 seconds, This is a conservation in Kilua, okay? That means if you…
+Du Ya Ping, 1 hours 1 minutes 38 seconds, The customer or users, consider to implement some energy savings, techniques for their, equipment, and then the power company will provide some kind of
+Du Ya Ping, 1 hours 1 minutes 53 seconds, rebate, okay? They put, give you money back to the customer.
+Du Ya Ping, 1 hours 1 minutes 59 seconds, for your saving, the energy, okay? So this is kind of incentive, okay, for energy saving, okay?
+Du Ya Ping, 1 hours 2 minutes 8 seconds, But not that much, okay, maybe this is for…
+Du Ya Ping, 1 hours 2 minutes 13 seconds, Promoting purpose, okay, not, not, you know, a big chunk of part, yeah, for, for, for, for the whole charge.
+Du Ya Ping, 1 hours 2 minutes 23 seconds, And there's another one, okay, it's called a penalty. So, penalty for poor power factor, okay? And next week, we will talk about
+Du Ya Ping, 1 hours 2 minutes 34 seconds, power factor. So here, I just want to mention a little bit about this one, okay? Why we need to
+Du Ya Ping, 1 hours 2 minutes 41 seconds, Consider the power factor, okay?
+Du Ya Ping, 1 hours 3 minutes 6 seconds, Okay, we have 3 different types power.
+Du Ya Ping, 1 hours 3 minutes 9 seconds, Okay, defined for electrical circuit, okay, what we call the P is the real power, kilowatts. So this is the power actually used to do the job.
+Du Ya Ping, 1 hours 3 minutes 21 seconds, for lighting, for lifts for air conditioning equipment. So this is the power actually used for
+Du Ya Ping, 1 hours 3 minutes 30 seconds, conversion, right? The power, electricity, this amount of power converts to, lighting, convert to,
+Du Ya Ping, 1 hours 3 minutes 40 seconds, some other things, okay? So that's useful, okay? And the Q is the reactive power, this is not useful, but
+Du Ya Ping, 1 hours 3 minutes 48 seconds, Lot of equipment, okay, we consume the reactive power. For example, the inductor capacitor will consume the reactive power. But this one is not useful, okay?
+Du Ya Ping, 1 hours 4 minutes 1 seconds, And, S is the total power. We call the, total power. So total… this is a power triangle, okay? It's the right triangle.
+Du Ya Ping, 1 hours 4 minutes 14 seconds, And this theta here.
+Du Ya Ping, 1 hours 4 minutes 23 seconds, It's called a power factor.
+Du Ya Ping, 1 hours 4 minutes 31 seconds, Perfect, okay. So, the total power, KVA, is equal to lumen squared P squared plus Q squared.
+Du Ya Ping, 1 hours 4 minutes 42 seconds, Right? And this is useful. This is useless.
+Du Ya Ping, 1 hours 4 minutes 46 seconds, But if this one is large.
+Du Ya Ping, 1 hours 4 minutes 49 seconds, And then it will increase S.
+Du Ya Ping, 1 hours 4 minutes 52 seconds, Total power. And we know for a transformer, There's a limit, okay?
+Du Ya Ping, 1 hours 5 minutes 11 seconds, So there's a limit, 1,500 kV. That means there's a limit for this S.
+Du Ya Ping, 1 hours 5 minutes 17 seconds, The limit is 1,500K.
+Du Ya Ping, 1 hours 5 minutes 19 seconds, If this one's bigger, Because we got a limit.
+Du Ya Ping, 1 hours 5 minutes 25 seconds, P is smaller.
+Du Ya Ping, 1 hours 5 minutes 27 seconds, So that means one transformer, if this small, that means one transformer can just serve a small number of
+Du Ya Ping, 1 hours 5 minutes 37 seconds, users.
+Du Ya Ping, 1 hours 5 minutes 38 seconds, Because of this tubing.
+Du Ya Ping, 1 hours 5 minutes 40 seconds, And if this one is down to zero.
+Du Ya Ping, 1 hours 5 minutes 43 seconds, And the transformer rating is fully used for converging.
+Du Ya Ping, 1 hours 5 minutes 48 seconds, That means one transformer can serve a large Number of loans.
+Du Ya Ping, 1 hours 5 minutes 54 seconds, So, for the power company, of course, they want to maximize the efficiency of their equipment, which means
+Du Ya Ping, 1 hours 6 minutes 2 seconds, that one should… could be fully used. If it's perfect, it's fully used for conversion.
+Du Ya Ping, 1 hours 6 minutes 7 seconds, down to… This went down to Zoom.
+Du Ya Ping, 1 hours 6 minutes 11 seconds, Okay? And normally, they indicate the reactive power consumption by using
+Du Ya Ping, 1 hours 6 minutes 17 seconds, power factor, not just using the amount of this Q, okay? They use the power factor, which is the cosine theta. Cosine theta equal to P divided by S.
+Du Ya Ping, 1 hours 6 minutes 29 seconds, Okay, so you can see… The perfect case… Q is 0.
+Du Ya Ping, 1 hours 6 minutes 42 seconds, So, cosine theta.
+Du Ya Ping, 1 hours 6 minutes 44 seconds, It's equal to 1.
+Du Ya Ping, 1 hours 6 minutes 47 seconds, And if Q equal to 90 degree, Cosine theta is 0.
+Du Ya Ping, 1 hours 6 minutes 55 seconds, So, If this is 0… 90 degrees, Q is 0.
+Du Ya Ping, 1 hours 7 minutes 1 seconds, And if it's… sorry, yeah, right, 0 degree, Q is 0. If it is 90 degree, P is 0, which means there's no power
+Du Ya Ping, 1 hours 7 minutes 12 seconds, It's used for conversion.
+Du Ya Ping, 1 hours 7 minutes 14 seconds, So, of course, We want to have a power factor as high as possible. The perfect case is 1.0.
+Du Ya Ping, 1 hours 7 minutes 24 seconds, Okay? Of course, this is the ideal case, okay?
+Du Ya Ping, 1 hours 7 minutes 28 seconds, actual case cannot be such perfect, so the power company set some minimum power factor. The minimum power factor is
+Du Ya Ping, 1 hours 7 minutes 53 seconds, So the minimum power factor is 0.85.
+Du Ya Ping, 1 hours 7 minutes 57 seconds, 0.85, okay? So, if the actual, power factor
+Du Ya Ping, 1 hours 8 minutes 3 seconds, Hence combined the loads, less than 0.85.
+Du Ya Ping, 1 hours 8 minutes 6 seconds, Then, you got a penalty, that means… poverty, the power company, we…
+Du Ya Ping, 1 hours 8 minutes 16 seconds, Ask you to pay for this… this additional
+Du Ya Ping, 1 hours 8 minutes 19 seconds, Payment for this lower power factor, lower power factor.
+Du Ya Ping, 1 hours 8 minutes 23 seconds, So, of course, the higher the better, okay?
+Du Ya Ping, 1 hours 8 minutes 27 seconds, Wang is perfect.
+Du Ya Ping, 1 hours 8 minutes 29 seconds, Okay, of course, okay, usually we cannot achieve that perfect case, okay? But, .9, 0.95…
+Du Ya Ping, 1 hours 8 minutes 38 seconds, Sometimes at a target.
+Du Ya Ping, 1 hours 8 minutes 40 seconds, Power factor, okay? 0.9 or 0.95.
+Du Ya Ping, 1 hours 8 minutes 44 seconds, Alright, okay, so those are the, items, okay?
+Du Ya Ping, 1 hours 8 minutes 50 seconds, May be used for charging, the customer, or users, okay, for using the electricity, okay?
+Du Ya Ping, 1 hours 8 minutes 58 seconds, All right, and usually, there's some other point I want to raise, that usually.
+Du Ya Ping, 1 hours 9 minutes 4 seconds, power company provide the electricity at the low voltages. That is 380 volts, or 320 volts.
+Du Ya Ping, 1 hours 9 minutes 13 seconds, But sometimes, they can, provide the power at 11 KV, okay? And,
+Du Ya Ping, 1 hours 9 minutes 21 seconds, at the higher voltage, 11K. So, usually, the power company, if you do this one, that means the power company will not provide the transformers.
+Du Ya Ping, 1 hours 9 minutes 33 seconds, in the building. They just provide, the HV switchgear, okay?
+Du Ya Ping, 1 hours 10 minutes 2 seconds, Okay, so, this is a normal case, okay? The power company provides the LV supply
+Du Ya Ping, 1 hours 10 minutes 10 seconds, to the customers, and this is the case, okay, a power company provides 11 kV supply to the customers. So you see the difference? In this case, there's no transformers provided by the power company. So you do have the transformer rooms in the building, but those are the transformers
+Du Ya Ping, 1 hours 10 minutes 28 seconds, which belong to the landlord, landlord. So that means the… the… the initial cost, okay, installation cost by the power company will be less, so they can reduce the cost
+Du Ya Ping, 1 hours 10 minutes 42 seconds, for electricity. So, HV… Tariff, okay?
+Du Ya Ping, 1 hours 10 minutes 48 seconds, the union value cost. Normally, it's lower than the LV…
+Du Ya Ping, 1 hours 10 minutes 54 seconds, cost, okay, the union value, okay? For, I don't have,
+Du Ya Ping, 1 hours 10 minutes 59 seconds, Figure here, okay, let me see.
+Du Ya Ping, 1 hours 11 minutes 11 seconds, Okay, so, so I don't have, particular figures.
+Du Ya Ping, 1 hours 11 minutes 15 seconds, Here, okay? For example, if LV charge, the, energy, charge is $1 for one unit.
+Du Ya Ping, 1 hours 11 minutes 23 seconds, one unit equal to a kilowatt hour, 1 kilowatt hour, okay? If, $1, okay, at the LV side, okay, but probably…
+Du Ya Ping, 1 hours 11 minutes 34 seconds, 95 cents, okay, for one unit at the HV side. So you can save, like, 5%, okay, of the energy cost.
+Du Ya Ping, 1 hours 11 minutes 44 seconds, So, in that case, okay, you have to provide your own transformers into the building.
+Du Ya Ping, 1 hours 11 minutes 54 seconds, Alright, and here,
+Du Ya Ping, 1 hours 11 minutes 57 seconds, we need to talk about the actual tariff structure, and one is for domestic building, another one is for the commercial buildings, okay? So for the domestic users.
+Du Ya Ping, 1 hours 12 minutes 11 seconds, The structure's very simple. There's only… Two items…
+Du Ya Ping, 1 hours 12 minutes 18 seconds, to be considered, when is the, basic charge, there is the NH charge, okay, based on your amount of your
+Du Ya Ping, 1 hours 12 minutes 27 seconds, energy consumption, okay? The other one is a few…
+Du Ya Ping, 1 hours 12 minutes 34 seconds, adjustment, okay? So, in this case, the fuel adjustment is 22.4 cents per unit. And this is a table, actually, I… extra from the CLP. The website is actually the last year. And this year, they may change from time to time, okay? So this year, the figure could be different, okay?
+Du Ya Ping, 1 hours 12 minutes 55 seconds, So this is a fuel charge, and for the basic charge, or any charge, you can see
+Du Ya Ping, 1 hours 13 minutes 3 seconds, It's not really a constant, but actually, you know, see the steps, okay?
+Du Ya Ping, 1 hours 13 minutes 8 seconds, You have, steps, right? And, for the first… 400 units.
+Du Ya Ping, 1 hours 13 minutes 15 seconds, 400 kilowatt hours, right?
+Du Ya Ping, 1 hours 13 minutes 18 seconds, The rate is 81… .7 cents.
+Du Ya Ping, 1 hours 13 minutes 23 seconds, And for the next… $600 is increased to 94.5 cents. And if we,
+Du Ya Ping, 1 hours 13 minutes 32 seconds, energy consumption in one month, okay? Over 420,000 units, and then…
+Du Ya Ping, 1 hours 13 minutes 41 seconds, almost double, yeah, that means 173 cents. That means you, if you consume more energy, probably the cost
+Du Ya Ping, 1 hours 13 minutes 51 seconds, This is not linear increase, okay? Much will be…
+Du Ya Ping, 1 hours 13 minutes 54 seconds, Much higher than, you know.
+Du Ya Ping, 1 hours 13 minutes 58 seconds, Okay, then the… the costs. You have the… lower, energy consumption, okay?
+Du Ya Ping, 1 hours 14 minutes 7 seconds, All right, and, some kind of rebate, okay? I'm not going to talk about rebate, okay? This is…
+Du Ya Ping, 1 hours 14 minutes 14 seconds, incentives for energy savings. So if you fulfill certain requirements, and then you can get the rebate, which means you can get the money back from the power company.
+Du Ya Ping, 1 hours 14 minutes 24 seconds, If you… Adopt some kind of… And they're just saving…
+Du Ya Ping, 1 hours 14 minutes 30 seconds, Schemes, okay, in your home or in the building.
+Du Ya Ping, 1 hours 14 minutes 35 seconds, So this is actually the one used, for domestic users.
+Du Ya Ping, 1 hours 14 minutes 41 seconds, And for the, commercials, okay, there are two types, okay?
+Du Ya Ping, 1 hours 14 minutes 47 seconds, One is called a general… general service Tariff. That means for small…
+Du Ya Ping, 1 hours 14 minutes 52 seconds, users, okay, and the other one for big users, okay? With, with a large.
+Du Ya Ping, 1 hours 14 minutes 59 seconds, energy consumptions, okay? So for the, small users, which basically similar to the domestic users, you have, basic charge, you have the fuel charge, okay? And here, the…
+Du Ya Ping, 1 hours 15 minutes 15 seconds, the structure's relatively simple, you have two steps, right? Unlike the one here.
+Du Ya Ping, 1 hours 15 minutes 22 seconds, you have multiple steps. So here, the cost, okay, well, relatively lower than you know…
+Du Ya Ping, 1 hours 15 minutes 33 seconds, Domestic users, yeah.
+Du Ya Ping, 1 hours 15 minutes 36 seconds, If, if you have the same amount of energy consumption, yeah.
+Du Ya Ping, 1 hours 15 minutes 44 seconds, Alright, and
+Du Ya Ping, 1 hours 15 minutes 46 seconds, this one, okay, for large, power consumption users, okay? And, again, in this case, you have the energy charge.
+Du Ya Ping, 1 hours 15 minutes 58 seconds, And the fuel charge, you have an additional one called the Demand Charge.
+Du Ya Ping, 1 hours 16 minutes 2 seconds, Okay? So, few… Adjustment is the same.
+Du Ya Ping, 1 hours 16 minutes 8 seconds, And the energy charge… The rate, okay?
+Du Ya Ping, 1 hours 16 minutes 13 seconds, We'll be smaller than domestic users, and the small…
+Du Ya Ping, 1 hours 16 minutes 20 seconds, energy consumption users, okay? So this is, like, a 7 day cents per unit. This is the 98, okay? And here, if you have a larger amount.
+Du Ya Ping, 1 hours 16 minutes 33 seconds, Ener consumption is $1,173.
+Du Ya Ping, 1 hours 16 minutes 38 seconds, For each view, okay?
+Du Ya Ping, 1 hours 16 minutes 39 seconds, So that is the, NH charge, okay? But here, you can see there are two different…
+Du Ya Ping, 1 hours 16 minutes 51 seconds, Rates, adopt…
+Du Ya Ping, 1 hours 16 minutes 54 seconds, for different periods. One is called the unpick, another is the off-peak, okay? So, off-peak period, the rate is even
+Du Ya Ping, 1 hours 17 minutes 4 seconds, Lower than that one.
+Du Ya Ping, 1 hours 17 minutes 6 seconds, Okay? So, why we… the power company need… we set this kind of structure? This is also called a time-of-use structure, okay?
+Du Ya Ping, 1 hours 17 minutes 54 seconds, So this, let's say, the pattern, okay?
+Du Ya Ping, 1 hours 17 minutes 58 seconds, Use a pattern for one day, and then you see the high picker, and then lower…
+Du Ya Ping, 1 hours 18 minutes 6 seconds, value, okay? So this is the…
+Du Ya Ping, 1 hours 18 minutes 11 seconds, the picket there's the lowest value, okay? And, of course, okay, Here, that means…
+Du Ya Ping, 1 hours 18 minutes 22 seconds, The power company, may…
+Du Ya Ping, 1 hours 18 minutes 26 seconds, Reach the maximum demand, okay?
+Du Ya Ping, 1 hours 18 minutes 29 seconds, Maximum capacity of the transformer, okay? So if everybody…
+Du Ya Ping, 1 hours 18 minutes 34 seconds, As a, largest, demand, okay? At the same time, okay, this is called daytime.
+Du Ya Ping, 1 hours 18 minutes 42 seconds, This is the date high.
+Du Ya Ping, 1 hours 18 minutes 44 seconds, This is the ninth time.
+Du Ya Ping, 1 hours 18 minutes 49 seconds, So, if all the users have a high peak.
+Du Ya Ping, 1 hours 18 minutes 53 seconds, Demand during the daytime, and then the demand during the daytime is extremely high, then probably you need to add additional transformers, okay, by the power company in the building. So, certainly, this is not what we want. The power company want to see, and they…
+Du Ya Ping, 1 hours 19 minutes 11 seconds, Encourage user to ship some of the loans.
+Du Ya Ping, 1 hours 19 minutes 18 seconds, 2… 9 times.
+Du Ya Ping, 1 hours 19 minutes 21 seconds, If you can shift to some of the low…
+Du Ya Ping, 1 hours 19 minutes 24 seconds, Then, from daytime to nighttime, and the pattern may look like this.
+Du Ya Ping, 1 hours 19 minutes 33 seconds, And then you actually see the maximum demand during the
+Du Ya Ping, 1 hours 19 minutes 38 seconds, Daytime will be reduced, which means one transformer can serve more customers.
+Du Ya Ping, 1 hours 19 minutes 46 seconds, Okay, it'll help the power companies to save the…
+Du Ya Ping, 1 hours 19 minutes 50 seconds, installation cost, okay, for… for transformer, whatever, okay, they have, okay? So, that is, the… the target the power company wants to achieve. So, certainly, the power company can force the users to shift the load
+Du Ya Ping, 1 hours 20 minutes 8 seconds, from daytime to nighttime. So they used some structure, Tariff structure.
+Du Ya Ping, 1 hours 20 minutes 16 seconds, encourage the users to move, some of the loading from daytime to nighttime. So that's the thing they…
+Du Ya Ping, 1 hours 20 minutes 27 seconds, Okay, use, okay? Time of use, okay? So, if you… I used the… Render loads during the…
+Du Ya Ping, 1 hours 20 minutes 39 seconds, Evening time or non-time, Well, you… the cost, they set a lower rate, so the cost will be reduced.
+Du Ya Ping, 1 hours 20 minutes 48 seconds, So this is the incentives, okay, to the customer, to change the… the operation pattern. Operation pattern.
+Du Ya Ping, 1 hours 20 minutes 56 seconds, Shifting the loads from daytime to nighttime. And, so here, the daytime we call the peak period.
+Du Ya Ping, 1 hours 21 minutes 6 seconds, So, unpick, period.
+Du Ya Ping, 1 hours 21 minutes 12 seconds, This is an off-pick.
+Du Ya Ping, 1 hours 21 minutes 16 seconds, of it, okay? So, that's the strategy, okay, the power company.
+Du Ya Ping, 1 hours 21 minutes 20 seconds, End up, okay, to try to make the pattern of the pork consumption
+Du Ya Ping, 1 hours 21 minutes 27 seconds, more smooth, okay? They do not want to see the dramatic change, right? Okay, that's too much, okay? And they want to see the smooth curve, okay? If there's this constant curve that's perfect.
+Du Ya Ping, 1 hours 21 minutes 40 seconds, So, of course, that's not possible, but make that curve more smooth. Less fluctuation, okay? So this is their target, and the Tariff structure, okay, help
+Du Ya Ping, 1 hours 21 minutes 52 seconds, the power company to achieve that target, okay?
+Du Ya Ping, 1 hours 21 minutes 58 seconds, And,
+Du Ya Ping, 1 hours 21 minutes 59 seconds, Similarly, okay, for Demand Charge, they have on-pick period rates and off-peak rates, okay? And, of course, here, demand charge is…
+Du Ya Ping, 1 hours 22 minutes 11 seconds, calculated based on the maximum demand, okay? So this is, based on the…
+Du Ya Ping, 1 hours 22 minutes 19 seconds, total energy consumption in one month, and this is a figure, a single figure, okay? The maximum demand in one month.
+Du Ya Ping, 1 hours 22 minutes 30 seconds, Okay, so the Maximum may not occur
+Du Ya Ping, 1 hours 22 minutes 33 seconds, every day, maybe once in some certain time, okay? So it's called a Maximum Demand, okay, Maximum demand.
+Du Ya Ping, 1 hours 22 minutes 43 seconds, Okay.
+Du Ya Ping, 1 hours 22 minutes 44 seconds, So, Maximum Demand, they find the maximum demand, on peak period.
+Du Ya Ping, 1 hours 22 minutes 50 seconds, For example, they define 9 o'clock in the morning to
+Du Ya Ping, 1 hours 22 minutes 54 seconds, 9 o'clock in the evening. So that's the…
+Du Ya Ping, 1 hours 22 minutes 58 seconds, on-peak period, and then find the maximum demand in that time period. And then, 9 o'clock, in the evening to 9 o'clock in the morning, this off-peak period, again, they find the
+Du Ya Ping, 1 hours 23 minutes 12 seconds, Maximum in depth here. So depth here certainly is less than
+Du Ya Ping, 1 hours 23 minutes 16 seconds, the one, okay, in the, on-peak period. So you have two different maximum demands,
+Du Ya Ping, 1 hours 23 minutes 26 seconds, For the purpose of this item, okay.
+Du Ya Ping, 1 hours 23 minutes 33 seconds, So this is called a time.
+Du Ya Ping, 1 hours 23 minutes 35 seconds, of use, restructure, okay? And
+Du Ya Ping, 1 hours 23 minutes 39 seconds, You may say, okay, how can we…
+Du Ya Ping, 1 hours 23 minutes 41 seconds, in the building, how can we shift the loads during daytime to nighttime, okay? So, now here is, possible, things we can do, okay? So, in some cases, we can consider to install
+Du Ya Ping, 1 hours 23 minutes 57 seconds, Okay, here is called, ice storage.
+Du Ya Ping, 1 hours 24 minutes 1 seconds, Okay, so ice storage, okay, do the work, okay, cons… consume power consumption during the… 9 times.
+Du Ya Ping, 1 hours 24 minutes 14 seconds, Okay? And this, this amount of energy will be…
+Du Ya Ping, 1 hours 24 minutes 18 seconds, Released, okay, during the daytime for air conditioning.
+Du Ya Ping, 1 hours 24 minutes 23 seconds, purpose, okay? So that's the strategy, okay? And, you can use ice storage to store the energy, right?
+Du Ya Ping, 1 hours 24 minutes 31 seconds, at the 9th, okay, will be used in during 10. Or you can use some other energy storage device, for example, for example, the batteries.
+Du Ya Ping, 1 hours 24 minutes 40 seconds, Okay, just charge the battery, during, night time, and then use the energy stored in the battery during daytime. And in that way, you can
+Du Ya Ping, 1 hours 24 minutes 51 seconds, Shifted this, okay?
+Du Ya Ping, 1 hours 24 minutes 54 seconds, Cut this peak value, okay, pick, okay, and make the…
+Du Ya Ping, 1 hours 24 minutes 59 seconds, The curve, much more, smooth.
+Du Ya Ping, 1 hours 25 minutes 5 seconds, All right, okay, I think that's all the things I want to talk about today, okay? And, we have a tutorial session, this, Thursday, okay, and then next Monday.
+Du Ya Ping, 1 hours 25 minutes 18 seconds, This example regarding the demand, calculation and,
+Du Ya Ping, 1 hours 25 minutes 26 seconds, the charge… the energy charge, or demand charge, okay, calculation. So, that's all for the lecture today, okay?

@@ -1,0 +1,311 @@
+Recording 13
+Title: T (Grp A) - Generator Sizing
+Date: 2026-10-12
+Source: https://polyu.zoom.us/rec/play/zHuMhBi6DUDqMA6sVaYjGo9n2XXS2hq9ASZim14eFrsdP7m8IS5yCRV2vFy0llpIbhkbBTM8KDUawIpb.bVq36mUQVV18vCKd
+Automatic Zoom transcript; recognition errors retained.
+
+Du Ya Ping, 0 minutes 47 seconds, Okay, all right, yeah.
+Du Ya Ping, 0 minutes 51 seconds, Now we are going to talk about, some questions regarding the generator, okay? So, the first question, it's just a, AC type of question, and the other two.
+Du Ya Ping, 1 minutes 2 seconds, Related to the calculation, about the design, okay?
+Du Ya Ping, 1 minutes 8 seconds, design calculation, okay? So let's talk about the first one, okay?
+Du Ya Ping, 1 minutes 12 seconds, Question one, what problem will occur when the generating set is suddenly connected to the large KVLO?
+Du Ya Ping, 1 minutes 22 seconds, and large kilo What's load?
+Du Ya Ping, 1 minutes 26 seconds, What are the practical measures for solving this problem, those problems? So during the lecture, we talk about the voltage dip issue. And we know
+Du Ya Ping, 1 minutes 47 seconds, This is a voted.
+Du Ya Ping, 1 minutes 49 seconds, And this is the, I mean, this is the voltage, okay, nominal voltage, and this is the time, and we call this RMS value, so supposed to be, 320 volts, for the phase voltage. So let's say this is 320 volts.
+Du Ya Ping, 2 minutes 7 seconds, And, if you connect a large, KVA or kilowatts, to the generator, okay, so you will see certain, voltage dip, or voltage drop, okay? So the…
+Du Ya Ping, 2 minutes 24 seconds, The voltage,
+Du Ya Ping, 2 minutes 26 seconds, RMS value look like this, okay? We drop to a low level, and then after a certain time, it will go back to the nominal value, okay? So you can see this is a voter dip.
+Du Ya Ping, 2 minutes 41 seconds, This is a voted dip. Okay.
+Du Ya Ping, 2 minutes 44 seconds, And this voltage basically is caused by the internal impedance of the generator. And we know from the notes, there's an equivalent circuit.
+Du Ya Ping, 3 minutes 5 seconds, So this is resistance, reactance, and overall we call this ZS.
+Du Ya Ping, 3 minutes 11 seconds, Combined together?
+Du Ya Ping, 3 minutes 13 seconds, And this is a phase voltage
+Du Ya Ping, 3 minutes 16 seconds, And this is an internal induced voltage, and this is the current, I… A, okay? So, the phase voltage.
+Du Ya Ping, 3 minutes 25 seconds, is equal to, internal induced voltage minus the voltage draw. So the voltage drop is equal to the current times the ZS. ZS is the impedance of the generator, okay? So, if you…
+Du Ya Ping, 3 minutes 42 seconds, Before you connect load, to the generator. So it's supposed to be 220 volts, okay? So, before, okay.
+Du Ya Ping, 3 minutes 52 seconds, A.
+Du Ya Ping, 3 minutes 54 seconds, Connecting the load, okay? So, the face voltage…
+Du Ya Ping, 4 minutes 0 seconds, is equal to EA, that means the current is zero. It is equal to 220 volts, okay?
+Du Ya Ping, 4 minutes 7 seconds, And, after
+Du Ya Ping, 4 minutes 12 seconds, So, the… if you connect, then you see a volt, current, so this phase voltage is equal to
+Du Ya Ping, 4 minutes 21 seconds, The current times, the impedance.
+Du Ya Ping, 4 minutes 24 seconds, So you see this one, so suppose… because this is 300 volts, it does not change, instantaneously, okay? So, because of you have this kind of voltage drop, and then the phase voltage will be less than 300 volts. So that's why you… you see there's a voltage dip here.
+Du Ya Ping, 4 minutes 43 seconds, But after a certain time, because we have a voltage regulator, so the voltage regulator will take its action, and then we use to increase this
+Du Ya Ping, 4 minutes 54 seconds, internal induced voltage, and so the phase voltage eventually will go back to 220 volts. So the increase of this internal induced voltage will use to compensate the voltage drop.
+Du Ya Ping, 5 minutes 7 seconds, here, okay? So this is the, the reason, okay, why, okay, you see a voltage dip.
+Du Ya Ping, 5 minutes 15 seconds, Okay, when you connect the loads, no matter… this is the KVA or kilowatts, okay? So it certainly will cause the voltage dip, okay? All right, so the… one of the major reasons is that you have this
+Du Ya Ping, 5 minutes 30 seconds, internal impedance.
+Du Ya Ping, 5 minutes 33 seconds, This one is a, is a major, reason, okay, for.
+Du Ya Ping, 5 minutes 39 seconds, for this voltage. If the impedance is zero, there's no voltage, reduction, or no voltage dip, okay? So this is a primary reason, okay, you know, for, for voltage. Of course, the low current.
+Du Ya Ping, 5 minutes 55 seconds, is another factor, okay? If there's no current, okay, in the circuit, of course, no voltage, okay?
+Du Ya Ping, 6 minutes 2 seconds, Alright, okay? So, when you increase, connect the KVA load, or kilowatts low.
+Du Ya Ping, 6 minutes 13 seconds, to the Generator certainly you it will generate a current and the current will cause the voltage to dip okay so
+Du Ya Ping, 6 minutes 22 seconds, That's the reason, okay?
+Du Ya Ping, 6 minutes 26 seconds, And, if you connect the kilowatt load to the generator, okay, there's another effect that we need to consider, okay, when we talk about the VOIDET, is that, okay, because if you look at the nodes, this EA
+Du Ya Ping, 6 minutes 44 seconds, is equal to some constants times the flux.
+Du Ya Ping, 6 minutes 50 seconds, which is controlled by the field current times the speed of the engine
+Du Ya Ping, 6 minutes 56 seconds, Okay, so if you connect a large amount of kilowatts load to the generator, so that means you provide a very heavy mechanical load, okay, to the engine. So the engine speed certainly will be
+Du Ya Ping, 7 minutes 9 seconds, affect, so the engine speed certainly will be reduced. So if the engine speed is reduced, then the
+Du Ya Ping, 7 minutes 16 seconds, voltage… induced voltage will be reduced. So then.
+Du Ya Ping, 7 minutes 20 seconds, Go back to this one here, so you can see, okay?
+Du Ya Ping, 7 minutes 24 seconds, This one is reduced.
+Du Ya Ping, 7 minutes 27 seconds, And you have additional voltage drop, so that means the phase voltage certainly will be further reduced, okay? So per kilowatts, okay, it will affect the engine speed, and certainly it will reduce the internal induced voltage, and that will cause the voltage further, okay? So.
+Du Ya Ping, 7 minutes 47 seconds, That is the reason, okay? To answer this question, you have to draw this kind of diagram, and then give this kind of explanation, okay?
+Du Ya Ping, 7 minutes 55 seconds, So this is for, the problem, this part, and the second one is, second one is the, the solution, okay, for solving this problem, okay? And, that.
+Du Ya Ping, 8 minutes 12 seconds, couple of things, okay, actually list here, okay? You can see, choose a generator… generating set with a large, rating. So if you have large
+Du Ya Ping, 8 minutes 24 seconds, SG, which means the impedance will be smaller.
+Du Ya Ping, 8 minutes 31 seconds, Okay, so large generator rating. We have a smaller internal impedance, impedance here. So this is smaller, that means voltage dip will be smaller, okay? So this is the one thing you can do.
+Du Ya Ping, 8 minutes 43 seconds, And the second one, okay, reduce volume starting measure, so you use, start data starter to replace, okay, direct online starter. So that will reduce the…
+Du Ya Ping, 8 minutes 55 seconds, the current, okay? The starting current. And the starting current is reduced, so the voltage dip will be reduced, okay? So this is another method, and I use…
+Du Ya Ping, 9 minutes 8 seconds, stage starting, okay? So, for example, you have a number of motors, right? If you start
+Du Ya Ping, 9 minutes 16 seconds, all the motors together, you will see a very large starting current, right? No matter you start at a starter or other starter, okay? The starting current will be significantly high, so we consider, to, divide the loads, okay, the motors.
+Du Ya Ping, 9 minutes 34 seconds, Okay, into several stages.
+Du Ya Ping, 9 minutes 36 seconds, And then we start a small number of motor, in each stages. That means the starting current will be reduced, okay, in each stage, okay? And here, in question 2 and question 3, I talk about the sequence starting, okay? So you can see, by using the, stage starting or sequence starting, you can reduce the
+Du Ya Ping, 9 minutes 58 seconds, the… the loading, okay? IA, or we call it
+Du Ya Ping, 10 minutes 3 seconds, KVA, okay, significantly. So this is the third approach.
+Du Ya Ping, 10 minutes 9 seconds, a sort of measure, and the last one, okay, we can consider, higher acceptance capability, okay?
+Du Ya Ping, 10 minutes 20 seconds, So that means… Each, generator, okay, has a low acceptance capability, okay? And, normally, like, 60%.
+Du Ya Ping, 10 minutes 32 seconds, to 80%.
+Du Ya Ping, 10 minutes 34 seconds, So we can choose a generator with a large load acceptance capability, which means it can handle large kilowatts during the first
+Du Ya Ping, 10 minutes 46 seconds, starting, stage, okay? So, here are possible measures we can consider, to solve this voltage dip problem, or reduce the voltage dip, okay?
+Du Ya Ping, 10 minutes 59 seconds, Alright, okay, so this is the question one.
+Du Ya Ping, 11 minutes 5 seconds, Now let's talk about question 2
+Du Ya Ping, 11 minutes 8 seconds, This is, about the design, calculation. We need to determine the general, rating, okay? So we here, we give.
+Du Ya Ping, 11 minutes 18 seconds, table here which shows all the loads, okay, which they will be connected to the generator, okay, when the generator started.
+Du Ya Ping, 11 minutes 29 seconds, And we know some of the basic information, right? For the rated power efficiency, power factor, and if it's a motor, we also need to know the starting method and the starting factor, okay? So you can see the starting factor here, okay?
+Du Ya Ping, 11 minutes 46 seconds, And, we want to, we are given by…
+Du Ya Ping, 11 minutes 54 seconds, Some information, okay? So, the generator… The rating… Given, okay.
+Du Ya Ping, 12 minutes 4 seconds, Generating is, the rate… power rating of the generating set is 325 kVA.
+Du Ya Ping, 12 minutes 12 seconds, Okay? And we know the power factor also is not given here. The power factor is 0.8…
+Du Ya Ping, 12 minutes 18 seconds, And then you can find out.
+Du Ya Ping, 12 minutes 23 seconds, the watts, the… Generator, so, 325 times, okay, 0.8 is the.
+Du Ya Ping, 12 minutes 34 seconds, the real power rating, okay? And, we consider, two-stage Starting…
+Du Ya Ping, 12 minutes 46 seconds, Okay? And here we need to divide the loads into 2 groups. Okay? And we consider all the…
+Du Ya Ping, 12 minutes 59 seconds, the, the emergency loads, okay? Fireman's lift, okay?
+Du Ya Ping, 13 minutes 5 seconds, Fire service pump, and the emergency lighting. We put all those loads in the first stage, and the other one, other two, okay, lift, and the power socket, okay, socket outlet, loads, into the second group, okay? So, we have two stages, okay?
+Du Ya Ping, 13 minutes 24 seconds, starting, okay, plan, okay? Alright, so based on that one, we need to, determine whether this generator, okay, is adequate, for this group loads or not, okay?
+Du Ya Ping, 13 minutes 39 seconds, So, we need to…
+Du Ya Ping, 13 minutes 43 seconds, do the calculation, basic calculation. And the first one, okay, we need to find out Okay,
+Du Ya Ping, 13 minutes 50 seconds, For each loads.
+Du Ya Ping, 13 minutes 58 seconds, We need to find out, okay, Running data.
+Du Ya Ping, 14 minutes 5 seconds, And the starting data.
+Du Ya Ping, 14 minutes 9 seconds, For running data, we have
+Du Ya Ping, 14 minutes 15 seconds, We have the kilowatts.
+Du Ya Ping, 14 minutes 19 seconds, KVA For studying.
+Du Ya Ping, 14 minutes 22 seconds, data.
+Du Ya Ping, 14 minutes 23 seconds, We have, again, kilowatts and the KVA.
+Du Ya Ping, 14 minutes 28 seconds, So for each loads, we need to produce a table.
+Du Ya Ping, 14 minutes 32 seconds, Like this.
+Du Ya Ping, 14 minutes 36 seconds, Okay, like this, okay. So, here, we have, consider emergency lighting, okay? So, basically, all the loads can be divided into two groups, okay? We call the, for the calculation purpose, we call the
+Du Ya Ping, 14 minutes 51 seconds, resistive load and the inductive load, okay? So, first one is the lighting.
+Du Ya Ping, 14 minutes 57 seconds, Emergency lighting.
+Du Ya Ping, 15 minutes 1 seconds, Okay, and this is classified as the resistive load, which means there's no difference between
+Du Ya Ping, 15 minutes 9 seconds, Running data and the starting data. Same, okay? So for…
+Du Ya Ping, 15 minutes 16 seconds, This one, okay, because,
+Du Ya Ping, 15 minutes 20 seconds, the… the rating, the power rating, 50 watts is given. So this is actually is the raining, kilowatts. So this is a 50 kilowatts, okay? And.
+Du Ya Ping, 15 minutes 34 seconds, Learning KVA.
+Du Ya Ping, 15 minutes 36 seconds, So we know the KVA S equal to P divided by the power factor.
+Du Ya Ping, 15 minutes 44 seconds, So here is 50 kilowatts divided by point power factor 0.95.
+Du Ya Ping, 15 minutes 51 seconds, 0.95, okay? So you can find out the KVA and the kilowatts KVA and the starting condition, they are all the same as the data, okay, and the running mode, so there's no difference. They're the same, okay? So, the result is given here, so.
+Du Ya Ping, 16 minutes 12 seconds, 50, 53, sorry, okay, 50…
+Du Ya Ping, 16 minutes 18 seconds, in the 53. Again, 5th day in the 53, in the starting, condition. So they are the same, no difference, okay? And, another, low…
+Du Ya Ping, 16 minutes 30 seconds, Which considered as the resistive load is the socket outlet, so, the, real power is 80.
+Du Ya Ping, 16 minutes 38 seconds, The power factor is 0.95, so using a similar, formula, for the calculation. So 80, and this is 80 divided by 0.95, that tends to be 0.84. And this… those are the, starting data.
+Du Ya Ping, 16 minutes 53 seconds, they are the same as the, running data. So, by this… you know.
+Du Ya Ping, 16 minutes 59 seconds, approach, you can, find out the data, all the data, right? Starting and the running, okay, data, okay, for each of
+Du Ya Ping, 17 minutes 8 seconds, resistive load, okay? And for, inductive load, basically the motor is considered as inductive load, okay? So, we find the, real power.
+Du Ya Ping, 17 minutes 21 seconds, Okay, which is calculated by this formula.
+Du Ya Ping, 17 minutes 26 seconds, The output power divided by efficiency. So this power, for example, this lift, okay, 22.
+Du Ya Ping, 17 minutes 34 seconds, 22, okay, this is the,
+Du Ya Ping, 17 minutes 38 seconds, Output power. It's not the power received by the motor, it's the power
+Du Ya Ping, 17 minutes 45 seconds, divide, provided by the motor. This is the output power. So, we need to use the efficiency to find out the input power. So this is the input power. So efficiency here.
+Du Ya Ping, 17 minutes 57 seconds, For, for the lift here.
+Du Ya Ping, 17 minutes 59 seconds, So 22 divided by point Efficiency 0.92.
+Du Ya Ping, 18 minutes 6 seconds, Pi90. So the result is 24.
+Du Ya Ping, 18 minutes 10 seconds, 24, okay? Alright, and then, you need to find all the, KVA, so you can use this… that formula, okay? It's the same, okay? So in this case, the power factor here is a point…
+Du Ya Ping, 18 minutes 23 seconds, 0.92 again, so, it is equal to 24 divided by 0.92. So that is the KVA. KVA, okay?
+Du Ya Ping, 18 minutes 33 seconds, Alright, and for inductive loads, so certainly the starting data are different from the running data, okay? So, according to the notes, we need to find out
+Du Ya Ping, 18 minutes 44 seconds, The starting… KVA, okay?
+Du Ya Ping, 18 minutes 53 seconds, is equal to running KVA.
+Du Ya Ping, 18 minutes 58 seconds, Times the starting factor.
+Du Ya Ping, 19 minutes 1 seconds, starting factor, okay? So here, the starting factor is 3,
+Du Ya Ping, 19 minutes 7 seconds, So, this starting KVA, this running KVA. So, starting KVA is, equal to running KVA. Running KVA is 26.
+Du Ya Ping, 19 minutes 17 seconds, And the starting factor is 3.
+Du Ya Ping, 19 minutes 20 seconds, Alright, so the result is 78.
+Du Ya Ping, 19 minutes 24 seconds, 7 to 8, okay? And then…
+Du Ya Ping, 19 minutes 28 seconds, Go back to the starting kilowatts. So P starting.
+Du Ya Ping, 19 minutes 35 seconds, is equal to S starting.
+Du Ya Ping, 19 minutes 40 seconds, Times the power factor. So this power factor is
+Du Ya Ping, 19 minutes 43 seconds, is the power factor in the starting, condition. It's different from the power factor here, and this start factor, we, assume it is equal to 0.5 in all cases, okay? So, 78…
+Du Ya Ping, 20 minutes 0 seconds, Times starting factor, power factor is 0.5.
+Du Ya Ping, 20 minutes 5 seconds, Point 5.
+Du Ya Ping, 20 minutes 6 seconds, So, the result is… 39, 39, alright? Okay? So, we demonstrate the procedure for
+Du Ya Ping, 20 minutes 16 seconds, find out… finding out all the data, okay? Running data and the starting data for different types of loads, okay? Resistible and the inductive loads, okay? Alright, so then, by using that approach, you can
+Du Ya Ping, 20 minutes 29 seconds, you know, complete that, the table, right? Fill out all the, information required, okay? Here in the table, okay, for running kilowatt, running KVA and starting kilowatts and starting KVA, okay?
+Du Ya Ping, 20 minutes 46 seconds, All right, okay? So this is the… actually the first step we need to do, okay?
+Du Ya Ping, 20 minutes 54 seconds, Then, the second step, Because we start the loads.
+Du Ya Ping, 20 minutes 59 seconds, Stage by stage, so we need to do the calculation for
+Du Ya Ping, 21 minutes 4 seconds, kilowatts KVA for each stage. So we need to rearrange the loads according to the starting sequence. So here, we put the… the loads start in the first stage.
+Du Ya Ping, 21 minutes 18 seconds, First, and then the second stage is next. Of course, if you have a third stage, then you're followed by the third stage lobes, okay? Alright, and then…
+Du Ya Ping, 21 minutes 28 seconds, You see that this stage ID
+Du Ya Ping, 21 minutes 32 seconds, And this is stage one, stage two, and this final stage.
+Du Ya Ping, 21 minutes 36 seconds, steady state condition.
+Du Ya Ping, 21 minutes 43 seconds, Okay, so we, now let's look at the stage one, okay? In this case, group one will be started, so all the loads.
+Du Ya Ping, 21 minutes 53 seconds, Okay, under the starting condition. So we need to copy the starting data.
+Du Ya Ping, 22 minutes 0 seconds, starting kilowatts. Kva here.
+Du Ya Ping, 22 minutes 5 seconds, copy the other data, in the, in the, in the, in the column here, okay? So, for, fireman's lift is 39, 78. For fireman's, fire service pumps, 68.
+Du Ya Ping, 22 minutes 22 seconds, and 136. So those are the starting data. And then we can find out total kilowatts and the KVA, right? So this is the total kilowatts and the total KVA in stage 1, and the other loads
+Du Ya Ping, 22 minutes 37 seconds, I… Not yet started, okay, so nothing here, okay?
+Du Ya Ping, 22 minutes 43 seconds, All right, then, move to next stage. Okay, in the stage 2, the group 1 loads, they are already, operate under normal condition, right? So, we use the running data instead of a starting data. So, we copy the running data here, okay?
+Du Ya Ping, 23 minutes 0 seconds, to the currents here, okay? So all those are the rainy data, but the group 2, loads operate in the starting condition, so they are the starting data. So, in this case, part of loads.
+Du Ya Ping, 23 minutes 16 seconds, You know, have the, the starting data and the part of those have the learning data, ok again.
+Du Ya Ping, 23 minutes 26 seconds, you need to find out total kilowatts and the KVA, right? So certainly, you know, stage 2 data are different from the stage 1, right? So the kilowatts are higher than that one, and the KVA again higher than that one, okay?
+Du Ya Ping, 23 minutes 41 seconds, And then stage 3 or the final stage, everything is back to normal. So all loads consume the running data. Okay, so everything here.
+Du Ya Ping, 23 minutes 52 seconds, Renny?
+Du Ya Ping, 23 minutes 54 seconds, all together, 238 kilowatts and 255. So you can see the learning data in the final stage, actually are less than, you know, those figures in the, stage 2, okay?
+Du Ya Ping, 24 minutes 14 seconds, All right, okay, so that's, that's a step two, right? To, to come up with, the result for running, kilowatts and, I mean, for, for, kilowatts of KVA, in each stage. Okay, so this is the, the…
+Du Ya Ping, 24 minutes 35 seconds, That's step 2, okay? And then step 3, we're based on this, the stage, step 2 result, we need to, determine, or we need to find out the, suitable
+Du Ya Ping, 24 minutes 48 seconds, rating of the generator, okay? Because the… here, the generator rating is already given, okay, we just want to…
+Du Ya Ping, 24 minutes 55 seconds, Check that the rating is adequate or not, so…
+Du Ya Ping, 24 minutes 59 seconds, We know this one is 325 kV, so the Generate the kilowatts rating.
+Du Ya Ping, 25 minutes 10 seconds, is equal to 325 times 0.8.
+Du Ya Ping, 25 minutes 17 seconds, It's 260 kilowatts. So this is a real power rating, okay? And we need to check the requirement, okay? The first requirement is that, okay, under steady state condition, okay, the actual power, okay, this is, we call this CERS.
+Du Ya Ping, 25 minutes 35 seconds, stage, okay, should be less than, okay, the the general rating in kilowatts.
+Du Ya Ping, 25 minutes 44 seconds, Right? And here you see this is 238…
+Du Ya Ping, 25 minutes 50 seconds, kilowatts, and the PG is 260 kilowatts. So this requirement is considered a fulfiller, okay, fulfiller, okay?
+Du Ya Ping, 26 minutes 1 seconds, Alright, the second requirement, the transient power. So… The actual
+Du Ya Ping, 26 minutes 8 seconds, The transient power we consider the second stage.
+Du Ya Ping, 26 minutes 14 seconds, Div divide by 1.1 should be less than PG, or you can say the second stage
+Du Ya Ping, 26 minutes 24 seconds, Okay, power consumption should be less than, PG times 1.1, okay? So we allow, overload, 10% overload, okay, for a short period of time. And, oh, this one, you can just write, that one, okay? Let's see, okay.
+Du Ya Ping, 26 minutes 46 seconds, Okay, okay. So, the actual…
+Du Ya Ping, 26 minutes 57 seconds, Okay, I think.
+Du Ya Ping, 27 minutes 1 seconds, Yeah, okay. And, the… the channel power in the stage 2 is 260, so it is 260 kilowatts.
+Du Ya Ping, 27 minutes 12 seconds, Divide 1.1. So this one certainly is less than PG, because PG is 260 kilowatts.
+Du Ya Ping, 27 minutes 19 seconds, So there's no problem, again, for the second requirement, okay? So fulfilled, okay. And the third one is the low acceptance capability, and we know it's 80%.
+Du Ya Ping, 27 minutes 37 seconds, 80%, okay, of, flow, okay, in the first step.
+Du Ya Ping, 27 minutes 44 seconds, Step, okay, so that is the limit.
+Du Ya Ping, 27 minutes 48 seconds, Yeah, so… The actual power is 150
+Du Ya Ping, 27 minutes 54 seconds, 150, okay. So that means that P, first… Divide by 80%, should be less than PG.
+Du Ya Ping, 28 minutes 5 seconds, Okay, or you can say.
+Du Ya Ping, 28 minutes 8 seconds, real power in the first stage should be less than PG times 80%, okay? Either one is fine, okay? So, here, the first stage is 157 divided by 0.8, it is equal to
+Du Ya Ping, 28 minutes 23 seconds, 196 kilowatts, and this one is less than 260 kilowatts. Again.
+Du Ya Ping, 28 minutes 31 seconds, Okay, so… This low acceptance capability requirement, okay, is, Fulfilled, okay.
+Du Ya Ping, 28 minutes 44 seconds, Okay, and then the final requirement is the voltage dip requirement, and the requirement should be 15%, less than 15%, okay? So, here, we need to consider the largest one, the KVA is 330, and we use the graph
+Du Ya Ping, 29 minutes 4 seconds, Here.
+Du Ya Ping, 29 minutes 6 seconds, we look at the top one for 380 volt system, okay? And this 300 is 400, and you can see 15% here. Well, here we just have a rough estimation, okay? So, for 15%,
+Du Ya Ping, 29 minutes 26 seconds, Voted it.
+Du Ya Ping, 29 minutes 29 seconds, So, KVA, okay.
+Du Ya Ping, 29 minutes 38 seconds, is 340.
+Du Ya Ping, 29 minutes 42 seconds, KB, roughly, okay? So it's close to 350, okay, or a little bit less than 350, so I say this is 340. So for any.
+Du Ya Ping, 29 minutes 54 seconds, loading, KVA, less than 340, then the voltage will be less than 15%, right? And actually, the voltage here, we have
+Du Ya Ping, 30 minutes 7 seconds, is 300.
+Du Ya Ping, 30 minutes 10 seconds, 30 KVA. So, certainly, this one, we…
+Du Ya Ping, 30 minutes 16 seconds, have avoided dip less than 15%. So this one, we need to avoid it less than 15%. But I don't know
+Du Ya Ping, 30 minutes 25 seconds, exact the figure, okay? But, roughly, okay, we can, can see, okay, it is less than 15%. So, again, this requirement is fulfilled, okay? So, up to now, we.
+Du Ya Ping, 30 minutes 40 seconds, finished, all the calculation, and all the requirements, okay, are fulfilled, and then we conclude, okay, this generator, okay, 325 kVA generator.
+Du Ya Ping, 30 minutes 53 seconds, KVA.
+Du Ya Ping, 30 minutes 54 seconds, KVA, this KVA. This, this generator is good enough, okay, for, this.
+Du Ya Ping, 31 minutes 4 seconds, I mean, all the loads listed in the table.
+Du Ya Ping, 31 minutes 8 seconds, Okay. Alright, so that is the…
+Du Ya Ping, 31 minutes 14 seconds, Okay, okay, that is the, the solution for question 2.
+Du Ya Ping, 31 minutes 21 seconds, Okay? Alright?
+Du Ya Ping, 31 minutes 24 seconds, So, there are 3 steps.
+Du Ya Ping, 31 minutes 27 seconds, Alright? The first one, you need to complete, you know, the table, okay? And then, the second step, okay, create a table for each stage, and step 3, you need to check all the requirements, whether all the requirements are fulfilled or not, okay?
+Du Ya Ping, 31 minutes 48 seconds, Alright, okay, so this is a question 2, okay.
+Du Ya Ping, 31 minutes 52 seconds, And the question 3, is very similar, okay? Not… there's not much difference, okay? We are given by the loads, okay, here, and all the data given here, and we need to.
+Du Ya Ping, 32 minutes 9 seconds, So… Determine the size, but actually, so we, just want to say, okay, whether this 380,
+Du Ya Ping, 32 minutes 22 seconds, KVA generator, okay? It's got enough or not.
+Du Ya Ping, 32 minutes 27 seconds, go in there for now, okay? But in this question, so we don't know whether we need to have one step
+Du Ya Ping, 32 minutes 32 seconds, Or to step…
+Du Ya Ping, 32 minutes 33 seconds, or one stage or two stages starting, okay? So, first of all, you can try one stage starting, see whether it's adequate or not, and if not, then you can change to the two stages, right? So, if you want to have two stages, you need to divide the loads into two groups. So, usually, we.
+Du Ya Ping, 32 minutes 51 seconds, put the, the, the, fire service load in the first group, and the other loads in the second group. So, in this case, the essential lighting.
+Du Ya Ping, 33 minutes 2 seconds, And Fire Service Department, Fireman's Lift, 1, 2, 3. They are all in the first group, or in first stage.
+Du Ya Ping, 33 minutes 10 seconds, And the other two loads will be start in the second stage. So if you want to have two stages starting, then you can consider this, kind of arrangement, okay?
+Du Ya Ping, 33 minutes 24 seconds, Alright, again, so you have 3 steps.
+Du Ya Ping, 33 minutes 28 seconds, need to do, okay, the first step, you need to find out all the data, okay, for each loads, running data, and the starting data, by using the formula, the procedure we just talked about, okay? So here, I'm not going to repeat that kind of calculation, right? Just show the results.
+Du Ya Ping, 33 minutes 52 seconds, All right, and here, 1, 2, 3, okay, can be considered in the first group, okay, and 4, 5, and in the second group, okay?
+Du Ya Ping, 34 minutes 5 seconds, But in the table one, okay, in the first step, we just need to find out all the running data, starting data, okay? So those are running data and the starting data for all the loads, okay?
+Du Ya Ping, 34 minutes 16 seconds, Alright, and then,
+Du Ya Ping, 34 minutes 19 seconds, Step two, because this is a single stage starting, we just have one stage here, and this is one stage.
+Du Ya Ping, 34 minutes 30 seconds, All… because all the loads started, right? So the… we use the starting data. And then the second stage, it means the steady state, condition.
+Du Ya Ping, 34 minutes 40 seconds, everything back to normal, so this is the, running data, okay, running data. So this is the first stage, and this is the final stage, okay? And then you can see, the result. This, in the…
+Du Ya Ping, 34 minutes 53 seconds, Starting… condition, the power P is equal to 300,
+Du Ya Ping, 35 minutes 5 seconds, 70, okay? And the S is equal to 665.
+Du Ya Ping, 35 minutes 13 seconds, Okay.
+Du Ya Ping, 35 minutes 14 seconds, And, so, we have to make sure this one is less than, The generator
+Du Ya Ping, 35 minutes 26 seconds, can provide, okay? So, PG is eager to 380 times
+Du Ya Ping, 35 minutes 36 seconds, 0.8. So this one is equal to.
+Du Ya Ping, 35 minutes 45 seconds, 304 kilowatts. And, this one, okay, is greater than
+Du Ya Ping, 35 minutes 53 seconds, 3004 of them is greater than PG.
+Du Ya Ping, 35 minutes 57 seconds, Right? So, the first requirement is not fulfilled. So that means, of course, you can check the other
+Du Ya Ping, 36 minutes 4 seconds, requirement, okay? And again, the very deep requirement cannot be fulfilled. So, basically, we can say one stage starting
+Du Ya Ping, 36 minutes 15 seconds, It's not possible, okay, for this case, because, you know, some of the requirements cannot be fulfilled, cannot be fulfilled, okay? So we have to consider, two stages starting, okay?
+Du Ya Ping, 36 minutes 30 seconds, So, two, two stages, okay? So, again, if you have a two-stage, so you have to find the data. Stage one.
+Du Ya Ping, 36 minutes 38 seconds, and Stage 2 And the final stage.
+Du Ya Ping, 36 minutes 50 seconds, All right, okay? And, here, so you can see, the result, okay? The stage one, okay, is given here, because just consider all the starting, data, okay? So this, one, this, kilowatts.
+Du Ya Ping, 37 minutes 7 seconds, KVA.
+Du Ya Ping, 37 minutes 10 seconds, Stage 1 is… 166.
+Du Ya Ping, 37 minutes 14 seconds, And the 299. And the stage 2…
+Du Ya Ping, 37 minutes 21 seconds, Okay, this, stage 1 loads, in the steady state condition, stage 2 loads in starting condition, so this is the result, okay? 318…
+Du Ya Ping, 37 minutes 35 seconds, Kilowatts.
+Du Ya Ping, 37 minutes 36 seconds, And, 490.
+Du Ya Ping, 37 minutes 39 seconds, KVA.
+Du Ya Ping, 37 minutes 40 seconds, And the final, okay, there's no change, okay, KVA.
+Du Ya Ping, 37 minutes 45 seconds, So this is the 256 and 278.
+Du Ya Ping, 37 minutes 52 seconds, Right? Okay.
+Du Ya Ping, 37 minutes 54 seconds, Alright, then we can check the requirement, okay? The first one, okay, 250.
+Du Ya Ping, 38 minutes 2 seconds, 6 kilowatts, okay, and the limit is 304, right? So this one is less than PG.
+Du Ya Ping, 38 minutes 11 seconds, So this is accepted. And the second one, the transient. Transient, we use this one, okay? This is the final stage, okay? The three stages, okay? And this is the second stage.
+Du Ya Ping, 38 minutes 24 seconds, Divided by 1.1, so this is equal to 3018 divided by 1.1, okay? Certainly, this one is less than 304, right? So what is this thing here?
+Du Ya Ping, 38 minutes 41 seconds, the two… 289 kilowatts. Again, it's less than 304, so less than PG.
+Du Ya Ping, 38 minutes 50 seconds, So this is accepted. And then, first stage… Divide by… 80%.
+Du Ya Ping, 38 minutes 57 seconds, Should be less than PG, right? So first stage data, 166 divided by 0.8. So the result is… Oh.
+Du Ya Ping, 39 minutes 12 seconds, Well, okay, let's see…
+Du Ya Ping, 39 minutes 28 seconds, It's a 207, okay, kilowatts. Again, it's less than… this one is less than PG.
+Du Ya Ping, 39 minutes 37 seconds, Right? PG304. So again, the requirement is fulfilled. And, finally, the voted dip.
+Du Ya Ping, 39 minutes 47 seconds, 15%, and here, as the largest one, okay, here is 490.
+Du Ya Ping, 39 minutes 58 seconds, kilowatt, okay, VA. Okay, so we need to use the graph to determine the voltage
+Du Ya Ping, 40 minutes 4 seconds, So 490, it's about 500. So 500 here will be well again, it's very difficult to tell exact value. But certainly the VODIP. Okay.
+Du Ya Ping, 40 minutes 19 seconds, Maybe less than 15%. Or you may say this is a 14%.
+Du Ya Ping, 40 minutes 25 seconds, Roughly, it's equal to 14%. But definitely, it's less than 15%. All right. So again.
+Du Ya Ping, 40 minutes 33 seconds, the requirements for VOD is fulfilled, okay? So, the conclusion is that, okay, we… if we use the generator, okay, 380 kVA generator, we have to consider or adopt the two-stage starting.
+Du Ya Ping, 40 minutes 50 seconds, Okay? And if we do that way, then all the requirements can be fulfilled, okay?
+Du Ya Ping, 40 minutes 59 seconds, Alright, okay, so, that's the…
+Du Ya Ping, 41 minutes 3 seconds, solution for the third questions. Okay, third questions. Okay.
+Du Ya Ping, 41 minutes 11 seconds, Alright, any, question you want to ask?
+Du Ya Ping, 41 minutes 25 seconds, All right, if no, probably one more point, the last point I want to…
+Du Ya Ping, 41 minutes 30 seconds, Talk about is that, okay? Sometimes.
+Du Ya Ping, 41 minutes 35 seconds, We…
+Du Ya Ping, 41 minutes 39 seconds, We want to determine the fuel tank size. So this slide just gives us some information regarding the fuel tank.
+Du Ya Ping, 41 minutes 49 seconds, selection, okay? So, we can estimate fuel tank, size, based on the, the generate rating, okay? So we know each generator is supposed to run at least 6 hours.
+Du Ya Ping, 42 minutes 9 seconds, 6 hours, okay? And, let's say if we have the generate rating.
+Du Ya Ping, 42 minutes 15 seconds, 300.
+Du Ya Ping, 42 minutes 17 seconds, KVA. And the power… PG is 200.
+Du Ya Ping, 42 minutes 22 seconds, 40.
+Du Ya Ping, 42 minutes 24 seconds, Kilowatts. So, that means it need to provide the energy
+Du Ya Ping, 42 minutes 32 seconds, Okay, at least, okay, you know, for 6 hours. So, NH… is equal to 240 kilowatts.
+Du Ya Ping, 42 minutes 41 seconds, Times 6 hours.
+Du Ya Ping, 42 minutes 44 seconds, So, it is eager to…
+Du Ya Ping, 42 minutes 52 seconds, 240 times 6.
+Du Ya Ping, 42 minutes 56 seconds, This is equal to 1,040 1,440 kilowatt hour.
+Du Ya Ping, 43 minutes 4 seconds, QOL, okay? And, based on that one, we can roughly estimate the tank size.
+Du Ya Ping, 43 minutes 13 seconds, The tank size liter, it can be determined or estimated by the NH divided by 3.
+Du Ya Ping, 43 minutes 21 seconds, 5.
+Du Ya Ping, 43 minutes 22 seconds, Okay, you can see this figure.
+Du Ya Ping, 43 minutes 27 seconds, 3.1. That means each leader will consume 3,
+Du Ya Ping, 43 minutes 32 seconds, we produce 3.5 kilowatt hour, okay? And here we got the 144… 1,440 kilowatt hour.
+Du Ya Ping, 43 minutes 43 seconds, And then divide by 3.5.
+Du Ya Ping, 43 minutes 45 seconds, Kilowatt hour.
+Du Ya Ping, 43 minutes 47 seconds, Parida, okay.
+Du Ya Ping, 43 minutes 49 seconds, So, it is ego to.
+Du Ya Ping, 44 minutes 3 seconds, 411, okay, or 12 liter, okay? Liter, okay? At least, you need to have this much bigger, okay?
+Du Ya Ping, 44 minutes 13 seconds, fuel tank. Okay. For this generator. Okay. And some requirements. Okay.
+Du Ya Ping, 44 minutes 22 seconds, provide care,
+Du Ya Ping, 44 minutes 25 seconds, by the… the COP, in the COP provided by the Fire Service Department, okay? So, the typical fuel tank size, okay, you know, from 250 liter to, 2,000, okay, for… if the, size is less than 450, and then you can
+Du Ya Ping, 44 minutes 45 seconds, Put this one in the generator room. If it's the size bigger than that one, then you probably need to have a separate room.
+Du Ya Ping, 44 minutes 56 seconds, We call the fuel tank room, which is next to the generator room. So this slide just gives you some information regarding the fuel tank size.
+Du Ya Ping, 45 minutes 8 seconds, All right?
+Du Ya Ping, 45 minutes 9 seconds, Okay, so, I think that's all I want to talk today, okay? Alright, so we don't have much time, I have just a few minutes, okay? If you have a question, you talk to me.
+Du Ya Ping, 45 minutes 22 seconds, And then tomorrow, we don't have any lecture, you just have online tests, okay? So I will post a notice, okay, late afternoon, so, you can.
+Du Ya Ping, 45 minutes 34 seconds, know the schedule or the time, okay, such kind of information before, take, taking the test, okay? Alright, so that's it, okay?

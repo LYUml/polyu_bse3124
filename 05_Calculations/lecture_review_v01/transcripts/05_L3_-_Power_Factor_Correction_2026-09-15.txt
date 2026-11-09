@@ -1,0 +1,442 @@
+Recording 5
+Title: L3 - Power Factor Correction
+Date: 2026-09-15
+Source: https://polyu.zoom.us/rec/play/_oU36amgft_1Oe6I0GWZ-PrQJKns-Q-39MAmZW2rKDK43-hyoh93AUWrjJpFCo4hRznh09S79mjWlVUb.qV3-gYCwKvd0zalc
+Automatic Zoom transcript; recognition errors retained.
+
+Du Ya Ping, 0 hours 0 minutes 19 seconds, Alright, Kate?
+Du Ya Ping, 0 hours 0 minutes 21 seconds, We talk about… The demand calculation or estimation last week, and also talk about
+Du Ya Ping, 0 hours 0 minutes 33 seconds, the charge, okay, tariff calculation, okay, that means the… the charge,
+Du Ya Ping, 0 hours 0 minutes 40 seconds, to the customer, okay, by the power company. And for some large
+Du Ya Ping, 0 hours 0 minutes 45 seconds, industry or commercial customers, probably they will adopt something we call the demand charge and the energy charge, okay? So the demand can be, given in…
+Du Ya Ping, 0 hours 0 minutes 59 seconds, KVA, or… kilowatts, okay?
+Du Ya Ping, 0 hours 1 minutes 4 seconds, So, KV8…
+Du Ya Ping, 0 hours 1 minutes 15 seconds, So let's say, in some cases, okay.
+Du Ya Ping, 0 hours 1 minutes 20 seconds, the customer may be charged based on the KVA, okay, instead of kilowatts, okay? So, in order to reduce
+Du Ya Ping, 0 hours 1 minutes 28 seconds, the demand charge. As a customer, we need to reduce…
+Du Ya Ping, 0 hours 1 minutes 35 seconds, this reactive power as much as possible, right? So if that one is equal to zero, then the total KVA could be
+Du Ya Ping, 0 hours 1 minutes 44 seconds, Because that… that one cannot be changed, okay? So, if you can reduce Q, then the S will be, smaller, which means the…
+Du Ya Ping, 0 hours 1 minutes 55 seconds, charge will be less, right? The cost for the, demand charge will be less. So, probably this is one of the reasons, okay, why we want to talk about this issue, okay? Reactive power,
+Du Ya Ping, 0 hours 2 minutes 12 seconds, Correction or power Correction in this, lecture, okay? Yeah.
+Du Ya Ping, 0 hours 2 minutes 20 seconds, All right, so we know the system, okay, in the building, okay? Actually, it's called the AC system, which means, the both voltage and the current.
+Du Ya Ping, 0 hours 2 minutes 32 seconds, actually change with time, okay? With the waveform, we call this… those are the sinusoidal waveform. So sometimes.
+Du Ya Ping, 0 hours 2 minutes 40 seconds, this is, greater than zero, and the instant time could be negative than zero, okay? Part of negative, okay? So we call this the AC system, okay? And, if we have a, resistor, okay, in the circuit, and then you will see,
+Du Ya Ping, 0 hours 2 minutes 59 seconds, both voltage and the current wave, they actually are in phase. That means they reach the maximum wear at the same time, and they reach the minimum ware at the same time. And then you can calculate the power, okay, basically power
+Du Ya Ping, 0 hours 3 minutes 18 seconds, is equal to V of T times I of T, okay? And then you can see, the red curve here.
+Du Ya Ping, 0 hours 3 minutes 26 seconds, This is a…
+Du Ya Ping, 0 hours 3 minutes 28 seconds, instantaneous power consumed by the resistor, okay? And, you can observe, although the voltage current, could be positive or negative, okay, at a different time period, but the power basically is positive.
+Du Ya Ping, 0 hours 3 minutes 44 seconds, So that means the resistor actually consumed the power.
+Du Ya Ping, 0 hours 3 minutes 48 seconds, that consumes the power. And this amount of power actually is converted… if it's a resistor, it's converted to the heat.
+Du Ya Ping, 0 hours 3 minutes 56 seconds, Okay? So the temperature could be increased, okay? And for some other devices, this much power could be converted to lighting, right? If you have the, converted to light, if you have the lighting device, or if you have the speaker, it may be converted to the
+Du Ya Ping, 0 hours 4 minutes 12 seconds, sound, okay? So, that is the power, basically, will be converted
+Du Ya Ping, 0 hours 4 minutes 18 seconds, some other form of the power, okay, which we use for some purpose, right? Okay, for example, we use power for air conditioning system, right? And, we use the power to,
+Du Ya Ping, 0 hours 4 minutes 31 seconds, For the lighting, right? So that is the thing, actually, you know, will be useful, okay? And, used by the occupants in the building, okay? So this is called active power, or real power, okay? Normally measured in kilowatts.
+Du Ya Ping, 0 hours 4 minutes 48 seconds, kilowatts, okay? And then, so that is the…
+Du Ya Ping, 0 hours 4 minutes 52 seconds, when, okay, given here, P. P is kilowatts, okay?
+Du Ya Ping, 0 hours 4 minutes 56 seconds, But…
+Du Ya Ping, 0 hours 4 minutes 57 seconds, If you have a physical device in the circuit, okay, although it has a resistance, but at the same time, it also has some other things we call inductance.
+Du Ya Ping, 0 hours 5 minutes 9 seconds, Okay? So,
+Du Ya Ping, 0 hours 5 minutes 12 seconds, no matter what kind of equipment you have, you do have the resistance and the inductance, okay, in the seat equipment, okay? And this…
+Du Ya Ping, 0 hours 5 minutes 21 seconds, Inductance, we consume another type of power. We call the reactive power. So let's see the waveform of the power, okay, if you have the inductance, okay? So we consider
+Du Ya Ping, 0 hours 5 minutes 34 seconds, the load is made by pure inductance, without any resistance, okay? So you can see the, voltage waveform here. This is a voltage waveform.
+Du Ya Ping, 0 hours 5 minutes 45 seconds, and the current waveform, okay? So there are actually, you know, see, there's some shift, okay, in phase angle, which means they do not…
+Du Ya Ping, 0 hours 5 minutes 54 seconds, reach the maximum at the same time. So if you have a higher value for voltage, and then zero value for current. But the highest current will appear after
+Du Ya Ping, 0 hours 6 minutes 6 seconds, 90 degree.
+Du Ya Ping, 0 hours 6 minutes 8 seconds, Okay, 90 degree, okay? So this is a… one cycle means 360 degree, okay? So there's a face angle shift, okay? And then you perform the…
+Du Ya Ping, 0 hours 6 minutes 18 seconds, calculation for instantis power, you will see
+Du Ya Ping, 0 hours 6 minutes 22 seconds, Same times, okay, for this time period, you got a positive, and this time period, negative. So you have a positive, negative, positive, negative. If you look at the average power, you add it all together, then you can see the power is equal to zero.
+Du Ya Ping, 0 hours 6 minutes 39 seconds, The average power equals this year, or the NH
+Du Ya Ping, 0 hours 6 minutes 42 seconds, in that period is zero, which means this inductance does not consume any energy. So in this period of time.
+Du Ya Ping, 0 hours 6 minutes 52 seconds, It observes… absorbed the image.
+Du Ya Ping, 0 hours 6 minutes 56 seconds, And then in the next period of time, and then it release the energy. So you have to come, okay, get the energy, okay, and then return the energy to the system. So overall.
+Du Ya Ping, 0 hours 7 minutes 6 seconds, energy consumption is zero, okay? So this amount of power actually not really useful, because it cannot be used to convert to other forms of the energy, right? Like a sound, like a light, or some other things, okay? But
+Du Ya Ping, 0 hours 7 minutes 21 seconds, as long as you have the inductance in the circuit, and it does consume this amount of power, but the energy is zero. Energy is zero. So, what is the disadvantage of this kind of power? So, because we're talking about
+Du Ya Ping, 0 hours 7 minutes 36 seconds, Total KV. And then if you do have this Q, and then S could be increased.
+Du Ya Ping, 0 hours 7 minutes 43 seconds, increase, okay? And what is the disadvantage, okay, because of this queue? One thing we just mentioned, right? You have an extra charge from the utility, right?
+Du Ya Ping, 0 hours 7 minutes 56 seconds, charge you based on demand. If you have large queue, and then you have large S, then you have, you know, pay extra money. And on the other hand, okay.
+Du Ya Ping, 0 hours 8 minutes 9 seconds, Let's say if you have the transformer.
+Du Ya Ping, 0 hours 8 minutes 12 seconds, S normally is the rating fixed for, let's say, 1500 kVA.
+Du Ya Ping, 0 hours 8 minutes 18 seconds, Okay? So, if you have a large… Pew, But this portal is fixed.
+Du Ya Ping, 0 hours 8 minutes 31 seconds, So this… that one is… that's fixed. If you have a large queue, then Q will be less, which means that you have the transformer, one single transformer, but it can serve a limited number of customers.
+Du Ya Ping, 0 hours 8 minutes 44 seconds, Okay, so if you have, additional customers, then you have to install additional transformer.
+Du Ya Ping, 0 hours 8 minutes 51 seconds, Okay, so you can see that is the… those are the disadvantages. So that's why we need to talk about here today, see how can we deal with this kind of reactive part. This is not useful, but it do exist… they do exist, okay? And we have to find some way to handle it, so to…
+Du Ya Ping, 0 hours 9 minutes 11 seconds, You know, input the performance, okay, of the supply circuit, and then reduce the cost for the operation, okay?
+Du Ya Ping, 0 hours 9 minutes 20 seconds, Okay, as you can see, actually.
+Du Ya Ping, 0 hours 9 minutes 22 seconds, This amount of power cannot be eliminated. As I said, earlier, as long as you have the inductance, you do consume this amount of power. So you cannot eliminate, but we can do something we call the compensation, okay? We can compensate it, okay, by some
+Du Ya Ping, 0 hours 9 minutes 40 seconds, approach or methods, okay? So we can improve the performance and to reduce the overall operation cost.
+Du Ya Ping, 0 hours 9 minutes 49 seconds, Yeah.
+Du Ya Ping, 0 hours 9 minutes 50 seconds, All right, and, in the building, we know, we have a lot of,
+Du Ya Ping, 0 hours 9 minutes 57 seconds, you know, different kinds of equipment, right? And the majority of the…
+Du Ya Ping, 0 hours 10 minutes 4 seconds, Equipment we use in building is the motor.
+Du Ya Ping, 0 hours 10 minutes 8 seconds, So, motor… you can find the motor in the HVAC system, right? The pump, okay, the fan, okay, and the lift for, the motor for the lifts, okay? So…
+Du Ya Ping, 0 hours 10 minutes 20 seconds, you can see the model everywhere, okay? And I can tell you, okay, probably the model we consume
+Du Ya Ping, 0 hours 10 minutes 28 seconds, the energy, okay, up to, like, 70%, okay, of the total energy consumption in the building. So this is a big…
+Du Ya Ping, 0 hours 10 minutes 38 seconds, pool of the equipment, in the building, okay? And, the motor, if you…
+Du Ya Ping, 0 hours 10 minutes 45 seconds, Have a chance to look at the construction
+Du Ya Ping, 0 hours 10 minutes 48 seconds, Of the model, you can see
+Du Ya Ping, 0 hours 10 minutes 50 seconds, In the model, basically, there are a lot of, Ys, okay? We call the coils, okay? And those coils, basically.
+Du Ya Ping, 0 hours 11 minutes 2 seconds, Have the resistance and the inductance.
+Du Ya Ping, 0 hours 11 minutes 5 seconds, So, either way, Pull, right?
+Du Ya Ping, 0 hours 11 minutes 8 seconds, real power, okay, but also consume the reactive power, okay? So you can see some figure here. For each kilowatts, for each kilowatt real power, either we consume
+Du Ya Ping, 0 hours 11 minutes 21 seconds, 0.5 to 0.9 kilowatt. So kilowatt is the unit for the reactive power. So this is a Kittle, raw.
+Du Ya Ping, 0 hours 11 minutes 30 seconds, And this is the kilowatts, okay? So almost one-to-one, okay? You have one kilowatts, then one kilowatt, okay? So that means the reactive power consumption is quite significant, okay? So that's the reason we need to
+Du Ya Ping, 0 hours 11 minutes 44 seconds, discuss here, okay? And some other group, okay, the lamps, okay? Of course, the frozen lamps, okay, are not so popular right now, okay, nowadays, okay? But it, those… they are… those lamps are…
+Du Ya Ping, 0 hours 12 minutes 0 seconds, probably in 5 years or 10 years ago, we'll be everywhere, okay? Right now, we use the LED, right? But
+Du Ya Ping, 0 hours 12 minutes 8 seconds, In some cases, you still see such kind of lamps in the building, and again, this is another
+Du Ya Ping, 0 hours 12 minutes 15 seconds, big,
+Du Ya Ping, 0 hours 12 minutes 17 seconds, problem, because you can see, either we can see for each kilowatt, it may consume 1.7 kilowatt, okay? So that means the reactive power could be greater than the real power.
+Du Ya Ping, 0 hours 12 minutes 30 seconds, Okay? And we call this an uncompensated situation, and if we provide compensated.
+Du Ya Ping, 0 hours 12 minutes 37 seconds, Okay? Compensation, and then it can reduce the reactive power, 0.4 kilowatts. But still, it's a big figure, okay?
+Du Ya Ping, 0 hours 12 minutes 47 seconds, So, that's why we need to, talk about, yeah. So those two types of equipment actually contribute, you know, the big chunk of the reactive oil consumption, yeah. Of course, the transformer is
+Du Ya Ping, 0 hours 13 minutes 1 seconds, This is another one, okay? But normally, the number of transformers is not that much, right, in the building, yeah.
+Du Ya Ping, 0 hours 13 minutes 11 seconds, All right, okay, so we talked about the real power rectified, and
+Du Ya Ping, 0 hours 13 minutes 18 seconds, total power. And, sometimes we… Not just…
+Du Ya Ping, 0 hours 13 minutes 24 seconds, use the cue to talk about this issue. We use another parameter, okay, we call the power factor, to describe the situation about the reactive power, okay? So, there's some relationship among
+Du Ya Ping, 0 hours 13 minutes 39 seconds, P, Q, and S, we call it is the power triangle.
+Du Ya Ping, 0 hours 13 minutes 50 seconds, So, based on this equation, you can see this, right triangle, P, Q and S.
+Du Ya Ping, 0 hours 14 minutes 0 seconds, Okay, and this angle here, we call the theta.
+Du Ya Ping, 0 hours 14 minutes 4 seconds, Okay, and then we define the power factor in this way. The power factor is equal to… Cosine theta.
+Du Ya Ping, 0 hours 14 minutes 15 seconds, Which… It is in this right triangle, it is equal to P over S.
+Du Ya Ping, 0 hours 14 minutes 22 seconds, Okay, so usually we do not see the reactive power, okay?
+Du Ya Ping, 0 hours 14 minutes 28 seconds, In the discussion, we normally will say the power factor, okay? And the power factor, reflects the amount of the reactive power in the circuit, okay? So.
+Du Ya Ping, 0 hours 14 minutes 39 seconds, Well, basically, Power Factor is less than or equal to 1, and greater than or equal to 0.
+Du Ya Ping, 0 hours 14 minutes 48 seconds, Okay, so the power of Factor cannot be greater than 1, right? Because in this right triangle, P always less than S, okay? And if P is equal to 0,
+Du Ya Ping, 0 hours 15 minutes 2 seconds, And then, power factor is equal to, zero, okay? And, if Q is equal to zero, then the power factor… I'm sorry, the power factor.
+Du Ya Ping, 0 hours 15 minutes 13 seconds, Power Factor is equal to 1.
+Du Ya Ping, 0 hours 15 minutes 16 seconds, So, two extreme cases. If this one is zero, and the power Factor is 0. If Q is zero, and the power factor is equal to 1. Okay, so those are two extreme cases. Of course, okay, the target is to reduce the reactive power, so this one
+Du Ya Ping, 0 hours 15 minutes 37 seconds, This is the thing we like to have, okay, or it's the target, okay, target, okay.
+Du Ya Ping, 0 hours 15 minutes 48 seconds, All right, okay, so, if the power factor is low, we have to… or if the reactive power is significant, then we have to consider the same kind of approach.
+Du Ya Ping, 0 hours 15 minutes 58 seconds, To improve the power factor.
+Du Ya Ping, 0 hours 16 minutes 1 seconds, That means to…
+Du Ya Ping, 0 hours 16 minutes 3 seconds, increase the power factor close to 1, or to reduce this angle, theta, to zero degree, okay? So this is the thing we want to achieve, okay? We call the power Factor Correction, okay? So let's see how can we do that, okay?
+Du Ya Ping, 0 hours 16 minutes 20 seconds, Alright, so let's look at this,
+Du Ya Ping, 0 hours 16 minutes 23 seconds, Electrical circuit, the very simple electrical circuit, with the resistor only, and then, as we discussed earlier, in this case, both voltage and the current
+Du Ya Ping, 0 hours 16 minutes 35 seconds, have the same wave shape, alright, and they reach the maximum value at the same time, and the minimum value again at the same time. And there's no phase angle difference, okay? So, theta, in this case, the theta is equal to zero degree.
+Du Ya Ping, 0 hours 16 minutes 49 seconds, Okay, so for resistive circuit, the theta is 0 degree, and this theta zero degree cosine zero equal to 1. So that is the perfect case, okay? And this is the phase diagram, so both voltage current can be represented by the vector. Vector. Vector means
+Du Ya Ping, 0 hours 17 minutes 8 seconds, it has a magnitude and the face angle, okay, direction, okay? So the face angle difference between volume current is zero, okay? They are parallel, okay? So this is a resistance or resisted, circuit.
+Du Ya Ping, 0 hours 17 minutes 25 seconds, And the inductive circuit, right? We consider the inductance only. So, you can see this, voltage, waveform, and the current waveform. So the voltage, you can say the current
+Du Ya Ping, 0 hours 17 minutes 37 seconds, Is it… left behind, right? So, it is…
+Du Ya Ping, 0 hours 17 minutes 42 seconds, as a peak value here at the zero degree, and then the peak value appears at the later time, which is 90 degree. So there's a phase shift by
+Du Ya Ping, 0 hours 17 minutes 53 seconds, 90 degree, we call this lag.
+Du Ya Ping, 0 hours 17 minutes 56 seconds, Okay, and in the phaser diagram, okay, this voltage and current, so normally.
+Du Ya Ping, 0 hours 18 minutes 12 seconds, So, normally, we, use the clockwise at the reference direction, which means the voltage is the leading current by 90 degrees.
+Du Ya Ping, 0 hours 18 minutes 21 seconds, by 90 degree, okay? So, 90 degree because, you know.
+Du Ya Ping, 0 hours 18 minutes 27 seconds, The peak, if we're at zero degree, the will reach the peak value, and the current will, reach the peak value after 90 degrees. So that's called the phase angle difference. So this is the angle here, this angle here, okay?
+Du Ya Ping, 0 hours 18 minutes 42 seconds, All right, and, we, apart from induct… Inductance, we have some other components which different from
+Du Ya Ping, 0 hours 18 minutes 51 seconds, inductive,
+Du Ya Ping, 0 hours 18 minutes 53 seconds, circuit and the receptive circuit, okay? And this is the one, okay? And, you know, this is a symbol for capacitor, capacitor, okay? And the capacitor is opposite
+Du Ya Ping, 0 hours 19 minutes 4 seconds, to the… inductor. So that means…
+Du Ya Ping, 0 hours 19 minutes 8 seconds, In this case, the voltage is leading current by 90 degrees, but in that case, it's opposite.
+Du Ya Ping, 0 hours 19 minutes 15 seconds, Okay, the current is leading the voltage by 90 degrees.
+Du Ya Ping, 0 hours 19 minutes 20 seconds, Okay, it's the opposite, okay?
+Du Ya Ping, 0 hours 19 minutes 24 seconds, All right, okay, and, well, most cases we know, like a transformer motor, okay, can be represented by resistance and inductance. So, you have a combination. So in that case, the voltage current waveform.
+Du Ya Ping, 0 hours 19 minutes 42 seconds, Okay.
+Du Ya Ping, 0 hours 19 minutes 43 seconds, the face angle difference is not equal to 0 degree, not equal to 90 degree. It's something between 0 degree and 90 degree, okay? So that phase angle difference normally is indicated by this
+Du Ya Ping, 0 hours 19 minutes 57 seconds, Theta here in this, right triangle. We call it a power triangle. So that… this is the face angle difference, face angle difference, okay? Okay.
+Du Ya Ping, 0 hours 20 minutes 9 seconds, Or the power factor, cosine theta is the power factor, okay?
+Du Ya Ping, 0 hours 20 minutes 14 seconds, Okay, and if you have the inductive
+Du Ya Ping, 0 hours 20 minutes 17 seconds, a capacitive load, and then, okay, assume the voltage is the same, okay, if you look at this one, okay, those are good. If you keep the voltage at the same direction, so…
+Du Ya Ping, 0 hours 20 minutes 33 seconds, So this is for inductor.
+Du Ya Ping, 0 hours 20 minutes 37 seconds, For the capacitor, So this is IL, this is IC.
+Du Ya Ping, 0 hours 20 minutes 51 seconds, So, for the capacitor, if you have the same voltage of pi, okay, on both inductor and capacitor, the current are opposite, okay? So, if the, for capacitor, for inductor current go this way, really 90 degrees, for the capacitor.
+Du Ya Ping, 0 hours 21 minutes 6 seconds, to observe the lagging, okay, by, this is lagging, this is leading, leading by nanade. So they are in the opposite direction, okay? And this is very important, okay?
+Du Ya Ping, 0 hours 21 minutes 27 seconds, All right, okay, so now we put them together, okay, in parallel. This is a low…
+Du Ya Ping, 0 hours 21 minutes 35 seconds, Okay, represented by the resistance and inductance, okay? And this is the capacitor. They are parallel, right? So you can see they have the same voltage, but the current, okay, could be opposite, okay? If you ignore this resistance here, they are just opposite. One is
+Du Ya Ping, 0 hours 21 minutes 52 seconds, Okay, go that direction, and this is to go other direction, okay? And then you can figure out the total current here.
+Du Ya Ping, 0 hours 22 minutes 1 seconds, Because two turns… So, in the opposite direction, that means…
+Du Ya Ping, 0 hours 22 minutes 6 seconds, Part of those currents cancel out.
+Du Ya Ping, 0 hours 22 minutes 9 seconds, Okay, so the total current here could be… Less than, okay, Those two… Currents.
+Du Ya Ping, 0 hours 22 minutes 18 seconds, In the ideal case.
+Du Ya Ping, 0 hours 22 minutes 20 seconds, Okay, the current could be zero. In that case, both capacitive current and the inductive are the same, but they are in the opposite direction, okay? So, you can see here
+Du Ya Ping, 0 hours 22 minutes 32 seconds, This is the… Q, reactive power consumed by the inductor. Yeah, this is the inductor.
+Du Ya Ping, 0 hours 22 minutes 44 seconds, This much is the inductor, and this much is the capacitor. Because, therefore, in the opposite direction, the net reactive power is this much.
+Du Ya Ping, 0 hours 22 minutes 54 seconds, This much, okay? And if this amount is that amount, which means they are fully cancel out each other, and the total reactive power is zero.
+Du Ya Ping, 0 hours 23 minutes 4 seconds, Okay, so that is the principle, basic principle for
+Du Ya Ping, 0 hours 23 minutes 10 seconds, improvement of power factor, okay? So, if I can provide this capacitor
+Du Ya Ping, 0 hours 23 minutes 17 seconds, And the amount of the reactive hub from capacity is exactly
+Du Ya Ping, 0 hours 23 minutes 22 seconds, Match the reactive power consumption, and the power factor can be perfect.
+Du Ya Ping, 0 hours 23 minutes 27 seconds, Okay, at the supply circuit, okay, at this… at the supply side, at this side, okay, so the power factor can be improved to the perfect case, 1.0. So that is the basic principle, okay, for the, improvement, okay?
+Du Ya Ping, 0 hours 23 minutes 45 seconds, So this is just to illustrate, okay, the cancel-out effects, Okay, can't sound, okay?
+Du Ya Ping, 0 hours 23 minutes 57 seconds, Alright, so those are the power triangles, we just talked about, yeah.
+Du Ya Ping, 0 hours 24 minutes 2 seconds, Alright, so, we… no, okay, we can improve the power Factor, okay? Now we need to know, okay, that
+Du Ya Ping, 0 hours 24 minutes 12 seconds, possible reasons, okay, or the benefits, okay, we can have by the improvement, okay, by the improvement, okay? So here, you can see, some items, okay? The first one, okay, of course.
+Du Ya Ping, 0 hours 24 minutes 26 seconds, We need to follow the power company's requirement, which means, okay, the minimum power factor of the load for the total electrical installation should be greater than 0.85.
+Du Ya Ping, 0 hours 24 minutes 40 seconds, So this is a mandatory requirement, okay? If you, if you cannot fulfill that requirement, the power company can reject your
+Du Ya Ping, 0 hours 24 minutes 49 seconds, application for using the electricity. That means your
+Du Ya Ping, 0 hours 24 minutes 53 seconds, disconnect the power, okay? Okay. So, this is a mandatory requirement, okay? Of course, one of the reasons we have to consider for improvement of power factor, okay? And, there's some other reason, okay, or other benefits, which can be shared by, the users, okay?
+Du Ya Ping, 0 hours 25 minutes 13 seconds, first thing is we can reduce the cable size, okay? Why? Because if you look at this formula here, P is the real power, V
+Du Ya Ping, 0 hours 25 minutes 24 seconds, is the voltage, i is the current cosine theta, or cosine phi is the power factor, right? And usually, the real power cannot be changed, it's fixed, okay? And the voltage, again, cannot be changed. If it's a single phase circuit, it's 200 volts, okay?
+Du Ya Ping, 0 hours 25 minutes 41 seconds, And the power factor, if it's very low, and then you have to provide a large current.
+Du Ya Ping, 0 hours 25 minutes 48 seconds, 2…
+Du Ya Ping, 0 hours 25 minutes 49 seconds, In order to get this amount of power, okay? And if you have a perfect power factor, let's say, equal to 1, and then current can be reduced.
+Du Ya Ping, 0 hours 25 minutes 59 seconds, So that means, by improv…
+Du Ya Ping, 0 hours 26 minutes 2 seconds, Improving the power factor, you can reduce the current in the circuit, and if the current is reduced, then
+Du Ya Ping, 0 hours 26 minutes 10 seconds, the cable size will be reduced, because later next week, okay, we'll talk about the cable sizing. And the cable size, basically, is determined by the
+Du Ya Ping, 0 hours 26 minutes 19 seconds, current in the circuit. If the current is small, then you can use a small cable size.
+Du Ya Ping, 0 hours 26 minutes 24 seconds, Right? So that is one of the scenes, okay?
+Du Ya Ping, 0 hours 26 minutes 28 seconds, You know, we need to consider, okay? The second one, okay?
+Du Ya Ping, 0 hours 26 minutes 32 seconds, Energy loss.
+Du Ya Ping, 0 hours 26 minutes 34 seconds, So the cable normally has a resistance.
+Du Ya Ping, 0 hours 26 minutes 38 seconds, And if you have the current Passing through the
+Du Ya Ping, 0 hours 26 minutes 43 seconds, The, the cable, the conductor, certainly, you know, we generate the laws, okay? And,
+Du Ya Ping, 0 hours 26 minutes 50 seconds, This is a loss, okay? So the loss equal to I squared
+Du Ya Ping, 0 hours 27 minutes 0 seconds, I square R, okay, I square R, okay? So if the current is reduced, and you… you can reduce the loss on the cable, and the resistance R is a resistant, which cannot be changed, okay? So in this case, you can reduce the current and the loss as well, okay?
+Du Ya Ping, 0 hours 27 minutes 21 seconds, And the additional, electricity capacity, this is… I just talked about in the very beginning, and if you reduce this one, okay, power factor improved, this was smaller, and then you can…
+Du Ya Ping, 0 hours 27 minutes 33 seconds, Provide more real power or active power to the loans, yeah.
+Du Ya Ping, 0 hours 27 minutes 39 seconds, And, well, there's another thing we have to, consider, okay, is that, okay, if you have a large number of motors.
+Du Ya Ping, 0 hours 27 minutes 48 seconds, And the motor…
+Du Ya Ping, 0 hours 27 minutes 49 seconds, Usually, okay, the power factor, in the normal operation, the power factor is low, okay? It's not so high, okay? But if you start the motor, we call it a starting motor, starting mode, okay?
+Du Ya Ping, 0 hours 28 minutes 2 seconds, the power filter could be even lower, okay? For example, when you just start the model, the power failure could be equal to 0.2, or even less.
+Du Ya Ping, 0 hours 28 minutes 12 seconds, Okay, so which is very close to zero?
+Du Ya Ping, 0 hours 28 minutes 15 seconds, close to zero, okay? So, certainly, this is trouble, okay?
+Du Ya Ping, 0 hours 28 minutes 19 seconds, To the electrical installation, okay? So, that's another reason, okay, we want to…
+Du Ya Ping, 0 hours 28 minutes 27 seconds, consider the… the improvement, okay, we call the… pa… Perfect, Correction, okay.
+Du Ya Ping, 0 hours 28 minutes 35 seconds, In the electrical installation in the building, okay? So, for such reasons, we… Need to…
+Du Ya Ping, 0 hours 28 minutes 42 seconds, Consider that, kind of.
+Du Ya Ping, 0 hours 28 minutes 45 seconds, Approach, okay, strategy, okay, for, improve the situation, improve the performance of the electrical installation, okay?
+Du Ya Ping, 0 hours 28 minutes 55 seconds, And, so, as I said earlier, okay, so we can't… Use the capacitor to
+Du Ya Ping, 0 hours 29 minutes 8 seconds, Input the power factor, right, based on the, the discussion here.
+Du Ya Ping, 0 hours 29 minutes 20 seconds, discussion here. Well, just, just to install the, the, the capacitor. So…
+Du Ya Ping, 0 hours 29 minutes 26 seconds, In our situation, in the building, usually we, just install the capacitor, but we call the capacitor bank.
+Du Ya Ping, 0 hours 29 minutes 45 seconds, So, capacitor Bank basically, is a set of capacitor units.
+Du Ya Ping, 0 hours 29 minutes 50 seconds, We call it a step.
+Du Ya Ping, 0 hours 29 minutes 58 seconds, So you have a number of units, which means you have a number of steps, okay? And they are connected in parallel, okay? So you have multiple steps, that means you can run those capacitor banks in different… with different steps, with one step, two steps.
+Du Ya Ping, 0 hours 30 minutes 15 seconds, Three steps. Depends on the actual situation, or depends on the needs, right?
+Du Ya Ping, 0 hours 30 minutes 26 seconds, So here you can see, okay,
+Du Ya Ping, 0 hours 30 minutes 31 seconds, This is the bus bar, right, okay? And those are the…
+Du Ya Ping, 0 hours 30 minutes 36 seconds, steps, okay, or the unions. This is a one-step, two-step, three-step. So, so this capacitor bank consists of a three-step, okay? That means you have a switch here, and depends on the real situation, you can switch on one step, or two-step, or three-step.
+Du Ya Ping, 0 hours 30 minutes 54 seconds, And the target is to improve the power factor, okay? It's, in the range, right?
+Du Ya Ping, 0 hours 31 minutes 1 seconds, About .85.85.
+Du Ya Ping, 0 hours 31 minutes 6 seconds, And, the first one, okay, is called a synchronous machine, and a synchronous machine
+Du Ya Ping, 0 hours 31 minutes 13 seconds, can provide reactive power, as well, but normally it is not used in the building, okay? So, we don't need to worry about the first item, okay? Normally, that one is used by the power company, okay? So, here, we don't need to worry about that, okay? So, we just look at the
+Du Ya Ping, 0 hours 31 minutes 32 seconds, capacitors, or capacitor band, okay? And, each step, okay, the size, as you can see here, usually, like, 10 kilowatt.
+Du Ya Ping, 0 hours 31 minutes 43 seconds, or 20 kilowatt, or maybe 30 or 40, depends on the situation, okay? So that's a typical, size, okay? And the voltage rating is 400 volts.
+Du Ya Ping, 0 hours 31 minutes 55 seconds, 400 volts, okay? And so this 400 volts is different from… slightly different from the actual system voltage.
+Du Ya Ping, 0 hours 32 minutes 4 seconds, here we have, right, 380 volts, okay? So, that means this capacitive unit
+Du Ya Ping, 0 hours 32 minutes 12 seconds, can provide 10 kilowatts reactive power
+Du Ya Ping, 0 hours 32 minutes 16 seconds, And the voltage is 400 volts.
+Du Ya Ping, 0 hours 32 minutes 19 seconds, But if you have a 380 volts, the actual reactive power that this unit can provide would be slightly less.
+Du Ya Ping, 0 hours 32 minutes 30 seconds, And we know… Reactive power. Provide the capacity unit, It's proportion to the voltage Square.
+Du Ya Ping, 0 hours 32 minutes 43 seconds, Okay, so why is vertice Square? Okay, so the… normally.
+Du Ya Ping, 0 hours 32 minutes 48 seconds, Later, probably, you will know, okay, this one is equal to voltage.
+Du Ya Ping, 0 hours 32 minutes 53 seconds, Square divided by the impedance.
+Du Ya Ping, 0 hours 32 minutes 56 seconds, We'll get him soon.
+Du Ya Ping, 0 hours 33 minutes 1 seconds, the impedance of a capacitor, okay? So, the impedance of a capacitors normally is fixed, okay? So this is when it's fixed, and then the
+Du Ya Ping, 0 hours 33 minutes 10 seconds, capacitor… Rating, sometimes what we call it a rating.
+Du Ya Ping, 0 hours 33 minutes 16 seconds, is proportion to the voltage squared, okay? So, the system voltage here, we have a 380, so…
+Du Ya Ping, 0 hours 33 minutes 24 seconds, TAN KITO Ra.
+Du Ya Ping, 0 hours 33 minutes 30 seconds, Over the actual… Rakut provided 380.
+Du Ya Ping, 0 hours 33 minutes 36 seconds, Volts is equal to 400 volts divided by 300 volts.
+Du Ya Ping, 0 hours 33 minutes 42 seconds, Square.
+Du Ya Ping, 0 hours 33 minutes 43 seconds, And then, you can find this one at the 380 volts, let's say 380 volts.
+Du Ya Ping, 0 hours 33 minutes 50 seconds, is equal to… TAN kilova.
+Du Ya Ping, 0 hours 33 minutes 57 seconds, Right.
+Du Ya Ping, 0 hours 33 minutes 58 seconds, Right.
+Du Ya Ping, 0 hours 33 minutes 59 seconds, a 400 volts squared. So…
+Du Ya Ping, 0 hours 34 minutes 2 seconds, The actual reactive power provided by the death step is this much. So you have to do the conversion, okay, from
+Du Ya Ping, 0 hours 34 minutes 11 seconds, 400 volts to 380 volts.
+Du Ya Ping, 0 hours 34 minutes 18 seconds, All right, and the second point, okay, the capacitor, is not perfect, it has a loss. That means it has a resistance, okay, within the capacitor, but that one is not that much, okay? It's normally very small. For example, for each kilobyte, it is…
+Du Ya Ping, 0 hours 34 minutes 35 seconds, it consumes 0.5 watts. So, most cases, for operation purpose, and that one, again, can be ignored, okay?
+Du Ya Ping, 0 hours 34 minutes 45 seconds, Especially for the design purpose, okay, we don't need to worry about this.
+Du Ya Ping, 0 hours 34 minutes 49 seconds, this issue, okay? But definitely, there's certain… some kind of internal loss, okay, within the capacitor band.
+Du Ya Ping, 0 hours 34 minutes 59 seconds, Overload capacity.
+Du Ya Ping, 0 hours 35 minutes 2 seconds, That means, okay, although, let's say, 400, this is a voltage rating.
+Du Ya Ping, 0 hours 35 minutes 8 seconds, Okay? So, the maximum voltage it can tolerate can be slightly
+Du Ya Ping, 0 hours 35 minutes 18 seconds, over this level. So you can see the maximum voltage is 1.1 times the voltage rating, so that means
+Du Ya Ping, 0 hours 35 minutes 29 seconds, It is ego, too.
+Du Ya Ping, 0 hours 35 minutes 39 seconds, So the maximum voltage, the capacity unit can tolerate, okay, up to 440 volts.
+Du Ya Ping, 0 hours 35 minutes 46 seconds, Actually, the system vote is 380, so you, relatively, you have a large margin.
+Du Ya Ping, 0 hours 35 minutes 52 seconds, Right? Okay, you can tolerate the system voltage, okay, change, okay? The slight overvoltage will not cause any trouble to the
+Du Ya Ping, 0 hours 36 minutes 1 seconds, capacity band, but if the actual volt is over 440 volts, then it will damage the capacity bank, okay? But actually, okay, 440 volts, which is large enough, okay?
+Du Ya Ping, 0 hours 36 minutes 15 seconds, Can handle, the variation of the system voltage. Yeah, yeah.
+Du Ya Ping, 0 hours 36 minutes 21 seconds, And, the limit for voltage… for voltage, of course, there's a limit for the current. So this, current limit, okay, which the ratio is slightly greater than the ratio for the voltage, okay.
+Du Ya Ping, 0 hours 36 minutes 40 seconds, Alright, and so then we need to talk about the controller.
+Du Ya Ping, 0 hours 36 minutes 45 seconds, So, we know, this capacitor Bank consists of several, units.
+Du Ya Ping, 0 hours 36 minutes 52 seconds, And, those steps could be switched on or off based on the condition, right? And that kind of switching, okay, can be made by some kind of controller.
+Du Ya Ping, 0 hours 37 minutes 4 seconds, Okay, in the case of automatic switching, okay? And the fixed one, that means the controller actually does not change the switching, okay? So the switch normally is made by
+Du Ya Ping, 0 hours 37 minutes 19 seconds, normally made manually by a person, okay? And, so, I think in most cases we use the second one, the automatic, con…
+Du Ya Ping, 0 hours 37 minutes 30 seconds, Controller, which means it can
+Du Ya Ping, 0 hours 37 minutes 32 seconds, Make the switch automatically based on the reactive power consumption in the real circuit.
+Du Ya Ping, 0 hours 37 minutes 39 seconds, And then I'm switching, okay, is…
+Du Ya Ping, 0 hours 37 minutes 45 seconds, Determined, or based on this setting.
+Du Ya Ping, 0 hours 37 minutes 48 seconds, Based on this setting. So we talked about this setting a little bit later. So this is a relay, and this is a CT, which is used to measure the reactive current and reactive current.
+Du Ya Ping, 0 hours 38 minutes 18 seconds, So this is a schematic for a residential building, and you can see
+Du Ya Ping, 0 hours 38 minutes 23 seconds, Some kind of thing, okay, we call this capacitive bank, okay, is…
+Du Ya Ping, 0 hours 38 minutes 29 seconds, installed for this building, okay? So let's see which one is the capacitor band. So this is the capacitor band.
+Du Ya Ping, 0 hours 38 minutes 37 seconds, This is a capacitor bank. And, this is the,
+Du Ya Ping, 0 hours 38 minutes 46 seconds, The steps, okay, the unit which connect to the dispersal valve.
+Du Ya Ping, 0 hours 38 minutes 52 seconds, Okay, and there's some kind of switch, okay, here, control which step will be switched on or off, okay, will be controlled by a railing.
+Du Ya Ping, 0 hours 39 minutes 5 seconds, The railing, okay? And the really… X-ray is to match the… the current.
+Du Ya Ping, 0 hours 39 minutes 13 seconds, you can see the CT here.
+Du Ya Ping, 0 hours 39 minutes 15 seconds, seated here. So…
+Du Ya Ping, 0 hours 39 minutes 17 seconds, This one matches the current, but actually, it will detect the measure current by CT, but after measurement, it will convert to the reactive… calculate the reactive current. And based on the reactive current, and that one, we determine whether we need to switch on the steps or not.
+Du Ya Ping, 0 hours 39 minutes 37 seconds, Okay, so that is the function of the reading, a function of the reading. And the switching…
+Du Ya Ping, 0 hours 39 minutes 42 seconds, the action of the switch is based on the setting value. We call a CK setting, CK setting.
+Du Ya Ping, 0 hours 39 minutes 50 seconds, So, it matched this bus bar for the…
+Du Ya Ping, 0 hours 39 minutes 55 seconds, Landlord loads, and you know, most cases, okay, the landlord loves…
+Du Ya Ping, 0 hours 40 minutes 2 seconds, are dominated by the motors, right? The air conditioning system, lighting, okay, etc. Okay, so the power factor here normally is very low.
+Du Ya Ping, 0 hours 40 minutes 14 seconds, So, you have the inductive loads connect to this bar, and then for compensation, based on the discussion of the basic principle, we need to connect the capacitor in parallel. So this is a capacitor in parallel with the, the inductive loads.
+Du Ya Ping, 0 hours 40 minutes 33 seconds, on the bus bar here. So there are the parallel connections, right? And then the total current here, you'll see there's some kind of cancellation effect that
+Du Ya Ping, 0 hours 40 minutes 44 seconds, Inductive current and capacitive current.
+Du Ya Ping, 0 hours 40 minutes 47 seconds, go in the opposite direction, and a part of the current cancels out. I mean, the reactive current will be canceled out, so the reactive current here, total reactive current here, will be smaller. So that means the power factor is improved.
+Du Ya Ping, 0 hours 41 minutes 19 seconds, Now let's talk about CK setting. So this is the…
+Du Ya Ping, 0 hours 41 minutes 24 seconds, thing we call the threshold. So, if the actual measure of the current, okay, but the rate is greater than that value, then switching
+Du Ya Ping, 0 hours 41 minutes 34 seconds, is performance, okay, performance, okay? And, so basically, CK ratio, basically, actually, we call… is this…
+Du Ya Ping, 0 hours 41 minutes 42 seconds, the… the reactive current at the secondary side of the CT.
+Du Ya Ping, 0 hours 41 minutes 48 seconds, Okay, so, this CK…
+Du Ya Ping, 0 hours 41 minutes 53 seconds, setting can be determined by this formula here. So, Q step, that means… that means the reactive
+Du Ya Ping, 0 hours 42 minutes 2 seconds, rating, okay, relative, power, okay, or the rating of the, the step, one step, okay, okay, divided by the
+Du Ya Ping, 0 hours 42 minutes 12 seconds, loose square suite and the LANVOLD. So you can see this is the… the reactive current.
+Du Ya Ping, 0 hours 42 minutes 19 seconds, Okay? For one step, for one step, okay? And this is at the primary side of the CT, because the relay is connected
+Du Ya Ping, 0 hours 42 minutes 29 seconds, the second, the CT is connected to the secondary side of the CT. So, by divide by the CT ratio, then you can get the secondary side current, okay,
+Du Ya Ping, 0 hours 42 minutes 44 seconds, after the…
+Du Ya Ping, 0 hours 42 minutes 45 seconds, CT. Secondary side, okay, the reactive, okay, current at the, at the, secondary side, okay, after reading, okay? So, if, okay, actual measure of the current is greater than this value, then we need to switch on
+Du Ya Ping, 0 hours 43 minutes 4 seconds, One step.
+Du Ya Ping, 0 hours 43 minutes 6 seconds, Okay, one step, okay? So that is the… the threshold, threshold, okay? So, here you can see some examples, okay? So, let's say we… we have a 100 kilowat, okay, I'm sorry, this, this should be 10 kilowat, not 100 kilowat, okay.
+Du Ya Ping, 0 hours 43 minutes 23 seconds, Okay, and the 380 votes with the CT
+Du Ya Ping, 0 hours 43 minutes 27 seconds, Ratio, 2,000 over 5, okay?
+Du Ya Ping, 0 hours 43 minutes 31 seconds, So CK, okay, setting is equal to 10 divided by root squared 3, 380, and then CT ratio. And that varies .038.
+Du Ya Ping, 0 hours 43 minutes 44 seconds, Okay, so that means the… Secondary side current, okay?
+Du Ya Ping, 0 hours 43 minutes 51 seconds, It's equal to 0.038.
+Du Ya Ping, 0 hours 43 minutes 54 seconds, Okay?
+Du Ya Ping, 0 hours 43 minutes 55 seconds, For one step, okay? So the actual measure current… if the measure current is greater than that one, then we need to perform the switching, perform the switching, okay? So, this is the…
+Du Ya Ping, 0 hours 44 minutes 7 seconds, Some, snapshot of the video, okay, for… Controller, okay?
+Du Ya Ping, 0 hours 44 minutes 16 seconds, this video will demonstrate the… how to, determine the setting, okay? So you can see, this one, this is, CK, CK, setting, and then you have the button here, this is for up, this is for down, so you can change the value.
+Du Ya Ping, 0 hours 44 minutes 36 seconds, Okay? Depends on… the CTs you use, okay, for this capacitor bed, and
+Du Ya Ping, 0 hours 44 minutes 47 seconds, And the, the, the step size, okay?
+Du Ya Ping, 0 hours 44 minutes 51 seconds, or the rating for each step, yeah. So you can find out that value, and then, put this value here, and then…
+Du Ya Ping, 0 hours 44 minutes 59 seconds, The… Capacity Bank can operate automatically for switching.
+Du Ya Ping, 0 hours 45 minutes 17 seconds, All right, okay, probably we, I… I'm not going to take a break, because I can finish this topic, probably in maybe 20 minutes or 25 minutes, okay? So I'm not going to have a break, so we continue, to…
+Du Ya Ping, 0 hours 45 minutes 35 seconds, Discuss the, the, the… That topic, okay?
+Du Ya Ping, 0 hours 45 minutes 39 seconds, So, we know the principle, okay? And, now we need to do some kind of calculation, okay? And, to…
+Du Ya Ping, 0 hours 45 minutes 50 seconds, Determining what we call the…
+Du Ya Ping, 0 hours 45 minutes 52 seconds, You can call it design of the capacitor Bank. That means we need to determine the size of the capacitor Bank.
+Du Ya Ping, 0 hours 45 minutes 59 seconds, The size of the steps, okay?
+Du Ya Ping, 0 hours 46 minutes 3 seconds, For a particular case.
+Du Ya Ping, 0 hours 46 minutes 6 seconds, So, we understand the basic principle, okay? So, here I just review that principle, right? We have a power triangle, okay, let's say this is original.
+Du Ya Ping, 0 hours 46 minutes 23 seconds, This is the original, triangle.
+Du Ya Ping, 0 hours 46 minutes 27 seconds, And, Seda… Okay, this is the original, theta, okay?
+Du Ya Ping, 0 hours 46 minutes 34 seconds, And, then, we want to improve the…
+Du Ya Ping, 0 hours 46 minutes 41 seconds, the power Factor, okay? So, we…
+Du Ya Ping, 0 hours 46 minutes 45 seconds, provide the reactive power, okay, from the capacitive bank. So, this amount of power, reactive power provided capacity bank, and this is the final, okay, reactive power consumption, okay? And then this, angle here, we call it C.2, is the
+Du Ya Ping, 0 hours 47 minutes 2 seconds, Final one, okay? Or let's say this is the target power factor, this is actually the thing you want to achieve.
+Du Ya Ping, 0 hours 47 minutes 9 seconds, Okay, so this is the target, okay, reactive power, and this is the original reactive power, and this is the
+Du Ya Ping, 0 hours 47 minutes 17 seconds, React Depot, we need to…
+Du Ya Ping, 0 hours 47 minutes 20 seconds, consider to provide by using the capacity bank. And based on that one, you can determine the
+Du Ya Ping, 0 hours 47 minutes 26 seconds, Size of the capacitor bag.
+Du Ya Ping, 0 hours 47 minutes 29 seconds, And, so QC is the amount of reactive power we need to provide by using the capacity band. It is equal to the original one minus the target one.
+Du Ya Ping, 0 hours 47 minutes 41 seconds, Okay, and we know the power triangle, front part triangle, okay?
+Du Ya Ping, 0 hours 47 minutes 55 seconds, So, this is a theta. We know the cosine theta means the power vector P over S, okay? But here, we want to find the relationship between P and Q, so it actually is determined by tangent theta.
+Du Ya Ping, 0 hours 48 minutes 13 seconds, TAN is theta is equal to Q over P, or let's say Q is equal to P times 10 is below.
+Du Ya Ping, 0 hours 48 minutes 24 seconds, So reactive power is equal to real power times 10 in theta.
+Du Ya Ping, 0 hours 48 minutes 30 seconds, Okay, so you can see, here, this Q1 equal to P times 10C dot 1, and the Q2 is P times 10.3 dot 2. Remember, okay, the C does change, but the real power does not change.
+Du Ya Ping, 0 hours 48 minutes 46 seconds, So after you put to the capacitor bank, it does not change… you do not change the real power.
+Du Ya Ping, 0 hours 48 minutes 53 seconds, So the rear part's still the same.
+Du Ya Ping, 0 hours 48 minutes 55 seconds, Okay, but then you change the power factor, or the reactive power.
+Du Ya Ping, 0 hours 49 minutes 2 seconds, So based on this QC, then we can determine the capacitor bank, okay?
+Du Ya Ping, 0 hours 49 minutes 9 seconds, the Cabeza Bank size.
+Du Ya Ping, 0 hours 49 minutes 17 seconds, So now, we need to know how to find the Q1 and the Q2.
+Du Ya Ping, 0 hours 49 minutes 22 seconds, Okay? So, of course, in order to find out the Q and Q2, okay, you have to, know how to find the, you have to get the data, okay, from the model, okay, regarding the,
+Du Ya Ping, 0 hours 49 minutes 40 seconds, real power, power factor, etc. So we do have some kind of data sheets.
+Du Ya Ping, 0 hours 49 minutes 47 seconds, for the motors.
+Du Ya Ping, 0 hours 49 minutes 50 seconds, So this is a typical data sheet for the motor, and this… the first column shows the power
+Du Ya Ping, 0 hours 49 minutes 57 seconds, We call it output power, it's a mechanical power, okay? So input power is different from the mechanical power.
+Du Ya Ping, 0 hours 50 minutes 5 seconds, Okay, so the input power is equal to the output power divided by the efficiency.
+Du Ya Ping, 0 hours 50 minutes 11 seconds, So when we talk about the…
+Du Ya Ping, 0 hours 50 minutes 13 seconds, power Factor Correction, we have to use the electrical power. This is a mechanical power, this is electrical power. So we have to use electrical power for the calculation, not the mechanical power.
+Du Ya Ping, 0 hours 50 minutes 24 seconds, Okay? Alright, and the efficiency…
+Du Ya Ping, 0 hours 50 minutes 28 seconds, and the power factors are given, okay, in this table. So, we have the efficiency, okay, let's say, 30 kilowatts, this is 89, 89, okay? And,
+Du Ya Ping, 0 hours 50 minutes 43 seconds, Power factor is 0.9.
+Du Ya Ping, 0 hours 50 minutes 46 seconds, 2.9, okay? So,
+Du Ya Ping, 0 hours 50 minutes 54 seconds, you can, get the theta, find out the theta, okay, and find the real, real power. Real power is this one, okay, real power is this one. And the reactive power… okay, I'm sorry, I, I put… used the wrong figure here. This should be… 30 kilowatts should be…
+Du Ya Ping, 0 hours 51 minutes 11 seconds, 0.89, I used 0.84, so this is not correct.
+Du Ya Ping, 0 hours 51 minutes 15 seconds, But it doesn't matter, okay? You just understand the calculation procedure, okay? You need to understand the procedure, okay? So, find out the, find the…
+Du Ya Ping, 0 hours 51 minutes 26 seconds, the… this data sheet, you can find the input power, the real power, the real power, okay? By using the output power and the efficiency, okay? And the reactive power can be determined by this formula we just talked about, the formula.
+Du Ya Ping, 0 hours 51 minutes 44 seconds, Okay, so, it is… it is equal to real power, and, this is the, power factor.
+Du Ya Ping, 0 hours 51 minutes 53 seconds, In this case, power factor is equal to 0.9, 0.9, okay? 0.9, okay, cosine, the inverse function, right? So the theta here is equal to 25.
+Du Ya Ping, 0 hours 52 minutes 7 seconds, 84 degrees. So this is the angle, theta, theta, okay? And then by using this formula, you can get to the reactive power.
+Du Ya Ping, 0 hours 52 minutes 16 seconds, So that is the way to find out the…
+Du Ya Ping, 0 hours 52 minutes 19 seconds, P and the Q, okay? Of course, if P and the Q is given, then you can find the S.
+Du Ya Ping, 0 hours 52 minutes 25 seconds, Okay? How the S.
+Du Ya Ping, 0 hours 52 minutes 27 seconds, So, by using the power triangle. So, that is the base… those are the basic formulas, okay, you need to use for the calculation, okay, to find out the P and the Q for each
+Du Ya Ping, 0 hours 52 minutes 40 seconds, Individual, piece of equipment, okay?
+Du Ya Ping, 0 hours 52 minutes 53 seconds, So, basically, you need to do, you know, that kind of calculation for
+Du Ya Ping, 0 hours 52 minutes 58 seconds, almost order, the motors, okay? So then, that means you need to do that kind of bind out P and the Q and the theta, okay, and then, all together, and then, in this case, okay, QI is the
+Du Ya Ping, 0 hours 53 minutes 16 seconds, the original reactive power, okay? And this is the… Target reactive power.
+Du Ya Ping, 0 hours 53 minutes 23 seconds, Okay, and the difference is… means the reactive powers, we need to provide, okay? And then you need to consider all kinds of the, motors, okay, using
+Du Ya Ping, 0 hours 53 minutes 35 seconds, In, in the building.
+Du Ya Ping, 0 hours 53 minutes 39 seconds, All right, so we know how to find the Q and the P, okay? And the thing is that, okay, how can we, set the target power factor?
+Du Ya Ping, 0 hours 53 minutes 49 seconds, So we know the power factor for the motor.
+Du Ya Ping, 0 hours 53 minutes 53 seconds, In the original situation, right? And the target power factor, Would be .85.
+Du Ya Ping, 0 hours 54 minutes 1 seconds, So that is the minimum requirement, okay? Or 1.0, that's the perfect case.
+Du Ya Ping, 0 hours 54 minutes 8 seconds, So, usually, we need to pick up a figure in this range.
+Du Ya Ping, 0 hours 54 minutes 13 seconds, So 0.9, 0.95 are possible, figure or possible value you can choose, okay? So probably 0.95, okay, would be…
+Du Ya Ping, 0 hours 54 minutes 23 seconds, better, yeah. But usually, we do not use… consider the perfect case, 1.0. If we use that one, probably you will see something we call overcompensation, which means
+Du Ya Ping, 0 hours 54 minutes 34 seconds, In that case, the, the…
+Du Ya Ping, 0 hours 54 minutes 40 seconds, the reactive power can be, to the opposite side, okay? Which means,
+Du Ya Ping, 0 hours 54 minutes 47 seconds, Tense, the inductive reactive part…
+Du Ya Ping, 0 hours 54 minutes 50 seconds, turns out to be capacitively reacted upon, so that's not… not… not the thing we want.
+Du Ya Ping, 0 hours 54 minutes 57 seconds, So usually, we want sensing, between 0.85
+Du Ya Ping, 0 hours 55 minutes 2 seconds, 3.1.0, and the 0.95 would be considered idea, figure.
+Du Ya Ping, 0 hours 55 minutes 15 seconds, The second question we need to answer is that, under what condition we need to consider for the motor, because if you look at this one.
+Du Ya Ping, 0 hours 55 minutes 24 seconds, the power Factor… And the efficiency are different, and the different
+Du Ya Ping, 0 hours 55 minutes 32 seconds, condition. This is called a full load condition, and this is called a 75% low condition. And actually, the data sheet will provide, like, a 50
+Du Ya Ping, 0 hours 55 minutes 42 seconds, percent low condition, and even 25% low condition, okay? But in this slide, I just showed the two different conditions, okay? So which condition you need to consider in order to find out the P and the Q, okay?
+Du Ya Ping, 0 hours 56 minutes 2 seconds, So here, we consider,
+Du Ya Ping, 0 hours 56 minutes 7 seconds, several type of cases, okay? The first one we call the fixed load pumps.
+Du Ya Ping, 0 hours 56 minutes 13 seconds, Okay, that means the pump, okay, the motor will run in the full load condition, okay, and then stopped.
+Du Ya Ping, 0 hours 56 minutes 20 seconds, for example, like, fresh water pumps, okay, either on, and the flow condition, then off, right? Okay? So in that case, okay, you just use 100% low condition. If the motor is not oversized, and a 75% low condition.
+Du Ya Ping, 0 hours 56 minutes 36 seconds, in case the model is oversized, okay? So, then use the data sheet, okay? The figures in data sheet, you can find out P and the Q. So that's…
+Du Ya Ping, 0 hours 56 minutes 47 seconds, very straightforward, okay? So that is a very straightforward case, okay? And the third one, again, is very straightforward, okay? Now that we know, there's some kind of technologies available we call the motor drive.
+Du Ya Ping, 0 hours 57 minutes 3 seconds, VF means the variable frequency motor drive, or sometimes we call the VSD, variable speed mode drives. So that means we use electronic components to control the operation of the motor.
+Du Ya Ping, 0 hours 57 minutes 17 seconds, So in that case, okay, if you use that kind of motor drive, the power factor usually very close to 1.0.
+Du Ya Ping, 0 hours 57 minutes 27 seconds, Which means there's no need to consider, okay, for, compensation. They already achieved a very good power factor, okay, 1.0, okay? So for such case, okay, we don't need to worry about the reactive power consumption, okay?
+Du Ya Ping, 0 hours 57 minutes 44 seconds, We just need to consider those motors without, variable speed motor drive, without, variable frequency, motor drive.
+Du Ya Ping, 0 hours 57 minutes 57 seconds, And the second case is a little bit complicated, okay? In that case, the motor loading changed from time to time. Sometimes it could be 50%, sometimes it could be even 0%, so it's very difficult to, you know, actually estimate the reactive power.
+Du Ya Ping, 0 hours 58 minutes 14 seconds, But, for worst scenario consideration, okay, we use the full compensation. That means the full compensation may be considered. So what full compensation is?
+Du Ya Ping, 0 hours 58 minutes 32 seconds, So that means it doesn't matter what,
+Du Ya Ping, 0 hours 58 minutes 36 seconds, conditions, okay? The motors operating, okay? We always consider the motors in the full load condition, and use the full load condition data to find our P and the Q.
+Du Ya Ping, 0 hours 58 minutes 47 seconds, Okay? Especially for the Q calculation, okay? So, of course, this is,
+Du Ya Ping, 0 hours 58 minutes 55 seconds, a simple way to handle this kind of, situation, okay? But normally, you know, for variable speed mode, variable, load mode, okay, it's…
+Du Ya Ping, 0 hours 59 minutes 7 seconds, not so easy to accurately estimate the reactive power, okay? And this is the easy way to determine the reactive power, okay?
+Du Ya Ping, 0 hours 59 minutes 21 seconds, Alright, and this…
+Du Ya Ping, 0 hours 59 minutes 25 seconds, those two items just tell us to find out, those, Q and the P, okay?
+Du Ya Ping, 0 hours 59 minutes 33 seconds, For individual piece of equipment, and if you have a group of, you know, such kind of, devices, okay, and then maybe you need to consider diversity, just like the thing we talked about last week, okay?
+Du Ya Ping, 0 hours 59 minutes 50 seconds, So if you run two motors, they may not reach the maximum, amount at the same time, so you may consider the diversity, let's say 1.2, 1.3, okay?
+Du Ya Ping, 1 hours 0 minutes 1 seconds, So here again, that figure, normally is obtained based on the experiences, okay? So here, I don't have any…
+Du Ya Ping, 1 hours 0 minutes 10 seconds, particular figures available, okay? So if you… let's say, if you don't have any information regarding this one, and then you can just make an assumption.
+Du Ya Ping, 1 hours 0 minutes 20 seconds, The diversity is just equal to 1.0, yeah. So, in the calculation, yeah.
+Du Ya Ping, 1 hours 0 minutes 34 seconds, All right, and then we move to almost the end of this,
+Du Ya Ping, 1 hours 0 minutes 40 seconds, A slide, okay, the lecture, and then we…
+Du Ya Ping, 1 hours 0 minutes 44 seconds, consider… we look at the location, okay, for the capacitor bank. So where we need to install the capacitor bank? If you look at this
+Du Ya Ping, 1 hours 0 minutes 55 seconds, schematic…
+Du Ya Ping, 1 hours 0 minutes 58 seconds, Here, so you have, this is the origin of the electrical installation, the main switchboard, and then you have the plant loan somewhere, okay? Machine loan, okay, normally they consume a lot of radioactive power. So where we need to put the
+Du Ya Ping, 1 hours 1 minutes 14 seconds, The, the compressor band.
+Du Ya Ping, 1 hours 1 minutes 16 seconds, Okay, so in this schematic, you can see the capacitor Bank is connected at the origin of the
+Du Ya Ping, 1 hours 1 minutes 23 seconds, electrical installation, and basically it's a main area switch balls, yeah? But you can move this one to…
+Du Ya Ping, 1 hours 1 minutes 30 seconds, You know.
+Du Ya Ping, 1 hours 1 minutes 31 seconds, other locations, for example, in the lift machine rooms, or in the plant rooms, okay? So they are all possible, okay? So, actually.
+Du Ya Ping, 1 hours 1 minutes 44 seconds, We have 3 different…
+Du Ya Ping, 1 hours 1 minutes 46 seconds, types of locations, okay? And, this is the one, just like what we saw in the schematic. We call this is the centralized compensation. We just use one capacitor band to compensate all the reactive loads for the whole electrical installation.
+Du Ya Ping, 1 hours 2 minutes 5 seconds, So the power factor here is improved, but the power factor within the electrical installation does not change. The power factor could be here, could be lower.
+Du Ya Ping, 1 hours 2 minutes 16 seconds, Okay? But this one here will be, you know, greater than 0.85, yeah.
+Du Ya Ping, 1 hours 2 minutes 25 seconds, And, you can move the capacitor band, okay, to…
+Du Ya Ping, 1 hours 2 minutes 31 seconds, the equipment for individual equipment, okay? So in that case, okay.
+Du Ya Ping, 1 hours 2 minutes 37 seconds, You can see the power factor everywhere here within the electrical installations improve.
+Du Ya Ping, 1 hours 2 minutes 45 seconds, But… Compare with this?
+Du Ya Ping, 1 hours 2 minutes 48 seconds, you have to provide multiple capacity bank, and install the capacity bank at different locations. So, overall cost, by installing multiple capacity bank
+Du Ya Ping, 1 hours 3 minutes 1 seconds, Could be much higher than this one.
+Du Ya Ping, 1 hours 3 minutes 4 seconds, So you see, there are some kind of benefits, okay, or disadvantage, and disadvantage.
+Du Ya Ping, 1 hours 3 minutes 10 seconds, Okay? For, those two different, considerations, okay? And this is in the middle, okay? You provide the capacitiment, not
+Du Ya Ping, 1 hours 3 minutes 22 seconds, for individual equipment, not for the whole electrical installation, but at the switchboard here, maybe in the same plant room, okay, or the lift and machine room, or somewhere else, okay? So, this is just a,
+Du Ya Ping, 1 hours 3 minutes 39 seconds, You know, it's essentially in the middle, in the middle, okay?
+Du Ya Ping, 1 hours 3 minutes 48 seconds, Okay, so most cases, we…
+Du Ya Ping, 1 hours 3 minutes 51 seconds, especially for the residential building, we use the central compensation, okay? And for the large industrial building or commercial building, we may consider the second one, okay, we call it group compensation. So we may provide the capacity band
+Du Ya Ping, 1 hours 4 minutes 8 seconds, for the plan loan, okay? For a plan loan, okay? So, that's… those are two possible
+Du Ya Ping, 1 hours 4 minutes 18 seconds, Selections, okay, the choices, okay, we can consider, okay, for, the location of the a capacitor bank.
+Du Ya Ping, 1 hours 4 minutes 32 seconds, All right, okay, I think that's all I want to cover today, okay? We talked about the capacity band, the basic… the reasons for, capacity band, okay, installing capacity bank, and, how can we, determine the rating, okay.
+Du Ya Ping, 1 hours 4 minutes 52 seconds, of the capacitor Bank.
+Du Ya Ping, 1 hours 4 minutes 55 seconds, Okay, or the size of the capacitor bank. And then finally, and then we talk about the, the location for
+Du Ya Ping, 1 hours 5 minutes 3 seconds, capacity bank installation, okay? Some… Advantages and disadvantages, okay?
+Du Ya Ping, 1 hours 5 minutes 10 seconds, Alright, and I think that's all I want to talk about.
+Du Ya Ping, 1 hours 5 minutes 17 seconds, Today, okay? So we, dismissed the lecture today, okay, if you don't have any, questions, okay? And then we do have a tutorial question, okay, in the following week for this topic, okay, for this one.

@@ -1,0 +1,569 @@
+Recording 17
+Title: BSE3124 - ELECTRICITY AND BUILDINGS
+Date: 2026-10-27
+Source: https://polyu.zoom.us/rec/play/lIiM-n1tSdDxQhT0tgl6oRd0TwlyHBAOrDSmD_YTABlUUYMvqZHZF80-B_N2Dr2Q3IzCd2_ormUUojkC.6g3EZ6nvvNxStMjY
+Automatic Zoom transcript; recognition errors retained.
+
+Du Ya Ping, 0 hours 1 minutes 40 seconds, Alright, hey,
+Du Ya Ping, 0 hours 1 minutes 43 seconds, You know, we talked about the four current calculation last week, and, we know, electrical fault.
+Du Ya Ping, 0 hours 1 minutes 51 seconds, could happen at any time, okay? And also, you know, in the cable sizing, we determine the cable size, okay, so it can handle the normal operating… operating current, okay, in the normal conditions, right?
+Du Ya Ping, 0 hours 2 minutes 6 seconds, But under 4 conditions, we have to check whether the cable is good enough, or the size is large enough.
+Du Ya Ping, 0 hours 2 minutes 14 seconds, So, the four… Will not cause any damage, okay, to the cable, or to other…
+Du Ya Ping, 0 hours 2 minutes 23 seconds, Type of equipment, okay? And, so, last week, we talked about the current calculation, and this week, we are going to talk about the protection requirements, and we will use the knowledge about the current, okay.
+Du Ya Ping, 0 hours 2 minutes 38 seconds, To, set some kind of requirement, okay, for the cable or whatever, okay, or protective… protective device… devices, so that
+Du Ya Ping, 0 hours 2 minutes 48 seconds, Even in the fall condition, the electrical installation, the equipment, the cable will not be damaged, okay, can survive, okay? Under full condition, okay? So, this is the thing we're going to talk about, today. And,
+Du Ya Ping, 0 hours 3 minutes 3 seconds, Of course, okay, the current here, we are talking about is called overcurrent.
+Du Ya Ping, 0 hours 3 minutes 9 seconds, Yeah, so what…
+Du Ya Ping, 0 hours 3 minutes 11 seconds, is overcurrent, so overcurrent is actually… is the current greater than the normal operating current, okay, for the equipment, okay?
+Du Ya Ping, 0 hours 3 minutes 20 seconds, for the cable, it's called the current carrying capacity, right? Effective current carrying capacity, okay? And for the equipment, like, the protective device, so it is the rating, IN, okay? So, any current greater than that
+Du Ya Ping, 0 hours 3 minutes 35 seconds, Level, we call the overcurrent.
+Du Ya Ping, 0 hours 3 minutes 38 seconds, And this overcurrent can be classified into two groups, based on the nature, okay? The second one we call the four current, actually the one we talked about last week, and the four current can be further divided into two groups, one called the Phase 4,
+Du Ya Ping, 0 hours 3 minutes 56 seconds, Okay, or short circuit 4, okay, and another one called Earth 4.
+Du Ya Ping, 0 hours 4 minutes 0 seconds, So we talked about, CHUIZ4 current calculation, and S4
+Du Ya Ping, 0 hours 4 minutes 6 seconds, current calculation, and we know surface for largest fall current, and S4, we show the minimum 4 current, okay? So this is one type of overcurrent, and another one is called overload current.
+Du Ya Ping, 0 hours 4 minutes 24 seconds, So it's not… it's not caused by the four…
+Du Ya Ping, 0 hours 4 minutes 27 seconds, That means the circuit itself is fine, okay? You have a final circuit, you have a socket outer circuit, you have a lighting circuit. The circuit has no problem
+Du Ya Ping, 0 hours 4 minutes 38 seconds, the problem is that too many loads connect to the circuit. For example, if you have a socket RS circuit, you have,
+Du Ya Ping, 0 hours 4 minutes 49 seconds, 30 MP. Current, right? The current rating, okay? And, you connect…
+Du Ya Ping, 0 hours 4 minutes 57 seconds, many heaters, okay, maybe more than 10 heaters, okay, to the socket outlets. And the actual current required for those 10 heaters will be much more
+Du Ya Ping, 0 hours 5 minutes 9 seconds, Then the 30 amperes. So the… this is called the overload current, the circuit is overload, okay? So.
+Du Ya Ping, 0 hours 5 minutes 18 seconds, The circuit is fine, but the loading, okay, required, okay, is much greater than
+Du Ya Ping, 0 hours 5 minutes 25 seconds, the current the circuit can handle. So we call this the overload current, okay? So, of course, when we talk about the protection, we need to consider those two different types of currents. Actually, we can see here we have three types of current, right? Overload current.
+Du Ya Ping, 0 hours 5 minutes 42 seconds, face walker and Earthwalker, okay? And we have
+Du Ya Ping, 0 hours 5 minutes 46 seconds, separate requirements, okay, for each of them, right? We have requirements for overlook current protection, and requirements for face fault,
+Du Ya Ping, 0 hours 5 minutes 57 seconds, protection, and another one is for earthfall protection. So, we have 3 sets of requirements we need to talk about.
+Du Ya Ping, 0 hours 6 minutes 5 seconds, Okay?
+Du Ya Ping, 0 hours 6 minutes 7 seconds, Okay, so first of all, let's talk about the overload current, okay? Actually, this is very straightforward, because…
+Du Ya Ping, 0 hours 6 minutes 15 seconds, when you… Then, sincere about cable sizing.
+Du Ya Ping, 0 hours 6 minutes 18 seconds, you actually apply the requirement for overload protection, okay? So now let's look at the detailed requirement. So here you can see the diagram. This is the very simple, illustration about the circuit, single-phase circuit, with the loads, okay? And,
+Du Ya Ping, 0 hours 6 minutes 37 seconds, You can see the circuit has no faults, okay, no problem, okay? It's fine, but because you have loads, okay, you have many, many loads connect to the circuit, and it requires a larger amount of current, which is more than
+Du Ya Ping, 0 hours 6 minutes 51 seconds, the cable can carry out, and we call this an overload current, okay? So it's not fault, okay? So, of course, when we talk about the protection against this kind of overload condition, of course, the basic requirement is that you have to
+Du Ya Ping, 0 hours 7 minutes 9 seconds, install a device, we call it a protective device. So, it can disconnect circuit.
+Du Ya Ping, 0 hours 7 minutes 16 seconds, if the overload condition is detected. So this is a fundamental protection requirement. So when we talk about protection, we have to rely on
+Du Ya Ping, 0 hours 7 minutes 28 seconds, the device…
+Du Ya Ping, 0 hours 7 minutes 30 seconds, for disconnection of the circuit, okay? So here, the device is the fuse, and the later UAC, we can use MCB, MCCB, ACB, or some other devices for
+Du Ya Ping, 0 hours 7 minutes 43 seconds, disconnection, for making the disconnection, okay? So, when we talk about the protections, the fundamental requirements is that we need a device for disconnection, okay?
+Du Ya Ping, 0 hours 7 minutes 57 seconds, So, of course, okay.
+Du Ya Ping, 0 hours 8 minutes 0 seconds, As you can see here, so, the device will make this, disconnection if the overload condition detect, but this, disconnection may not be necessary to mate immediately.
+Du Ya Ping, 0 hours 8 minutes 15 seconds, Okay, because the overload current is not that high compared with the full current, so the temperature on the conductor will increase, but maybe slowly, okay? Increase slowly, okay? So, we can tolerate, a little bit long time.
+Du Ya Ping, 0 hours 8 minutes 33 seconds, Okay, operating time for the devices, okay? So,
+Du Ya Ping, 0 hours 8 minutes 39 seconds, We just need to make sure, okay, before the disconnection, the temperature on the conductor will not exceed the limits, okay? And we do have the, temperature limits, okay, for, for the conductor, okay? Okay.
+Du Ya Ping, 0 hours 8 minutes 58 seconds, All right, and as you can see, you know, that is a requirement, okay? We know, if the current IZ is the effective current current capacity, it's the largest current
+Du Ya Ping, 0 hours 9 minutes 13 seconds, The conductor or the cable can carry out without causing any
+Du Ya Ping, 0 hours 9 minutes 17 seconds, trouble, we call the overheating problem, right? So any current is less than IZ, supposed to be fine, okay?
+Du Ya Ping, 0 hours 9 minutes 27 seconds, will not cause any damage to the conductor, to the cable, okay? But if the current is greater than that level.
+Du Ya Ping, 0 hours 9 minutes 34 seconds, Then, you will see…
+Du Ya Ping, 0 hours 9 minutes 36 seconds, some possible damage, of course, depends on the duration of the current. If the duration of that current is longer, let's say minutes or hours, okay, then certainly it could cause the damage. But if the current duration, like, a few seconds, 10 seconds, or 20 seconds.
+Du Ya Ping, 0 hours 9 minutes 55 seconds, That could be fine, okay? Could be fine, because, the overload current is not that high, okay? It will not cause the temperature
+Du Ya Ping, 0 hours 10 minutes 4 seconds, Increase to the limit, okay, in short period of time, yeah.
+Du Ya Ping, 0 hours 10 minutes 10 seconds, All right, okay, so basically, just, we want to show… ensure, okay, the current will not greater than the effective current
+Du Ya Ping, 0 hours 10 minutes 18 seconds, current capacity, okay? And we also know, okay, we need to use the device to make the disconnection when the current is greater than a certain level, okay? So that's why we come up with the requirement
+Du Ya Ping, 0 hours 10 minutes 32 seconds, Here.
+Du Ya Ping, 0 hours 10 minutes 33 seconds, IB is the design current, IN is the…
+Du Ya Ping, 0 hours 10 minutes 37 seconds, operating current of the protective device, or you may say the current rating of the device, IZ is the effective current current capacity, right? So, for any current greater than… greater than IN,
+Du Ya Ping, 0 hours 10 minutes 52 seconds, the fuse here, or the protective device here, will make the disconnection. Before, okay, the temperature reach the
+Du Ya Ping, 0 hours 11 minutes 3 seconds, the final temperature, the limit, okay? And actually, you know, you are familiar with this one, this requirement, because you use this one to determine the cable size.
+Du Ya Ping, 0 hours 11 minutes 15 seconds, determine the cable size, okay? So, that means, okay, if you follow the procedure.
+Du Ya Ping, 0 hours 11 minutes 24 seconds, The cable siding procedure, we talked about the early…
+Du Ya Ping, 0 hours 11 minutes 28 seconds, In this semester, actually, you provide the overload protection already.
+Du Ya Ping, 0 hours 11 minutes 36 seconds, Okay? So if we do that way, then the protection against the overload is achieved.
+Du Ya Ping, 0 hours 11 minutes 42 seconds, So that is the basic requirement, okay, basic requirement, okay? If, if this one, let's say IN is not less than IZ, it's greater than IZ,
+Du Ya Ping, 0 hours 11 minutes 55 seconds, That means the overload protection is not provided.
+Du Ya Ping, 0 hours 11 minutes 59 seconds, All right, yeah. So, it's quite easy to check whether overload protections are achieved or not, just…
+Du Ya Ping, 0 hours 12 minutes 8 seconds, check whether this one is satisfied or not, okay? IB less than IN less than
+Du Ya Ping, 0 hours 12 minutes 16 seconds, IZ. Okay, so this is the basic requirement.
+Du Ya Ping, 0 hours 12 minutes 19 seconds, And there's a second requirement, I2 less than 1.5 times IZ, and I2, what is I2? I2 is the current
+Du Ya Ping, 0 hours 12 minutes 30 seconds, Which caused the device to operate effectively.
+Du Ya Ping, 0 hours 12 minutes 35 seconds, But it doesn't mean it will operate, okay, at the 1 second, 2 seconds, but it tells us it can…
+Du Ya Ping, 0 hours 12 minutes 43 seconds, ensure, we can ensure that the device with disconnect circuit effectively within a period of time. It could be 1 second, 2 seconds, but this connection, this action can be made.
+Du Ya Ping, 0 hours 12 minutes 56 seconds, Okay? For sure, okay? So, IT is different from IN. It's a little bit greater than IN, okay?
+Du Ya Ping, 0 hours 13 minutes 13 seconds, So here, you, you can see, what you see is the, fuse, characteristic curve, you know, we call it tripping curve, okay? And the horizontal axis means the current.
+Du Ya Ping, 0 hours 13 minutes 28 seconds, flowing in the fuse, okay, or the current is monitored by the fuse, and the vertical axis is the operating time, okay? So for each fuse rating, you have one particular curve, which tells us the actual operating time, okay? So, for the current
+Du Ya Ping, 0 hours 13 minutes 47 seconds, let's say for, this 10-ampa fuse, okay, for any current grid, then this
+Du Ya Ping, 0 hours 13 minutes 54 seconds, Red line here, we can say the fuse will operate effectively.
+Du Ya Ping, 0 hours 14 minutes 0 seconds, Okay, of course, the actual operating time determined by the current, okay, determined by current. But we can for sure, okay, the device will operate, okay? And this is kind of the limit, okay, for effective operation. If the current is less than that one.
+Du Ya Ping, 0 hours 14 minutes 18 seconds, Okay? The fuse may not operate it, okay?
+Du Ya Ping, 0 hours 14 minutes 24 seconds, But if the current greater than that one, 100% operator. So we call this I2. I2 is the effective operating current, okay, of the protective device, okay? So this I2 should be…
+Du Ya Ping, 0 hours 14 minutes 39 seconds, you know, less than 1.45 times the IZ.
+Du Ya Ping, 0 hours 14 minutes 43 seconds, Okay, so this is an additional requirement, and most cases, okay, the second one.
+Du Ya Ping, 0 hours 14 minutes 49 seconds, is considered, to be fulfilled automatically, okay? So what… what… what does that mean, okay? That means that we just need to
+Du Ya Ping, 0 hours 15 minutes 1 seconds, look at the first requirement. The second requirement,
+Du Ya Ping, 0 hours 15 minutes 6 seconds, if the first requirement is fulfilled, and then second requirement is considered automatically fulfilled. So, most cases, we do not need to worry about the second one, yeah, just the first one, yeah.
+Du Ya Ping, 0 hours 15 minutes 21 seconds, All right, and here, this diagram just illustrates different types of currents. We talk about, in cable sizing, in the protection, okay, in the device, discussion, okay, so we put…
+Du Ya Ping, 0 hours 15 minutes 33 seconds, all those…
+Du Ya Ping, 0 hours 15 minutes 35 seconds, different currents together on the C graph, and in this graph, you can see the relationship about those different, you know, currents, okay, we mentioned, okay? So, first one is the
+Du Ya Ping, 0 hours 15 minutes 50 seconds, Design current, which is determined by the load. Okay, this is actually the…
+Du Ya Ping, 0 hours 15 minutes 56 seconds, has nothing to do with the circuit itself, okay? And, then, you have the cable, right? The circuit is made by a cable. So for the cable, okay, you have, one very important
+Du Ya Ping, 0 hours 16 minutes 10 seconds, parameter called, effective, current carrying capacity. So this is the
+Du Ya Ping, 0 hours 16 minutes 17 seconds, Largest the current the cable can carry out, okay?
+Du Ya Ping, 0 hours 16 minutes 20 seconds, And there's a 1.45 IZ, because this one is mentioned in the second requirement for overload protection.
+Du Ya Ping, 0 hours 16 minutes 28 seconds, All right, and those two parameters are used for
+Du Ya Ping, 0 hours 16 minutes 33 seconds, the cable, right? And then we have another device called the
+Du Ya Ping, 0 hours 16 minutes 38 seconds, protective device, fuse or circuit break, right? So we have some parameters, right, for the protective device. So here, IN is the rating, okay? And also, we call the thermal rating.
+Du Ya Ping, 0 hours 16 minutes 52 seconds, Which means if the current is greater than that one, and then the device circuit breaker itself could be damaged.
+Du Ya Ping, 0 hours 17 minutes 2 seconds, caused by overcurrent, overheating problem, okay? So, the normal current should not be greater than this one in the circuit. So, IN should be greater than IB, okay?
+Du Ya Ping, 0 hours 17 minutes 16 seconds, And, IN, of course, should be less than IZ.
+Du Ya Ping, 0 hours 17 minutes 20 seconds, So, you see the overload protection requirement that this one, less than IN, IN is less than IZ, so this is the…
+Du Ya Ping, 0 hours 17 minutes 28 seconds, you know, graphic illustration about the overcurrent protection requirement. And the second one, okay, is the IT. IT is different from the RN, okay? But IT should be less than 1.452.
+Du Ya Ping, 0 hours 17 minutes 46 seconds, 1.45IZ. So this is the… actually, the second, requirement, okay, for the overload protection, overload protection.
+Du Ya Ping, 0 hours 18 minutes 2 seconds, All right, so, basically, okay, this is the requirement, okay, for over… fundamental requirement for overload protection, okay? And if you…
+Du Ya Ping, 0 hours 18 minutes 12 seconds, For the cable sizing procedure, again, we're talking about, and then you… the overload protection requirement is considered
+Du Ya Ping, 0 hours 18 minutes 21 seconds, Achieve automatically, okay?
+Du Ya Ping, 0 hours 18 minutes 23 seconds, Okay, apart from this fundamental requirement with some… we have some other provision, which will be considered in some special cases.
+Du Ya Ping, 0 hours 18 minutes 35 seconds, Yay.
+Du Ya Ping, 0 hours 18 minutes 37 seconds, Well, okay, this is another very important point. Actually, we talked about this one already, okay? Remember, in the cable sizing, if the circuit is motor circuit.
+Du Ya Ping, 0 hours 18 minutes 49 seconds, And the mode has a starting current, and we want to ensure the device will not cause any trouble to mode starting. And remember this curve?
+Du Ya Ping, 0 hours 19 minutes 18 seconds, So, this is the,
+Du Ya Ping, 0 hours 19 minutes 21 seconds, case we talk about in the tutorial question, right? For cable sizing. So, the top one is a fuse curve, and the bottom one is the most starting curve, and we need to ensure there's no overlapping
+Du Ya Ping, 0 hours 19 minutes 36 seconds, between those two curves, right? And we consider this most starting current is the normal current.
+Du Ya Ping, 0 hours 19 minutes 43 seconds, So, the device is not supposed to make a disconnection. If we just look at the magnitude, you may say this is the overload current, but we consider this part of normal operation of the motor, because you have to start motor frequently, right?
+Du Ya Ping, 0 hours 19 minutes 59 seconds, Okay? So, this starting current is considered normal, okay? But if this starting current
+Du Ya Ping, 0 hours 20 minutes 6 seconds, Let's say, for some reason, there's some kind of force within the motor, and the starting kind of way continues.
+Du Ya Ping, 0 hours 20 minutes 12 seconds, for a longer time, and then that will be considered as the problem, okay? So the device should be operated, okay? So normally, we have to maintain, you know, some sufficient
+Du Ya Ping, 0 hours 20 minutes 27 seconds, time, okay? for the fuse, okay? And the, mode starting current, okay? So it will not cause
+Du Ya Ping, 0 hours 20 minutes 38 seconds, The trouble, okay? To…
+Du Ya Ping, 0 hours 20 minutes 40 seconds, normal operation of the motor, okay? So this is a special thing, okay, we need to consider when we talk about the overload protection.
+Du Ya Ping, 0 hours 20 minutes 52 seconds, Okay, and this one, says, okay, the conditions…
+Du Ya Ping, 0 hours 20 minutes 59 seconds, We, for providing the overload protection, okay? So, basically, we need to know, we need to, install the protective device in the circuit for overload protection, and, it, it means, okay, when you see
+Du Ya Ping, 0 hours 21 minutes 17 seconds, you know, if you have the cables, let's say, a cross-section area, the reduction or change of the cross-section area of the conductor, when you see this kind of change, and then you need to provide a protective device for… against the overload current. Or in other words.
+Du Ya Ping, 0 hours 21 minutes 36 seconds, For every circuit, We have to provide A device for overload protection.
+Du Ya Ping, 0 hours 22 minutes 1 seconds, So, in this schematic.
+Du Ya Ping, 0 hours 22 minutes 2 seconds, You have to see many, many different circuits, right? Man circuit, rising man circuit, sub-man circuit, feeder circuit, final circuit, okay? So we consider this is the rising man circuit, and this is the subman circuit, and this is the final circuit. So when you have a different circuit, it means you see the
+Du Ya Ping, 0 hours 22 minutes 21 seconds, change of the cross-section area of the conductor. Cable size is reduced, right? So when you see this kind of change, you have to provide a device, which means you have a device for each circuit. So, for example, the protective device.
+Du Ya Ping, 0 hours 22 minutes 35 seconds, This protective device for this outgoing circuit, and this fourth submar circuit, you have another device fuse, and for final circuit, you have a MCB. So that means you need to provide a device for overall protection for every circuit, final circuit, okay? And
+Du Ya Ping, 0 hours 22 minutes 53 seconds, This is a win point, and the second one…
+Du Ya Ping, 0 hours 23 minutes 1 seconds, the location, where device is provided, okay? For overload protection, you know, as I said, this is the circuit, we call it electrically sound, which means the circuit itself has no problem, okay? It's a healthy circuit, okay? Which means the overload current.
+Du Ya Ping, 0 hours 23 minutes 19 seconds, Exists for every part of this circuit.
+Du Ya Ping, 0 hours 23 minutes 23 seconds, It means the device could be installed at any location, around circuit, at the original circuit, or at the end of a circuit.
+Du Ya Ping, 0 hours 23 minutes 32 seconds, Same. The device can…
+Du Ya Ping, 0 hours 23 minutes 35 seconds, monitor the current overload current, can detect the overload current. So, it's not necessary to install the device at the original circuit for overload protection.
+Du Ya Ping, 0 hours 23 minutes 45 seconds, Although, in most cases, that device is provided at the original circuit, but it's not necessary, okay? If necessary, you can move the device to other locations, okay? Of course, if you look at the schematic here, all the device…
+Du Ya Ping, 0 hours 24 minutes 2 seconds, Okay? Actually, it's installed at the origin of the circuit. So this is the origin of this circuit.
+Du Ya Ping, 0 hours 24 minutes 8 seconds, Okay? Why here? Because this device is not just for overload protection. It is for short circuit protection as well. So for the short circuit protection, the device should be
+Du Ya Ping, 0 hours 24 minutes 22 seconds, place at the original circuit. So one device for two functions, overload and the short circuit, okay? For overload protection, the device can be
+Du Ya Ping, 0 hours 24 minutes 33 seconds, put any place, okay, on one circuit. But for the short circuit protection, the device should be placed at the origin of the circuit.
+Du Ya Ping, 0 hours 24 minutes 41 seconds, Okay, because this device is used for both functions, right? Overload, protection, short circuit, protection. Certainly, it should be placed at the original circuit, origin of the circuit.
+Du Ya Ping, 0 hours 24 minutes 58 seconds, Okay, and, well, some cases, the overload protective device may not be necessary.
+Du Ya Ping, 0 hours 25 minutes 5 seconds, Okay? Or some cases should be forbidden, okay?
+Du Ya Ping, 0 hours 25 minutes 9 seconds, Here are the same situation, okay? Conductors situated on the low side, okay?
+Du Ya Ping, 0 hours 25 minutes 16 seconds, Of the point where… okay, let me…
+Du Ya Ping, 0 hours 25 minutes 19 seconds, This is a very special, okay, which is not commonly used, okay?
+Du Ya Ping, 0 hours 25 minutes 29 seconds, So, you have, this incoming circuit, This is all going circuit.
+Du Ya Ping, 0 hours 25 minutes 36 seconds, So, normally, we provide a device, okay,
+Du Ya Ping, 0 hours 25 minutes 41 seconds, For overload protection, okay, here, right? This is all… I'm sorry.
+Du Ya Ping, 0 hours 25 minutes 52 seconds, Yeah. So, normally, this device is used for overload protection for the outgoing circuit, okay? And, well, for some reason, okay? And we can use the device in the supply circuit
+Du Ya Ping, 0 hours 26 minutes 8 seconds, For the overload protection in this hole.
+Du Ya Ping, 0 hours 26 minutes 10 seconds, Okay, so let's say the design current here, IB, and this one, let's say IN1, this is IN2, okay? So if you want this device
+Du Ya Ping, 0 hours 26 minutes 22 seconds, For, overload protection, you just need to make sure IB less than IN1, I…
+Du Ya Ping, 0 hours 26 minutes 31 seconds, Z. IZ is the cable size, right? Determined by cable size, okay? So, of course, you can use the device
+Du Ya Ping, 0 hours 26 minutes 42 seconds, Here.
+Du Ya Ping, 0 hours 26 minutes 43 seconds, the device in the incoming circuit, okay, for overload protection. So as long as these requirements are fulfilled.
+Du Ya Ping, 0 hours 26 minutes 51 seconds, Okay? So…
+Du Ya Ping, 0 hours 26 minutes 53 seconds, IB is less than INT, INT is less than I2, IZ. Then we can use this device for overall protection here.
+Du Ya Ping, 0 hours 27 minutes 3 seconds, Yeah, so either one is fine, or you can use both.
+Du Ya Ping, 0 hours 27 minutes 7 seconds, for the overload protection, that's fine, okay? That's fine, okay? So as long as there's overload protection, okay, made by using some device, that's fine. You can use multiple devices, for overload protection. So that means you have a…
+Du Ya Ping, 0 hours 27 minutes 26 seconds, it's a high reliability, okay? You have two devices for overall protection. If one device fails, and the second device can take the action, okay? So, higher reliability, okay?
+Du Ya Ping, 0 hours 27 minutes 39 seconds, Alright, okay, so this is the, situation, okay?
+Du Ya Ping, 0 hours 27 minutes 46 seconds, Okay, we may not need the device, okay, here for overall protection, okay?
+Du Ya Ping, 0 hours 27 minutes 54 seconds, And, the second one says, okay, if the circuit, is, used for equipment where unexpected opening of the circuit could cause a greater danger than the overload condition.
+Du Ya Ping, 0 hours 28 minutes 9 seconds, So, we know the overload condition. The overload condition may not cause immediate danger, so the temperature on the conductor will increase, but slowly.
+Du Ya Ping, 0 hours 28 minutes 20 seconds, Okay? So, there's no immediate danger. However, if we look at this case, okay, this is a magnetic lift.
+Du Ya Ping, 0 hours 28 minutes 28 seconds, The magnet, the magnetic field will be generated by the current, okay, in the circuit to this lift.
+Du Ya Ping, 0 hours 28 minutes 36 seconds, And, for example, if there's an overload condition, and then it is…
+Du Ya Ping, 0 hours 28 minutes 44 seconds, during the operation, and then move some mechanical part, the metal, okay, or the steel, okay, from one place to another place, and suddenly, okay, in the… maybe in the high position, okay, in the factory, okay? And then, overload condition.
+Du Ya Ping, 0 hours 29 minutes 1 seconds, Up here, and then you suddenly disconnect the
+Du Ya Ping, 0 hours 29 minutes 4 seconds, the current to this one, and then there's no manifield, okay, or no manifolds applied on those metal parts, and those metal parts will fall, okay, to the ground, and it causes a big trouble if somebody is just…
+Du Ya Ping, 0 hours 29 minutes 17 seconds, Standing on the ground below that one, so certainly this is the situation more dangerous than the overload.
+Du Ya Ping, 0 hours 29 minutes 26 seconds, condition. So, for such device, okay, overload protection is not required, or in some sense, okay, we can say it's forbidden, okay?
+Du Ya Ping, 0 hours 29 minutes 34 seconds, Again.
+Du Ya Ping, 0 hours 29 minutes 36 seconds, in the building, okay, we, have, emergency circuit, fireman's lift, okay, emergency lighting. So for those fire service equipment, the fire service department
+Du Ya Ping, 0 hours 29 minutes 51 seconds, does not allow to have overload protection for the circuit supplying
+Du Ya Ping, 0 hours 29 minutes 57 seconds, this emergency lighting, fireman's… fireman's lift, or a fire service pump, etc, okay? So, if you look at the…
+Du Ya Ping, 0 hours 30 minutes 8 seconds, schematic.
+Du Ya Ping, 0 hours 30 minutes 10 seconds, We know this part, this is the essential bus part, which is used to serve the, fire service equipment, okay? Although the fuels are provided here, but, okay, these fuels, those fuels do not provide overload protection.
+Du Ya Ping, 0 hours 30 minutes 29 seconds, So that means that the requirements, okay, here we're talking about Okay?
+Du Ya Ping, 0 hours 30 minutes 37 seconds, Okay, the requirement here may not be fulfilled, okay? Not fulfilled, okay? So, for such cases, okay, overload protection and not
+Du Ya Ping, 0 hours 30 minutes 48 seconds, Provided, okay. And again, you see the lift, or not lift, this is the generator. This is the generator for, fire service…
+Du Ya Ping, 0 hours 30 minutes 58 seconds, loads, okay? So, although you see, some circuit breaker MCCPs provide, okay, but, you see…
+Du Ya Ping, 0 hours 31 minutes 9 seconds, the… the… the protection, okay? It's the protection, okay? It's called the Earth's fault protection, and
+Du Ya Ping, 0 hours 31 minutes 18 seconds, short-circuit protection, so it does not provide overload protection, yeah? So…
+Du Ya Ping, 0 hours 31 minutes 24 seconds, This is very important, yeah, very important. Do not provide any overload protection for the fire service equipment, for the circuit, serving the fire service equipment.
+Du Ya Ping, 0 hours 31 minutes 42 seconds, Alright, so that's all for the protection against overload. Okay, so it's quite straightforward.
+Du Ya Ping, 0 hours 31 minutes 49 seconds, We have a basic requirement, and then we have some kind of provision, special provision, okay, for some special cases, okay? And again, when the… this one's… the last point is very important for fire service loads, okay?
+Du Ya Ping, 0 hours 32 minutes 6 seconds, We do not need to provide the overload protection for the circuit, serving those loads.
+Du Ya Ping, 0 hours 32 minutes 15 seconds, Okay, so now let's talk about the requirements for short circuit protection, or Phase 4, okay? So the… of course, we have another one, Earth 4, okay, which will be, discussed later, okay? So here, we just talk about,
+Du Ya Ping, 0 hours 32 minutes 30 seconds, Phase 4, okay? We have,
+Du Ya Ping, 0 hours 32 minutes 32 seconds, to come first, short, face fall and earth fall, okay? So, basic requirement, similar to the overload protection. We relied on the device for disconnecting the circuit.
+Du Ya Ping, 0 hours 32 minutes 47 seconds, So, but, the disconnection, in this case, should be ma- as quick as possible.
+Du Ya Ping, 0 hours 32 minutes 58 seconds, Okay?
+Du Ya Ping, 0 hours 32 minutes 59 seconds, For overload protection, it may not be necessary to disconnect the circuit quickly, okay? We can tolerate a longer time, okay? Let's say we can tolerate 1 minute, or even 2 minutes, okay? But for short circuit protection, the device normally
+Du Ya Ping, 0 hours 33 minutes 16 seconds, We disconnect circuit in the time less than 1 second.
+Du Ya Ping, 0 hours 33 minutes 20 seconds, maybe a few seconds in the Earth's 4, yeah? But in the phase 4, normally, it'll be less than 1 second, okay? So it's very quick, yeah? Quick disconnection, yeah.
+Du Ya Ping, 0 hours 33 minutes 31 seconds, Alright, apart from the device, disconnection, we have a two…
+Du Ya Ping, 0 hours 33 minutes 36 seconds, We call the fundamental requirements, okay?
+Du Ya Ping, 0 hours 33 minutes 41 seconds, One is, let's say, for the protection.
+Du Ya Ping, 0 hours 33 minutes 45 seconds, For the purpose of protection, of the conductor.
+Du Ya Ping, 0 hours 33 minutes 50 seconds, Cable, or circuit.
+Du Ya Ping, 0 hours 33 minutes 52 seconds, Another is for the protection of the protective device itself.
+Du Ya Ping, 0 hours 33 minutes 58 seconds, let's say circuit breaker. Again, we need to provide a protection for circuit break, okay? Not just the conductor, right? Because they are all considered as the
+Du Ya Ping, 0 hours 34 minutes 8 seconds, electrical equipment, okay, used in the electrical installation, okay? So, let's talk about the…
+Du Ya Ping, 0 hours 34 minutes 16 seconds, conductor protection, okay? So, what we want to ensure is that under 4 conditions, you know, the temperature on the conductor will increase quickly, and up to
+Du Ya Ping, 0 hours 34 minutes 31 seconds, certain level, and if the temperature is greater than that level, the conductor could be damaged, or the insulation material could be damaging, right? So, there's limits, okay? Temperature limits on the conductor.
+Du Ya Ping, 0 hours 34 minutes 46 seconds, So for, first one is called a, thermoplastic, it's called a PVC insulation material. The temperature limits, last one, okay, it's 160 degrees, right?
+Du Ya Ping, 0 hours 35 minutes 0 seconds, And the next… the previous one, 70 degree, is this the limit for normal operation? And the 160 degree is the temperature and the fork condition, which means that for a short period of time, okay? We can tolerate… tolerate that level, okay? And for, XLP,
+Du Ya Ping, 0 hours 35 minutes 20 seconds, table. There is a 90 degree thermal setting.
+Du Ya Ping, 0 hours 35 minutes 24 seconds, That's called the XLP. So, the final temperature is 250 degrees, right? So, we need to ensure, okay, does
+Du Ya Ping, 0 hours 35 minutes 34 seconds, Device disconnect circuit quickly, so that the temperature will not exceed
+Du Ya Ping, 0 hours 35 minutes 41 seconds, Okay? The limit value, limit, okay?
+Du Ya Ping, 0 hours 35 minutes 46 seconds, So how can we ensure that, okay? Of course, we cannot do the measurement of the temperature, right? We use another way, we have a fundamental
+Du Ya Ping, 0 hours 35 minutes 56 seconds, equation here, okay? And, in this one, okay, we have two items, okay? We call this the NH.
+Du Ya Ping, 0 hours 36 minutes 5 seconds, Current is not energy. Current spare times
+Du Ya Ping, 0 hours 36 minutes 9 seconds, the duration is called the energy. So what is this energy? This is called the lateral energy.
+Du Ya Ping, 0 hours 36 minutes 17 seconds, So, actually, this is the energy, because T is the operating time of the device, protective device. So this is actually the amount of energy the conductor received, observed.
+Du Ya Ping, 0 hours 36 minutes 31 seconds, Under default condition, alright?
+Du Ya Ping, 0 hours 36 minutes 34 seconds, Okay, so… and this is, of course, the energy controlled by the device.
+Du Ya Ping, 0 hours 36 minutes 39 seconds, Because the operating time is determined by device. So we call this the energy lets through, or let's through energy. That means this amount of energy allowed
+Du Ya Ping, 0 hours 36 minutes 52 seconds, to buy the device, okay? So…
+Du Ya Ping, 0 hours 36 minutes 55 seconds, the conductor of the table will receive, okay? So this is actually the amount of energy, and we… that one will be used to increase the…
+Du Ya Ping, 0 hours 37 minutes 7 seconds, Conductor temperature.
+Du Ya Ping, 0 hours 37 minutes 9 seconds, Okay, so in order to limit the temperature on the conductor, we have to limit this amount of energy.
+Du Ya Ping, 0 hours 37 minutes 17 seconds, And, of course, you know, to avoid the overheating problem, we need to set a seating.
+Du Ya Ping, 0 hours 37 minutes 24 seconds, for this amount of energy. And that is the ceiling.
+Du Ya Ping, 0 hours 37 minutes 28 seconds, And this one is called a…
+Du Ya Ping, 0 hours 37 minutes 30 seconds, energy withstand. So that means this amount of energy, okay,
+Du Ya Ping, 0 hours 37 minutes 35 seconds, On the conductor for conductor to survive.
+Du Ya Ping, 0 hours 37 minutes 39 seconds, Okay, so if the… Amount of energy less than that one, and
+Du Ya Ping, 0 hours 37 minutes 45 seconds, The conductor, the cable without, have any, damage cable.
+Du Ya Ping, 0 hours 37 minutes 53 seconds, And the energy withstand determined by two parameters, S is the cross-section area. So, certainly, the energy withstand is increased, if the
+Du Ya Ping, 0 hours 38 minutes 6 seconds, cross-section area is bigger, right? It can have more heat, right? Or the resistance will be smaller, right? And the K is the constants, it is determined by the insulation material.
+Du Ya Ping, 0 hours 38 minutes 20 seconds, And this K value can be… determine…
+Du Ya Ping, 0 hours 38 minutes 26 seconds, Find out by using the tables, okay?
+Du Ya Ping, 0 hours 38 minutes 29 seconds, We have a bunch of tables to determine the value of K.
+Du Ya Ping, 0 hours 38 minutes 36 seconds, So, this is the table, inquiry in the, EMS DCOP4 wiring regulation, okay? And this is called Table 11, Brack 2,
+Du Ya Ping, 0 hours 38 minutes 49 seconds, G, okay, the subtle.
+Du Ya Ping, 0 hours 38 minutes 52 seconds, Okay, so you can, see the… the title for this table is called the values of K for the face conductor, okay, according to the material of both conductor and the insulation, right? And, we certainly, we use the copper. Yeah, so we look at the first…
+Du Ya Ping, 0 hours 39 minutes 10 seconds, low here, we have a different material, okay, PVC, okay, this general PVC, so the K value is 1.
+Du Ya Ping, 0 hours 39 minutes 19 seconds, 150, and the 103 for the cable size is larger than 300mm squared, okay? And for XLP cable, and the value is 143.
+Du Ya Ping, 0 hours 39 minutes 31 seconds, So if you know the type of cable and the size of the cable, then you can select the
+Du Ya Ping, 0 hours 39 minutes 38 seconds, the value of K, yeah, for the calculation of energy, withstand.
+Du Ya Ping, 0 hours 39 minutes 47 seconds, So, well, this one, okay, you know the energy side, or cable size, right? So, you can find the energy with standard, okay, that one, that value will be fixed, and based on that one, you can determine the operating time, if the four current is given.
+Du Ya Ping, 0 hours 40 minutes 14 seconds, Okay? So, that is the… This one is the maximum operating time, okay, for the…
+Du Ya Ping, 0 hours 40 minutes 23 seconds, Protective device, so that…
+Du Ya Ping, 0 hours 40 minutes 28 seconds, the temperature on the conductor will not exceed the ceiling, okay, and the conductor will not be damaged, okay? So this is a protection of the cable, if you have quick disconnection, okay, quick disconnection.
+Du Ya Ping, 0 hours 40 minutes 43 seconds, So that's why we want the device, okay, to disconnect circuit as quick as possible, okay?
+Du Ya Ping, 0 hours 40 minutes 50 seconds, Under the fourth condition, default condition.
+Du Ya Ping, 0 hours 40 minutes 56 seconds, All right, and, we have some, special notes for using this one, okay? The first one, okay, this called the NH Less Room.
+Du Ya Ping, 0 hours 41 minutes 21 seconds, energy less, and usually it is determined by this formula, okay? If you know the full current, and then find the operating time, let's say for a fuse from the graph, and then you can calculate this amount of energy, and then compare with that one, okay? If this one, energy less is less than energy with that, fine, right?
+Du Ya Ping, 0 hours 41 minutes 41 seconds, And, here says, if the…
+Du Ya Ping, 0 hours 41 minutes 43 seconds, Operating time is less than 1.1 seconds.
+Du Ya Ping, 0 hours 41 minutes 47 seconds, Okay? If the current is very large enough, and then you may not
+Du Ya Ping, 0 hours 41 minutes 52 seconds, Able to find out the operating time, okay?
+Du Ya Ping, 0 hours 42 minutes 5 seconds, look at this huge graph. So, this graph does not show any operating time.
+Du Ya Ping, 0 hours 42 minutes 13 seconds, Less than 0.1 second. So for a larger forward current, you do not know this one, okay? And… but you can tell that the operating time would be less than that one, but it's difficult to find out the energy with that… energy less with…
+Du Ya Ping, 0 hours 42 minutes 26 seconds, Exactly. So, for such cases, okay, usually the manufacturer will be… will provide
+Du Ya Ping, 0 hours 42 minutes 35 seconds, The energy latitude, the data for energy lets you, okay? Not using the graph just like a table or some other graph, okay?
+Du Ya Ping, 0 hours 42 minutes 45 seconds, on those graphs, you can find all the energy led through, okay, using certain curve, okay, certain tables, okay, but not from this
+Du Ya Ping, 0 hours 42 minutes 55 seconds, graph from the time current characteristic curve graph, okay? So this graph just provides
+Du Ya Ping, 0 hours 43 minutes 3 seconds, you know, the curve with the operating time greater than 0.1 second. Okay, so it's not, good to use that one for,
+Du Ya Ping, 0 hours 43 minutes 12 seconds, Energy less through, calculation, if the current is relatively large, okay? So this is a one point.
+Du Ya Ping, 0 hours 43 minutes 29 seconds, Okay, and
+Du Ya Ping, 0 hours 43 minutes 39 seconds, Second point, okay? Again, this…
+Du Ya Ping, 0 hours 43 minutes 43 seconds, when it's not applicable if the operating time is longer than 5 seconds. In that case, normally, we consider this an overload protection, it's not really for short circuit protection, okay? So for operating time, it's longer than 5 seconds, again.
+Du Ya Ping, 0 hours 43 minutes 59 seconds, this requirement is not applicable, okay? This one is not applicable, okay? So, most cases for four, short circuit.
+Du Ya Ping, 0 hours 44 minutes 8 seconds, Protection, the operating time certainly will be less than 5 seconds.
+Du Ya Ping, 0 hours 44 minutes 13 seconds, And the third one is the most important, okay?
+Du Ya Ping, 0 hours 44 minutes 19 seconds, And a certain condition, can we consider this requirement is fulfilled automatically?
+Du Ya Ping, 0 hours 44 minutes 26 seconds, Okay, it says, okay, if… For a particular circuit.
+Du Ya Ping, 0 hours 44 minutes 32 seconds, And we use a device, let's say fuse or a circuit breaker. And this device provides two functions.
+Du Ya Ping, 0 hours 44 minutes 41 seconds, One for overload protection, one for short circuit protection.
+Du Ya Ping, 0 hours 44 minutes 46 seconds, Okay? In that case, and when, then we consider this requirement is automatically fulfilled, so that means it does not need any kind of calculation using this
+Du Ya Ping, 0 hours 44 minutes 59 seconds, The formula here.
+Du Ya Ping, 0 hours 45 minutes 1 seconds, Okay? So this one is automatically fulfilled, okay? And for example.
+Du Ya Ping, 0 hours 45 minutes 11 seconds, You know?
+Du Ya Ping, 0 hours 45 minutes 13 seconds, Most circuits… Have one device for both
+Du Ya Ping, 0 hours 45 minutes 20 seconds, Type of protection, overload protection in the short circuit.
+Du Ya Ping, 0 hours 45 minutes 24 seconds, This fuse here.
+Du Ya Ping, 0 hours 45 minutes 26 seconds, It provides overload protection, Okay? For this subman circuit, because of the way
+Du Ya Ping, 0 hours 45 minutes 34 seconds, Use that one to determine the cable size. And it's also used to provide the fault protection.
+Du Ya Ping, 0 hours 45 minutes 42 seconds, Yeah.
+Du Ya Ping, 0 hours 45 minutes 43 seconds, So, we consider, okay, this requirement, okay, we just talked about, okay, energy withstand greater energy less, okay? This one is automatically fulfilled, okay? Without doing any calculation, we just say, okay, this requirement is fulfilled.
+Du Ya Ping, 0 hours 45 minutes 58 seconds, So this is very important, okay? But if the device, okay, we have two devices, okay, one for overall protection, another one for short-circuit protection.
+Du Ya Ping, 0 hours 46 minutes 11 seconds, So, if that is the case, then we need to check whether the energy we stand is greater than or less than the energy that's true. So the calculation with that, the formula should be made, okay, if you have two devices for two different kinds of protection.
+Du Ya Ping, 0 hours 46 minutes 37 seconds, All right, and this is the first requirement, okay? There's another requirement, for the protection of the device itself.
+Du Ya Ping, 0 hours 46 minutes 44 seconds, Okay, so, actually, I talked about this one, last week, okay? So, we said, okay, why we want to, find out the fall current? One of the reasons is to, determine the braking capacity, right?
+Du Ya Ping, 0 hours 47 minutes 4 seconds, And, so here is the requirement, okay? We have to ensure the braking capacity of the device for disconnection operation, okay?
+Du Ya Ping, 0 hours 47 minutes 15 seconds, It's greater than the maximum fork current.
+Du Ya Ping, 0 hours 47 minutes 19 seconds, So that is the reason why we want to find out the surface for current, right? At the original circuit. So that is the largest for current, okay, and then we use that fork current to determine the braking capacity.
+Du Ya Ping, 0 hours 47 minutes 33 seconds, Okay, so in the tutorial session, okay, the second question, okay, so we find out that the four current in the main LV switchboard is 35 kilometers. So, in order to fulfill that requirement, we have to have the circuit breaker with the braking capacity, let's say, 40 kilohm.
+Du Ya Ping, 0 hours 47 minutes 53 seconds, So, 40 kilomp is greater than the 4 current 35 kilohms.
+Du Ya Ping, 0 hours 47 minutes 57 seconds, So, that is the requirement, okay?
+Du Ya Ping, 0 hours 48 minutes 0 seconds, you know, we talk about it here, okay? So this, The second one requirement, okay? Second requirement, okay? And, let's…
+Du Ya Ping, 0 hours 48 minutes 13 seconds, say, okay, what is the braking capacity of the device, okay? What is the level, okay? So, different devices may have different, braking capacity, okay? So here, I just listed two types of devices.
+Du Ya Ping, 0 hours 48 minutes 27 seconds, The braking capacity for those devices are actually fixed.
+Du Ya Ping, 0 hours 48 minutes 31 seconds, Why is the MCV?
+Du Ya Ping, 0 hours 48 minutes 33 seconds, MCB is called a miniature circuit breaker. It has a small size, so it has a very limited capability in handling fall current. So the largest fall current MCB can handle is 6K.
+Du Ya Ping, 0 hours 48 minutes 49 seconds, 6 kilon, okay? So, almost all the MCBs that we use, okay, here, have the braking capacity 6 kilon. So if the 4 current is greater than 6 kilon, then MCBs
+Du Ya Ping, 0 hours 49 minutes 3 seconds, cannot be used. For example, if you look at a schematic.
+Du Ya Ping, 0 hours 49 minutes 9 seconds, Here, in the main LV switchboard.
+Du Ya Ping, 0 hours 49 minutes 12 seconds, We know the fall current can be…
+Du Ya Ping, 0 hours 49 minutes 14 seconds, like, as high as 35K, right? And you can see, in this…
+Du Ya Ping, 0 hours 49 minutes 22 seconds, Man, every switchboard, you cannot find any device.
+Du Ya Ping, 0 hours 49 minutes 25 seconds, Okay? Called the MCV.
+Du Ya Ping, 0 hours 49 minutes 28 seconds, No MCD.
+Du Ya Ping, 0 hours 49 minutes 30 seconds, Why? So MCB can handle current up to 6 kilometers, and then now the 4 current here could be 35 kilometers, so certainly the requirements cannot fulfill. Yeah, right? But you can see here a lot of fuses are used.
+Du Ya Ping, 0 hours 49 minutes 46 seconds, Okay, so what is the braking capacity of fuse?
+Du Ya Ping, 0 hours 49 minutes 54 seconds, So, for…
+Du Ya Ping, 0 hours 49 minutes 56 seconds, The fuses we use, we call the British Standard 88 Part 2 or part 6, which means that the fuse are made according to the British standards, their standard. If the fuse
+Du Ya Ping, 0 hours 50 minutes 8 seconds, are manufacturers, according to British standards, and then the braking capacity, very, very high, okay, 80 kilometers.
+Du Ya Ping, 0 hours 50 minutes 17 seconds, And they can do it, okay? And we know…
+Du Ya Ping, 0 hours 50 minutes 25 seconds, The maximum fork current in the…
+Du Ya Ping, 0 hours 50 minutes 30 seconds, In the electrical insertion, low voltage electrical insertion, no matter what Buildings, okay, no matter where the building is located, okay.
+Du Ya Ping, 0 hours 50 minutes 39 seconds, It's 42 million.
+Du Ya Ping, 0 hours 50 minutes 42 seconds, Okay? So… This is the highest fulking we can see, okay? And the braking capacity is 80 kilon.
+Du Ya Ping, 0 hours 50 minutes 53 seconds, It's a much higher than that one.
+Du Ya Ping, 0 hours 50 minutes 55 seconds, There, miss.
+Du Ya Ping, 0 hours 50 minutes 57 seconds, If it is a fuse, it can be used Anywhere.
+Du Ya Ping, 0 hours 51 minutes 1 seconds, Right? Within the building, without any trouble, okay? So you don't need to worry about the braking capacity of the fuse, okay? Supposed to be
+Du Ya Ping, 0 hours 51 minutes 10 seconds, good enough, okay, for 40K1. But for MCB,
+Du Ya Ping, 0 hours 51 minutes 14 seconds, be careful, okay? You cannot use in some location of the building.
+Du Ya Ping, 0 hours 51 minutes 19 seconds, Yaft. Okay.
+Du Ya Ping, 0 hours 51 minutes 22 seconds, the current, the 4 current is greater than 6 kilos, right? Okay, so how about…
+Du Ya Ping, 0 hours 51 minutes 29 seconds, Other devices, the braking capacity, MCCB or ACB, okay? So, for most ACB, So, MCV…
+Du Ya Ping, 0 hours 51 minutes 42 seconds, The braking capacity is 6 cubing.
+Du Ya Ping, 0 hours 51 minutes 46 seconds, for fuse… ADQ.
+Du Ya Ping, 0 hours 51 minutes 51 seconds, for ACB.
+Du Ya Ping, 0 hours 51 minutes 53 seconds, Okay, I cannot say 100%, okay, but most cases.
+Du Ya Ping, 0 hours 51 minutes 58 seconds, For ACB, the braking capacity is 40 kilos, or above.
+Du Ya Ping, 0 hours 52 minutes 5 seconds, for the… for the current level, which means the ACB can be used in the mail every switchboard.
+Du Ya Ping, 0 hours 52 minutes 13 seconds, Yeah, and it… location, right? Okay? And, MCCD.
+Du Ya Ping, 0 hours 52 minutes 20 seconds, We don't know.
+Du Ya Ping, 0 hours 52 minutes 22 seconds, Okay? MECCCB is the middle-sized circuit breaker, it's a modular case circuit breaker, okay?
+Du Ya Ping, 0 hours 52 minutes 29 seconds, So, it's between the MCB and the ACV.
+Du Ya Ping, 0 hours 52 minutes 34 seconds, the size is greater than ACB, greater than MCB, but less than ACB, okay? Again, the braking capacity is between.
+Du Ya Ping, 0 hours 52 minutes 43 seconds, Between 6 kilomp and 40 kiloh amp.
+Du Ya Ping, 0 hours 52 minutes 46 seconds, So, what is the exact value?
+Du Ya Ping, 0 hours 52 minutes 49 seconds, It depends. Depends on the model.
+Du Ya Ping, 0 hours 52 minutes 52 seconds, Depends on the rating, depends on the size.
+Du Ya Ping, 0 hours 52 minutes 55 seconds, So each one, okay, you have to look at the data sheet, and then you can find out the braking capacity. So here, in the notes, okay.
+Du Ya Ping, 0 hours 53 minutes 6 seconds, I include a datasheet for MCB at the
+Du Ya Ping, 0 hours 53 minutes 10 seconds, this page, okay? So, this is MCCB, okay?
+Du Ya Ping, 0 hours 53 minutes 16 seconds, middle size, okay? And, we have two different models, okay? And, for this model, okay, the braking capacity, ICU is the braking capacity.
+Du Ya Ping, 0 hours 53 minutes 26 seconds, is 15 kilohm, so you see, it's sensing between 6 kilometers and 40 kilom, okay? And for this model, it is a little bit high, 25 kilom.
+Du Ya Ping, 0 hours 53 minutes 38 seconds, Okay, but still less than… 40k, because the size, okay.
+Du Ya Ping, 0 hours 53 minutes 43 seconds, It's compact, okay? So, so it does not allow to handle the larger four… larger fork current, okay? So if the current is too large, it could cause damage to the circuit breaker here.
+Du Ya Ping, 0 hours 53 minutes 59 seconds, So, for MCCB, you have to, look at the data sheet for that model, and then you can find, the exact value of the braking capacity. Okay, so in your design of electrical installation, you have to
+Du Ya Ping, 0 hours 54 minutes 15 seconds, you know, find, that kind of data sheet, okay? And then you select the right model, okay, for that particular circuit, okay?
+Du Ya Ping, 0 hours 54 minutes 39 seconds, All right, so those are two basic requirements, one for the purpose of protection.
+Du Ya Ping, 0 hours 54 minutes 45 seconds, For the, conductors, another one is for the protective device… devices itself, okay?
+Du Ya Ping, 0 hours 54 minutes 57 seconds, Okay, so we, of course, we have some additional, requirement we call the provision for, some provision for short circuit protection.
+Du Ya Ping, 0 hours 55 minutes 7 seconds, The first one is the positioning of the device. So, as I mentioned earlier, in order to…
+Du Ya Ping, 0 hours 55 minutes 15 seconds, Detect the circuit, I'll take care of fork in the circuit.
+Du Ya Ping, 0 hours 55 minutes 21 seconds, Okay?
+Du Ya Ping, 0 hours 55 minutes 26 seconds, The fork can…
+Du Ya Ping, 0 hours 55 minutes 29 seconds, occur at the end of a circuit, or in the middle of a circuit, or at the original circuit. So, the device is supposed to monitor the current, full current, for any kind of force, for any location, right? So, certainly, we need to install device at the original circuit.
+Du Ya Ping, 0 hours 55 minutes 46 seconds, If we put a device here, it's not useful.
+Du Ya Ping, 0 hours 55 minutes 50 seconds, Because if we have 4 here, there's no device
+Du Ya Ping, 0 hours 55 minutes 54 seconds, can make the disconnection of the circuit. So we have to put the device at the origin of the circuit. So that's why in the schematic diagram.
+Du Ya Ping, 0 hours 56 minutes 3 seconds, All the devices are provided at the Origin of the circuit.
+Du Ya Ping, 0 hours 56 minutes 14 seconds, Okay? And there's some special cases, okay? The device may not be located at the original circuit. It can be a little bit away from the original circuit, okay? So the second one says, okay.
+Du Ya Ping, 0 hours 56 minutes 28 seconds, That case, okay, so let me… Mmm…
+Du Ya Ping, 0 hours 57 minutes 43 seconds, Okay? This is the metronome, okay?
+Du Ya Ping, 0 hours 58 minutes 23 seconds, This is the riser, okay? Or rising man. This is the rising man, okay? And this is the subman circuit, okay? And, well.
+Du Ya Ping, 0 hours 58 minutes 33 seconds, The Sum Yan circuit, if you look at the schematic, okay.
+Du Ya Ping, 0 hours 58 minutes 41 seconds, So, this is the…
+Du Ya Ping, 0 hours 58 minutes 45 seconds, Subman circuit, so you have the fuse here provided. So suppose it should be at the origin of the circuit, so we call this the T of point, at the very beginning, okay? Just connect to the riser here. But physically, it's not possible.
+Du Ya Ping, 0 hours 59 minutes 5 seconds, So, this is a subman circuit. So, this is a connection box, this is a riser, this is a T-off point, so you cannot put the device in the box here, because this is a connection box. There's no space to install the fuse here. So, actual fuse is located in the location.
+Du Ya Ping, 0 hours 59 minutes 25 seconds, Here, so it has a little…
+Du Ya Ping, 0 hours 59 minutes 28 seconds, distance, okay, from the origin of the circuit. So this is actually allowed, okay? So why we can allow it, okay.
+Du Ya Ping, 0 hours 59 minutes 41 seconds, Okay.
+Du Ya Ping, 0 hours 59 minutes 42 seconds, Because the following requirements are fulfilled, okay? So, the first one, the distance is less than 3 meters.
+Du Ya Ping, 0 hours 59 minutes 49 seconds, Okay, so here, in the photo, probably, it's about a 1 meter or 2 to 2 meter, okay? And to be installed in such a manner, the risk of the short circuit to the minimum.
+Du Ya Ping, 1 hours 0 minutes 0 seconds, What that means, okay, you can see the submar circuit is installed inside the trunking. The tranking metal trunking provides the mechanical protection to avoid any possible short circuit.
+Du Ya Ping, 1 hours 0 minutes 12 seconds, Right? So no physical damage, right, to the cable itself, okay? So avoid the, the possible short circuit. And again,
+Du Ya Ping, 1 hours 0 minutes 23 seconds, it'll be installed in such a manner to reduce the risk of fire or danger to person, okay, to a minimal. And we know those circuits, okay, the submain circuit.
+Du Ya Ping, 1 hours 0 minutes 35 seconds, Actually, installed in the meeting room.
+Du Ya Ping, 1 hours 0 minutes 39 seconds, And the midterm is considered the electrical loan, which means
+Du Ya Ping, 1 hours 0 minutes 44 seconds, It cannot be accessed by the ordinary persons or peoples.
+Du Ya Ping, 1 hours 0 minutes 49 seconds, or the people without any knowledge about electricity, without knowledge about electrical installation. So only the skier person, okay, can access
+Du Ya Ping, 1 hours 0 minutes 59 seconds, the meter room.
+Du Ya Ping, 1 hours 1 minutes 1 seconds, So, that will prevent, okay, a possible, problem caused by the, the fire, or, the…
+Du Ya Ping, 1 hours 1 minutes 13 seconds, any danger, okay, to a person, okay? For example, electrical shock, okay? So, because,
+Du Ya Ping, 1 hours 1 minutes 20 seconds, that installation, the submit circuit installed in a very secure way, okay? So, the short circuit risk is minimal, and, fire, and, any possible
+Du Ya Ping, 1 hours 1 minutes 36 seconds, danger to a person, okay, is minimal. So, because of those
+Du Ya Ping, 1 hours 1 minutes 42 seconds, conditions are fulfilled in this case, in the building, then we can, move
+Du Ya Ping, 1 hours 1 minutes 48 seconds, the fields a little bit away from the original circuit, and of course, should be less than 3 meters. So this is a quite common practice, okay, in the, residential buildings, okay, or even in the office building. You have a multi-tenant, okay, on the floor, okay?
+Du Ya Ping, 1 hours 2 minutes 10 seconds, All right, and well, again, similar to
+Du Ya Ping, 1 hours 2 minutes 14 seconds, Overload protection, and, you know, in certain cases, the device should not be provided.
+Du Ya Ping, 1 hours 2 minutes 21 seconds, For short circuit protection, again, okay, we have some… Cases get the…
+Du Ya Ping, 1 hours 2 minutes 28 seconds, the protective devices may not be necessary, yeah, yeah, it may not be necessary, okay? So, here you can see the statement, okay? The conductors connecting the source, the power source, such as the generators, transformers.
+Du Ya Ping, 1 hours 2 minutes 44 seconds, rectifies batteries. Those could be the AC power source or DC power sources, okay? And if you have the circuit connecting those sources and the control panel, or the switchboard.
+Du Ya Ping, 1 hours 2 minutes 57 seconds, The short circuit protective device Could be installed on…
+Du Ya Ping, 1 hours 3 minutes 4 seconds, the panel, not at the original circuit. But actually, if you install on the panel, the short circuit
+Du Ya Ping, 1 hours 3 minutes 12 seconds, device, protective device does not… do not…
+Du Ya Ping, 1 hours 3 minutes 17 seconds, function, yeah? If you… actually, if you have a short circuit, on the cable, the device will not operate, yeah?
+Du Ya Ping, 1 hours 3 minutes 26 seconds, So, here is this case, okay?
+Du Ya Ping, 1 hours 3 minutes 29 seconds, This is the circuit.
+Du Ya Ping, 1 hours 3 minutes 31 seconds, According to the… General requirement, we have to provide a device here for
+Du Ya Ping, 1 hours 3 minutes 38 seconds, short-circuit protection and the overload protection, right? But there's no such CHAN device.
+Du Ya Ping, 1 hours 3 minutes 43 seconds, Okay? The device is installed here.
+Du Ya Ping, 1 hours 3 minutes 46 seconds, But if you have a four… Here, the device does not…
+Du Ya Ping, 1 hours 3 minutes 51 seconds, C, okay, therefore current, and the circuit cannot be disconnected, okay? So that device actually is not really for the short circuit protection. It provides overload protection only, okay? Overload protection, okay?
+Du Ya Ping, 1 hours 4 minutes 4 seconds, So, again, this is a generator.
+Du Ya Ping, 1 hours 4 minutes 9 seconds, You have the circuit connecting the generator and the control panel, or switchboard.
+Du Ya Ping, 1 hours 4 minutes 15 seconds, So, this device here, again, is for
+Du Ya Ping, 1 hours 4 minutes 21 seconds, not for short circuit protection here. And it could be protect the outgoing circuit here, but not this one, not this one. So, the wiring regulation actually,
+Du Ya Ping, 1 hours 4 minutes 37 seconds, Does it allow that kind of arrangement?
+Du Ya Ping, 1 hours 4 minutes 40 seconds, the device should not be provided at the original circuit, okay? Again, based on the consideration. Similar to the previous one, okay, the risk of the short circuit is the minimum, and the risk of the fire or danger to the person is the minimum, because
+Du Ya Ping, 1 hours 4 minutes 56 seconds, That kind of circuit.
+Du Ya Ping, 1 hours 4 minutes 58 seconds, installed in the electrical room, in the transformer room, in the switch room, and the cables in…
+Du Ya Ping, 1 hours 5 minutes 5 seconds, Start in the, what we call the cable trench.
+Du Ya Ping, 1 hours 5 minutes 8 seconds, Okay, it's underground, okay, covered with metal chip plates, okay? So it's not possible for an ordinary person to access the equipment or the cable, okay? And again, again, this is a well-restricted area, okay?
+Du Ya Ping, 1 hours 5 minutes 26 seconds, So, we consider the risk is very, very small, so that's why,
+Du Ya Ping, 1 hours 5 minutes 32 seconds, the wiring regulation does allow that kind of arrangement, okay? No protected device at the original circuit.
+Du Ya Ping, 1 hours 5 minutes 46 seconds, All right, okay, so we finished the discussion about the two types of protection, overload protection and the short circuit protection, okay? And we have fundamental requirements, and we have some additional provision for some special cases.
+Du Ya Ping, 1 hours 6 minutes 4 seconds, Okay, so let's take a break, and after the break, we'll talk about the requirements for earthfall protection, okay?
+Du Ya Ping, 1 hours 6 minutes 15 seconds, Oh, again, just to remind you, okay, I upload, some kind of tables, okay, the graph for, in front of the CLP,
+Du Ya Ping, 1 hours 6 minutes 30 seconds, 2 and 5, okay, low assessment or low estimation, okay?
+Du Ya Ping, 1 hours 6 minutes 34 seconds, So this is a complete set of tables, or the tables, okay, used for the, estimation of the loading, okay, for the whole building. Okay, so if you need, you can use, use those, those, okay?
+Du Ya Ping, 1 hours 6 minutes 50 seconds, Tables, okay, in your calculation, okay?
+Du Ya Ping, 1 hours 21 minutes 47 seconds, The lecture, we need to finish the discussion about the Earth's 4 protection, and we want to know the requirements, okay? And the Earth's 4 protection requirements are very
+Du Ya Ping, 1 hours 21 minutes 59 seconds, unique, okay, or special, okay? So, you know, S4 current is not that high, okay?
+Du Ya Ping, 1 hours 22 minutes 7 seconds, Compared with the 4 current, but not that low compared to the overload current, right? Something in between, right? So, what we actually,
+Du Ya Ping, 1 hours 22 minutes 17 seconds, need to consider, it actually is the, we call the protection of electrical shock. Okay, we will talk about the electrical shock later, okay? So,
+Du Ya Ping, 1 hours 22 minutes 29 seconds, The purpose is that to minimize the risk of the electrical shock, so the requirement, okay, for the protection of the electrical shock is the disconnection time, okay? For the… of course, we know
+Du Ya Ping, 1 hours 22 minutes 44 seconds, if you have the face fault, we need to disconnect it as quick as possible. Normally, it's less than one second, okay? But for the protection of the electro shot.
+Du Ya Ping, 1 hours 22 minutes 55 seconds, Again, you need to just, make the disconnection as short as possible, but not that the
+Du Ya Ping, 1 hours 23 minutes 1 seconds, you know, level, okay, 1 second. So we can tolerate the time, let's say, up to 5 seconds, okay? So we do need to see the requirements about this connection time, okay, and the S4, okay? And the second one, which is similar to the
+Du Ya Ping, 1 hours 23 minutes 18 seconds, Phase 4, or short circuit 4, so we need to ensure, the circuit protective conductor will not be damaged in the fall. So we have, again, applied the
+Du Ya Ping, 1 hours 23 minutes 30 seconds, adiabatic pushing, we call it energy less, so should be less than energy withstand, but therefore the protective conductor only, okay? So, those requirements are similar
+Du Ya Ping, 1 hours 23 minutes 42 seconds, To the requirements for… Phase 4 protection, but slightly different, okay?
+Du Ya Ping, 1 hours 23 minutes 52 seconds, So, we need to, provide the device, okay, for the disconnection of the Earth, circuit and the Earth's fault, okay? So, that is the Earth's fault current, right? Okay.
+Du Ya Ping, 1 hours 24 minutes 10 seconds, So, usually.
+Du Ya Ping, 1 hours 24 minutes 14 seconds, We need to make the Earth look impedient as short as, as small as possible, so we can, increase the fall current, S4 current, okay? So…
+Du Ya Ping, 1 hours 24 minutes 24 seconds, That, the disconnection can be made… Quickly, okay?
+Du Ya Ping, 1 hours 24 minutes 31 seconds, And here are some detailed requirements, yeah, for the protection against the earth fog, and
+Du Ya Ping, 1 hours 24 minutes 39 seconds, First one, okay, is very important, okay, it means, it says, okay, for every socket, are there circuits.
+Du Ya Ping, 1 hours 24 minutes 48 seconds, We need to provide a device
+Du Ya Ping, 1 hours 24 minutes 51 seconds, Okay, we call the residue current device.
+Du Ya Ping, 1 hours 24 minutes 53 seconds, So that the, disconnection can be made…
+Du Ya Ping, 1 hours 24 minutes 59 seconds, very quick and effectively, okay? So, the device has a current setting, we call the sensitivity, okay? Or the rated rescue current.
+Du Ya Ping, 1 hours 25 minutes 11 seconds, that current should be less or equal to 30 milliamp. Okay, what does that mean, okay?
+Du Ya Ping, 1 hours 25 minutes 19 seconds, It means this device can…
+Du Ya Ping, 1 hours 25 minutes 22 seconds, make the disconnection of the circuit if the Earth's fault current is greater than 30 milli.
+Du Ya Ping, 1 hours 25 minutes 32 seconds, So 30 milliamp is a very small current. It's not in the range of short circuit current, right? Even it's less than the normal operating current. So this is a very special device, okay? It can detect
+Du Ya Ping, 1 hours 25 minutes 45 seconds, the Earth's 4 current as small as 30 million, okay? So it's very effective. If the 4 current… Earth 4 current is greater than 30 million.
+Du Ya Ping, 1 hours 25 minutes 55 seconds, The device weight… disconnect the circuit, quickly, okay? And,
+Du Ya Ping, 1 hours 26 minutes 30 seconds, This is a MCB… bought schematic, yeah?
+Du Ya Ping, 1 hours 26 minutes 35 seconds, of MCB board, okay, you can see here, we have, some socket outlet circuit.
+Du Ya Ping, 1 hours 26 minutes 42 seconds, Okay, those made by the ring circuit, okay? And, according to the requirement, every circuit is supposed to have one device, okay, for
+Du Ya Ping, 1 hours 26 minutes 52 seconds, As for protection, but in this case, okay, we have a special arrangement, okay? That means one RCD or RCCP, they're the same device for all the circuit, always circuit.
+Du Ya Ping, 1 hours 27 minutes 4 seconds, So this device has a sensitivity of 30 milliamp, so if any S4 current has, withstood, magnitude over 30 milliamp, this device will make the disconnection, okay? So,
+Du Ya Ping, 1 hours 27 minutes 20 seconds, This is the… Operating current, and there's another parameter, okay?
+Du Ya Ping, 1 hours 27 minutes 28 seconds, here is called a 60MP. So, 60MP is not the… the current, okay, for the operation of the device. Actually, this is the thermal rating.
+Du Ya Ping, 1 hours 27 minutes 59 seconds, So, for NA, RCD, or RCB, it has two ratings. Thermal rating, 60 ambit, which means it can carry the current, the phase current.
+Du Ya Ping, 1 hours 28 minutes 10 seconds, phase conduct current, or line conduct current, up to 60 mp, without causing any Overheating problem.
+Du Ya Ping, 1 hours 28 minutes 18 seconds, Okay, so it's called a thermal reading.
+Du Ya Ping, 1 hours 28 minutes 38 seconds, Okay, the second one is for the…
+Du Ya Ping, 1 hours 28 minutes 42 seconds, protection purpose, okay? So, protection setting, okay? So, that one is really determined whether the device will operate or do not operate, okay? Or does not operate, okay? So, if the current is greater than this.
+Du Ya Ping, 1 hours 28 minutes 55 seconds, Level, okay? Either way.
+Du Ya Ping, 1 hours 28 minutes 58 seconds, cause the circuit to be disconnected. So for… this is a very special device, okay? And we will talk about this device, the principal, operation of the principal,
+Du Ya Ping, 1 hours 29 minutes 9 seconds, later, okay, we have a particular lecture on the protection against the electrical shock. In that lecture, we will show the detail about the device, okay? So here, we just know the requirement, okay? There is a particular requirement, okay?
+Du Ya Ping, 1 hours 29 minutes 29 seconds, And then for other circuits, okay, for circuits supplying only the fixed equipment, such as a lighting circuit or AC circuit.
+Du Ya Ping, 1 hours 29 minutes 38 seconds, If it is those circuits within the eco-potential zone, this connection should be made within 0.4 seconds.
+Du Ya Ping, 1 hours 29 minutes 47 seconds, Okay? And, if it's outside the equal potential zone, it's 0.2 seconds.
+Du Ya Ping, 1 hours 29 minutes 53 seconds, So, what do you mean, okay? Eco potential here. So, at this moment, you don't need to worry about that. You just consider for the circuit within the building.
+Du Ya Ping, 1 hours 30 minutes 4 seconds, The disconnection time can be… Made, up to 0.4 seconds for the circuit outside the building.
+Du Ya Ping, 1 hours 30 minutes 14 seconds, The disconnection should be made within 1.2 seconds.
+Du Ya Ping, 1 hours 30 minutes 19 seconds, Okay, 0.2 second, okay? So, for example, if you have outdoor, outdoor lighting, and that is the circuit considered, the circuit outside the equal potential, and the disconnection requirement is 0.2 seconds, okay?
+Du Ya Ping, 1 hours 30 minutes 37 seconds, And,
+Du Ya Ping, 1 hours 30 minutes 39 seconds, let's say, what happens, okay, if it's not the final circuit, not the fixed equipment circuit, or, a distribution bar, switch bar, what is the disconnection requirement? So you can see here, this is a…
+Du Ya Ping, 1 hours 30 minutes 55 seconds, If, okay, within the equal percentage zone, that means inside the
+Du Ya Ping, 1 hours 31 minutes 3 seconds, building that is connection time for any other circuit or the equipment except the final circuit, okay? It's 5 seconds, okay? For example.
+Du Ya Ping, 1 hours 31 minutes 17 seconds, So… The disconnection requirement for this main area switchboard and the S4 It's 5 seconds.
+Du Ya Ping, 1 hours 31 minutes 26 seconds, The disconnection time for the asphalt protection in this outgoing circuit is 5 seconds.
+Du Ya Ping, 1 hours 31 minutes 33 seconds, Except that you're talking about the final circuit.
+Du Ya Ping, 1 hours 31 minutes 36 seconds, Okay, from the MCB block, that is the 0.4 second, okay, for the…
+Du Ya Ping, 1 hours 31 minutes 42 seconds, lighting circuit, or AC circuit, and for the socket out circuit, you don't have that requirement, but you have to install the RCCD or RCB, okay? All right? And if the circuit is outside the building, and then
+Du Ya Ping, 1 hours 31 minutes 56 seconds, The disconnection time is 0.4 seconds.
+Du Ya Ping, 1 hours 32 minutes 7 seconds, It's pointing for a second.
+Du Ya Ping, 1 hours 32 minutes 9 seconds, So, that requirement for all the things, okay, expect, except, okay, the current, okay, rating is less than, 32MP, or we call the final circuit, okay, okay, final circuit, okay?
+Du Ya Ping, 1 hours 32 minutes 26 seconds, And for the emergency circuit, okay, or the circuit supplies the emergency equipment.
+Du Ya Ping, 1 hours 32 minutes 32 seconds, Again, we use the requirement here, not following
+Du Ya Ping, 1 hours 32 minutes 36 seconds, the requirements there, okay? For example, if you have the emergency lighting.
+Du Ya Ping, 1 hours 32 minutes 44 seconds, Okay, although, this is a fixed equipment, okay, here, okay, if it's a fixed equipment, okay.
+Du Ya Ping, 1 hours 32 minutes 54 seconds, but not the emergency lighting, then you can use the 0.4 sec… 0.4 second. But if this is emergency lighting, then you can relax the requirement to the 5 second, 5 second.
+Du Ya Ping, 1 hours 33 minutes 6 seconds, Okay, so this is a very special arrangement, okay, for the, emergency, equipment, or the circuit, serving the emergency equipment, okay?
+Du Ya Ping, 1 hours 33 minutes 19 seconds, And,
+Du Ya Ping, 1 hours 33 minutes 26 seconds, This is the very special requirement, okay, for the distribution bar serving, both socket, audio circuit, and the fixed equipment. So, basically, this is the one, okay?
+Du Ya Ping, 1 hours 33 minutes 39 seconds, For this distribution block, okay, MCB bulk. Fixed equipment, and the socket already second. And for this one, okay, the disconnection time, requirement, actually is, indicated by
+Du Ya Ping, 1 hours 33 minutes 56 seconds, Using this diagram, okay, so let's say this is the…
+Du Ya Ping, 1 hours 34 minutes 3 seconds, Mayor be switchboard on the ground floor.
+Du Ya Ping, 1 hours 34 minutes 9 seconds, And, underground for where the switch run, and this is the icing terminal, we call the man-earthing Terminal, MET, and this one is connected to the Earth.
+Du Ya Ping, 1 hours 34 minutes 18 seconds, us intellectual.
+Du Ya Ping, 1 hours 34 minutes 24 seconds, This is, under the, grand, okay? And, CPC is a provide…
+Du Ya Ping, 1 hours 34 minutes 31 seconds, For every circuit, and this is the rising man, and this is the third main circuit, and this is the…
+Du Ya Ping, 1 hours 34 minutes 40 seconds, Mcb bar, let's say…
+Du Ya Ping, 1 hours 34 minutes 53 seconds, We have the Earth in terminal here.
+Du Ya Ping, 1 hours 34 minutes 56 seconds, This is a local urine terminal.
+Du Ya Ping, 1 hours 35 minutes 0 seconds, in, let's say, in the flat, okay, so we know we have the CPC, which is made by different types of conductor, or could be the
+Du Ya Ping, 1 hours 35 minutes 9 seconds, Cable, or could be the conduit, or it could be the armor, or it could be some other things, okay? But certainly, they are connected together all the way to the main earthen terminal, so this is the CPC.
+Du Ya Ping, 1 hours 35 minutes 21 seconds, CPC, okay? And, this requirement, okay, says, okay, if you have an S4 within this MCB board, and we know this MCB board is protected by this device, let's say this is a fuse.
+Du Ya Ping, 1 hours 35 minutes 34 seconds, Okay, so, the requirement says, okay, this… whole…
+Du Ya Ping, 1 hours 35 minutes 43 seconds, distance, a whole, the resistance for the whole CPC.
+Du Ya Ping, 1 hours 35 minutes 49 seconds, I don't know what symbol we use, which is called ABBA, okay? So this,
+Du Ya Ping, 1 hours 35 minutes 54 seconds, times the current IA should be less than or equal to 50 votes.
+Du Ya Ping, 1 hours 36 minutes 1 seconds, Okay?
+Du Ya Ping, 1 hours 36 minutes 2 seconds, So, what is IA?
+Du Ya Ping, 1 hours 36 minutes 5 seconds, IA, which is the current which caused the fuse to operate At the 5th second.
+Du Ya Ping, 1 hours 36 minutes 22 seconds, So this is IA. This is a biosecond.
+Du Ya Ping, 1 hours 36 minutes 28 seconds, I'm sorry.
+Du Ya Ping, 1 hours 36 minutes 29 seconds, So, what… the requirement just says, okay, this…
+Du Ya Ping, 1 hours 36 minutes 33 seconds, We can translate that statement, okay, into this general, formula here to see, which can be used to check whether the, requirements fulfilled or not.
+Du Ya Ping, 1 hours 36 minutes 53 seconds, Okay, so, for distribution balls feeding the socket, RS circuit, and the fixed circuit, the current causing a voltage of 50 volts from distribution ball to main earthly terminal should trigger a disconnection of the circuit within 5 seconds. Okay, so if just to…
+Du Ya Ping, 1 hours 37 minutes 11 seconds, Read this sentence and may not be clear, understand what it means, okay? But if you use this diagram, and with this
+Du Ya Ping, 1 hours 37 minutes 19 seconds, formula then, it's quite clear to understand the requirement, okay? So this is a very special one, okay? Very special one.
+Du Ya Ping, 1 hours 37 minutes 28 seconds, All right, and those are the disconnection requirements. The other one is the battery equation.
+Du Ya Ping, 1 hours 37 minutes 34 seconds, Which is very similar to, the one for short circuit protection. And here, this is, the difference here is the S4 current here, and, K and S are all for the protective conductor, protective conductor, okay?
+Du Ya Ping, 1 hours 37 minutes 53 seconds, So, here you can see… The tables, okay, in the 12, table 11, bread 2,
+Du Ya Ping, 1 hours 38 minutes 2 seconds, C, D…
+Du Ya Ping, 1 hours 38 minutes 4 seconds, Okay, and also, there are some other type of, okay, CPC, okay? But for this one, separate, the conductor and the CPC are separate, okay?
+Du Ya Ping, 1 hours 38 minutes 20 seconds, They are grouped together, in this case, CPC and FaceConnect are grouped together, grouped together, okay, bunch.
+Du Ya Ping, 1 hours 38 minutes 27 seconds, With cable. And the D for the, protective conductor is, sheath or armor.
+Du Ya Ping, 1 hours 38 minutes 34 seconds, Okay? Okay. So, well, of course, there are some other tables, okay? Sub-tables you can find, in the…
+Du Ya Ping, 1 hours 38 minutes 44 seconds, in the COP, or in the data tables, in the data table, yeah.
+Du Ya Ping, 1 hours 38 minutes 49 seconds, Alright, and so those are the…
+Du Ya Ping, 1 hours 38 minutes 53 seconds, Requirement, okay, and let's see, okay…
+Du Ya Ping, 1 hours 39 minutes 1 seconds, Well, because I have a little bit of time, I just want to mention about the maximum Earth-4 current, okay, or maximum Earth-4 loop impedance, okay? So,
+Du Ya Ping, 1 hours 39 minutes 14 seconds, Oh, okay, so let's talk about the current which caused the device to operate at 5 seconds. So let's say if you have the MCB here instead of fuse.
+Du Ya Ping, 1 hours 39 minutes 25 seconds, How to determine this, IA?
+Du Ya Ping, 1 hours 39 minutes 35 seconds, So, for the MCB, the tripping curve looked like this.
+Du Ya Ping, 1 hours 39 minutes 47 seconds, Okay, so we have a different kind, MCB, we call Type C, Type B…
+Du Ya Ping, 1 hours 39 minutes 57 seconds, Type B, type C, and type D, okay? So, only difference is that for type B, this type B, this current is 3… this is a multiple, okay? The actual current over
+Du Ya Ping, 1 hours 40 minutes 12 seconds, the MCB rating.
+Du Ya Ping, 1 hours 40 minutes 14 seconds, For Type B, the multiple 3 to 5. For Type C,
+Du Ya Ping, 1 hours 40 minutes 19 seconds, It's 5 to 10. For Type D, scanned it, and… Tandy.
+Du Ya Ping, 1 hours 40 minutes 28 seconds, Okay. So, for…
+Du Ya Ping, 1 hours 40 minutes 31 seconds, disconnection in the 5 seconds, okay? So, usually… which means, okay, for Type B, the disconnection time could be
+Du Ya Ping, 1 hours 40 minutes 41 seconds, any time up to that level. And that level could be longer than 5 seconds.
+Du Ya Ping, 1 hours 40 minutes 48 seconds, 5 seconds, okay? So…
+Du Ya Ping, 1 hours 40 minutes 59 seconds, you can see, okay, this is Type B, type C, and type D, okay? So, the anything could be… this curve could be…
+Du Ya Ping, 1 hours 41 minutes 8 seconds, longer than 5 seconds. So, in order to make sure, 5-second disconnection, okay, less than 5 second disconnect disconnection. So.
+Du Ya Ping, 1 hours 41 minutes 18 seconds, We have to set… for Type B, we have to set this… I… A…
+Du Ya Ping, 1 hours 41 minutes 25 seconds, to be 5 times IN.
+Du Ya Ping, 1 hours 41 minutes 29 seconds, Okay, so if IN is 100mp, IA is equal to 500M.
+Du Ya Ping, 1 hours 41 minutes 38 seconds, So you not use this one, use the upper bound, okay, for this type C, With Happy B.
+Du Ya Ping, 1 hours 41 minutes 47 seconds, So, if it's tab B.
+Du Ya Ping, 1 hours 41 minutes 50 seconds, If Type C… Then, IA for 5-second disconnection should be 5 times Okay, it's 10 times.
+Du Ya Ping, 1 hours 42 minutes 2 seconds, N.
+Du Ya Ping, 1 hours 42 minutes 3 seconds, Should be… Then you can find the Type D.
+Du Ya Ping, 1 hours 42 minutes 10 seconds, Okay Similar wave, yeah. It's equal to 20 times IN.
+Du Ya Ping, 1 hours 42 minutes 15 seconds, Demi Tszazian.
+Du Ya Ping, 1 hours 42 minutes 18 seconds, Okay, so, This is slightly different from fuse. This is a fuse.
+Du Ya Ping, 1 hours 42 minutes 25 seconds, This is MCB, okay? So, you're probably in different ways to determine
+Du Ya Ping, 1 hours 42 minutes 32 seconds, This, IA, IA, okay? All right, okay,
+Du Ya Ping, 1 hours 42 minutes 37 seconds, I don't have time to continue, so I have to stop,
+Du Ya Ping, 1 hours 42 minutes 41 seconds, Now, and, next week, we will talk about the…
+Du Ya Ping, 1 hours 42 minutes 45 seconds, the… the characteristics of those devices, fields, MCB, MCCB, and ACB as well, okay? So we… we know, those, okay, characteristic curves, okay? And then we use those curves to
+Du Ya Ping, 1 hours 43 minutes 3 seconds, You know, do some kind of calculation, design calculation, okay?
+Du Ya Ping, 1 hours 43 minutes 6 seconds, Alright, so that's it.
+Du Ya Ping, 1 hours 43 minutes 8 seconds, Our lecture today.

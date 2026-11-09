@@ -1,0 +1,692 @@
+Recording 8
+Title: L4 - Cable Sizing
+Date: 2026-09-22
+Source: https://polyu.zoom.us/rec/play/Uqwy--SqD3ScJ-L_YpwnaLh15qHAfSUlYj5Jhs3tWalKs68fTvbf40iO38hrZT9m_wnDk0vz8Ft0rAiS.eh-kkDN3J9HTQZRw
+Automatic Zoom transcript; recognition errors retained.
+
+Du Ya Ping, 0 hours 1 minutes 12 seconds, We know this is an electrical schematic, and we understand this is a major, output, okay, in our design, okay? So, what we need to do is just, you know, based on the information we have to,
+Du Ya Ping, 0 hours 1 minutes 30 seconds, produce this kind of schematic, okay? And in the very beginning, we talk about, the first stage work, we call the load estimation, okay? So that means we, can identify the maximum amount for each of those circuits.
+Du Ya Ping, 0 hours 1 minutes 49 seconds, Okay? For those outgoing circuits, okay, of course, we know
+Du Ya Ping, 0 hours 1 minutes 59 seconds, We know the, maximum demand for the whole installation, then we can determine
+Du Ya Ping, 0 hours 2 minutes 5 seconds, The number of, transformers, and then we, also know those, the maximum demand for those outgoing circuits, okay? And the maximum demand for rising man, submen, and the final circuits.
+Du Ya Ping, 0 hours 2 minutes 22 seconds, So, if such kind of information is given, then we can determine
+Du Ya Ping, 0 hours 2 minutes 28 seconds, the type of conductors for those circuits, for rising man, for submen.
+Du Ya Ping, 0 hours 2 minutes 34 seconds, For, final circuits as well, okay? And, most cases we use cables.
+Du Ya Ping, 0 hours 2 minutes 41 seconds, Okay, for those circuits, we can have different kind of cables, a single-core cable, armor cable, or some other type of cables, okay? So today, we are going to talk about
+Du Ya Ping, 0 hours 2 minutes 55 seconds, The issue, how to determine
+Du Ya Ping, 0 hours 2 minutes 58 seconds, how to select the cables for those circuits based on some information, such as the maximum demand or some other information, okay?
+Du Ya Ping, 0 hours 3 minutes 8 seconds, you know, we collected before, okay? So,
+Du Ya Ping, 0 hours 3 minutes 21 seconds, So, as you can see here, okay, this is the topic for cable sizing, okay? And,
+Du Ya Ping, 0 hours 3 minutes 29 seconds, Most cases, as I said, okay, we use cable.
+Du Ya Ping, 0 hours 3 minutes 32 seconds, For those circuits, and the cables, are used to deliver the power.
+Du Ya Ping, 0 hours 3 minutes 38 seconds, From the transformer.
+Du Ya Ping, 0 hours 3 minutes 40 seconds, To the distribution bar, and to the final, circuit, and the user equipment, okay, such as the lighting or small power, here, okay? And those are the cables, okay? In some other cases, we may use another type of conductors we call the bus stop.
+Du Ya Ping, 0 hours 4 minutes 0 seconds, Okay? But here, in this lecture, I'm not going to talk about this one, okay? We are focusing on the discussion on the cables, because this is, commonly used, and, it's relatively complicated.
+Du Ya Ping, 0 hours 4 minutes 17 seconds, Okay, more complicated than the bus stop, okay, so this is relatively easy to handle, so we need to talk about the cable, the issue regarding cable, okay, here, okay?
+Du Ya Ping, 0 hours 4 minutes 33 seconds, So, here you can see the, the, the, the photo for the cable, these cross-section views, and basically.
+Du Ya Ping, 0 hours 4 minutes 41 seconds, it is made by using the conductors. So you can see, a number of conductors.
+Du Ya Ping, 0 hours 4 minutes 49 seconds, Available, okay, on this cable, okay? And, those… Okay.
+Du Ya Ping, 0 hours 4 minutes 57 seconds, parts in the middle, okay? Basically, you know this is made by the copper, the white copper, and we call those are the conductors, okay?
+Du Ya Ping, 0 hours 5 minutes 6 seconds, conductors, okay? And, here, we have four conductors, okay? So, traditionally, we call… this is a…
+Du Ya Ping, 0 hours 5 minutes 15 seconds, 4 core cable, so…
+Du Ya Ping, 0 hours 5 minutes 18 seconds, the core means the conductor, so there are four conductors, we call these four-core cables, okay? Of course, we can have single-core cables, each cable has one conductor only.
+Du Ya Ping, 0 hours 5 minutes 29 seconds, And, 2-core cable, 3-core cable, this is 3 core cables, because we have 3 conductors, okay? So, because those conductors normally used to deliver the current, okay? So this is the major part.
+Du Ya Ping, 0 hours 5 minutes 43 seconds, In the… In the cable, okay? And, one critical…
+Du Ya Ping, 0 hours 5 minutes 49 seconds, parameter for the conductors, or for those cores, is the cross-section area, okay? So, the cross-section area means the cross-section area for those small wires, okay, together, okay? For example.
+Du Ya Ping, 0 hours 6 minutes 5 seconds, We have the cross-section areas, 120 millimeter square, or 400 millimeter squares. We have, you know, a list of possible, cross-section area, okay, and which we, I will talk, talk about this, that one, okay, later, okay?
+Du Ya Ping, 0 hours 6 minutes 24 seconds, So this is, one of the important parameters that, cross-section area, okay?
+Du Ya Ping, 0 hours 6 minutes 30 seconds, And the second one, okay, you can see those conductors, or those wires, actually surrounded by, one layer of material here. For example, this is a red, yellow, blue, and the green, okay? And those are the layers we call the insulation layers.
+Du Ya Ping, 0 hours 6 minutes 49 seconds, Because, you know, the conductors, okay, here cannot be touched each other. You have to separate, because, the four conductors normally use four, surface circuits.
+Du Ya Ping, 0 hours 7 minutes 3 seconds, And one for each phase, so there's a voltage between different conductors, or different phases. So we have to provide electrical insulation material to separate those conductors, okay? And this one actually is called a
+Du Ya Ping, 0 hours 7 minutes 19 seconds, insulation layer here, and we have different kind of materials for those layers. One's called the XLP, another one PVC, okay? And,
+Du Ya Ping, 0 hours 7 minutes 32 seconds, there's some difference, okay? And the major difference is that, okay, they can, they can, withstand the temperature, okay, different temperatures, okay, during the operation. For example, for PVC cable.
+Du Ya Ping, 0 hours 7 minutes 50 seconds, The maximum temperature.
+Du Ya Ping, 0 hours 7 minutes 52 seconds, That material can't… handle, or can with, withstand, is 70 degree.
+Du Ya Ping, 0 hours 8 minutes 0 seconds, So here, you can, you have the table, which shows the temperatures, okay, the material can, handle or can withstand, okay? So first one is the
+Du Ya Ping, 0 hours 8 minutes 12 seconds, general purpose PVC, or sometimes you can call it thermoplastic, okay? And the…
+Du Ya Ping, 0 hours 8 minutes 21 seconds, here, the initial temperature, that is the maximum operating temperature for continuous operation. So you can see the continuous operation. That means if the temperature is less than 70 degrees, okay, that kind of material can
+Du Ya Ping, 0 hours 8 minutes 39 seconds, Can be,
+Du Ya Ping, 0 hours 8 minutes 42 seconds, accept, okay, for unlimited time, okay? And, for other one, XLP, this is called the XLP Cable, okay?
+Du Ya Ping, 0 hours 8 minutes 53 seconds, It's 90 degrees, and they call it thermal setting material, and the maximum temperature it can tolerate is 90 degrees. So, which means XLP cable can handle
+Du Ya Ping, 0 hours 9 minutes 6 seconds, the temperature, okay, higher than the PVC cable, okay? So, what this one imply, okay, higher temperature, it can withstand?
+Du Ya Ping, 0 hours 9 minutes 16 seconds, That implies, the XLP cable can handle a higher current. Why is that?
+Du Ya Ping, 0 hours 9 minutes 33 seconds, We know that those are conductors. So, conductor, when conductor carries current.
+Du Ya Ping, 0 hours 9 minutes 39 seconds, And then it will generate a loss. We call the cop loss. It is proportional to the I squared times the resistance of the conductor, okay? And that loss eventually tends to be heat, so the temperature on the conductor on the insulation layer will be increased. So.
+Du Ya Ping, 0 hours 9 minutes 59 seconds, temperature rise is proportion to the power, or proportion to the I squared.
+Du Ya Ping, 0 hours 10 minutes 7 seconds, Yeah.
+Du Ya Ping, 0 hours 10 minutes 9 seconds, So what does that mean? Okay, normally, let's say we have a reference temperature, which is 30 degrees, okay, and the data T means the temperature increase a lot, and if it's XLG cable, delta
+Du Ya Ping, 0 hours 10 minutes 30 seconds, let's say the reference temperature is 30 degree, so 90 degree minus 30 degree is 60 degree, right? For PVC,
+Du Ya Ping, 0 hours 10 minutes 42 seconds, Cable delta T is 70 degree minus 30 degree. The difference is 40 degree.
+Du Ya Ping, 0 hours 10 minutes 48 seconds, So clearly, you can see for XLP Cable, it can tolerate a higher current, because, temperature rises proportion to the current square. So it can allow a more current carryout by
+Du Ya Ping, 0 hours 11 minutes 3 seconds, the, the conductor.
+Du Ya Ping, 0 hours 11 minutes 5 seconds, Okay, so that means if you have the same size, Okay? For the… conduct a…
+Du Ya Ping, 0 hours 11 minutes 12 seconds, PVC cable or XLP Cable can… Handle the current.
+Du Ya Ping, 0 hours 11 minutes 18 seconds, greater than the, the current, the PVC Cable, okay? So, that is the advantage of XLP.
+Du Ya Ping, 0 hours 11 minutes 27 seconds, material or XLP cable. Of course, it, you know, we know it can carry more current, but of course, this is more expensive than a PVC cable, okay? So, under such… some situation, we don'
+Du Ya Ping, 0 hours 11 minutes 43 seconds, We use, XLP cables, and in some other situation, we use PVC cables. I will talk about this one later, okay?
+Du Ya Ping, 0 hours 11 minutes 52 seconds, And there's another corn, it says the limiting final temperature, okay? So this is for short period.
+Du Ya Ping, 0 hours 12 minutes 1 seconds, And later, we will talk about something called a short circuit. Short circuit will generate a very large current, and again,
+Du Ya Ping, 0 hours 12 minutes 11 seconds, you know, normally the duration will be less than 1 second, so we call it short duration. So if the duration
+Du Ya Ping, 0 hours 12 minutes 18 seconds, For the current, it's just one second. What is the maximum temperature the cable can tolerate, and the temperature is given here. So for PVC, cable, the short duration
+Du Ya Ping, 0 hours 12 minutes 31 seconds, temperature, okay, is 160 degrees. So this is the ceiling, okay? And for XLP cable, right, the ceiling is 250 degree, okay? So again, XLP Cable is better than, okay, the PVC cable.
+Du Ya Ping, 0 hours 12 minutes 48 seconds, So this is a cornfield.
+Du Ya Ping, 0 hours 12 minutes 50 seconds, continuous operation, the temperature limit for continuous operation. And at this point, it shows the temperature limit for
+Du Ya Ping, 0 hours 12 minutes 58 seconds, short period, let's say one second operation, okay? So normally, this is applied for four conditions, and this will apply for normal conditions.
+Du Ya Ping, 0 hours 13 minutes 12 seconds, Okay.
+Du Ya Ping, 0 hours 13 minutes 13 seconds, And, we, we talk about the, the conductor size, right? And the conductor size, actually, we determine the, the current.
+Du Ya Ping, 0 hours 13 minutes 25 seconds, The cable can carry out, because the size Affect by the resistance.
+Du Ya Ping, 0 hours 13 minutes 39 seconds, So size… if the size is bigger, the resistance is small, right? If the size is small, the resistance is high. That means small size, the current.
+Du Ya Ping, 0 hours 13 minutes 48 seconds, carried by the conductor, or the cable will be less, and if you have a large size cable, it means it can carry more current, okay? So, here.
+Du Ya Ping, 0 hours 14 minutes 0 seconds, This is a table which shows
+Du Ya Ping, 0 hours 14 minutes 4 seconds, the… the largest the current the cable can carry out, and the normal condition, not for condition. So this table shows the normal condition current, okay? So the maximum current, the current, the cable can carry for different sizes of the cable, right? So you can see the size given here, so the minute…
+Du Ya Ping, 0 hours 14 minutes 23 seconds, meter, square, that size for one conductor only, okay? Not for all the conductors, it's for one conductor.
+Du Ya Ping, 0 hours 14 minutes 30 seconds, And those are the… Maximum current.
+Du Ya Ping, 0 hours 14 minutes 34 seconds, the cable can carry out. Why you have so many, currents? Because…
+Du Ya Ping, 0 hours 14 minutes 40 seconds, You have the cables under different conditions.
+Du Ya Ping, 0 hours 14 minutes 43 seconds, Okay? So here, you have a 3-core cable, and there's a 3-core cable, and this is, you can see the reference method A, enclosed in condu, okay? And here, the cable installed in 3 years. That means the cable
+Du Ya Ping, 0 hours 15 minutes 2 seconds, the cables inside in the different conditions, the maximum current the cable can carry would be different, different, okay? So that is the…
+Du Ya Ping, 0 hours 15 minutes 12 seconds, situation, okay? Why we say it's so complicated? Because we have, you know, different…
+Du Ya Ping, 0 hours 15 minutes 19 seconds, values here, okay? Even you have the same size, but different condition, we have a different
+Du Ya Ping, 0 hours 15 minutes 25 seconds, value for maximum current, okay? And, we call… those are the…
+Du Ya Ping, 0 hours 15 minutes 37 seconds, The table value, okay, IT table value, that's called the current carrying capacity.
+Du Ya Ping, 0 hours 15 minutes 52 seconds, Okay?
+Du Ya Ping, 0 hours 15 minutes 53 seconds, or CCC, okay? Current carrying capacity, okay?
+Du Ya Ping, 0 hours 15 minutes 58 seconds, Oh, I just call this a table value, so that the values given in the table, okay? And,
+Du Ya Ping, 0 hours 16 minutes 5 seconds, we have… later, we have, another one we call effective current carrying capacity, okay? This is another one, okay, which cons… Consider the actual site condition, okay? So we will talk about this one later, okay? All right, okay, so this is the,
+Du Ya Ping, 0 hours 16 minutes 24 seconds, Sensing related to the, the conductor size, okay?
+Du Ya Ping, 0 hours 16 minutes 30 seconds, And, the other one, okay, I want to talk about, okay, is the, impedance, okay? So, why it is important? Okay, because when we talk about cable sizing, and the one thing we need to consider is called a voltage draw.
+Du Ya Ping, 0 hours 16 minutes 47 seconds, Okay, the voltage drop between the transformer to the end of circuit.
+Du Ya Ping, 0 hours 16 minutes 52 seconds, Okay, you know the voltage in the single-phase circuit is 2008 volts, right? And it's supposed to be 200 volts at the transformer side.
+Du Ya Ping, 0 hours 17 minutes 2 seconds, But if you use, you know, those circuits made by the cables, if it is very long, then you will see a large voltage draw.
+Du Ya Ping, 0 hours 17 minutes 11 seconds, It could be possible, okay, the voltage at the end of the circuit, for example, at the socket outlet, could be less than 200 volts.
+Du Ya Ping, 0 hours 17 minutes 23 seconds, Okay? And if their voltage job is too much.
+Du Ya Ping, 0 hours 17 minutes 26 seconds, it will affect the normal operation of the end user equipment, okay? For example, the lighting may not be turned on, okay, for the voltage too low, okay? So, we do need to, check the voltage drop in the circuit.
+Du Ya Ping, 0 hours 17 minutes 42 seconds, So that it will not affect
+Du Ya Ping, 0 hours 17 minutes 44 seconds, if we make sure it's small, and it will not affect the normal operation of the typical equipment. So that's the reason why we want to know the impedance, because impedance is used to find out the, the voltage draw, okay? And such kind of impedance, okay,
+Du Ya Ping, 0 hours 18 minutes 4 seconds, Given in… Resistor value, and the reactance value.
+Du Ya Ping, 0 hours 18 minutes 15 seconds, And, here, This is another table, okay, for different sizes, right here.
+Du Ya Ping, 0 hours 18 minutes 23 seconds, For the cables, and the different kind of masses, okay, different kind of side conditioning, okay, you have the impedance, okay? Of course, the value will be different, and for each column, you see there are three
+Du Ya Ping, 0 hours 18 minutes 37 seconds, values. So what are those? If you look at the thing here, this is called the resistance value, reactance value, and the total impedance. And if you look at the unit, it's a millivolt per ampere per meter.
+Du Ya Ping, 0 hours 18 minutes 52 seconds, So, Minervo… Divide by…
+Du Ya Ping, 0 hours 18 minutes 55 seconds, MP, it is a milli ohm, so it's also called the impedance, okay? Milli, ohm per meter, okay?
+Du Ya Ping, 0 hours 19 minutes 3 seconds, And,
+Du Ya Ping, 0 hours 19 minutes 6 seconds, We know the resistance, just like when we talked about the… last week, the power triangle, and we have the impedance triangle, okay? So, the power triangle, something like this, P, Q,
+Du Ya Ping, 0 hours 19 minutes 22 seconds, S, right? For the impedance, again, we have this kind of trend.
+Du Ya Ping, 0 hours 19 minutes 27 seconds, resistance, reactance, and the total impedance. So, Z equal to,
+Du Ya Ping, 0 hours 19 minutes 35 seconds, R plus JX, and the absolute value is eager to… R squared plus J.
+Du Ya Ping, 0 hours 19 minutes 43 seconds, X squared.
+Du Ya Ping, 0 hours 19 minutes 45 seconds, Nick.
+Du Ya Ping, 0 hours 19 minutes 46 seconds, So, that is the… Okay.
+Du Ya Ping, 0 hours 19 minutes 51 seconds, The thing, okay, provided by this… table, but for some… Sizes.
+Du Ya Ping, 0 hours 20 minutes 1 seconds, Okay, small sizes, okay? The Cable with small sizes. You only see a single current, right? A single value for each current, which means, this is the resistant value, the reactants almost…
+Du Ya Ping, 0 hours 20 minutes 18 seconds, zero, or it's very small compared with the resistance, okay? So that means,
+Du Ya Ping, 0 hours 20 minutes 29 seconds, are approximately equal to Z.
+Du Ya Ping, 0 hours 20 minutes 32 seconds, And, X…
+Du Ya Ping, 0 hours 20 minutes 35 seconds, approach to zero, okay, approach to zero, okay? So if you see single value, that means the resistance, or total impede only, the accuracy is equal to zero, okay?
+Du Ya Ping, 0 hours 20 minutes 48 seconds, All right, and, well, this one, illustrates the… the method we call the installation method for the cable. So, okay, you know, for both tables, right, okay, the current current capacity table and the impedance table, the actual value is the effect
+Du Ya Ping, 0 hours 21 minutes 7 seconds, you know, by the side condition, and we call the installation method, okay? So, different currents means that you have a different kind of method for cable installation, okay? So here,
+Du Ya Ping, 0 hours 21 minutes 20 seconds, the reference mass 1RA, okay? That means the cable… let's talk about this first, okay? So, in this case, cable installed
+Du Ya Ping, 0 hours 21 minutes 30 seconds, in free air, okay? That means exposed to air, okay? The cable could be…
+Du Ya Ping, 0 hours 21 minutes 37 seconds, like this, okay, or on the tree. This is a cable tray, cable tray, okay? So, cables…
+Du Ya Ping, 0 hours 21 minutes 47 seconds, in free air or, a cable tray, okay? Either the cable horizontally, okay, arranged, and this is a triangle, okay, arrangement, or vertical arrangement, okay? So this is called the
+Du Ya Ping, 0 hours 22 minutes 1 seconds, the method for cable installation. Different method, okay, with…
+Du Ya Ping, 0 hours 22 minutes 5 seconds, lead to different results, okay? And, this case, okay, the cable's equipped direct, that means, the cable's right
+Du Ya Ping, 0 hours 22 minutes 18 seconds, on the surface of the wall or the floor, okay? So you can see, okay, this is, like, the surface, the floor, or the ceiling, or the wall, okay? So the cable touched the surface, okay? So we call the clip direct, okay? And those two methods, you can see
+Du Ya Ping, 0 hours 22 minutes 37 seconds, The cable's actually installed in some enclosure.
+Du Ya Ping, 0 hours 22 minutes 42 seconds, Okay, you have sensitive to cover, those cables, okay? And, the circular things we call the condu.
+Du Ya Ping, 0 hours 23 minutes 1 seconds, Okay, the rectangular box means the tranking.
+Du Ya Ping, 0 hours 23 minutes 11 seconds, Okay? And, you can see the photo here, okay? This is the conduit, right?
+Du Ya Ping, 0 hours 23 minutes 19 seconds, normally small… it has small size, okay? And this chunking. The chunking can be small, can be bigger, okay? So those call the…
+Du Ya Ping, 0 hours 23 minutes 30 seconds, The device, okay, normally those devices are required to provide for the purpose of mechanical protection, okay? So if you have this kind of metal enclosure, so certainly it will not be subject to the external force, right? So it's like a sensing we call the
+Du Ya Ping, 0 hours 23 minutes 50 seconds, protection, mechanical protection. Again, those kind of things provide the mechanical protection for the cables.
+Du Ya Ping, 0 hours 24 minutes 3 seconds, All right, so we talked about the conductors, okay? And there are two more things, okay? One more thing we need to talk about, the armor.
+Du Ya Ping, 0 hours 24 minutes 13 seconds, Okay, the armor. So, what armor is? Arma is, again, is kind of…
+Du Ya Ping, 0 hours 24 minutes 19 seconds, You can say this is a conductor. It's a metal, actually, it's a metal, okay? But this metal is not used to carry out the normal current.
+Du Ya Ping, 0 hours 24 minutes 28 seconds, And this one, most cases, is for… provide for mechanical protection.
+Du Ya Ping, 0 hours 24 minutes 35 seconds, Right? We can use the condu tranking tree for the mechanical protection. We can also use the armor for the mechanical protection. And normally, this kind of armor is provided for
+Du Ya Ping, 0 hours 24 minutes 48 seconds, Multicore cable, like the cable here.
+Du Ya Ping, 0 hours 24 minutes 54 seconds, So here, this is called the four core cables, and the layer, you can see, Though…
+Du Ya Ping, 0 hours 25 minutes 1 seconds, with the silver color, right? And those quarter…
+Du Ya Ping, 0 hours 25 minutes 5 seconds, This is called armor. Actually, the, the armor is made by, we call the steel white, okay, steel wires, and also we call this a steel white armor, steel white armor, okay?
+Du Ya Ping, 0 hours 25 minutes 17 seconds, It's for the mechanical protection, it's not supposed to carry out the normal current, although this is a metal, okay? But in the certain situation, it may carry out the full current, but not used to carry the normal operation current, okay?
+Du Ya Ping, 0 hours 25 minutes 32 seconds, And, and,
+Du Ya Ping, 0 hours 25 minutes 36 seconds, And then that kind of armor, okay, also has a cross-section area and the impedance value, okay? But, we're talking about that kind of thing later, okay?
+Du Ya Ping, 0 hours 25 minutes 54 seconds, Okay, now let's move to the key topic we want to address, okay, how to determine the cable size.
+Du Ya Ping, 0 hours 26 minutes 2 seconds, Right? We know we have a list of the size available, which ones are adequate, okay? And when we say the cable sizing, it means we need to determine the minimum conductor cross-sectional area.
+Du Ya Ping, 0 hours 26 minutes 18 seconds, of the live conductor, okay? Not the armor. ARMA is not called a life conductor, okay? That can tolerate the design current continuously in that circuit. So we want to determine
+Du Ya Ping, 0 hours 26 minutes 32 seconds, that… The size, okay, of the cable, so that that cable can tolerate the maximum demand current, okay?
+Du Ya Ping, 0 hours 26 minutes 41 seconds, In the normal situation.
+Du Ya Ping, 0 hours 26 minutes 43 seconds, for unlimited time. So that's the basic requirement, yeah. So we don't want, the cable,
+Du Ya Ping, 0 hours 26 minutes 50 seconds, is subject to the overheating problem because of the small size, okay? Small size, okay? So that's the basic requirement, okay? So, so what we need to…
+Du Ya Ping, 0 hours 27 minutes 4 seconds, do is to ensure we translate that sentence to the basic requirement. Effective current carrying capacity of the conductor is greater than the possible current flow through the conductor, or you can say this is the maximum demand.
+Du Ya Ping, 0 hours 27 minutes 20 seconds, So, the effect of the current carrying capacity. So, that means the actual maximum current the cable can carry should be greater than the maximum demand.
+Du Ya Ping, 0 hours 27 minutes 30 seconds, Okay, so this is the… translation, right? Okay? From that sentence, okay?
+Du Ya Ping, 0 hours 27 minutes 37 seconds, And the Wayne Noda, current carrying capacity, right? In the table.
+Du Ya Ping, 0 hours 27 minutes 44 seconds, But that's a table value. But here, we call this effective. So this one is slightly different from that value given the table, okay? So we'll talk about this one a little bit later, okay?
+Du Ya Ping, 0 hours 27 minutes 56 seconds, All right, so, let's look at the things we need to consider when we, work, working, when we work on this kind of,
+Du Ya Ping, 0 hours 28 minutes 8 seconds, things, okay? Of course, the first one is just the one we talked about. This is the thermal issue, okay? If you fulfill this requirement, that means the temperature on the cable will not exceed the limit, and then you will not see the overheating problem.
+Du Ya Ping, 0 hours 28 minutes 27 seconds, And the cable can safely operate, okay?
+Du Ya Ping, 0 hours 28 minutes 31 seconds, under that condition, okay? So this is called the thermal requirement, okay, because it relates to the temperature, okay? So apart from that one, we also need to consider the
+Du Ya Ping, 0 hours 28 minutes 41 seconds, Electrical requirements, one of the requirements is the voltage job. So, as what I mentioned earlier, okay, we don't want to see a very large voltage drop.
+Du Ya Ping, 0 hours 28 minutes 50 seconds, If that is the case, then the voltage at the end of the circuit could be less than 300 volts, or even less than 180 volts. That would cause a big trouble, okay, for the operation of the end user. So we also need to consider the voltage drop, and we want to limit the voltage drop to a certain level, okay? So this is another thing we need to consider, okay? Of course, the first thing is the most important.
+Du Ya Ping, 0 hours 29 minutes 15 seconds, Right? Because this is a…
+Du Ya Ping, 0 hours 29 minutes 17 seconds, the safety problem, okay? And in some cases, we may need to look at the power loss, and then we want to minimize the loss.
+Du Ya Ping, 0 hours 29 minutes 26 seconds, under the table, okay? So this is related to energy efficiency.
+Du Ya Ping, 0 hours 29 minutes 31 seconds, Okay, it's not the safety requirement, okay? And this is for normal operation, okay? The requirement, okay, this is for, it's actually the safety requirement.
+Du Ya Ping, 0 hours 29 minutes 47 seconds, So, let's go to this one, okay? What's the difference between the effective current carrying capacity and the table value, okay? And the table value is fixed.
+Du Ya Ping, 0 hours 29 minutes 58 seconds, Okay, and if you look at the table.
+Du Ya Ping, 0 hours 30 minutes 4 seconds, You can see there's a temperature, indicated here, 70 degrees.
+Du Ya Ping, 0 hours 30 minutes 11 seconds, There is the… Maximum operating temperature, okay? And there's another temperature given here, okay?
+Du Ya Ping, 0 hours 30 minutes 20 seconds, 30 degree and the 90 degree. So, when you see the 90 degree, okay, certainly this is the XLP cable, okay? And, the ambient temperature is 30 degrees, so that's the reference, reference temperature.
+Du Ya Ping, 0 hours 30 minutes 35 seconds, So if you have the reference temperature, or ambient temperature 30 degree, and we allow the temperature up to 90 degree, then you can use the value given in this table.
+Du Ya Ping, 0 hours 30 minutes 48 seconds, But the rarity, okay, it's not that simple, okay? And in the building, okay, the temperature in the plant room could be…
+Du Ya Ping, 0 hours 30 minutes 59 seconds, over 30 degrees, 35 degrees, or even 40 degrees. So what will happen, okay, if we have the ambient temperature.
+Du Ya Ping, 0 hours 31 minutes 7 seconds, of 40 degrees.
+Du Ya Ping, 0 hours 31 minutes 9 seconds, Okay, so if the temperature, ambient temperature.
+Du Ya Ping, 0 hours 31 minutes 14 seconds, It's greater than 30 degrees, and then the temperature rise here will be reduced. That one will be reduced.
+Du Ya Ping, 0 hours 31 minutes 25 seconds, will be reduced. If that one is reduced, which means the current
+Du Ya Ping, 0 hours 31 minutes 31 seconds, Okay, the maximum current the cable can carry out certainly will be reduced.
+Du Ya Ping, 0 hours 31 minutes 37 seconds, So, the ambient temperature will affect
+Du Ya Ping, 0 hours 31 minutes 40 seconds, The actual current carrying capacity of the field.
+Du Ya Ping, 0 hours 31 minutes 44 seconds, Suppose… The table value is 100M.
+Du Ya Ping, 0 hours 31 minutes 48 seconds, Because the ambient temperature is 40 degrees.
+Du Ya Ping, 0 hours 31 minutes 52 seconds, the maximum current the cable can carry may be 90 amp, less than 100.
+Du Ya Ping, 0 hours 31 minutes 58 seconds, So there is a difference, or there's a factor.
+Du Ya Ping, 0 hours 32 minutes 2 seconds, Okay? We have to consider, okay? If the temperature's high, then
+Du Ya Ping, 0 hours 32 minutes 6 seconds, 30 degree, we have to multiply, 100 MP by a factor, which is less than 1, okay? And then we come out for
+Du Ya Ping, 0 hours 32 minutes 15 seconds, sensing way called the effective current current capacity. So that is the difference between the effective current current capacity and the table bed, okay? So…
+Du Ya Ping, 0 hours 32 minutes 30 seconds, Here, we introduce, okay, well, sometimes I use the symbol ITA or ITAB. It means the table value, okay? It's given in the table, okay? So, introduce… I introduce this factor, CA.
+Du Ya Ping, 0 hours 32 minutes 45 seconds, So, ZVA normally is less than 1.
+Du Ya Ping, 0 hours 32 minutes 48 seconds, So if an ambient temperature, is greater than 30 degrees, could be 0.9 or 0.8. So then, the multiplication of the table value and the factor
+Du Ya Ping, 0 hours 33 minutes 1 seconds, Okay, turns out to be the effective current capacity. That is the Z or I…
+Du Ya Ping, 0 hours 33 minutes 10 seconds, Effect. We may see, different symbols.
+Du Ya Ping, 0 hours 33 minutes 21 seconds, Okay.
+Du Ya Ping, 0 hours 33 minutes 24 seconds, So sometimes I use IZ, sometimes I use, IEFF, effective, okay? All right, okay, so,
+Du Ya Ping, 0 hours 33 minutes 33 seconds, Now the question is, how can we find the value of CA? Okay, so don't worry, we have a table available, okay? So this is the table.
+Du Ya Ping, 0 hours 33 minutes 44 seconds, And it's So you can see…
+Du Ya Ping, 0 hours 33 minutes 47 seconds, The first color shows the ambient temperature.
+Du Ya Ping, 0 hours 33 minutes 52 seconds, Value, okay? Certain degree.
+Du Ya Ping, 0 hours 33 minutes 55 seconds, Okay, 95 degrees. And then if we have a certain degree, then the factor is equal to 1, because it's a reference, reference. And this is for XLP Cable, this is for
+Du Ya Ping, 0 hours 34 minutes 6 seconds, This is a PVC cable, this is for XLP cable. And if the temperature says 40 degrees, it's down to 0.94, and this is 0.96, so you see there's a protection.
+Du Ya Ping, 0 hours 34 minutes 17 seconds, So what happens if the temperature is lower than 30 degrees?
+Du Ya Ping, 0 hours 34 minutes 21 seconds, and the factor is greater than 1, which means the temperature allowed… the increase allowed is increased, right? So you can have more current, okay, carried out by the cable. So that's why you see a figure greater than 1, right there.
+Du Ya Ping, 0 hours 34 minutes 38 seconds, So this is the table usually we use to determine the value of CA, okay? And then there's another one, okay, we call it CG.
+Du Ya Ping, 0 hours 34 minutes 50 seconds, And this is a grouping factor. So what does that mean?
+Du Ya Ping, 0 hours 34 minutes 57 seconds, Let's consider the case, the cable installed on the tray.
+Du Ya Ping, 0 hours 35 minutes 8 seconds, So we have, two, multi-core cables. Let's say this is a 4-core cable, this is another 4-core cable. They touch each other.
+Du Ya Ping, 0 hours 35 minutes 17 seconds, Okay? And then you see the temperature rise on this table. Certainly is affected by the loss.
+Du Ya Ping, 0 hours 35 minutes 26 seconds, by the current in this table, right? But also.
+Du Ya Ping, 0 hours 35 minutes 30 seconds, Some of the heat will be generated by another cable.
+Du Ya Ping, 0 hours 35 minutes 35 seconds, So you have the heat generated by this… the current here, but also there
+Du Ya Ping, 0 hours 35 minutes 40 seconds, Okay, with general heat. So, total heat, okay.
+Du Ya Ping, 0 hours 35 minutes 45 seconds, generated by two cables will be much greater… maybe will be greater than the heat generated by the single cable. That means the temperature rise. Even you have the same amount curve, because you have two cables here, the temperature rise will be
+Du Ya Ping, 0 hours 36 minutes 2 seconds, Greater than the original case.
+Du Ya Ping, 0 hours 36 minutes 4 seconds, So, if the temperature rise, okay,
+Du Ya Ping, 0 hours 36 minutes 8 seconds, increased, okay, and that means the current should be reduced, okay? Otherwise, either we, go…
+Du Ya Ping, 0 hours 36 minutes 16 seconds, beyond the limits, right? Okay? So, if you have a motive.
+Du Ya Ping, 0 hours 36 minutes 22 seconds, multiple cables, okay, installed at the same location, we need to consider a factor we call grouping factor. So that is the meaning of CG, grouping factor, okay? So again, how can we find the value?
+Du Ya Ping, 0 hours 36 minutes 39 seconds, We need to use the table here.
+Du Ya Ping, 0 hours 36 minutes 43 seconds, So, this… Y means the number of cables, Installed in the same location, Or, number of the… Cables.
+Du Ya Ping, 0 hours 36 minutes 56 seconds, Installing location, okay? And, here are, are the situation, okay, for the…
+Du Ya Ping, 0 hours 37 minutes 6 seconds, Cable installation, okay? How those cables installed, okay? So, the cable in air or on surface are enclosed, which means the reference method, I think it's the reference method.
+Du Ya Ping, 0 hours 37 minutes 22 seconds, B, C, something like that. And, this one, single layer, okay? On the… on the wall, okay?
+Du Ya Ping, 0 hours 37 minutes 31 seconds, Okay, and this is a single layer, okay, on the tray, okay? This is on the ladder, okay? So we have a different kind of methods, okay, which we…
+Du Ya Ping, 0 hours 37 minutes 43 seconds, leads to…
+Du Ya Ping, 0 hours 37 minutes 45 seconds, different values of the grouping factor, yeah. So we have a 2 here, 2 cables here, or 3 cables here. If you got more, of course, the value of factor would, would be less, would be less.
+Du Ya Ping, 0 hours 38 minutes 1 seconds, All right, and here, there's a question. How to determine
+Du Ya Ping, 0 hours 38 minutes 9 seconds, the number, okay? Whether it's… we need to count the number of cables, or whether we need to count the number of circuits. So, let's say…
+Du Ya Ping, 0 hours 38 minutes 18 seconds, This week.
+Du Ya Ping, 0 hours 38 minutes 19 seconds, If it's a multi-core cables.
+Du Ya Ping, 0 hours 38 minutes 22 seconds, Normally, we say this is one circuit, this is another circuit, so we just need to count the number of cables.
+Du Ya Ping, 0 hours 38 minutes 30 seconds, you know, on the tray, okay? In that situation, okay? But if you have a single core cable.
+Du Ya Ping, 0 hours 38 minutes 45 seconds, Okay, if you have single-call cables, you cannot just cut number of cables, okay? You have to cut number of circuits.
+Du Ya Ping, 0 hours 38 minutes 52 seconds, But if it's just given by the layout here, you… I cannot determine the…
+Du Ya Ping, 0 hours 38 minutes 58 seconds, the number of circuits, and the value of a grouping factor, okay? Because why? Because we have two different situations here.
+Du Ya Ping, 0 hours 39 minutes 8 seconds, The first situation.
+Du Ya Ping, 0 hours 39 minutes 13 seconds, Okay, we have a line 1, line 2, line 3 in the neutral. So, you see, this is a three-phase circuit.
+Du Ya Ping, 0 hours 39 minutes 24 seconds, three-phase circuit. So, certainly, the number should be… should be equal to 1.
+Du Ya Ping, 0 hours 39 minutes 31 seconds, When CHUI circuit, okay? Now let's look at… look at another… Arrangement?
+Du Ya Ping, 0 hours 39 minutes 42 seconds, L1N, L2N. So this is the single-phase circuit.
+Du Ya Ping, 0 hours 39 minutes 48 seconds, One face, single face. So then maybe this is for lighting circuit, and this is for…
+Du Ya Ping, 0 hours 39 minutes 53 seconds, another lighting circuit. So, in this case, The number of circuits for…
+Du Ya Ping, 0 hours 39 minutes 59 seconds, The determination of a growing fat, okay, is equal to 2.
+Du Ya Ping, 0 hours 40 minutes 6 seconds, So here is 2, here is 1, okay, or C, okay.
+Du Ya Ping, 0 hours 40 minutes 11 seconds, CG equal to 1.
+Du Ya Ping, 0 hours 40 minutes 13 seconds, Okay, okay, CG, okay, determined by the value here, but number of circuit is given here. So, single circuit here, and a double circuit.
+Du Ya Ping, 0 hours 40 minutes 28 seconds, Okay, for this case.
+Du Ya Ping, 0 hours 40 minutes 30 seconds, So…
+Du Ya Ping, 0 hours 40 minutes 31 seconds, The conclusion is that if it's a multi-core cable, then you just count the cable, number of cable. If it's a single core cable, so you have to look at the circuit, number of circuits, okay? So, you have to find a detail, okay? Otherwise, just given by the information like this.
+Du Ya Ping, 0 hours 40 minutes 50 seconds, We cannot tell. We cannot tell.
+Du Ya Ping, 0 hours 40 minutes 53 seconds, So this is, one thing, okay, we need to be aware when we use this, table, okay? And then there's another thing.
+Du Ya Ping, 0 hours 41 minutes 12 seconds, Okay? Is dead, okay? If…
+Du Ya Ping, 0 hours 41 minutes 15 seconds, Those two cables, multi-core cables, although they are installed on the same tray, but they have some separation distance.
+Du Ya Ping, 0 hours 41 minutes 24 seconds, So, in that case, okay, do we need to consider the grouping fact like this?
+Du Ya Ping, 0 hours 41 minutes 29 seconds, It depends.
+Du Ya Ping, 0 hours 41 minutes 31 seconds, If the separation distance is large enough.
+Du Ya Ping, 0 hours 41 minutes 35 seconds, Then we can say the heat generated by this cable will not affect on the temperature.
+Du Ya Ping, 0 hours 41 minutes 42 seconds, on this cable. So the mutual inference can be ignored.
+Du Ya Ping, 0 hours 41 minutes 45 seconds, So, how… Bigger.
+Du Ya Ping, 0 hours 41 minutes 48 seconds, Okay, then, okay, then we can consider,
+Du Ya Ping, 0 hours 41 minutes 55 seconds, the group, in fact, should not be, I mean, the mutual inference should not be included. As a general… general rule, we can say if S
+Du Ya Ping, 0 hours 42 minutes 9 seconds, It's greater than the diameter of the cable, so this is the diameter.
+Du Ya Ping, 0 hours 42 minutes 15 seconds, If the separation distance is greater than the diameter of the cable, then the mutual inference can be ignored.
+Du Ya Ping, 0 hours 42 minutes 23 seconds, And then, we just consider you have a single circuit, okay?
+Du Ya Ping, 0 hours 42 minutes 30 seconds, to determine this, grouping factor, okay, which means the grouping factor is equal to 1, okay? If it's less than the diameter, okay, Cable diameter, and then, you can consider the case just like this.
+Du Ya Ping, 0 hours 42 minutes 45 seconds, Okay, so that's… that's another point.
+Du Ya Ping, 0 hours 42 minutes 54 seconds, Okay, and the third one, okay, is called a CI. CI is the fact for thermal insulation, okay? That means the cable is surrounded or covered with the thermal insulation material, okay?
+Du Ya Ping, 0 hours 43 minutes 13 seconds, So, this is the table, okay? So let's say this is the…
+Du Ya Ping, 0 hours 43 minutes 25 seconds, Summer installation wall. And then, you have a cable
+Du Ya Ping, 0 hours 43 minutes 32 seconds, passing through this semi-inserating one. So, part of this
+Du Ya Ping, 0 hours 43 minutes 36 seconds, Cable is covered with the thermal insulation.
+Du Ya Ping, 0 hours 43 minutes 39 seconds, material, okay? And again, you know, the thermal, insulation material affect the heat dissipation, right? We affect the temperature rise, right? So, the… the… the factor we should consider, and assume that the
+Du Ya Ping, 0 hours 43 minutes 57 seconds, lengths here.
+Du Ya Ping, 0 hours 44 minutes 0 seconds, Okay? It's the thickness of the summer installation wall, and then you can…
+Du Ya Ping, 0 hours 44 minutes 5 seconds, find out the value of CI by using this table, okay? So if the thermal… the thickness is equal to 50 millimeter.
+Du Ya Ping, 0 hours 44 minutes 16 seconds, This much, and then the factor is 0.88. And if it's greater than 500 millimeter, then the factor's 0.5. So,
+Du Ya Ping, 0 hours 44 minutes 28 seconds, That is the way to determine, okay, a value of a C.
+Du Ya Ping, 0 hours 44 minutes 32 seconds, Ci, CI. So, if the actual situation, okay, is different from
+Du Ya Ping, 0 hours 44 minutes 41 seconds, the reference one, which, used to determine the, where the table value is developed, okay? So then you have to consider the value of… for CACGCI. Okay.
+Du Ya Ping, 0 hours 44 minutes 56 seconds, So, after you consider all the factors, and this value is called the effective current carrying capacity of the cable, and the side condition. So, you can say this is the current carrying capacity, and the reference condition, and this is the current carrying capacity.
+Du Ya Ping, 0 hours 45 minutes 16 seconds, and the side condition, and the actual conditions. So the difference is determined by those factors.
+Du Ya Ping, 0 hours 45 minutes 26 seconds, And, one more thing I want to mention, here is…
+Du Ya Ping, 0 hours 45 minutes 31 seconds, We know the installation method, okay, here, okay? So, this one means the cable is covered with… itself is covered with the thermal insulation material, okay? And, in the… this…
+Du Ya Ping, 0 hours 45 minutes 47 seconds, table, you can see the installation method. The reference method A, the… the things in close, in conduit, in thermal… thermally insulating wall. So, what is the difference?
+Du Ya Ping, 0 hours 46 minutes 2 seconds, we have thermally insulated the wall, okay? In both cases, okay.
+Du Ya Ping, 0 hours 46 minutes 8 seconds, But we want to know the difference. In the worst situation, we need to consider that. In the worst situation, we consider this. So, the major difference is that, okay, if you have the enclosure provide
+Du Ya Ping, 0 hours 46 minutes 23 seconds, for… the cables.
+Du Ya Ping, 0 hours 46 minutes 26 seconds, Then you will use… The figure, okay, data in this column, those two columns, okay?
+Du Ya Ping, 0 hours 46 minutes 34 seconds, And here, the cable is directly covered with thermal insufficient. There's no inclusion.
+Du Ya Ping, 0 hours 46 minutes 42 seconds, Okay? Then you have to consider the factor CI.
+Du Ya Ping, 0 hours 46 minutes 46 seconds, CI, okay. So there is a difference. If this one is, with, enclosure or metal condos provide for this part, and then we do not need to apply the CI, or we consider CI just equal to 1.
+Du Ya Ping, 0 hours 47 minutes 5 seconds, But if there's no enclosure or no metal conduit, then just go through
+Du Ya Ping, 0 hours 47 minutes 11 seconds, goes through the wall in this way, and then we have to consider to apply CI.
+Du Ya Ping, 0 hours 47 minutes 28 seconds, Alright, so we talked about, this one, okay?
+Du Ya Ping, 0 hours 47 minutes 35 seconds, the correction factors, okay? And based on discussion here, we have to make sure the effective current current capacity is greater than, the maximum demand, okay? So…
+Du Ya Ping, 0 hours 47 minutes 49 seconds, In this case, we call IB is the… Maximum demand current.
+Du Ya Ping, 0 hours 47 minutes 55 seconds, or the design current. Design current, okay? I see that is the effective current current capacity of the cable.
+Du Ya Ping, 0 hours 48 minutes 3 seconds, And between those, we have, of course, we'll make sure this is greater than that one, but…
+Du Ya Ping, 0 hours 48 minutes 11 seconds, We often use a protective device in the circuit for the purpose of protection, and each device has a rating. So we normally put the rating in the
+Du Ya Ping, 0 hours 48 minutes 24 seconds, In the middle.
+Du Ya Ping, 0 hours 48 minutes 26 seconds, Between those two… Values, which means
+Du Ya Ping, 0 hours 48 minutes 30 seconds, RN, the RTM device, greater than the design current, and the effective current current capacity of the cable is greater than RN.
+Du Ya Ping, 0 hours 48 minutes 39 seconds, So the cable sizing, the calculation actually is based on this one.
+Du Ya Ping, 0 hours 48 minutes 45 seconds, this requirement. And this requirement is actually derived from the fundamental
+Du Ya Ping, 0 hours 48 minutes 50 seconds, statement over there. So this is actually, we use, okay, for the calculation.
+Du Ya Ping, 0 hours 49 minutes 2 seconds, Okay? Alright, so, we know, IZ…
+Du Ya Ping, 0 hours 49 minutes 11 seconds, Should be great, and I… N, right? And also, we know IZ is equal to…
+Du Ya Ping, 0 hours 49 minutes 21 seconds, Table value times C, A, C, G, C, I.
+Du Ya Ping, 0 hours 49 minutes 26 seconds, Right? Okay? And then we move these fa… all factors to other… Site.
+Du Ya Ping, 0 hours 49 minutes 41 seconds, And we caught this one… is IT.
+Du Ya Ping, 0 hours 49 minutes 46 seconds, Okay. So, this one…
+Du Ya Ping, 0 hours 49 minutes 49 seconds, is determined by the current rating of device and those factors, and we call this the minimum current carrying capacity. This is the table value, okay?
+Du Ya Ping, 0 hours 50 minutes 3 seconds, Front table, and this is the minimum one, minimum one. So table value should be greater than the minimum.
+Du Ya Ping, 0 hours 50 minutes 9 seconds, So, first of all, you find the minimum value, and then go to the table to find all the actual
+Du Ya Ping, 0 hours 50 minutes 16 seconds, Cable size. For example, if this one is 100MP,
+Du Ya Ping, 0 hours 50 minutes 25 seconds, And then we go back to the…
+Du Ya Ping, 0 hours 50 minutes 33 seconds, the table here. I assume this is a PVC cable, and the PVC cable,
+Du Ya Ping, 0 hours 50 minutes 39 seconds, Those cables, three, three-phase circuit cable installed in the… in the conduit, okay, in the enclosure, but not…
+Du Ya Ping, 0 hours 50 minutes 51 seconds, cover with the thermal insulation, I mean, the thermal insurating wall. So we have to use the mass,
+Du Ya Ping, 0 hours 50 minutes 59 seconds, B, okay,
+Du Ya Ping, 0 hours 51 minutes 1 seconds, the cables, enclosed in the conduit trunking, and this is a three-phase circuit, okay? So we look at the figure.
+Du Ya Ping, 0 hours 51 minutes 10 seconds, The table value is greater than 100MP, so make sure that one is greater than 100MP, okay? So, let's see what is the one… okay, here we got 89 and the 110.
+Du Ya Ping, 0 hours 51 minutes 22 seconds, So, remember, the fundamental requirement is that we need to find the minimum conductor size, so that the cable can tolerate this design current. So this is the selection, okay? So, if we want the table value of 110 ampere, so the size.
+Du Ya Ping, 0 hours 51 minutes 43 seconds, Here is, 35 millimeter.
+Du Ya Ping, 0 hours 51 minutes 49 seconds, So then, we can find the table size. So, table size is 35mm. 35mm has the table value.
+Du Ya Ping, 0 hours 52 minutes 5 seconds, 110A, and which is greater than 100. It's largely sufficient, largely sufficient, okay?
+Du Ya Ping, 0 hours 52 minutes 13 seconds, So that is the kind of idea, okay, you know, to determine, okay, the cable size, the cable size.
+Du Ya Ping, 0 hours 52 minutes 31 seconds, Alright, so, here is the procedure, okay? For, cable sizing, first of all, you find out,
+Du Ya Ping, 0 hours 52 minutes 41 seconds, Selecting type of cables, okay, whether it's the
+Du Ya Ping, 0 hours 52 minutes 46 seconds, Single-core cable, or multi-core cable, where the… also the installation method, okay, how cable is installed outside, like, where the cable is put in the trunking, or on the tray, or on the surface, okay, wall, okay, etc. And then calculate IT, IT,
+Du Ya Ping, 0 hours 53 minutes 2 seconds, You know, if you know the, design current, you can find the IM, and then, if you know the, installation method, you can find the CAICGCI, and then you can
+Du Ya Ping, 0 hours 53 minutes 15 seconds, gather the value IT, and then go to the table, okay? Based on the type of table you selected, you can, choose the cross-section area so that the table value is greater than the
+Du Ya Ping, 0 hours 53 minutes 28 seconds, the value for IT.
+Du Ya Ping, 0 hours 53 minutes 30 seconds, So that is the, the procedure, okay?
+Du Ya Ping, 0 hours 53 minutes 36 seconds, for determining the size of the cable, okay? Of course, this is a procedure to determine the size based on the first requirement, the thermal requirement, and also we need to consider the voltage job requirement, okay? And there will be
+Du Ya Ping, 0 hours 53 minutes 52 seconds, discussed it with labor.
+Du Ya Ping, 0 hours 54 minutes 0 seconds, And this is just a graphic illustration about the procedure, okay? So find out the design current first, and determine the rating of protective device, and then use this one to determine the minimum current capacity, and then go
+Du Ya Ping, 0 hours 54 minutes 17 seconds, Back to the table to determine the cross-section area so that the ITA is greater than IT.
+Du Ya Ping, 0 hours 54 minutes 23 seconds, Okay, so… This is just a graphic illustration about the procedure.
+Du Ya Ping, 0 hours 54 minutes 35 seconds, All right, okay, and this one we will talk about a little bit later. Let's look at this special case first, okay?
+Du Ya Ping, 0 hours 54 minutes 42 seconds, This is called a, group ring circuit, okay? And, here, for the discussion up here, we consider all the circuit and radio circuit, okay? And we know the ring circuit is normally used for
+Du Ya Ping, 0 hours 54 minutes 58 seconds, socket outlets in the final circuit, okay? And, particularly, I think it's the, A1 circuit.
+Du Ya Ping, 0 hours 55 minutes 9 seconds, In the… in the notes, okay, in the…
+Du Ya Ping, 0 hours 55 minutes 12 seconds, In the notes for the first lecture, I showed a table, okay, A1 types.
+Du Ya Ping, 0 hours 55 minutes 54 seconds, Alright, okay, so 3 types of final circuits, circular circuits.
+Du Ya Ping, 0 hours 56 minutes 0 seconds, are specified in the COP, and you have A1, A2S3, and A2A3 are radius circuit, but A1 is the ring circuit. And the rating is 30MP or 32A. It's fixed. That means RM for the
+Du Ya Ping, 0 hours 56 minutes 18 seconds, Ring circuit.
+Du Ya Ping, 0 hours 56 minutes 21 seconds, should be 30MP, or 32A. It's a fix, okay? You cannot change it, okay? So, for this type of circuit.
+Du Ya Ping, 0 hours 56 minutes 50 seconds, Let's say the rating, MCB rating.
+Du Ya Ping, 0 hours 56 minutes 54 seconds, It's 30 ampere, okay? And, this is a total current, and you have the…
+Du Ya Ping, 0 hours 57 minutes 1 seconds, socket out at a different location, right? So that means the actual current can go in this way.
+Du Ya Ping, 0 hours 57 minutes 8 seconds, Or in their way.
+Du Ya Ping, 0 hours 57 minutes 10 seconds, So, each branch, you have two branches. Each branch will carry the current less than 30 amps.
+Du Ya Ping, 0 hours 57 minutes 17 seconds, So that means it's not possible for one branch to carry the total current, 30 amp. It's not possible, okay? So, that means we do not need to size the cable based on 30 amp.
+Du Ya Ping, 0 hours 57 minutes 30 seconds, All right? If we use the previous formula, IM is 30A, you have to use 30M to determine the value of T, but it's not necessary, because each of two branches will not carry the current up to 30A, okay? So what is the current we need to consider to determine the cable size?
+Du Ya Ping, 0 hours 57 minutes 48 seconds, And we have to make an assumption, and that means… We consider…
+Du Ya Ping, 0 hours 57 minutes 54 seconds, One of the branches carry out the current up to one-third of the third end.
+Du Ya Ping, 0 hours 58 minutes 0 seconds, And then, the another branch is 30, two sets.
+Du Ya Ping, 0 hours 58 minutes 4 seconds, Two sets, okay? And of course, consider those two branches, and of course, we determine the cable size based on this current, okay? So that means
+Du Ya Ping, 0 hours 58 minutes 15 seconds, IT… is eager to… 30MP, okay? I'll put the I in here.
+Du Ya Ping, 0 hours 58 minutes 23 seconds, ties… Two sets.
+Du Ya Ping, 0 hours 58 minutes 25 seconds, use… two sets of aim to… Replace the original ion.
+Du Ya Ping, 0 hours 58 minutes 32 seconds, And then you have a CAICI, okay?
+Du Ya Ping, 0 hours 58 minutes 37 seconds, All right, okay? And I just, arranged this one, okay? So move this one to… Denominator…
+Du Ya Ping, 0 hours 58 minutes 47 seconds, So it tends to be RM, and this is the 1.5C…
+Du Ya Ping, 0 hours 58 minutes 53 seconds, G, C, A, and the C, I. And I call this one… is C…
+Du Ya Ping, 0 hours 59 minutes 2 seconds, CR. So that is the grouping factor, okay, for ring circuit.
+Du Ya Ping, 0 hours 59 minutes 9 seconds, Okay, and the value for CR is given here. Okay, so if you have one single
+Du Ya Ping, 0 hours 59 minutes 17 seconds, ring circuit, so the factor is not equal to 1, because consider the split of the current, okay, in the… in the ring circuit, it tends to be 1.5. And if you have a two-ring circuit, it tends to be 1.19.
+Du Ya Ping, 0 hours 59 minutes 35 seconds, So that value is different from the original value for CG, because we consider the issue about the current sharing, okay, in the two branches in the ring circuit, okay?
+Du Ya Ping, 0 hours 59 minutes 56 seconds, All right, and this… the calculation, the example, I'm not going to talk about, okay, in the lecture, because this is very straightforward examples, okay? We have a more comprehensive example in the tutorial sessions, okay? I think you can,
+Du Ya Ping, 1 hours 0 minutes 14 seconds, read,
+Du Ya Ping, 1 hours 0 minutes 16 seconds, the slide by yourself, okay, and you can figure out, okay, later, okay? All right, so let's take a short break, okay?
+Du Ya Ping, 1 hours 0 minutes 27 seconds, After break, we will talk about the, the voltage drop calculation, and this is another issue.
+Du Ya Ping, 1 hours 0 minutes 34 seconds, we need to, cover, okay? And before we take a break, I would, I would like to have an announcement, okay?
+Du Ya Ping, 1 hours 0 minutes 42 seconds, Let's see…
+Du Ya Ping, 1 hours 0 minutes 54 seconds, The first one, okay?
+Du Ya Ping, 1 hours 0 minutes 57 seconds, We have a tutorial, okay, session for in this lecture, okay, on Tuesday, on Thursday this week, and then Monday next week.
+Du Ya Ping, 1 hours 1 minutes 7 seconds, But there's, no tutorial session in the following weeks, okay? And, the tutorial question will be taught, okay, in the lecture, okay?
+Du Ya Ping, 1 hours 1 minutes 18 seconds, The second, lecture on cable, sizing. So, I, just cancel out the tutorial sessions, okay, for those time slots, so there's no, no time slot, you don't need to go there, okay? And the second one, okay,
+Du Ya Ping, 1 hours 1 minutes 36 seconds, We are going to have an assignment, okay, for the minimum, mini design project, and the detail will be, taught…
+Du Ya Ping, 1 hours 1 minutes 46 seconds, In week 7, okay? But I'd like to have, your group information, okay, before the, the week 7, okay? So, as I said in the
+Du Ya Ping, 1 hours 1 minutes 59 seconds, very beginning of this semester, okay, you need to form a group.
+Du Ya Ping, 1 hours 2 minutes 5 seconds, With Swedish students.
+Du Ya Ping, 1 hours 2 minutes 7 seconds, Okay? And each student will respond to one part of the design work, okay? The calculation, whatever, okay? And, so you need to send me,
+Du Ya Ping, 1 hours 2 minutes 17 seconds, the information by email, okay, or you just write your name on the paper, okay, that's fine, okay? So pass that kind of information to me, okay, before the deadline, okay? So then we make an arrangement, okay, then we…
+Du Ya Ping, 1 hours 2 minutes 31 seconds, assign a group number, okay, for each group after that. So, when you submit your report, okay, you have to put your group number, okay, in your
+Du Ya Ping, 1 hours 2 minutes 40 seconds, submit the file, okay? Otherwise, I cannot identify which one is which, okay? So you put your group number, your… on the cover page, and your name and student number on the cover page, okay? All right? So, just make sure you, before week 7, okay, you send me
+Du Ya Ping, 1 hours 2 minutes 59 seconds, the information or passing information about your group. To me, you just let me know,
+Du Ya Ping, 1 hours 3 minutes 8 seconds, Your name and your student members for…
+Du Ya Ping, 1 hours 3 minutes 11 seconds, your crewmates, that's all, okay? Alright, so let's have a break.
+Du Ya Ping, 1 hours 3 minutes 43 seconds, All right, okay, just one more point regarding the arrangement here. You have a homework assignment next week.
+Du Ya Ping, 1 hours 3 minutes 54 seconds, And, basically, I'll give you a question, very similar to the tutorial question, okay? So you need to…
+Du Ya Ping, 1 hours 4 minutes 1 seconds, do the question by yourself, and then submit the, your answer, through the, the canvas, okay? So I will,
+Du Ya Ping, 1 hours 4 minutes 12 seconds, create a folder for submission later, okay? And, probably you have, let's say, 2 weeks, to, to do this question, okay? And then there's another one is the online, or the, the,
+Du Ya Ping, 1 hours 4 minutes 24 seconds, Week 7, we have two parts. The first one, I will give you brief information regarding the mini design project, okay, the requirements, okay, and some key points you need to be aware, okay, when you do this assignment, and that one will be delivered in the first part.
+Du Ya Ping, 1 hours 4 minutes 44 seconds, And the second part will be the online, test, okay? So, you will do it online, so it's…
+Du Ya Ping, 1 hours 4 minutes 52 seconds, kind of, MC type of questions, so I don't know, probably, it's, 17, questions, okay? And, there… but there are some, questions,
+Du Ya Ping, 1 hours 5 minutes 6 seconds, Ask you to provide… do, you know, you need to provide the numerical results by,
+Du Ya Ping, 1 hours 5 minutes 14 seconds, Simple calculation, okay? Simple calculation, okay? For example, voted job calculation, okay?
+Du Ya Ping, 1 hours 5 minutes 22 seconds, Given by the current and the impedance, you can find the voltage job calculation… find the voltage job. So, very simple calculation, okay, also includes, okay, and probably you have around, one hour, okay, for, for the online.
+Du Ya Ping, 1 hours 5 minutes 36 seconds, Test. And the first part, okay, the mini-design project, briefing, probably.
+Du Ya Ping, 1 hours 5 minutes 42 seconds, Takes about half an hour, okay, so,
+Du Ya Ping, 1 hours 5 minutes 46 seconds, That would be, delivered in, week 7, okay?
+Du Ya Ping, 1 hours 5 minutes 54 seconds, And, the many, Online tests. It's open and open notes, okay? So you can,
+Du Ya Ping, 1 hours 6 minutes 4 seconds, Bring a note circuit during examination… during the test, yeah.
+Du Ya Ping, 1 hours 6 minutes 14 seconds, Okay, now let's go back to the discussion of, on the, cable sizing, and particularly, we want to talk about the requirement, okay, or the calculation of the voltage drop, okay? And,
+Du Ya Ping, 1 hours 6 minutes 32 seconds, According to the regulation, okay, the maximum voltage job from the
+Du Ya Ping, 1 hours 6 minutes 37 seconds, Supply to the end of low is 10%.
+Du Ya Ping, 1 hours 6 minutes 40 seconds, Okay? It's a 10%, okay, because the equipment normally, can handle, can operate under the
+Du Ya Ping, 1 hours 6 minutes 50 seconds, voltage within the division, okay? Below 10%, okay? So 10% is the limit, okay? And, of course.
+Du Ya Ping, 1 hours 7 minutes 1 seconds, We know the transformer has an impedance, so this is the big one, we cannot change. So usually, the transformer has an impedance about 6%.
+Du Ya Ping, 1 hours 7 minutes 15 seconds, So 10 minus… 10% minus 6% is 4%, which means, we can allot the voter job, okay, within the building, after transformer
+Du Ya Ping, 1 hours 7 minutes 26 seconds, Up to 10%. Therefore.
+Du Ya Ping, 1 hours 7 minutes 29 seconds, Those circuits, Rising Man, Cert Man, Final Circuit, all together, okay, 4, 4%, okay? But for,
+Du Ya Ping, 1 hours 7 minutes 39 seconds, For the easy calculation, we need to divide this 4% into two parts further, okay? So, for the distribution part, okay, for example, rising man, okay, the limit is 1.5%. And for the final circuit or feeder circuit.
+Du Ya Ping, 1 hours 7 minutes 57 seconds, it is up to 2.5%. So, 1.5% plus 2.5% is exactly equal to 4%. So we divide this 4% into two parts. One for the distribution part, and the other one for the final circuit, okay?
+Du Ya Ping, 1 hours 8 minutes 15 seconds, So, what is the… the formula.
+Du Ya Ping, 1 hours 8 minutes 19 seconds, Okay, what formula we can use for the calculation? And, of course, we can have a different kind of formulas, okay, but we are, interested in the simplest formula, okay, for the calculation, okay? And this is the one, okay?
+Du Ya Ping, 1 hours 8 minutes 39 seconds, So, we know, the table, actually gives us the impedance value.
+Du Ya Ping, 1 hours 8 minutes 46 seconds, And, we call the table value.
+Du Ya Ping, 1 hours 8 minutes 48 seconds, table value, okay? And,
+Du Ya Ping, 1 hours 8 minutes 53 seconds, you know, the voltage job equal to the impedance times the… the Cable impedance times the design current, right? So, this is the design current, and this is the voltage job, okay,
+Du Ya Ping, 1 hours 9 minutes 10 seconds, per meter. So, here we have to multiply the length of the circuit, so that is the total voltage job on this circuit.
+Du Ya Ping, 1 hours 9 minutes 20 seconds, And we know the limit here is given in percentage, so we have to convert this value, okay?
+Du Ya Ping, 1 hours 9 minutes 28 seconds, to the percentage of it, right? So, if it's a single-phase circuit, the reference value is 220 volts. If it's a three-phase circuit.
+Du Ya Ping, 1 hours 9 minutes 38 seconds, the voltage here is 3… the voltage level is 380 level. So you can see, okay, this one is for a 3-phase circuit, and this one is for… for a single-phase circuit. So we use this formula for the calculation. So this is a relatively straightforward, okay?
+Du Ya Ping, 1 hours 9 minutes 57 seconds, Okay.
+Du Ya Ping, 1 hours 9 minutes 58 seconds, All right, okay, so here I just look at this example, okay, very simple example, okay? A surface circuit protects at the origin by,
+Du Ya Ping, 1 hours 10 minutes 9 seconds, 20 amp MCB.
+Du Ya Ping, 1 hours 10 minutes 11 seconds, Okay? Supplies are low… in a Boyer room.
+Du Ya Ping, 1 hours 10 minutes 16 seconds, It is why in PVC, insert the 4-core cables. So, we, already, already know, the type of cable we use, okay? It's a 4-core PVC cable, okay? And, in the surface counter, so this one also gives us the measure.
+Du Ya Ping, 1 hours 10 minutes 35 seconds, installation methods. The cables, installed inside the tranking, inside the condu, okay?
+Du Ya Ping, 1 hours 10 minutes 43 seconds, And the ambient temperature is 45 degree, so this one… Okay, used to determine the… Temperage effect, okay?
+Du Ya Ping, 1 hours 10 minutes 53 seconds, And, total circuit length is 40 meters.
+Du Ya Ping, 1 hours 10 minutes 58 seconds, So, what is the minimum size of the cable required if the voltage drop for this circuit, okay.
+Du Ya Ping, 1 hours 11 minutes 5 seconds, It's the limit to be 1%, okay? Of course, okay, you can use that one, okay, but in this case, we changed that one to 1%, okay? So we want to find the minimum size, okay, so that the thermal requirements fulfill and the voltage job requirements also fulfill, okay?
+Du Ya Ping, 1 hours 11 minutes 23 seconds, Alright, so,
+Du Ya Ping, 1 hours 11 minutes 29 seconds, So, before the step, for cable sizing. So, first one is to find out the design current.
+Du Ya Ping, 1 hours 11 minutes 37 seconds, Right? But in this example, we don't… we have no idea about the design… current, okay? But we know
+Du Ya Ping, 1 hours 11 minutes 48 seconds, The rating of the device, which is 30, or 108.
+Du Ya Ping, 1 hours 11 minutes 53 seconds, So that is good enough, because we determine the cable size based on the IM, value IM, okay? So if IM is not given, then we have to find IB, then we determine IN, okay? So, let's say, IN is given,
+Du Ya Ping, 1 hours 12 minutes 11 seconds, MPs, okay? And based on that one, we can determine CAICDCI, okay, because we use that one to determine the
+Du Ya Ping, 1 hours 12 minutes 21 seconds, Minimum current carrying capacity, IT,
+Du Ya Ping, 1 hours 12 minutes 27 seconds, Alright, okay, so… C. A.
+Du Ya Ping, 1 hours 12 minutes 32 seconds, It's a temperature factor.
+Du Ya Ping, 1 hours 12 minutes 34 seconds, Determined by the temperature. Here is a 45 degree. So, we go to the… the table.
+Du Ya Ping, 1 hours 12 minutes 52 seconds, temperature factor, okay? This is a PVC cable.
+Du Ya Ping, 1 hours 12 minutes 56 seconds, PVC cable. So, 45 degree here is a .79, right? CA is 0.79.
+Du Ya Ping, 1 hours 13 minutes 6 seconds, 0.79, okay? All right, okay, and then CG.
+Du Ya Ping, 1 hours 13 minutes 20 seconds, CG, okay? Cg is a grouping factor, so here, it…
+Du Ya Ping, 1 hours 13 minutes 26 seconds, We cannot find any information regarding the grouping Detail.
+Du Ya Ping, 1 hours 13 minutes 32 seconds, So, if the grouping data is not given, Then you can simply assume.
+Du Ya Ping, 1 hours 13 minutes 40 seconds, CG is equal to 1.0.
+Du Ya Ping, 1 hours 13 minutes 44 seconds, Okay, this is… if the information is not given, then you are required to make reasonable assumptions.
+Du Ya Ping, 1 hours 13 minutes 51 seconds, And there is the assumptions you make.
+Du Ya Ping, 1 hours 13 minutes 54 seconds, Okay, so CG is equal to 1.0.
+Du Ya Ping, 1 hours 13 minutes 57 seconds, How about CI?
+Du Ya Ping, 1 hours 14 minutes 1 seconds, So, again, there's no information about the thermal insulation wall, okay? Thermal insulation wall. Okay, then we can simply assume CI is equal to 1.0.
+Du Ya Ping, 1 hours 14 minutes 13 seconds, So remember, this is the… you know.
+Du Ya Ping, 1 hours 14 minutes 19 seconds, kind of a skill, okay, you need to, develop, okay? That is to make reasonable assumption if the information is not available.
+Du Ya Ping, 1 hours 14 minutes 30 seconds, Okay? Alright, so here you put those figures to here, 10D…
+Du Ya Ping, 1 hours 14 minutes 35 seconds, 0.79, and then you can find the IT, the value IT is 20… 25.7.
+Du Ya Ping, 1 hours 14 minutes 44 seconds, Yeah.
+Du Ya Ping, 1 hours 14 minutes 46 seconds, And then we follow the step, okay, the procedures, okay?
+Du Ya Ping, 1 hours 14 minutes 50 seconds, Go back to the… the table for this 4K armor cable, okay?
+Du Ya Ping, 1 hours 14 minutes 58 seconds, To determine the cross-section area, okay?
+Du Ya Ping, 1 hours 15 minutes 2 seconds, So, full core… PVC cable.
+Du Ya Ping, 1 hours 15 minutes 7 seconds, non-armor. So… I think this is the one, okay, yeah. Multi-core PVC insulated cable, non-armor.
+Du Ya Ping, 1 hours 15 minutes 18 seconds, Okay, so this is the cable we use, right? Without armor, but it's four-core, and the installation is made by using PVC. PVC, okay. And then we look at the installation method, okay? So we know the cables
+Du Ya Ping, 1 hours 15 minutes 35 seconds, installed in… condu. So, Cable in conduit here.
+Du Ya Ping, 1 hours 15 minutes 42 seconds, In close incomingue.
+Du Ya Ping, 1 hours 15 minutes 44 seconds, reference mass B, but not A, because A means the conduit in thermally insulating wall.
+Du Ya Ping, 1 hours 15 minutes 52 seconds, And, there's no such kind of information available, okay? So we can say this is not the case. So K…
+Du Ya Ping, 1 hours 15 minutes 59 seconds, method B is the 1, okay? So this is a three-phase circuit, so we'll look at the column 5, okay? And then we move, down to the figure which is greater than 25.7, or 25.3MB. So we can see the table value here.
+Du Ya Ping, 1 hours 16 minutes 17 seconds, is 27 NP. So this is the one, okay, it's, it's a min… Which, has a minimum size, right? Okay.
+Du Ya Ping, 1 hours 16 minutes 30 seconds, So, cross-section area is equal to 4mm squared.
+Du Ya Ping, 1 hours 16 minutes 36 seconds, 4ml squared, okay?
+Du Ya Ping, 1 hours 16 minutes 39 seconds, All right, okay, so that is the initial selection of the cable size, okay? And the next step is to check the voltage drop. Okay, voltage drop. So find the voltage drop.
+Du Ya Ping, 1 hours 16 minutes 55 seconds, So, voter drop… is the VD table value.
+Du Ya Ping, 1 hours 17 minutes 3 seconds, Times the design curve, Times the links.
+Du Ya Ping, 1 hours 17 minutes 6 seconds, Divide by 380 rolls.
+Du Ya Ping, 1 hours 17 minutes 11 seconds, Okay, so remember, okay, this is a three-phase circuit, so we need to divide it by 380 volts. And how can I find the table value?
+Du Ya Ping, 1 hours 17 minutes 21 seconds, Resistance value, impudence value, okay, given in the table, and then normally we have another table here, okay?
+Du Ya Ping, 1 hours 17 minutes 29 seconds, The second table, okay?
+Du Ya Ping, 1 hours 17 minutes 31 seconds, So, we know the size is 4mm squared, and this is just 4 core cables, the column 4, and,
+Du Ya Ping, 1 hours 17 minutes 41 seconds, Figure here is 9.5 million.
+Du Ya Ping, 1 hours 17 minutes 47 seconds, So it's a milliohm, so we have to convert that one to ohm, so divide that one by 1000 here, so it turns out to be the…
+Du Ya Ping, 1 hours 17 minutes 57 seconds, The ohm, and then times the…
+Du Ya Ping, 1 hours 18 minutes 2 seconds, The current 108A, okay, because I don't know design current, so I just use the, the rating, the MCB rating. And the lens… lens is the…
+Du Ya Ping, 1 hours 18 minutes 15 seconds, 40 meter.
+Du Ya Ping, 1 hours 18 minutes 26 seconds, Right? So, the voltage drop in percentage, okay? So, divided by 381.
+Du Ya Ping, 1 hours 18 minutes 37 seconds, So, the percentage… It's 3%.
+Du Ya Ping, 1 hours 18 minutes 43 seconds, And it is greater than 1%, the limit, so that one is not acceptable.
+Du Ya Ping, 1 hours 18 minutes 50 seconds, So the size here, although… You fulfill the thermal requirements, but the voltage requirements do not fulfill.
+Du Ya Ping, 1 hours 18 minutes 59 seconds, Nothing, okay? So what we need to do?
+Du Ya Ping, 1 hours 19 minutes 2 seconds, So we want to… we need to reduce the voltage out. How can we reduce the voltage out?
+Du Ya Ping, 1 hours 19 minutes 8 seconds, Reduce the resistance, reduce the… the impedance of the cable. So, if I want to…
+Du Ya Ping, 1 hours 19 minutes 18 seconds, reduce the impedance, that means I have to increase the
+Du Ya Ping, 1 hours 19 minutes 22 seconds, Cable size. So now, let's say you increase the size to 6mm squared, and then you
+Du Ya Ping, 1 hours 19 minutes 30 seconds, Do the calculation again to find all the voltage jobs, and well…
+Du Ya Ping, 1 hours 19 minutes 36 seconds, If we increase that one to…
+Du Ya Ping, 1 hours 19 minutes 39 seconds, 6mm. Voltage still is greater than 1%, and then you increase the cable size further to 10 millimeter. So if you use the 10 millimeter here.
+Du Ya Ping, 1 hours 20 minutes 2 seconds, Oh, okay, That one, okay, it's 2%, okay, not 3%, 2%.
+Du Ya Ping, 1 hours 20 minutes 12 seconds, 2%, okay? And, 2%, okay? Sorry.
+Du Ya Ping, 1 hours 20 minutes 21 seconds, 2%, okay. 2%, okay, well, it says the upstream circuit, the voltage is 1%, not, not the, this is not the limit for the, this final circuit, okay? So, the voltage will,
+Du Ya Ping, 1 hours 20 minutes 38 seconds, job allowed is 4 minus 1 is 3%, okay? And then now you have a 23%, so is it less than
+Du Ya Ping, 1 hours 20 minutes 49 seconds, 3%. So, if that is the situation, and
+Du Ya Ping, 1 hours 20 minutes 55 seconds, we can say, that both, requirements are fulfilled, okay? So if the, the, the, WG limit for the final circuit is 3%, and then
+Du Ya Ping, 1 hours 21 minutes 9 seconds, the requirements are all fulfilled, okay? Now, I change the requirement, say the voltage limit.
+Du Ya Ping, 1 hours 21 minutes 20 seconds, Okay? It's reduced to 1.5%.
+Du Ya Ping, 1 hours 21 minutes 26 seconds, Okay? 1.5%. And now you have the voter drop, it's 2%. It's greater than 1.5%.
+Du Ya Ping, 1 hours 21 minutes 35 seconds, So… If this is the case, And then, this…
+Du Ya Ping, 1 hours 21 minutes 43 seconds, Cable size is not acceptable, and what you need to do is increase size, okay, to 6%, to 6 mF squared. And…
+Du Ya Ping, 1 hours 21 minutes 53 seconds, And then to use the impedance 6.4 for the calculation again, and then see whether the requirements fulfill or not. If it's not, and then you increase the cable size further to 10 squared. So until
+Du Ya Ping, 1 hours 22 minutes 11 seconds, The voter job requirements fulfilled, and the thermal requirement against fulfilled.
+Du Ya Ping, 1 hours 22 minutes 16 seconds, So, at that point, then we can say, the job.
+Du Ya Ping, 1 hours 22 minutes 21 seconds, Cable Sizing job.
+Du Ya Ping, 1 hours 22 minutes 23 seconds, is completed.
+Du Ya Ping, 1 hours 22 minutes 25 seconds, Completed, okay? So you need to make sure, both requirements, okay, are all fulfilled, okay, all fulfilled, okay?
+Du Ya Ping, 1 hours 22 minutes 41 seconds, Alright, okay, so this is the, example, okay?
+Du Ya Ping, 1 hours 22 minutes 47 seconds, Relatively simple, yeah.
+Du Ya Ping, 1 hours 22 minutes 50 seconds, Okay, and then we go back, because I still have some time, so we go back to, the example here, this example, okay?
+Du Ya Ping, 1 hours 23 minutes 0 seconds, In this case, we just need to determine the cable size.
+Du Ya Ping, 1 hours 23 minutes 5 seconds, considering the thermal requirement, okay? Yeah. So, we…
+Du Ya Ping, 1 hours 23 minutes 11 seconds, We have a 415V CHUI phase motor, and the motor has a rating.
+Du Ya Ping, 1 hours 23 minutes 17 seconds, 15 kilowatts, and a power factor 0.8 and the efficiency 90%.
+Du Ya Ping, 1 hours 23 minutes 26 seconds, And we, want to use a multi-core PVC armor cable, so this is a PVC armor cable, okay?
+Du Ya Ping, 1 hours 23 minutes 33 seconds, The cable installed in free air, so what…
+Du Ya Ping, 1 hours 23 minutes 37 seconds, What would be the cable size? If the ambient temperature
+Du Ya Ping, 1 hours 23 minutes 42 seconds, It's 35 degrees, okay? So…
+Du Ya Ping, 1 hours 23 minutes 49 seconds, In this case, again, we just follow, all steps like this. The first one to determine the design current, and in this case, the design current is just equal to fuller current of the motor.
+Du Ya Ping, 1 hours 24 minutes 3 seconds, Okay, and the flu can… remember, the formula I told you, in the tutorial session, it is equal to output power
+Du Ya Ping, 1 hours 24 minutes 12 seconds, Divide by efficiency, And divide by root squared 3, and the line voltage, and the power factor.
+Du Ya Ping, 1 hours 24 minutes 22 seconds, So this, the formula to determine
+Du Ya Ping, 1 hours 24 minutes 26 seconds, the surface motor, okay? So, you substitute all the values here, okay? So, 15 kilowatts divided by efficiency.
+Du Ya Ping, 1 hours 24 minutes 36 seconds, Lo square 3, and a 380 volt power factor is 0.8.
+Du Ya Ping, 1 hours 24 minutes 42 seconds, So the current is equal to 10 day 9 in P.
+Du Ya Ping, 1 hours 24 minutes 49 seconds, And, we select the device, okay? Let's see,
+Du Ya Ping, 1 hours 24 minutes 55 seconds, It doesn't… it does not say what kind of device we provide. You can use the fuse or MCB, okay? And, the rating…
+Du Ya Ping, 1 hours 25 minutes 2 seconds, which is greater than 29 amp, is… So they too, Evan.
+Du Ya Ping, 1 hours 25 minutes 8 seconds, So that's Van.
+Du Ya Ping, 1 hours 25 minutes 10 seconds, So, how can we determine the…
+Du Ya Ping, 1 hours 25 minutes 13 seconds, Rating of the protective device, so we…
+Du Ya Ping, 1 hours 25 minutes 18 seconds, have our data tables, okay? And this data table has some tables regarding the rating of the protective devices, like fuse and MCB, okay? So, if you go there…
+Du Ya Ping, 1 hours 25 minutes 48 seconds, All right, and those are the curves for fuse, okay? So you can see the fuse rating, okay? So you cannot just randomly select a value for the rating, you have to use the rating
+Du Ya Ping, 1 hours 26 minutes 1 seconds, In this current, okay? This is the one, okay, fuse table, and this is another one, okay, another one. And, we have the, MCB, this is MCB, okay, MCB, okay?
+Du Ya Ping, 1 hours 26 minutes 14 seconds, And normally, the rating available for fuse and the ratings for MCB are more or less the same. So you have a 16A MCB,
+Du Ya Ping, 1 hours 26 minutes 27 seconds, And then you have a 16M fuse as well.
+Du Ya Ping, 1 hours 26 minutes 30 seconds, So basically, you choose, the figure for rating from the list, okay?
+Du Ya Ping, 1 hours 26 minutes 37 seconds, Given, in this, in those data sheets. So, in this case, we use 32 amp, right? So, we have the 125, not good enough, right? Too small, and then 32. And 40 could be considered too big, right? So we use 32.
+Du Ya Ping, 1 hours 26 minutes 56 seconds, And then, to determine IT…
+Du Ya Ping, 1 hours 27 minutes 0 seconds, which is IN divided by CA CG, and the CI, and the IN is 32. CA is temperature factor 35 degrees, and, you can find this one, this is a PVC cable there.
+Du Ya Ping, 1 hours 27 minutes 21 seconds, 35 degrees, 0.94, right? PVC cable, 0.94.94.
+Du Ya Ping, 1 hours 27 minutes 28 seconds, Bye now.
+Du Ya Ping, 1 hours 27 minutes 36 seconds, And the CG, no information given by the grouping and the sum of insulation, so we're all assuming equal to 1, okay? So, this 0.94 here, so this is equal to, 34, 34.
+Du Ya Ping, 1 hours 27 minutes 52 seconds, And then, okay, we need to go to the table, okay, for multi-core.
+Du Ya Ping, 1 hours 28 minutes 0 seconds, I'm a PVC Cable, right? So, this one here…
+Du Ya Ping, 1 hours 28 minutes 6 seconds, 34, well, you can see, 35 is greater than that one, okay?
+Du Ya Ping, 1 hours 28 minutes 12 seconds, So the, it table value, 35, and…
+Du Ya Ping, 1 hours 28 minutes 17 seconds, And the cross-section error is good, too.
+Du Ya Ping, 1 hours 28 minutes 21 seconds, For instance…
+Du Ya Ping, 1 hours 28 minutes 24 seconds, Okay, and you may say 35 is a little bit greater than 34, and the margin's so small, and then you can consider next available size.
+Du Ya Ping, 1 hours 28 minutes 35 seconds, Yeah, that means the body… 45.
+Du Ya Ping, 1 hours 28 minutes 41 seconds, And the cross-section air is 6 in the screen.
+Du Ya Ping, 1 hours 28 minutes 46 seconds, So, for the purpose of a calculation, okay, Bose…
+Du Ya Ping, 1 hours 28 minutes 52 seconds, results are acceptable, okay? But if you choose, like, something like 16 millimeter or, 25 millimeter square, that'd be too much, too great. It's not… that means that kind of decision cannot be justified, okay?
+Du Ya Ping, 1 hours 29 minutes 8 seconds, Alright, so, that is for this example, and in this case, the voter job calculation is not included, okay?
+Du Ya Ping, 1 hours 29 minutes 17 seconds, But I… actually, you have to do the… for the complete design calculation, you have to consider the voltage of…
+Du Ya Ping, 1 hours 29 minutes 25 seconds, Calculation, okay.
+Du Ya Ping, 1 hours 29 minutes 28 seconds, All right, and then we go back to this one, okay? This is a special one, okay?
+Du Ya Ping, 1 hours 29 minutes 38 seconds, This is essentially about the grouping factor. Grouping factor, okay?
+Du Ya Ping, 1 hours 29 minutes 43 seconds, It's called the lightly loaded cables, okay? So, let's say…
+Du Ya Ping, 1 hours 30 minutes 2 seconds, Alright, so let's say we have 4 multicore cables. Those are multi-call cables.
+Du Ya Ping, 1 hours 30 minutes 11 seconds, So, 4 multicar cables. So, theoretically, if you want to find a grouping factor, the number of circuit or number of cables is equal to 4, equal to 4.
+Du Ya Ping, 1 hours 30 minutes 22 seconds, So now, let's consider the situation.
+Du Ya Ping, 1 hours 30 minutes 25 seconds, Sum of Cable.
+Du Ya Ping, 1 hours 30 minutes 27 seconds, Let's say… Carry very little current. Very small current.
+Du Ya Ping, 1 hours 30 minutes 33 seconds, And this small current will generate very little E.
+Du Ya Ping, 1 hours 30 minutes 37 seconds, And this small amount here may not possibly affect the temperature.
+Du Ya Ping, 1 hours 30 minutes 44 seconds, on the other conductors. So let's say the current supposed to… the table value, okay, can… 100 amp, but the actual current, okay, is like a 10 amp.
+Du Ya Ping, 1 hours 30 minutes 57 seconds, Damn.
+Du Ya Ping, 1 hours 30 minutes 59 seconds, So, 10 ampere current, okay, so… Very small, okay?
+Du Ya Ping, 1 hours 31 minutes 3 seconds, a small amount, the, the current carrying capacity. So, if that is the case.
+Du Ya Ping, 1 hours 31 minutes 10 seconds, Then, if you do the sizing, okay, for this circuit here, and then you can change the number of circuits to… from 4 to 3, because the other one will not affect
+Du Ya Ping, 1 hours 31 minutes 23 seconds, Okay?
+Du Ya Ping, 1 hours 31 minutes 26 seconds, The last cable will not affect the… the… The, other three cables.
+Du Ya Ping, 1 hours 31 minutes 34 seconds, Okay, so, this, the last one, the last Cable is called the lightly loaded conductors.
+Du Ya Ping, 1 hours 31 minutes 42 seconds, So Low Conductors will not be accounted, okay, for the… You know, cable sizing.
+Du Ya Ping, 1 hours 31 minutes 50 seconds, for the other cables, other cables, okay? But if you want to do the cable sizing for this one.
+Du Ya Ping, 1 hours 31 minutes 57 seconds, Cable,
+Du Ya Ping, 1 hours 31 minutes 59 seconds, And the current here is not so small, so you have to consider the mutual inference, you know, from the other cables. So for the determination of this
+Du Ya Ping, 1 hours 32 minutes 10 seconds, Cables, you have to consider.
+Du Ya Ping, 1 hours 32 minutes 13 seconds, Okay, there's a 4.
+Du Ya Ping, 1 hours 32 minutes 15 seconds, circus, okay? But for… Determine the Cable size for other cable, other series, and the last one.
+Du Ya Ping, 1 hours 32 minutes 25 seconds, should not be counted, okay? So this example just… Let you know, okay?
+Du Ya Ping, 1 hours 32 minutes 31 seconds, Some cases, okay, the light load…
+Du Ya Ping, 1 hours 32 minutes 34 seconds, Conductors, will not be counted, okay?
+Du Ya Ping, 1 hours 32 minutes 37 seconds, For, the cable siding, and for other cables.
+Du Ya Ping, 1 hours 32 minutes 42 seconds, Okay, so the statement is given here, or the law is given here. If a Cable is expected to carry out more than 30% of its group
+Du Ya Ping, 1 hours 32 minutes 55 seconds, rating. It may be,
+Du Ya Ping, 1 hours 32 minutes 59 seconds, Yeah, I think, yeah, can it… not less, not greater than means the less than.
+Du Ya Ping, 1 hours 33 minutes 4 seconds, less than 30%. And, for the purpose of, updating the rating factor for the rest.
+Du Ya Ping, 1 hours 33 minutes 13 seconds, of the cables. That means, the… if the loading in one cable is less than 30% of this
+Du Ya Ping, 1 hours 33 minutes 20 seconds, Group reading, or effective current capacity, then
+Du Ya Ping, 1 hours 33 minutes 27 seconds, This cable will not be counted, Okay, to determine the…
+Du Ya Ping, 1 hours 33 minutes 31 seconds, current rating for other cables. Okay, so this is what… just what I say, okay, earlier, okay? So the threshold is 30%, 30%, okay.
+Du Ya Ping, 1 hours 33 minutes 41 seconds, Okay, now look at the example, okay? Single-core PVC cable are used for, 16 single-phase control circuits, so you have a 16 number… 16 number, okay?
+Du Ya Ping, 1 hours 33 minutes 53 seconds, Of the single-phase circuit. And each circuit has a current rating, okay?
+Du Ya Ping, 1 hours 33 minutes 59 seconds, Two MPs, okay, I mean, the, the, the…
+Du Ya Ping, 1 hours 34 minutes 2 seconds, protective device rating, okay? RMS2MBs, okay? And, they put it in a trinket with the four power circuits.
+Du Ya Ping, 1 hours 34 minutes 13 seconds, Okay, if the design current for the control circuit is 1.8 ampere, and the power circuits are protected by 32A, fuses, what size cables can be used? Okay, so here.
+Du Ya Ping, 1 hours 34 minutes 41 seconds, So those are 4 power circuits.
+Du Ya Ping, 1 hours 34 minutes 48 seconds, And those are… 16…
+Du Ya Ping, 1 hours 34 minutes 57 seconds, 16, circuits. Single-phase circuits.
+Du Ya Ping, 1 hours 35 minutes 1 seconds, And the rating here is 1.8, okay? The rating, okay, so 2MPs here. And, here, we don't know, okay?
+Du Ya Ping, 1 hours 35 minutes 14 seconds, The design current is given. We don't know design current, but we know the rating, okay, 32 amp.
+Du Ya Ping, 1 hours 35 minutes 22 seconds, to the internet.
+Du Ya Ping, 1 hours 35 minutes 24 seconds, Design current actually is not quite here, okay?
+Du Ya Ping, 1 hours 35 minutes 27 seconds, Alright, okay, and
+Du Ya Ping, 1 hours 35 minutes 31 seconds, So, the first thing you need to do is, okay, because at the beginning, okay, you don't know, okay.
+Du Ya Ping, 1 hours 35 minutes 36 seconds, whether those current… the circuit carried the current less than 30% or not. In the very beginning, the first step, you consider all the, circuit candidate, okay? So, total number… okay, total number here is 16 plus 4…
+Du Ya Ping, 1 hours 35 minutes 54 seconds, It's trendy.
+Du Ya Ping, 1 hours 35 minutes 56 seconds, And, then you need to determine the, minimum current carrying capacity. Okay.
+Du Ya Ping, 1 hours 36 minutes 5 seconds, It is I-N… divided by…
+Du Ya Ping, 1 hours 36 minutes 8 seconds, Because the temperature is not given, then you are seeing 30 degrees, and the CI It's not given…
+Du Ya Ping, 1 hours 36 minutes 17 seconds, You can't… let them equal to 1.0, and here's CG.
+Du Ya Ping, 1 hours 36 minutes 22 seconds, Okay, CG, okay. So, for, grouping factor CG, okay?
+Du Ya Ping, 1 hours 36 minutes 34 seconds, is, 0.38, yeah, so that one is given…
+Du Ya Ping, 1 hours 36 minutes 52 seconds, So here, okay, in the conduit, in the Changing.
+Du Ya Ping, 1 hours 36 minutes 56 seconds, Okay, so this, 0.3, and you got total number 20, so 0.38, 0.38.
+Du Ya Ping, 1 hours 37 minutes 6 seconds, So, by using that one, you can determine the minimum current capacity, for fuse… for power circuit and for light… for control circuit. So, for power circuit…
+Du Ya Ping, 1 hours 37 minutes 20 seconds, Yeah.
+Du Ya Ping, 1 hours 37 minutes 22 seconds, IT is equal to 32 divided by 0.38.
+Du Ya Ping, 1 hours 37 minutes 27 seconds, instantly going to… 49.
+Du Ya Ping, 1 hours 37 minutes 32 seconds, scientists and… And, for,
+Du Ya Ping, 1 hours 37 minutes 46 seconds, Yeah.
+Du Ya Ping, 1 hours 37 minutes 48 seconds, Okay, and for… Control circuit.
+Du Ya Ping, 1 hours 37 minutes 56 seconds, IT is equal to 1.8.
+Du Ya Ping, 1 hours 37 minutes 59 seconds, Honestly, 8. Okay, this is the… Not the…
+Du Ya Ping, 1 hours 38 minutes 14 seconds, Okay, this is not right, okay, this is not right, okay, okay. Well…
+Du Ya Ping, 1 hours 38 minutes 22 seconds, So, we determine the control circuit, the… the…
+Du Ya Ping, 1 hours 38 minutes 28 seconds, The minimum current current capacity is 5.2 ampits, okay? And,
+Du Ya Ping, 1 hours 38 minutes 38 seconds, So, let's find out the cable size, okay, for control circuit first, okay? So, based on that one, we go to the, the table A1…
+Du Ya Ping, 1 hours 38 minutes 50 seconds, A61, okay, because I don't have much time, so I'll go through this one quickly. And the table value is 17.5, okay, and
+Du Ya Ping, 1 hours 39 minutes 0 seconds, The effective current current capacity is IZ is equal to 17.5.
+Du Ya Ping, 1 hours 39 minutes 7 seconds, times the… Grouping factor, 0.38.
+Du Ya Ping, 1 hours 39 minutes 15 seconds, not, okay, okay, not in this one, okay.
+Du Ya Ping, 1 hours 39 minutes 22 seconds, So,
+Du Ya Ping, 1 hours 39 minutes 24 seconds, this 17.5, okay, and the design current divided by this one, okay, here, okay, so the design current…
+Du Ya Ping, 1 hours 39 minutes 32 seconds, divide by… The 17.5 times point… So he ate… Okay,
+Du Ya Ping, 1 hours 39 minutes 46 seconds, then the percentage here is 27%, 27%, okay? So…
+Du Ya Ping, 1 hours 39 minutes 53 seconds, If I, using, okay, point…
+Du Ya Ping, 1 hours 40 minutes 0 seconds, 35 to determine the, control circuit cable.
+Du Ya Ping, 1 hours 40 minutes 5 seconds, Size, and then we can see the…
+Du Ya Ping, 1 hours 40 minutes 10 seconds, 1.5mm squared is the Cable selector, and it can carry the current 17.5, and considering the Grimming factor, and this effective current carrying capacity, okay, and the actual current.
+Du Ya Ping, 1 hours 40 minutes 24 seconds, So 1.8, so 1.8 divided by that one is 27%. So that means
+Du Ya Ping, 1 hours 40 minutes 31 seconds, The control circuit carries current.
+Du Ya Ping, 1 hours 40 minutes 34 seconds, Okay, less than 30% of the effective current carrying capacity of that cable, okay? So, the amount of current compared with the maximum current it can carry is very small.
+Du Ya Ping, 1 hours 40 minutes 49 seconds, So, we can, based on the statement here, and those control circuits.
+Du Ya Ping, 1 hours 40 minutes 56 seconds, And not necessary to be in crude.
+Du Ya Ping, 1 hours 40 minutes 58 seconds, when you determine the cable size for other circuit, and the other circuit's power circuit. So when you determine the cable size for power circuit, and then you just cut the number of circuits.
+Du Ya Ping, 1 hours 41 minutes 15 seconds, Number circuit is… 4, not 20, instead of 20.
+Du Ya Ping, 1 hours 41 minutes 21 seconds, Because 16 circuits.
+Du Ya Ping, 1 hours 41 minutes 25 seconds, Have very small current.
+Du Ya Ping, 1 hours 41 minutes 27 seconds, will not affect the, you know, the thermal, condition for the power circuit. So, this grouping factor is not 0.38, it's the
+Du Ya Ping, 1 hours 41 minutes 41 seconds, Grooming factor 4, For a number of circuits, and so that is the…
+Du Ya Ping, 1 hours 41 minutes 48 seconds, 4 number of circuits, so that is 6.65, so 0.65.
+Du Ya Ping, 1 hours 41 minutes 54 seconds, 0.65, okay. So, based on 0.65, then, you can get the… The…
+Du Ya Ping, 1 hours 42 minutes 3 seconds, Minimum current capacity 49.23. And then use this one to determine the cable size.
+Du Ya Ping, 1 hours 42 minutes 10 seconds, You do not need to use 0.38 to determine the cable size for the power circuit.
+Du Ya Ping, 1 hours 42 minutes 16 seconds, Yeah, because Kangju Circus… have… very little…
+Du Ya Ping, 1 hours 42 minutes 22 seconds, Inference on the power circuit.
+Du Ya Ping, 1 hours 42 minutes 25 seconds, But on the other hand, the power circuit do have inference on the control circuit. So for the control circuit, N steels trending.
+Du Ya Ping, 1 hours 42 minutes 34 seconds, Okay, but for the power circuit, N is equal to 4.
+Du Ya Ping, 1 hours 42 minutes 38 seconds, So this, are special things, okay? The lightly loaded cables. So, if the…
+Du Ya Ping, 1 hours 42 minutes 46 seconds, Actual loading is less than 30% of its…
+Du Ya Ping, 1 hours 42 minutes 52 seconds, Effective current current capacity, and then those circuits can…
+Du Ya Ping, 1 hours 42 minutes 56 seconds, Cannot, you do not need to count it, okay?
+Du Ya Ping, 1 hours 43 minutes 0 seconds, To determine the cable size for other circuits.
+Du Ya Ping, 1 hours 43 minutes 3 seconds, All right, so I have to stop now, okay, and we will continue the discussion next week for some other special issue, and we have a tutorial session, okay?
+Du Ya Ping, 1 hours 43 minutes 17 seconds, This Saturday's, and Next Mondays, okay?
+Du Ya Ping, 1 hours 43 minutes 22 seconds, All right, okay, so that's it here for the lecture today.
