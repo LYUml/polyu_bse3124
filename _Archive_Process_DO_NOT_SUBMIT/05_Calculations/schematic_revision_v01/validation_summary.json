@@ -1,0 +1,11 @@
+{
+  "pdf_pages": 19,
+  "pdf_sha256": "bd4d418e305ee425781622e524d6c3ca2c951ae0cd180e076cab867779e36076",
+  "visual_review": "All 19 rendered pages inspected; room layout and main schematic additionally inspected at enlarged resolution.",
+  "native_gate": "native_final_gate.json",
+  "plot_gate": "native_plot_gate.json",
+  "original_sources_unchanged": true,
+  "original_final_dwg_unchanged": true,
+  "reference_wording": "Document titles and design assumptions; no course-material wording.",
+  "scope": "Symbol/plan refinement and main distribution schematic; existing load and circuit design retained. Equipment dimensions remain design assumptions, not certified manufacturer data."
+}

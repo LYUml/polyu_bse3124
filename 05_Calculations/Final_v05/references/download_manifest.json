@@ -1,0 +1,17 @@
+[
+  {
+    "file": "SHC10_manual.pdf",
+    "url": "https://www.stiebel-eltron.com/static/ste/docportal/manual/DM0000035200-faa.pdf",
+    "sha256": "094686213671032a643d7e7aad830902bb7ac9087e3774d72486055e096d9eae"
+  },
+  {
+    "file": "Acti9_catalogue.pdf",
+    "error": "HTTP Error 403: Forbidden",
+    "url": "https://download.schneider-electric.com/files?p_Doc_Ref=SE8863_Acti9_RTI&p_File_Ext=.PDF"
+  },
+  {
+    "file": "MTZ_overview.pdf",
+    "error": "HTTP Error 403: Forbidden",
+    "url": "https://ckm-content.se.com/ckmContent/sfc/servlet.shepherd/document/download/0691H00000FWgC6QAL"
+  }
+]

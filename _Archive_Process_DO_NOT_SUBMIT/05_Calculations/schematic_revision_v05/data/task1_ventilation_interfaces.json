@@ -1,0 +1,78 @@
+{
+  "ventilation": {
+    "installed_kVA": 3000,
+    "louvre_count": 2,
+    "width_mm": 600,
+    "height_mm": 2000,
+    "assumed_free_area_ratio": 0.5,
+    "source": "COP101 v16 6.3 printed p23 PDF p25; dimensions/free-area ratio are design assumptions",
+    "gross_area_m2": 2.4,
+    "effective_area_m2": 1.2,
+    "required_effective_area_m2": 1.12,
+    "minimum_certified_free_area_ratio": 0.46666666666666673,
+    "conditional_area_pass": true,
+    "limitation": "Area check conditional on certified free-area ratio >=0.466667; actual losses, fan duty, weather louvres and noise not established"
+  },
+  "LV_interfaces": [
+    {
+      "id": "LV-A-MCT",
+      "points": [
+        [
+          15800,
+          20255.584
+        ],
+        [
+          15800,
+          21455.584
+        ],
+        [
+          10570,
+          21455.584
+        ],
+        [
+          10570,
+          23055.584
+        ]
+      ],
+      "plan_length_m": 8.03,
+      "termination_allowance_m": 2.0,
+      "design_length_m": 10.03,
+      "max_length_m": 20,
+      "length_pass": true,
+      "trench_width_mm": 1000,
+      "trench_depth_mm": 1100,
+      "source": "COP101 v16 5.5.2.2 printed p16 PDF p18; proposed plan route plus assumed 2m total vertical/termination allowance",
+      "limitation": "MCT/cable sizing by supplier; coordinate covered trenches, wall fire sealing and structure; not measured installed length"
+    },
+    {
+      "id": "LV-B-MCT",
+      "points": [
+        [
+          19500,
+          20255.584
+        ],
+        [
+          19500,
+          22555.584
+        ],
+        [
+          13990,
+          22555.584
+        ],
+        [
+          13990,
+          23055.584
+        ]
+      ],
+      "plan_length_m": 8.31,
+      "termination_allowance_m": 2.0,
+      "design_length_m": 10.31,
+      "max_length_m": 20,
+      "length_pass": true,
+      "trench_width_mm": 1000,
+      "trench_depth_mm": 1100,
+      "source": "COP101 v16 5.5.2.2 printed p16 PDF p18; proposed plan route plus assumed 2m total vertical/termination allowance",
+      "limitation": "MCT/cable sizing by supplier; coordinate covered trenches, wall fire sealing and structure; not measured installed length"
+    }
+  ]
+}

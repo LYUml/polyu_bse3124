@@ -1,16 +1,14 @@
-# BSE3124 — Group 1
+# BSE3124 — Group 1 最终交付
 
-[最终报告](04_Final_Report/BSE3124_Final.pdf) · [最终DWG](03_Design_Drawings/BSE3124_Final.dwg) · [English](README.md)
+**最终版本为 Rev05，共23页。只从 00_Submit 取提交文件。**
 
-| 文件夹 | 用途 |
-|---|---|
-| 01_Assignment_Brief | 原始题干、老师答题模板；Building_Drawings内是老师提供的原始建筑图。原件内容未修改。 |
-| 02_References | 课程规范、下载的法规及厂家资料、来源记录。 |
-| 03_Design_Drawings | 我们绘制的唯一最终DWG。 |
-| 04_Final_Report | 唯一最终PDF；source内保留可编辑LaTeX、修正后的模板和编译所需图纸。 |
-| 05_Calculations | data保存统一数据及校核证据，scripts保存计算、出图与验证脚本。 |
-| 06_Tools | 环境安装、恢复、AutoCAD连接等工具。 |
+- [最终PDF：完整答案及全部图纸](00_Submit/BSE3124_Group1_Mini%20Design%20Project/BSE3124_Group1_Mini%20Design%20Answer%20Sheets.pdf)
+- [配套DWG：AutoCAD 2027](00_Submit/BSE3124_Group1_Mini%20Design%20Project/BSE3124_Group1_Mini%20Design%20layout%20drawings.dwg)
 
-最终报告共18页，各Task连续集中。平时看成果只需打开03和04；查计算看05；重新配置环境看06。报告source里的图纸PDF用于编译，不是另一套交付版本。
+封面p1；Task1 pp2–7；Task2 pp8–17；Task3 pp18–23。原题未明确限定提交格式；提交页面若另有要求，以页面要求为准。PDF已含完整答案和图纸，DWG是配套可编辑文件。
 
-编译入口：04_Final_Report/source/build.ps1。项目执行要求见PROJECT_SPEC.md。旧版本由Git历史保留，隐藏目录为本机运行环境。
+原始题目、底图、02_References原封不动。最终源码在05_Calculations/Final_v05/source，统一数据在05_Calculations/data；厂家资料、审核记录和哈希清单在Final_v05内。计算脚本需在隔离副本中运行，避免覆盖已确认数据。
+
+本轮仅整理文件，内容与审核过的Rev05一致。照明BEC参考差距及保护能量证据等既有审核意见未因整理而解决，见Final_v05/verification/FINAL_REVIEW_zh.txt。
+
+自动审批拒绝永久删除过程目录，因此已将可移动的旧版本、预览和试算集中到_Archive_Process_DO_NOT_SUBMIT。四个被CAD占用的旧路径DWG暂留原位；请勿从这些目录取提交文件。本次没有关闭或重启AutoCAD，也没有Git推送。

@@ -1,0 +1,122 @@
+Conductor impedance
+KTC10
+KTC13
+KTC16
+KTC20
+KTC25
+KTC32
+KTC40
+KTC50
+Average ohmic 
+resistance of 
+phase and neutral 
+conductors at In (1) 
+Rb1ph (mΩ / m)
+0.092
+0.079
+0.066
+0.051
+0.044
+0.039
+0.029
+0.023
+Average resistance 
+at In and rated 
+F(Hz) (1)
+Xph (mΩ / m)
+0.14
+0.128
+0.120
+0.104
+0.088
+0.064
+0.059
+0.056
+(1) In line with the CENELEC RO.64.013 document.
+Conductor characteristics
+3-phase voltage drop, in millivolts per metre and per amp 400 Hz with load spread 
+over the run. 
+For a concentration of load at the end of a run (transport), the voltage drops are 
+double those shown in the table below.
+∆U evenly spread (mV. A. m)
+KTC10
+KTC13
+KTC16
+KTC20
+KTC25
+KTC32
+KTC40
+KTC50
+Cos Φ = 1.0
+0.079
+0.068
+0.057
+0.044
+0.038
+0.033
+0.025
+0.020
+Cos Φ = 0.9
+0.12
+0.109
+0.096
+0.079
+0.067
+0.054
+0.045
+0.039
+Cos Φ = 0.8
+0.13
+0.121
+0.108
+0.089
+0.076
+0.060
+0.051
+0.045
+Voltage drop
+Values at 35 °C.
+Application of a derating coefficient at 400 Hz combined with that for temperature 
+derating.
+Busbar trunking derating
+KTC10
+KTC13
+KTC16
+KTC20
+KTC25
+KTC32
+KTC40
+KTC50
+In (A)
+688
+851
+1014
+1327
+1635
+2024
+2394
+3162
+Coefficient K at  
+400 Hz
+0.86
+0.85
+0.84
+0.83
+0.82
+0.81
+0.80
+0.79
+KT busbar trunking derating at 400 Hz
+Design guide
+Frequencies
+400 Hz
+Canalis KTC
+170
+www.se.com
+C
+E
+F
+G
+D
+A
+B

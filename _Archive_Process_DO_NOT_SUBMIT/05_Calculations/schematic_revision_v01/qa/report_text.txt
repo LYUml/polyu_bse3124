@@ -1,0 +1,1254 @@
+The Hong Kong Polytechnic University 
+Department of Building Environment and Energy Engineering 
+ 
+BSE3124 Electricity and Buildings 
+2026/27 Semester 1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Assignment – Answer Sheets 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Group number: 
+ 
+___________________________________ 
+ 
+ 
+Names of group members: 
+___________________________________ 
+ 
+ 
+ 
+ 
+ 
+___________________________________ 
+ 
+ 
+ 
+ 
+ 
+___________________________________ 
+ 
+ 
+ 
+ 
+ 
+___________________________________ 
+ 
+ 
+1
+LYU Mingliang (24099296D)
+HUANG Celine (24034414D)
+LIU Wing Kei (24093229D)
+
+Task 1 – Loading estimation and transformer room location 
+ 
+ 
+Estimation of the building electrical load using CLP COP215 and justifications for 
+transformer room and main LV switch room locations: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2
+Basis and assumptions. The assessment covers ten identical office floors, each with usable ar-
+eas assumed to be 309, 309 and 410 m2. CLP COP215 Rev 07 forms the load-assessment basis.
+The 1000 kW in the question is cooling output, not electrical demand. Additionally, the calculation
+assumes packaged air-cooled AC, PF 0.90, five lifts and equal allocation to two supply zones.
+A = 10(309 + 309 + 410) = 10 280 m2,
+Soffice = 10 280(0.16) = 1644.8 kVA,
+PAC = (1000/3.51685)(1.85) = 526.039 kW,
+SAC = 526.039/0.90 = 584.488 kVA,
+Spublic = 5(40) = 200 kVA,
+Sdesign = 1.10(1644.8 + 584.488 + 200) = 2672.216 kVA.
+The 40 kVA/lift allowance is an aggregate public-services reference, not a lift motor rating. A
+public-services overlap allowance of 0–200 kVA gives 2452.216–2672.216 kVA; the upper bound
+is adopted. The references are COP215 3.1.7, 3.3.1 and Appendices 2/7.
+Selection. The proposal uses two 1500 kVA transformers to provide 3000 kVA. Each serves five
+floors and half the plant/public allowance: 1336.108 kVA per section. Full-load N–1 is not provided;
+a failed transformer requires load shedding. Unauthorised parallel operation must be prevented.
+Room
+location.
+The
+lower-left
+ground-floor
+perimeter
+accommodates
+the
+proposed
+12430×5450 mm transformer room and adjacent 12430×3500 mm main LV room (LV depth
+assumed). This allows external delivery/access, short LV interfaces, separation from the central
+lift/stair/AHU core and independent customer access.
+Access provisions include 3 m delivery access within 20 m of unloading. Its planning conditions
+include COP101 v16 4.3 clearance envelopes, 2-hour partitions, sealed penetrations and a raised floor
+level. Door sweeps require sequential use. Louvres provide 1.20 m2 free area at the assumed 50%
+free ratio. Equipment/ventilation and 10.03/10.31 m LV interfaces are detailed in the continuation
+and ground-floor drawings.
+
+Task 1 – Loading estimation and transformer room location (continued)
+Transformer and main LV room proposal
+The proposal starts with two 1500 kVA transformers serving separate LV sections, providing 3000
+kVA in total and a margin of 327.784 kVA. Floors 1–5 are allocated to section A and floors 6–10
+to section B, with each section also receiving half of the central plant/public allowance. Under this
+assumed equal split, each section carries 1336.108 kVA, corresponding to about 2030 A at 380 V.
+However, full-load N–1 is not provided, so load shedding is required if one unit is lost. The two LV
+sections operate independently; no bus coupler is provided.
+Room placement follows the lower-left perimeter of the supplied plan, with a 12430 by 5450 mm
+substation and an adjacent 12430 by 3500 mm LV room, whose depth is assumed. This location al-
+lows external plant access and short LV interfaces, while providing separation from the lift/stair/AHU
+core and independent LV access. Additionally, a 3 m clear delivery route within 20 m of unloading
+is proposed, subject to confirmation of the external site conditions.
+The plantroom drawing shows HV-01 as a compartmented switchboard and TX-A/TX-B as trans-
+former plan symbols with HV/LV terminal positions. Adopted overall dimensions are 3000 by 1000
+mm for HV-01 and 2200 by 1800 mm for each transformer, with six LV cabinets. These are design
+dimensions; internal equipment details are diagrammatic. Their clearance envelopes fit without over-
+lap. COP101 v 16 clause 4.3 requires HV clearances of 1000 mm at the rear, 1800 mm at the front
+and 750 mm at the sides, together with 900 mm at transformer LV terminals and 750 mm elsewhere.
+Additionally, the proposal includes 2-hour partitions, sealed penetrations and an FFL 150 mm above
+external level. Meanwhile, the outward-opening 180-degree doors have shared sweeps and therefore
+require sequential use.
+Ventilation is provided by two 600 by 2000 mm louvres, providing 1.20 m2 at an assumed 50% free-
+area ratio, above clause 6.3’s 1.12 m2 reference. Thus, the certified free-area ratio must be at least
+46.67%. Fan symbols are conditional provisions, not actual heat-loss calculations. Meanwhile, the
+LV interfaces, including the assumed tails, are 10.03/10.31 m, below the 20 m limit in 5.5.2.2. Actual
+equipment, structures, openings and ventilation must satisfy these declared conditions.
+Main distribution schematic
+The main schematic connects TX-A and TX-B through their respective ACB incomers to MSB-A and
+MSB-B. Separate rising supplies serve floors 1–5 and 6–10, with three tenants per floor. Each section
+also feeds its allocated central plant and public services. The Office 1 inset links floor metering to
+MS-O1, the selected feeder and DB-O1. The arrangement follows the transformer, switchboard and
+metering relationships in Electrical Schematic 1; the adopted loads and final-circuit ratings remain
+those calculated in Tasks 1 and 3.
+3
+
+HV-01 | HV SWITCHGEAR
+TX-A | 1500 kVA
+TX-B | 1500 kVA
+HV DELIVERY ACCESS
+4000 mm opening
+TX-A DELIVERY
+ACCESS
+3000 mm opening
+TX-B DELIVERY
+ACCESS
+3000 mm opening
+TASK 1 | GROUND-FLOOR PLANTROOM LOCATION
+A3 LANDSCAPE | SCALE 1:200 | DIMENSIONS IN mm | GROUND FLOOR
+PROPOSED LOCATION
+Lower-left perimeter of supplied ground-floor plan.
+Substation 12430 x 5450; adjacent LV room 12430 x 3500
+assumed. See separate 1:75 room detail.
+LOCATION REASONS
+Direct external plant access is proposed, subject to site
+confirmation.
+Adjacent LV room keeps transformer-to-incomer interfaces
+short.
+Perimeter plantrooms separate supply equipment from the
+upper lift/stair/AHU core and remaining accommodation.
+LV room has its own proposed west entrance.
+LOAD ASSESSMENT
+Offices: 1644.800 kVA.
+AC: 1000 kW cooling -> 526.039 kW electrical -> 584.488
+kVA at assumed PF 0.90.
+Public services: 200 kVA aggregate allowance.
+Two-zone conservative envelope: 2672.216 kVA.
+Propose 2 x 1500 kVA, with equal zone allocation; no
+full-load N-1.
+SITE CONDITIONS TO VERIFY
+External apron, road and <=20m unloading route are not
+given by the source plan. Maintain >=3m clear delivery
+route.
+Architectural wall openings, structural/flood/fire provisions,
+ventilation and supplier equipment approval require
+coordination.
+GROUP 1 | TASK 1
+Design basis: CLP COP215 Rev07; CLP COP101 v16.
+4
+
+HV-01 | HV SWITCHGEAR
+TX-A | 1500 kVA
+TX-B | 1500 kVA
+HV DELIVERY ACCESS
+4000 mm opening
+TX-A DELIVERY
+ACCESS
+3000 mm opening
+TX-B DELIVERY
+ACCESS
+3000 mm opening
+TASK 1 | PROPOSED SUBSTATION AND MAIN LV ROOM
+A3 LANDSCAPE | SCALE 1:75 | DIMENSIONS IN mm | PLANTROOM DETAIL
+CAPACITY AND EQUIPMENT
+TX-A / TX-B: 1500 kVA each. Total 3000 kVA; design load 2672.216 kVA. No
+full-load N-1.
+HV-01: 3000 x 1000 mm; TX-A/B: 2200 x 1800 mm.
+Cabinets: A/B-IN incomer; A/B-FL floor feeders; A/B-PL plant/public feeders.
+Generic plan symbols; overall dimensions are adopted design assumptions. Internal
+details are diagrammatic.
+CLEARANCES / BUILDING WORKS
+HV rear 1000, front 1800, sides 750. TX LV terminals north: 900; other sides 750.
+Proposed 2h FRR partitions; fire-seal penetrations. FFL +0.15 vs external +0.00
+assumed.
+Actual structures, wall thickness and equipment dimensions require coordination.
+ACCESS AND DOORS
+South external access assumed. Provide 3000-wide clear delivery route; unloading
+distance <=20 m to verify.
+Plant doors: HV 4000 W; TX 3000 W each; 2800 H assumed. Outward opening,
+shown at 90 degrees.
+Adjacent plant doors used sequentially; TX-A has wicket personnel access.
+Independent LV entrance west.
+VENTILATION
+2 low-level 600 W x 2000H inlet louvres: 2.4m2 gross x assumed 50% free area =
+1.20m2 >=1.12m2. Certified free area >=46.67% required.
+2 high-level 630-dia fan symbols are conditional references. Actual losses, fan duty
+and noise to confirm; outlet >=2.5m above street, away from people.
+LV INTERFACES / HV ROUTES
+LV trench: 1000 W x 1100D, four MCTs per interface. A: 8.03+2=10.03m; B: 8.31+2=10.31m (<20m). 2m is assumed total termination/vertical
+allowance.
+HV centre-lines: 1000 W at panels; 600 W branches; final 300 W; generally 1400D. Segregate HV/LV. Covered trenches; no beam obstruction.
+DETAIL 1:75 AT A3
+Basis: supplied COP215 Rev07; COP101 v16.
+See the new main distribution schematic for TX-A/B, MSB-A/B and floor supply zones.
+LINE KEY: dashed = HV trench; solid = LV route; chain = clearance. Equipment details are diagrammatic.
+5
+
+TASK 1 | MAIN ELECTRICAL DISTRIBUTION SCHEMATIC
+A3 LANDSCAPE | NOT TO SCALE | 2 x 1500 kVA | 380/220 V LV DESIGN BASIS
+NORMAL SUPPLY: 2672.216 kVA total; two independent LV sections.
+Equal allocation: 1336.108 kVA / approx. 2030 A per section.
+TYPICAL OFFICE 1 SUPPLY
+Selected tenant detail; applicable to its floor supply zone.
+GROUND FLOOR | TRANSFORMER ROOM
+GROUND FLOOR | MAIN LV SWITCH ROOM
+TX-A | 1500 kVA
+LV 380/220 V
+3-phase, 4-wire
+HV feeder from HV-01
+ACB-A
+Main incomer
+MSB-A | SECTION A
+PE
+TX-B | 1500 kVA
+LV 380/220 V
+3-phase, 4-wire
+HV feeder from HV-01
+ACB-B
+Main incomer
+MSB-B | SECTION B
+PE
+NO BUS
+COUPLER
+SYSTEM BASIS
+HV supply voltage and upstream protection: utility interface. Capacities and LV voltage follow Task 1. Main ACB ratings/settings and fault duties require coordinated
+equipment selection. PE denotes equipment bonding; source earthing arrangement to be coordinated.
+REFERENCE: Electrical Schematic 1 - transformer, main switchboard and floor-metering arrangement.
+Read with the plantroom layout and Office 1 distribution-board schematic.
+DESIGN LIMITS
+No full-load N-1. Central plant/public load is split equally as a design assumption. This
+sheet shows normal supply; emergency systems are separate.
+GROUP 1 | E-04 | REV 01 | 10 NOV 2026
+ZONE A | FLOORS 1-5
+F1
+3 TENANTS
+F2
+3 TENANTS
+F3
+3 TENANTS
+F4
+3 TENANTS
+F5
+3 TENANTS
+Floor metering shown collectively
+PLANT / PUBLIC
+392.244 kVA*
+ZONE B | FLOORS 6-10
+F6
+3 TENANTS
+F7
+3 TENANTS
+F8
+3 TENANTS
+F9
+3 TENANTS
+F10
+3 TENANTS
+Floor metering shown collectively
+PLANT / PUBLIC
+392.244 kVA*
+FROM THE RELEVANT FLOOR METERING
+Office 1 tenant meter
+MS-O1 | C63, 4P
+10 kA specified
+4C35 mm2 PVC Cu
++ CPC16 mm2
+31.512 m design length
+DB-O1 | 100 A, 4P isolator
+15 outgoing RCBO circuits
+7 lighting + 8 small power
+Ib(max phase) = 49.091 A
+See detailed DB schematic
+and Office 1 layouts.
+TN-S design assumption; dedicated N and PE. PE bypasses switching.
+At MS-O1: Ze = 0.20 ohm; PFC <=6 kA; upstream drop allowance <=2.2 V.
+* Per section: AC 292.244 + public services 100 = 392.244 kVA before the 1.1 zoning factor.
+6
+
+Task 2 – Layout drawings and MCB board schematics 
+ 
+ 
+The office tenant chosen for layout design: Office 1 / Office 2 / Office 3 
+ 
+Design considerations of circuit arrangement and protective device selection for small power 
+and lighting layout: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+7
+The office tenant chosen for layout design: Office 1.
+Selected tenant: Office 1. The attached lighting/power plans, completed board template and de-
+tailed L/N/PE schematic present the design.
+Lighting. Normal lighting uses 92 PIL PLATO 600 panels: sixty 22 W, twenty-eight 28 W and four
+38 W, total 2256 W. Seven circuits LC-A–LC-G have 18/17/18/11/14/10/4 lamps, each protected
+by B10 Type A 30 mA 1P+N RCBO. Each has its own neutral and local manual control S-A–S-
+G. Different-phase switches use separate enclosures. Ceiling-grid and furniture relationships guide
+positions.
+Lighting performance. Manufacturer LDT calculations give maintained mean direct illuminances
+of 592.9/546.3/588.5/662.6 lx for the open office/pantry/upper east/south east rooms at 1.9 m above
+the workplane and MF 0.80. Four 38 W panels in the south east room retain 589.2 lx at 2.2 m,
+providing a 17.8% margin above the 500 lx design target. The continuation gives the calculation
+method and room results.
+Power. Small-power provision comprises nine four-socket floorboxes, three twin sockets and FS01.
+Every assembly has one upstream 13 A FCU; its outlets share that capacity. P1–P4 use 6 mm2 A1
+rings/B32, P5/P6/P8 use 10 mm2 A2 radials/B32, and P7 uses a 4 mm2 dedicated radial/B16. Each
+local fused spur is 4 mm2, assumed 0.5 m. FCUs precede the spur cable. Additionally, the pantry cir-
+cuits are separated from ordinary office circuits. FS01 reserves 13 A without inventing an appliance
+rating.
+Protection and containment. Ring protection requires L/N/CPC continuity, with both ends return-
+ing to the same circuit under EMSD Table 6(1)’s A1 ring conditions. The lighting group, ring banks
+A/B, radial bank C, P7 and incoming feeder remain separate to preserve the stated grouping factors,
+as shown on the installation-detail sheet.
+Supply and controls. The supply uses source C63 4P protection, 4C35 mm2 + CPC16 and 100 A 4P
+DB isolation. Dedicated neutrals pass through their own RCBO; PE is unswitched. Accordingly, the
+selected apparatus must meet the specified 10 kA breaking capacity and total-energy/inrush limits.
+Landlord emergency lighting and exit signs use independent essential supplies.
+
+Task 2 – Layout drawings and MCB board schematics (continued)
+The office tenant chosen for layout design: Office 1.
+Normal lighting and local controls
+The lighting proposal starts with 92 PIL PLATO 600 MultiPower 3117955 panels on the 600 mm
+ceiling grid: sixty 22 W, twenty-eight 28 W and four 38 W, totalling 2256 W. Their nominal fluxes
+are 2843.45, 3555.30 and 4685.55 lm respectively. Separate circuits serve the enclosed rooms and
+distributed main-office zones, with a maintained mean illuminance target of 500 lx adopted for the
+design. With this arrangement, the connected lighting density is 7.301 W/m2 using the adopted 309
+m2 office area.
+Seven passive manual switches S-A–S-G provide local control of their corresponding circuits. These
+switches must have a minimum rating of 20 AX, an LED switching capacity of at least 600 W and
+make/break/inrush compatibility with the selected drivers. Since their phases differ, S-A/B/C use
+separate enclosures. No borrowed neutral is allowed. Each route passes through its switch and
+includes a 2 m DB rise plus 1.5 m down and 1.5 m back at the switch, giving an assumed vertical
+allowance of 5 m per lighting radial. Passive controls add no operating power.
+Circuit Lamps
+W Phase RCBO Control
+LC-A
+18 402
+L1
+B10 S-A
+LC-B
+17 392
+L2
+B10 S-B
+LC-C
+18 396
+L3
+B10 S-C
+LC-D
+11 242
+L3
+B10 S-D
+LC-E
+14 392
+L2
+B10 S-E
+LC-F
+10 280
+L1
+B10 S-F
+LC-G
+4 152
+L3
+B10 S-G
+On the plan, the A/B/C numeric labels correspond to the LED IDs and circuits LC-A/B/C. Similarly,
+D01–D11 correspond to PN01–PN11, E82–E96 excluding E90 to the northeast LEDs, F01–F10 to
+UE01–UE10, and G01–G04 to SE01–SE04. Power settings follow the common device schedule.
+Every luminaire and control has one circuit assignment.
+Lighting calculation
+To assess lighting performance, the calculation uses manufacturer LDT intensities given in cd/klm,
+with each profile scaled by its selected flux: 2843.45 lm at 22 W, 3555.30 lm at 28 W and 4685.55
+lm at 38 W. Illuminance is then calculated at each workplane grid cell, with spacing at most 0.2 m,
+as
+E = 0.80
+∑
+j
+Ij(C, γ) cos γ
+d2
+j
+.
+A luminaire-to-workplane height of 1.9 m is adopted, corresponding to a 2.7 m ceiling and a 0.8 m
+workplane. Meanwhile, the maintenance factor of 0.80 assumes periodic cleaning and replacement.
+Room boundaries use the adopted plan envelopes; each room receives light from its own fittings.
+Only direct light is included in this calculation.
+8
+
+Task 2 – Layout drawings and MCB board schematics (continued)
+Zone
+Lamps Area m2 Mean lx Min/mean
+Open office
+67
+231.87
+592.9
+0.136
+Pantry
+11
+29.54
+546.3
+0.390
+Upper east room
+10
+33.68
+588.5
+0.267
+South east room
+4
+13.07
+662.6
+0.175
+On this basis, all four mean illuminances exceed the adopted 500 lx target. To provide mounting-
+height tolerance, the four south-east panels use the 38 W setting. At 2.2 m above the workplane, the
+respective means are 573.0, 505.8, 545.0 and 589.2 lx; the south-east room retains a 17.8% margin.
+When interpreting these results, the minimum/mean ratios include perimeter cells. Overall, the as-
+sessment covers mean direct illuminance; a detailed task-area check would also account for furniture,
+reflections and glare.
+Small power and fixed equipment
+Small-power provision includes nine four-socket floor boxes, three twin wall sockets and the fixed
+connection FS01. Each floor-box/socket assembly is individually 13 A fused. Accordingly, the
+demand calculation uses a 13 A continuous capacity per assembly; FS01 reserves a further 13 A for
+fixed equipment. Meanwhile, building central AC is supplied as central plant and not duplicated in
+this office DB.
+P1–P4 are A1 rings with fused floor-box connections. In comparison, P5/P6/P8 are A2 radials, while
+P7 is a fixed radial. Both P6 and P8 serve the PANTRY identified on the source plan, with FB09 and
+SO01 connected to P6. P8 is a separate socket group for convenient isolation. Kitchen sockets are
+separated from ordinary office circuits under EMSD6E(3)(a).
+Circuit Points
+Phase Topology
+Protection
+P1
+FB01, FB02 L1
+A1 ring
+B32
+P2
+FB03, FB04 L1
+A1 ring
+B32
+P3
+FB05, FB06 L2
+A1 ring
+B32
+P4
+FB07, FB08 L2
+A1 ring
+B32
+P5
+SO02
+L1
+A2 radial
+B32
+P6
+FB09, SO01 L3
+A2 radial
+B32
+P7
+FS01
+L3
+Fixed radial
+B16
+P8
+SO03
+L3
+A2 radial
+B32
+In terms of coverage, the defined service envelopes satisfy the A1 maximum of 100 m2 and the A2
+maximum of 50 m2. Coverage is assessed by service envelope, allowing overlap between circuits.
+Ring L/N/CPC return to their own circuit terminals. Main 6/10 mm2 cables terminate in accessible
+junction/FCU assemblies rated for those conductor sizes. At each point, the local connections use 4
+mm2 L/N/CPC, with an assumed length of 0.5 m per point.
+9
+
+Task 2 – Layout drawings and MCB board schematics (continued)
+FCU and containment details
+Every FB01–FB09 assembly shares one 13 A FCU upstream of all four socket ways. Each twin
+SO01–SO03 likewise shares one 13 A FCU; FS01 has its own switched 13 A FCU. Ring/main
+L/N/CPC connections must terminate in an accessible junction assembly rated for 6/10 mm2 ca-
+bles. At each connection, the FCU is positioned at the tap before the 4 mm2 local spur, with its
+neutral switched together with the line and its PE kept continuous. With 13 A continuous capacity
+per assembly as the demand basis, any added points require recalculation.
+To maintain the adopted grouping factors, the containment is arranged in the following banks: light-
+ing LC-A–G (seven circuits, Cg = 0.54); A: P1/P2 (four ring legs, 0.65); B: P3/P4 (four ring legs,
+0.65); C: P5/P6/P8 (three radials, 0.70); P7 alone (1.00); incoming feeder alone (1.00). Co-located
+plan paths show routing corridors, not a shared enclosure. Accordingly, separate Method B runs must
+provide horizontal clear space between groups exceeding twice the largest adjacent overall cable di-
+ameter, in accordance with EMSD A5(3), Note 2; where enclosure dimensions govern, the enclosures
+must be spaced at least as conservatively and the cable separation must be confirmed. Thermal sep-
+aration is provided by cable clearance, rather than a partition alone. Within each circuit, L/N/CPC
+stays together. Additionally, contact with thermal insulation must be avoided. If these conditions
+cannot be achieved, the circuits must be regrouped and resized before installation.
+Protection and board arrangement
+As shown in the complete schematic, the arrangement includes C63 four-pole protection at MS-O1,
+4-core 35 mm2 plus CPC16, a 100 A four-pole DB isolator, independent L1/L2/L3/N/PE bars and 15
+separate 1P+N Type A 30 mA RCBOs. Every load neutral passes through its own RCBO; none are
+shared downstream. Meanwhile, PE bypasses all switches. Additionally, the circuits and phases are
+to be labelled, and the arrangement must allow each final circuit to be isolated without interrupting
+the others.
+Device selection must ensure that the proposed B-curve final protection is compatible with driver
+inrush and the breaking-capacity/energy limits established in Task 3. Individual RCBOs limit the
+effect of a residual-current fault to its own circuit; however, full short-circuit selectivity requires
+manufacturer coordination data.
+Emergency lighting assumption
+Landlord emergency lighting and exit signage use independent essential supplies, separated from
+normal lighting under EMSD 6B(4). These feeds bypass tenant normal-lighting switches and RCBO
+load sides. Emergency-system loads are therefore outside this office normal-supply DB.
+10
+
+ 
+DB-O1: 8-way TPN chassis; 15 used single-phase outgoing positions
+Way
+L1
+L2
+L3
+1
+LC-A / B10
+LC-B / B10
+LC-C / B10
+2
+LC-F / B10
+LC-E / B10
+LC-D / B10
+3
+P1 / B32
+P3 / B32
+LC-G / B10
+4
+P2 / B32
+P4 / B32
+P6 / B32
+5
+P5 / B32
+Spare
+P7 / B16
+6
+Spare
+Spare
+P8 / B32
+7
+Spare
+Spare
+Spare
+8
+Spare
+Spare
+Spare
+Positions indicate phase allocation; each RCBO also needs its own N path. Additionally, the chassis/module capacity for 1P+N
+devices must be confirmed. The incoming protection is C63 4P at MS-O1, while the local main switch is 100A 4P (including
+N), supplementing the template’s TP SW symbol. The detailed appended schematic governs neutral/PE connections and ring
+returns. All final RCBOs are Type A, 30mA, 10kA and must meet the energy/inrush specifications.
+11
+Office 1 DB-O1
+15 outgoing circuits
+7 lighting / 8 power
+Spare ways available
+N/A
+BSE3124 - Group 1
+Office 1 distribution
+board schematic
+10 Nov 2026
+Group 1
+E-03
+NTS
+LC-A LC-B LC-C LC-F
+LC-E LC-D
+P1
+P3
+LC-G
+P2
+P4
+P6
+P5
+SP
+P7
+SP
+SP
+P8
+SP
+SP
+SP
+SP
+SP
+SP
+SP = spare
+
+TASK 2 | OFFICE 1 NORMAL LIGHTING
+A3 PORTRAIT | SCALE 1:75 | DIMENSIONS IN mm | DB-O1
+Supply continues to MS-O1 at meter location; incoming route on model / DB schematic.
+600x600 LED panel: A/B/C=22 W, *=28 W; D=22 W; E/F=28 W; G=38 W.
+Label prefix gives LC-A ... LC-G; suffix retains device ID. S-A ... S-G = local switches.
+LC-A  L1  18 lamps /402 W  B10  2.5 mm2  58.301m
+LC-B  L2  17 lamps /392 W  B10  2.5 mm2  62.184m
+LC-C  L3  18 lamps /396 W  B10  2.5 mm2  44.999m
+LC-D  L3  11 lamps /242 W  B10  2.5 mm2  27.233m
+LC-E  L2  14 lamps /392 W  B10  2.5 mm2  34.464m
+LC-F  L1  10 lamps /280 W  B10  2.5 mm2  32.710m
+LC-G  L3  4 lamps /152 W  B10  2.5 mm2  27.379m
+92 panels /2256 W. All circuits: Type A 30 mA1P+N RCBO; L/N/CPC all2.5 mm2.
+Manual controls20 AX, LED rating>=600 W; separate phase enclosures. Inrush compatibility required.
+Normal lighting only. Landlord emergency/exit system independently supplied (design assumption).
+Proposed routes follow plan; vertical/tail allowances and conditions are in Task3. Architecture retained as reference.
+BSE3124 | 2026-11-07 | Read with15-way DB schematic and common circuit schedule
+12
+
+TASK 2 | OFFICE 1 NORMAL POWER
+A3 PORTRAIT | SCALE 1:75 | DIMENSIONS IN mm | DB-O1
+Supply continues to MS-O1 at meter location; incoming route on model / DB schematic.
+FB01-09=floorbox; SO01-03=twin socket; FS01=dedicated fused spur.
+Each point:13 A fuse; intended continuous demand<=13 A. Local spur4 mm2,0.5m allowance.
+P1 L1 RING B32 6 mm2 28.620m
+P2 L1 RING B32 6 mm2 35.520m
+P3 L2 RING B32 6 mm2 45.220m
+P4 L2 RING B32 6 mm2 34.220m
+P5 L1 RADIAL B32 10 mm2 15.607m
+P6 L3 RADIAL B32 10 mm2 13.864m
+P7 L3 RADIAL B16 4 mm2 13.107m
+P8 L3 RADIAL B32 10 mm2 15.107m
+Ring L/N/CPC both ends return to same circuit. Radial L/N/CPC same stated size.
+FB09/SO01/SO03 serve pantry: P6/P8. P7 is allocated equipment capacity, appliance rating unknown.
+Containment: rings P1/P2 bank A; P3/P4 bank B; radials P5/P6/P8 bank C; P7 separate.
+Individually fused point assemblies and terminals must accept selected conductor size or rated junctions.
+Proposed routes follow plan; vertical/tail allowances and conditions are in Task3. Architecture retained as reference.
+BSE3124 | 2026-11-07 | Read with15-way DB schematic and common circuit schedule
+13
+
+TASK 2 | OFFICE 1 DISTRIBUTION BOARD DB-O1
+A3 LANDSCAPE | NOT TO SCALE | DB-O1 | 100 A TPN | 15 OUTGOING CIRCUITS
+MS-O1 C63 4P
+100A4P ISO
+4C35 PVC Cu + CPC16 |31.512m incl.3m allowance
+Source Ze0.20 ohm /PFC<=6 kA assumed; main/RCBO Icn10 kA. See Task3 for conditions and I2t limits.
+Landlord emergency/exit systems: independent essential supply assumed; electrically separate from this normal
+DB.
+L1
+L2
+L3
+N
+PE
+B10
+S-A
+L
+N
+PE
+LC-A [L1] | 18 lamps +S-A /402 W | B10 /TYPE A 30 mA 1P+N RCBO
+L/N/PE 2.5/2.5/2.5 mm2 | L=58.301m | LIGHTING RADIAL
+B10
+S-B
+L
+N
+PE
+LC-B [L2] | 17 lamps +S-B /392 W | B10 /TYPE A 30 mA 1P+N RCBO
+L/N/PE 2.5/2.5/2.5 mm2 | L=62.184m | LIGHTING RADIAL
+B10
+S-C
+L
+N
+PE
+LC-C [L3] | 18 lamps +S-C /396 W | B10 /TYPE A 30 mA 1P+N RCBO
+L/N/PE 2.5/2.5/2.5 mm2 | L=44.999m | LIGHTING RADIAL
+B10
+S-D
+L
+N
+PE
+LC-D [L3] | 11 lamps +S-D /242 W | B10 /TYPE A 30 mA 1P+N RCBO
+L/N/PE 2.5/2.5/2.5 mm2 | L=27.233m | LIGHTING RADIAL
+B10
+S-E
+L
+N
+PE
+LC-E [L2] | 14 lamps +S-E /392 W | B10 /TYPE A 30 mA 1P+N RCBO
+L/N/PE 2.5/2.5/2.5 mm2 | L=34.464m | LIGHTING RADIAL
+B10
+S-F
+L
+N
+PE
+LC-F [L1] | 10 lamps +S-F /280 W | B10 /TYPE A 30 mA 1P+N RCBO
+L/N/PE 2.5/2.5/2.5 mm2 | L=32.710m | LIGHTING RADIAL
+B10
+S-G
+L
+N
+PE
+LC-G [L3] | 4 lamps +S-G /152 W | B10 /TYPE A 30 mA 1P+N RCBO
+L/N/PE 2.5/2.5/2.5 mm2 | L=27.379m | LIGHTING RADIAL
+B32
+L
+N
+PE
+P1 [L1] | FB01, FB02 /13 A FUSED POINTS | B32 /TYPE A 30 mA 1P+N RCBO
+L/N/PE 6/6/6 mm2 | L=28.620m | A1 RING: L/N/PE BOTH ENDS AT DB
+B32
+L
+N
+PE
+P2 [L1] | FB03, FB04 /13 A FUSED POINTS | B32 /TYPE A 30 mA 1P+N RCBO
+L/N/PE 6/6/6 mm2 | L=35.520m | A1 RING: L/N/PE BOTH ENDS AT DB
+B32
+L
+N
+PE
+P3 [L2] | FB05, FB06 /13 A FUSED POINTS | B32 /TYPE A 30 mA 1P+N RCBO
+L/N/PE 6/6/6 mm2 | L=45.220m | A1 RING: L/N/PE BOTH ENDS AT DB
+B32
+L
+N
+PE
+P4 [L2] | FB07, FB08 /13 A FUSED POINTS | B32 /TYPE A 30 mA 1P+N RCBO
+L/N/PE 6/6/6 mm2 | L=34.220m | A1 RING: L/N/PE BOTH ENDS AT DB
+B32
+L
+N
+PE
+P5 [L1] | SO02 /13 A FUSED POINTS | B32 /TYPE A 30 mA 1P+N RCBO
+L/N/PE 10/10/10 mm2 | L=15.607m | DEDICATED RADIAL
+B32
+L
+N
+PE
+P6 [L3] | FB09, SO01 /13 A FUSED POINTS | B32 /TYPE A 30 mA 1P+N RCBO
+L/N/PE 10/10/10 mm2 | L=13.864m | DEDICATED RADIAL
+B16
+L
+N
+PE
+P7 [L3] | FS01 /13 A FUSED POINTS | B16 /TYPE A 30 mA 1P+N RCBO
+L/N/PE 4/4/4 mm2 | L=13.107m | DEDICATED RADIAL
+B32
+L
+N
+PE
+P8 [L3] | SO03 /13 A FUSED POINTS | B32 /TYPE A 30 mA 1P+N RCBO
+L/N/PE 10/10/10 mm2 | L=15.107m | DEDICATED RADIAL
+SYMBOLS: box = linked L+N RCBO; circle = residual sensing; dots = junctions; crossings without dots are not connected. PE bypasses all switches.
+Each RCBO load neutral is dedicated. Ring L/N/CPC ends return to the same circuit terminals; no mixed neutrals. All local power spurs:13 A fuse +4 mm2 L/N/CPC,0.5m assumed.
+S-A/B/C: separate enclosures for different phases. All manual controls20 AX/LED>=600 W minimum; local switching and RCBO inrush performance must meet adopted design specification.
+14
+
+TASK 2 | OFFICE 1 INSTALLATION DETAILS AND DESIGN CONDITIONS
+A3 LANDSCAPE | NOT TO SCALE | DIMENSIONS IN mm | OFFICE 1
+1. EVERY POWER ASSEMBLY HAS ONE UPSTREAM 13 A FCU
+Accessible main/ring junction
+13 A switched FCU at tap
+4 mm2 L/N/CPC spur
+0.5m assumed
+ONE assembly: FB / SO / FS
+All outlets share 13 A continuous capacity
+L
+N
+PE
+For rings: both L/N/CPC ends return to their own DB terminals. FCU is before the spur; no unfused extra taps. Main terminals must accept 6/10 mm2.
+FB01-09: one FCU per four-socket floorbox. SO01-03: one FCU per twin socket. FS01: one switched FCU. 13 A is not an instantaneous current clamp.
+2. SEPARATE CONTAINMENT BANKS - OVERLAPPING PLAN LINES ARE ROUTING CORRIDORS
+Lighting LC-A..G
+7 circuits / Cg0.54
+A: P1/P2
+4 ring legs / Cg0.65
+B: P3/P4
+4 ring legs / Cg0.65
+C: P5/P6/P8
+3 radials / Cg0.70
+P7 alone
+Cg1.00
+Feeder alone
+Cg1.00
+Method B, no insulation contact. Keep L/N/CPC of each circuit together. Between banks provide horizontal cable clearance >2x largest adjacent cable OD
+(EMSD A5(3) Note2); separate enclosures and verify cable clearance. A partition alone is not thermal separation. If grouping changes, recalculate sizes.
+3. A1 RING DESIGN BASIS AND EQUIPMENT SPECIFICATION
+EMSD 6C/6E, Table6(1): B32; 6 mm2 copper; corrected leg Iz23.1855 A >=20 A; each service envelope <=100m2; intact L/N/CPC rings; two fused taps per ring.
+Ring leg currents14.658-15.203 A support load distribution; overload protection follows the A1 standard arrangement. Verify ring continuity before energisation.
+TN-S source Ze0.20 ohm/PFC<=6 kA are design conditions. Main and RCBO Icn10 kA. Required total I2t: B10/B16<=70000; B32/FCU<=90000; C63<=1000000 A2s.
+Select apparatus meeting the stated breaking capacity and total clearing energy. Control20 AX/LED>=600 W; confirm driver inrush. PE bypasses switching.
+4. LIGHTING DESIGN BASIS
+92 panels /2256 W. LDT calculation, MF0.80, luminaires1.9m above workplane: mean direct lux open592.9 /pantry546.3 /upper east588.5 /south east662.6.
+South east: four38 W panels,4685.55 lm each; mean589.2 lx at2.2m above workplane,17.8% above500 lx target. Lighting positions and routes retained.
+Adopted height1.9m and MF0.80 with periodic cleaning. Direct-light calculation; see report for room geometry and perimeter illuminance.
+GROUP 1 | BSE3124 | 2026-11-08 | DETAILS / NTS | Read with final Task1-3 answers
+15
+
+Task 3 – Maximum current demand calculation and cable sizing 
+ 
+ 
+Maximum current demand calculation: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cable sizing for the incoming circuit to the distribution board: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+16
+Lighting current is calculated as I = P/(220×0.90). Under EMSD Table 7(1), the demand includes
+90% of lighting and 100% of the largest Code 6E circuit plus 50% of the remaining circuits on
+each phase. P7 is allocated separately at 100%. The 13 A per assembly is an intended maximum
+continuous load, not an instantaneous fuse clamp.
+Phase Light A∗Sockets A Fixed A Demand A
+L1
+3.444
+45.500
+0
+48.600
+L2
+3.960
+39.000
+0
+42.564
+L3
+3.990
+32.500
+13
+49.091
+∗Lighting column is before the 90% factor. Thus, the maximum demand of 49.091 A leads to the
+selection of 63 A source protection and a 100 A DB. Maximum undiversified phase allowance is
+68.444 A. Full branch currents are retained for outgoing cable sizing.
+The selected feeder is 4-core 35 mm2 PVC copper plus 16 mm2 CPC, using Method B. Its 28.5119 m
+route plus an assumed 3 m vertical/termination allowance totals 31.5119 m. At 40 ◦C, Ca = 0.87,
+Cg = 1; the calculation adopts Ch = 0.86 for the stated third-harmonic range (15–33%).
+Iz,25 = 80(0.87)(0.86) = 59.856 < 63 A,
+Iz,35 = 99(0.87)(0.86) = 74.0718 A,
+Ib = 49.091 ≤In = 63 ≤Iz = 74.0718 A.
+These ratings follow EMSD A6(2), column 5, while CPC sizing follows Table 11(2)(a). A full-size
+neutral is retained; neutral current must remain within the adopted bound.
+At 63 A, feeder drop is 2.521606 V. Including the 2.2 V pre-origin allowance and calculated branch
+drops gives a worst complete drop of 3.031% of 220 V, below 4%. The checks assume TN-S, source
+Ze = 0.20 Ωand PFC ≤6 kA. Thus, the DB external loop is 0.264129 Ω; source C63 disconnection
+and outgoing B-curve checks pass under those conditions.
+Outgoing circuits are also included, as required by the assignment: all 15 sizes, currents, lengths,
+voltage drops, earth-fault checks and apparatus energy requirements are tabulated in the continuation.
+
+Task 3 – Maximum current demand calculation and cable sizing (continued)
+Incoming design conditions
+The preceding sheet selects C63 protection and a 4-core 35 mm2 feeder with 16 mm2 CPC. Along the
+meter-to-DB route, the length is 28.5119 m plus a 3 m vertical/termination allowance. Cable sizing
+assumes 40 ◦C, a separate Method B enclosure and third-harmonic content greater than 15% and at
+most 33%, giving Ca = 0.87, Cg = 1 and Ch = 0.86. A full-size neutral is retained on this basis.
+To bound the phase-neutral voltage drop, the calculation uses (2/
+√
+3)(1.10) = 1.270170592
+mV/A/m from the three-phase table impedance, with neutral current at most 63 A. Thus, feeder
+drop is 2.521606 V at 63 A and 1.964888 V at the design demand of 49.091 A. Additionally, the
+complete-path calculation below includes the 2.2 V upstream allowance.
+All outgoing cables
+All outgoing cable sizes refer to PVC copper L/N/CPC conductors. Lighting grouped separately has
+Iz = 24(0.87)(0.54) = 11.2752 A for seven 2.5 mm2 circuits; all Ib ≤10 ≤Iz. Lighting lengths
+include 5 m DB/switch vertical allowance.
+Each uniform ring bank counts as four current-carrying legs, giving Iz = 41(0.87)(0.65) = 23.1855
+A per 6 mm2 leg, above the standard 20 A minimum. With 13 A per point, the ring-network solution
+gives maximum leg currents 14.658–15.203 A, below Iz. However, the radial criterion In ≤Iz must
+not be applied to just one ring leg. Continuity and fused-point restrictions are essential.
+Meanwhile, the 10 mm2 A2 radial cables have Iz = 57(0.87)(0.70) = 34.713 A; P7’s separate 4
+mm2 radial has Iz = 32(0.87) = 27.84 A. In determining route lengths, the power radials include a
+2 m vertical allowance, while the rings include 2 m at each DB end. Additionally, each local point
+spur adds 0.5 m of 4 mm2 cable.
+Circuit Phase
+Ib A RCBO A L/N/CPC mm2 Main length m
+LC-A
+L1
+2.030
+10
+2.5
+58.301
+LC-B
+L2
+1.980
+10
+2.5
+62.184
+LC-C
+L3
+2.000
+10
+2.5
+44.999
+LC-D
+L3
+1.222
+10
+2.5
+27.233
+LC-E
+L2
+1.980
+10
+2.5
+34.464
+LC-F
+L1
+1.414
+10
+2.5
+32.710
+LC-G
+L3
+0.768
+10
+2.5
+27.379
+P1
+L1
+26.000
+32
+6
+28.620
+P2
+L1
+26.000
+32
+6
+35.520
+P3
+L2
+26.000
+32
+6
+45.220
+P4
+L2
+26.000
+32
+6
+34.220
+P5
+L1
+13.000
+32
+10
+15.607
+P6
+L3
+26.000
+32
+10
+13.864
+P7
+L3
+13.000
+16
+4
+13.107
+P8
+L3
+13.000
+32
+10
+15.107
+17
+
+Task 3 – Maximum current demand calculation and cable sizing (continued)
+Complete voltage drop and fault checks
+The voltage-drop calculation sums the segment drops using downstream currents on the radials and
+solves the two-feed ring network, including the stated vertical/local allowances. Combining this
+result with the 2.2 V pre-origin allowance and the 2.521606 V feeder bound gives the full-path drop,
+which is checked against a limit of 0.04(220) = 8.8 V.
+Fault-protection checks assume a TN-S supply, an external source loop impedance of 0.20 ohm and
+PFC at most 6 kA at MS-O1/downstream. Adding the incoming phase+CPC bound of 0.064129 ohm
+gives a DB external loop impedance of 0.264129 ohm. Table 11(10) reference limits are B10=4.17,
+B16=2.61, B32=1.31 and C63=0.33 ohm. Throughout these checks, the calculation uses operating-
+temperature paths and a minimum voltage factor of 0.95. Within a uniform ring, the worst parallel
+path is at most a quarter of the circumference.
+Circuit Out drop V Total drop % Zs ohm Min fault A Zs limit ohm
+LC-A
+1.450
+2.805
+1.314
+159.1
+4.17
+LC-B
+1.237
+2.709
+1.383
+151.1
+4.17
+LC-C
+0.959
+2.582
+1.074
+194.6
+4.17
+LC-D
+0.422
+2.338
+0.754
+277.1
+4.17
+LC-E
+0.797
+2.509
+0.884
+236.3
+4.17
+LC-F
+0.642
+2.438
+0.853
+245.0
+4.17
+LC-G
+0.345
+2.303
+0.757
+276.1
+4.17
+P1
+1.269
+2.723
+0.322
+649.3
+1.31
+P2
+1.675
+2.907
+0.334
+624.9
+1.31
+P3
+1.937
+3.027
+0.352
+593.5
+1.31
+P4
+1.428
+2.795
+0.332
+629.4
+1.31
+P5
+0.964
+2.584
+0.338
+617.8
+1.31
+P6
+1.310
+2.742
+0.331
+632.1
+1.31
+P7
+1.946
+3.031
+0.414
+505.1
+2.61
+P8
+0.936
+2.571
+0.336
+621.8
+1.31
+Under the adopted conditions, all 15 full voltage bounds pass, with a worst-case drop of 3.031%.
+Additionally, the calculated minimum earth-fault current in each B-curve final circuit exceeds the
+threshold 5In. Similarly, incoming C63 gives Zs = 0.264129 < 0.33 ohm and If,min = 791.28 >
+10(63) = 630 A, satisfying reference instantaneous disconnection under the adopted conditions.
+18
+
+Task 3 – Maximum current demand calculation and cable sizing (continued)
+Overload and total clearing energy
+CPC thermal withstand is checked using k = 115 for bunched PVC copper CPCs initially at 70 ◦C
+(11(2)(c)), with total I2t ≤(kS)2 required. Additionally, the main protection and RCBOs must
+have a breaking capacity of 10 kA. B-curve devices must limit class 3-equivalent total energy to at
+most 70,000 A2s for B10/B16 and 90,000 for B32. Accordingly, the selected RCBOs must have
+manufacturer total-clearing-energy data that meet these limits. Corresponding CPC withstands are
+82,656.25 (2.5 mm2), 211,600 (4), 476,100 (6) and 1,322,500 (10), each above the required device
+bound.
+Incoming C63 total energy must be at most 1,000,000 A2s over the relevant fault range, below CPC16
+withstand 3,385,600. Similarly, complete 13 A FCU energy must be at most 90,000, below the 4 mm2
+spur withstand 211,600. Therefore, the incoming breaker and FCU assemblies must be selected to
+meet these total-energy limits.
+Under fuse overload conditions, I2 = 1.9(13) = 24.7 A. Spur Iz = 32(0.87)(0.70) = 19.488 A
+gives 1.45Iz = 28.2576 > 24.7 A. Overload suitability of P1–P4 is assessed using the standard A1
+arrangement in EMSD 6C, 6E and Table 6(1), Note 1(i): 32 A protection, copper size at least 2.5
+mm2, corrected per-leg capacity at least 20 A, served area at most 100 m2, intact L/N/CPC rings and
+evenly distributed outlets. On this basis, the adopted 6 mm2 rings meet these conditions. Exactly two
+individually 13 A fused connections are allowed per ring; no additional unfused taps are permitted.
+Here, the leg-current calculation checks load distribution; the A1 standard arrangement governs ring
+overload protection. With a reference interruption rating of 6 kA, the fuse meets the assumed PFC of
+at most 6 kA. However, its typical pre-arcing 870 A2s is not total clearing energy. Finally, the design
+assumes an FCU ambient temperature of at most 35 ◦C and a board apparatus ambient temperature
+of at most 30 ◦C; a containment temperature of 40 ◦C remains the conservative cable condition.
+References
+CLP COP215 Rev 07: clauses 3.1.7 and 3.3.1; Appendices 2 and 7 (building demand). CLP COP101
+v16: clauses 4.3, 5.5, 5.6 and 6.1–6.7 (plantroom planning).
+EMSD Code of Practice for the Electricity (Wiring) Regulations, 2025: Table 6(1), printed p.56;
+Table 7(1), pp.65–67; 9B, p.79; Table 11(2), pp.99–100; Table 11(10), p.105; Appendix 5 correction
+factors and Appendix 6 cable ratings.
+Performance in Lighting, PLATO 600 MultiPower 3117955: LOW (22 W), MEDIUMLOW (28
+W) and HIGH (38 W) manufacturer LDT files, October 2022. ABB guide 9AKK108468A3912,
+p.130: B-curve energy references. Eaton TDC180 Technical Data 2042, August 2024, p.2: fuse
+conventional-fusing and interruption data. Total FCU clearing energy is specified separately above.
+Electrical Schematic 1: transformer, main LV switchboard and floor-metering arrangement. Electri-
+cal Schematic 2: final distribution-board schematic conventions.
+19

@@ -1,0 +1,127 @@
+Configuring the ERMS Settings
+The ERMS settings can be configured as follows:
+•
+With EcoStruxure Power Commission software through a USB connection
+(password-protected)
+•
+With the EcoStruxure Power Device app (password-protected)
+The dual settings function does not apply to ERMS settings. The ERMS settings
+are independent of dual settings set A or set B and replace set A or set B when the
+ERMS function is engaged.
+The following ERMS settings are available:
+Setting
+Unit
+Setting range
+Factory setting
+MicroLogic X type
+Ir
+A
+0.4–1 x In
+1 x In
+MicroLogic 2.0 X,
+3.0 X, 5.0 X, 6.0 X,
+7.0 X
+tr
+s
+0.5–24
+0.5 s
+Isd
+A
+1.5–10 x Ir
+1.5 x Ir
+MicroLogic 5.0 X,
+6.0 X, 7.0 X
+tsd
+s
+0–0.4
+0
+Isd
+A
+1.5–10 x Ir
+1.5 x Ir
+MicroLogic 2.0 X
+Ii
+A
+1.5–12 x In
+1.5 x In
+MicroLogic 3.0 X
+Ii tripping mode
+–
+Standard/Fast
+Fast
+Ii mode
+–
+ON/OFF
+ON
+MicroLogic 5.0 X,
+6.0 X, 7.0 X
+Ii tripping mode
+–
+Standard/Fast
+Fast
+Ii
+A
+2.0–15 x In
+2.0 x In
+Ig mode
+–
+ON/OFF
+ON
+MicroLogic 6.0 X IEC
+standard
+Ig(1)
+A
+0.2–1 x In
+0.2 x In
+tg
+s
+0–0.4
+0
+Ig for In ≤1200 A
+(1)
+A
+0.2–1 x In
+0.2 x In
+MicroLogic 6.0 X UL
+standard
+Ig for In > 1200
+A
+A
+500–1200
+500
+tg
+s
+0–0.4
+0
+(1) For In ≤400 A, the Ig setting range is 0.3–1 x In (factory setting: 0.3 x In)
+ERMS Engaged For More Than 24 Hours
+A maintenance operation requiring protection settings to be in ERMS mode
+normally lasts for no more than a few hours. If the ERMS function is engaged for
+more than 24 hours without being disengaged, an event is generated to remind
+the user to disengage the function.
+Predefined Events
+The function generates the following predefined events:
+Code
+Event
+History
+Severity
+0x0C03
+(3075)
+ERMS engaged
+Protection
+Low
+0x0C02
+(3074)
+ERMS engaged for more than 24 hours
+Protection
+Low
+0x0C04
+(3076)
+ESM (ERMS switch module) self diagnostic
+alarm
+Protection
+Medium
+162
+DOCA0102EN-12
+MasterPacT MTZ - MicroLogic X Control Unit
+Optional Protection Functions

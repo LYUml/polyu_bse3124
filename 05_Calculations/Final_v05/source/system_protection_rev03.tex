@@ -1,0 +1,27 @@
+\subsection*{Maximum fault current and manufacturer backup}
+For the cold-copper fault bound, assume indoor conductor temperature at least 0\,$^\circ$C, effective area at most 110\% nominal and conductivity at most 102\% IACS. NBS Handbook 100 gives $\rho_{20}=1/58$ $\Omega$mm$^2$/m and $\alpha_{20}=0.00393/\mathrm{K}$. Thus the effective lower bound is $\rho_0/(1.10\times1.02)=0.014159$; use the still lower 0.014. Upstream resistance and all reactance are omitted, making the derived maximum current conservative.
+
+For the 35 mm$^2$, 31.5119 m feeder, $R_{ph,min}=0.014(31.5119)/35=0.012605$ $\Omega$. The DB bounds are therefore
+\[
+I_{LN,max}=\frac{1.1(220)}{2R_{ph,min}}=9.600\text{ kA},\quad
+I_{3ph,max}=\frac{1.1(380)}{\sqrt3R_{ph,min}}=19.147\text{ kA}.
+\]
+The phase--phase bound is 16.582 kA and the phase--earth bound, including CPC16, is 6.024 kA. Specify the complete DB assembly, including isolator, with at least 25 kA verified fault duty for its protective combination.
+
+Schneider LVPED318033EN, printed A-198 (PDF p.206), lists ComPacT NSX100H upstream of iC60H RCBO (voltage-dependent): reinforced breaking capacity 40 kA for 6--20 A devices and 25 kA for 32--45 A devices, at 380--415 V / 220--240 V phase-neutral. These exceed the 19.147 kA envelope. The selected A9D31810/A9D31832 are the corresponding voltage-dependent Type A products. This documented backup relationship addresses multiphase faults; it does not establish full selectivity. The standalone 10 kA rating also exceeds the calculated 9.600 kA line-neutral fault.
+
+For each point FCU, add branch resistance before its terminals: radial actual chainage plus the 2 m vertical allowance; for rings use $l_a l_b/(l_a+l_b)$. No credit is taken for the 0.5 m spur after the fuse. The worst result is FB09 at 5.147 kA, below 6 kA. Total-clearing-energy limits specified above remain required for the complete apparatus combination and relevant fault types; backup breaking capacity by itself does not prove conductor thermal protection.
+
+\subsection*{Main earth-fault protection and earthing}
+Use four-pole MicroLogic 6.0X LSIG sensing on each draw-out main incomer, with $I_g=500$ A and $t_g=0.2$ s, $I^2t$ OFF. Including +10\% pickup tolerance gives 550 A. With the declared origin-loop limit of 0.18 $\Omega$, the minimum earth-fault current is $0.95(220)/0.18=1161$ A. The manufacturer maximum breaking time for this setting is below 0.20 s (DOCA0102EN-12 pp.118--119), below the CLP 5 s requirement. The electronic phase/neutral sensing arrangement and settings require utility acceptance.
+
+Provide the customer's own electrode, MET and continuous protective/bonding conductors (CLP Supply Rules 301/304; GuideToSupply section 11). Any agreed CLP earth bond is at least 70 mm$^2$ copper and cannot be the sole earth path; verify the customer loop with the optional bond disconnected as required. The 0.18 $\Omega$ value is a design acceptance condition, not achieved electrode resistance or a site test. Do not create an N--PE bridge in the tenant DB. If the agreed supply/earthing arrangement cannot meet this condition, the protection design must be recalculated.
+
+\noindent Additional sources: Schneider Canalis KT DEBU024EN, printed pp.143--145 (busway data); Schneider ComPacT NSX LVPED221001EN, H-44 (energy-limiting curves); DOCA0187EN-04 p.235 (TM63D trip curve); LVPED318033EN A-198 (cascading); CLP GuideToSupply v10 sections 2, 3 and 7.4.
+
+
+\subsection*{Main over-current setting and CLP curve}
+Adopt main-incomer $I_r=2250$ A, short-time pickup $I_{sd}=2I_r=4500$ A, $t_{sd}=0$ s and $I^2t$ OFF. With +10\% pickup tolerance, the short-time function is active by 4950 A. DOCA0102EN-12 p.110 gives a maximum breaking-time envelope below 0.08 s at this setting. This is below the minimum approximately 0.09 s of CLP GuideToSupply Appendix 1's dashed 2500 A curve over its plotted approximately 5--40 kA range. Set long-time delay to the minimum available 0.5 s at $6I_r$; instantaneous protection remains enabled. Stagger plant starts and limit starting current so that this selected main setting is not exceeded; motor-start and complete utility protection coordination require the actual plant data.
+
+\subsection*{Area input traceability}
+COP215 loading uses assumed UFA values of 309/309/410 m$^2$, based on the plan annotations. Verify boundaries and applicable kitchen/common-area exclusions before replacing these assumptions; lighting and circuit service envelopes are not UFA measurements.

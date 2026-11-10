@@ -1,0 +1,102 @@
+{
+  "drawing": "C:\\Users\\lyuml-win\\Desktop\\polyu_bse3124\\05_Calculations\\schematic_revision_v04\\BSE3124_Final_Rev04.dwg",
+  "sha256": "09206166431d973d735ad11b99b49630861dc02484be586a919baad018437060",
+  "engine": "C:\\Program Files\\Autodesk\\AutoCAD 2027\\accoreconsole.exe",
+  "native_version": "26.0",
+  "native_reopen_pass": true,
+  "read_only_hash_unchanged": true,
+  "checked_entity_handles": 1414,
+  "missing_handles": 0,
+  "lighting_labels_checked": 92,
+  "routes": [
+    {
+      "circuit_id": "LC-A",
+      "native_plan_m": 53.300948,
+      "expected_plan_m": 53.300948
+    },
+    {
+      "circuit_id": "LC-B",
+      "native_plan_m": 57.184084000000006,
+      "expected_plan_m": 57.184084
+    },
+    {
+      "circuit_id": "LC-C",
+      "native_plan_m": 39.999052000000006,
+      "expected_plan_m": 39.999052
+    },
+    {
+      "circuit_id": "LC-D",
+      "native_plan_m": 22.233416000000002,
+      "expected_plan_m": 22.233416
+    },
+    {
+      "circuit_id": "LC-E",
+      "native_plan_m": 29.464052,
+      "expected_plan_m": 29.464052
+    },
+    {
+      "circuit_id": "LC-F",
+      "native_plan_m": 27.709658,
+      "expected_plan_m": 27.709658
+    },
+    {
+      "circuit_id": "LC-G",
+      "native_plan_m": 22.378646,
+      "expected_plan_m": 22.378646
+    },
+    {
+      "circuit_id": "P1",
+      "native_plan_m": 24.6202,
+      "expected_plan_m": 24.6202
+    },
+    {
+      "circuit_id": "P2",
+      "native_plan_m": 31.5202,
+      "expected_plan_m": 31.5202
+    },
+    {
+      "circuit_id": "P3",
+      "native_plan_m": 41.2202,
+      "expected_plan_m": 41.2202
+    },
+    {
+      "circuit_id": "P4",
+      "native_plan_m": 30.220200000000002,
+      "expected_plan_m": 30.2202
+    },
+    {
+      "circuit_id": "P5",
+      "native_plan_m": 13.607484000000001,
+      "expected_plan_m": 13.607484
+    },
+    {
+      "circuit_id": "P6",
+      "native_plan_m": 11.863968000000002,
+      "expected_plan_m": 11.863968
+    },
+    {
+      "circuit_id": "P7",
+      "native_plan_m": 11.107484000000001,
+      "expected_plan_m": 11.107484
+    },
+    {
+      "circuit_id": "P8",
+      "native_plan_m": 13.107484000000001,
+      "expected_plan_m": 13.107484
+    }
+  ],
+  "incoming_plan_routes_checked": 2,
+  "db_schedule_rows_checked": 15,
+  "required_layouts": [
+    "TASK1-GROUND-OVERVIEW",
+    "TASK1-ROOM-REVIEW",
+    "TASK2-DB-SCHEMATIC",
+    "TASK2-LIGHTING-PLAN",
+    "TASK2-POWER-PLAN",
+    "DESIGN-DETAILS",
+    "TASK1-MAIN-SCHEMATIC",
+    "REV03-ROUTE-AND-RING"
+  ],
+  "units": "millimetres (INSUNITS4)",
+  "scope": "Native DWG reopen/read; PDF print quality reviewed separately"
+}

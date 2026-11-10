@@ -1,0 +1,33 @@
+% !TeX root = main.tex
+\subsection*{Transformer and main LV room proposal}
+The proposal starts with two 1500 kVA transformers serving separate LV sections, providing 3000 kVA in total and a margin of 327.784 kVA. Floors 1--5 are allocated to section A and floors 6--10 to section B, with each section also receiving half of the central plant/public allowance. Under this assumed equal split, each section carries 1336.108 kVA, corresponding to about 2030 A at 380 V. However, full-load N--1 is not provided, so load shedding is required if one unit is lost. The two LV sections operate independently; no bus coupler is provided.
+
+Room placement follows the lower-left perimeter of the supplied plan, with a 12430 by 5450 mm substation and an adjacent 12430 by 3500 mm LV room, whose depth is assumed. This location allows external plant access and short LV interfaces, while providing separation from the lift/stair/AHU core and independent LV access. Additionally, a 3 m clear delivery route within 20 m of unloading is proposed, subject to confirmation of the external site conditions.
+
+The plantroom drawing shows HV-01 as a compartmented switchboard and TX-A/TX-B as transformer plan symbols with HV/LV terminal positions. Adopted overall dimensions are 3000 by 1000 mm for HV-01 and 2200 by 1800 mm for each transformer, with six LV cabinets. These are design dimensions; internal equipment details are diagrammatic. Their clearance envelopes fit without overlap. COP101 v 16 clause 4.3 requires HV clearances of 1000 mm at the rear, 1800 mm at the front and 750 mm at the sides, together with 900 mm at transformer LV terminals and 750 mm elsewhere. Additionally, the proposal includes 2-hour partitions, sealed penetrations and an FFL 150 mm above external level. Meanwhile, the outward-opening 180-degree doors have shared sweeps and therefore require sequential use.
+
+Two EF-A/B exhaust fans use COP101 v16 clause 6.6's 630 mm, 30-degree, 700 rpm type: 4500 m$^3$/h at 70 Pa each. The low-level inlet louvres IL-A/B are each 600 by 2000 mm with a specified minimum free-area ratio of 50\%, providing 1.20 m$^2$ against the 1.12 m$^2$ minimum. High-level exhaust ducts are 900 by 750 mm (0.675 m$^2$), discharging at least 2.5 m above street level. The following selection calculation establishes the duty. LV interface lengths including adopted tails remain 10.03/10.31 m, below 20 m.
+
+\subsection*{Main distribution schematic}
+The main schematic connects TX-A and TX-B through their respective ACB incomers to MSB-A and MSB-B. Separate 1600 A rising supplies serve floors 1--5 and 6--10. Each floor has a 400 A frame MCCB set to 320 A, followed by three separate tenant meters. Each section also feeds its allocated central plant and public services. The Office 1 inset links floor metering to MS-O1, the selected feeder and DB-O1. The arrangement follows the transformer, switchboard and metering relationships in \emph{Electrical Schematic 1}; the adopted loads and final-circuit ratings remain those calculated in Tasks 1 and 3.
+
+\clearpage
+\subsection*{Equipment selection and checks}
+The utility supply equipment is specified as two CLP 1500 kVA distribution-transformer units and an HV incomer with two transformer-protection panels. COP101 v16's responsibility schedule, items 7.1--7.8, assigns the transformer, switchgear and utility metering to CLP. Consequently, the drawings identify their functions and installation envelopes; they do not falsely nominate a commercially selected transformer as CLP-approved. The retained 2200 by 1800 mm transformer and 3000 by 1000 mm HV installation dimensions are declared design assumptions.
+
+For customer equipment, select Schneider MasterPact MTZ2 25H1 four-pole incomers, 2500 A frame with MicroLogic 5.0X long-time pickup $I_r=0.9(2500)=2250$ A. Each calculated section current is $1336.108\times1000/(\sqrt3\times380)=2030.01$ A. Hence $2030.01<2250<2279.01$ A, the last value being the transformer full-load current at the conservative 380 V design basis. No transformer parallel operation or bus coupler is provided.
+
+The five-floor rising main has $I_b=5(164.48)(1.1)1000/(\sqrt3\times380)=1374.46$ A. Select MTZ2 16H1, 1600 A, with $I_r=1440$ A. At each floor, $I_b=274.89$ A: select ComPacT NSX400H C40H42D400, 400 A frame/MicroLogic 2.3 with $I_r=320$ A. The plant/public branch has $I_b=655.55$ A: select ComPacT NS800H C080H45AFM, 800 A with $I_r=720$ A. These are main-distribution apparatus selections; Task 3 sizes the selected tenant's incoming and outgoing cables.
+
+For the main bus fault-duty check, assume transformer impedance 6\%, allow a 10\% negative impedance tolerance and adopt voltage factor 1.1. With one transformer per section, the conservative transformer-only bound is
+\[
+I_{k}=\frac{1.1(1500\times1000)}{\sqrt3(380)(0.054)}=46.43\ {\rm kA}.
+\]
+To cover initial motor contribution, conservatively treat the entire 655.55 A plant/public design envelope as rotating load and assume an initial contribution of eight times that current: 5.245 kA. The combined design bound is 51.67 kA. Selected 66 kA ACBs and 70 kA MCCBs exceed this bound. Transformer impedance, motor multiplier and operating configuration are stated design assumptions; actual utility and motor data must fall within them. These are not measured site values. Long-time settings above do not establish full short-circuit discrimination.
+
+\subsection*{Ventilation duty}
+COP101 v16 clause 6.4 provides a 15 kW heat-dissipation reference per transformer. Adopt a 25\% cyclic-load margin: $Q=2(15)(1.25)=37.5$ kW. At a combined 9000 m$^3$/h, with assumed air density 1.2 kg/m$^3$ and $c_p=1005$ J/(kg K),
+\[
+\Delta T=\frac{37500}{1.2(1005)(9000/3600)}=12.44\ {\rm K}.
+\]
+At each 0.675 m$^2$ duct the velocity is 1.85 m/s; combined inlet free-area velocity is 2.08 m/s. For a short 1.4 m design duct route, assumed Darcy factor 0.025, inlet coefficient 2 and combined bend/transition/outlet coefficient 2, estimated pressure loss is 9.41 Pa, below the 70 Pa selected duty. These are stated design coefficients, not laboratory louvre data; the installed louvre/duct combination must maintain this duty. Fan noise limit is 58 dB(A) at 1 m under clause 6.6. The plan shows high-level ducts above the delivery openings.

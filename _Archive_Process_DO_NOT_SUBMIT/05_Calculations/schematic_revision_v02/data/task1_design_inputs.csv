@@ -1,0 +1,16 @@
+parameter,value,unit,basis,status
+typical_floors,10,floors,Assignment,given
+office_1_ufa,309,m2,Drawing annotation 6EFD; accepted as UFA for course estimate,design assumption
+office_2_ufa,309,m2,Drawing annotation 6F00; accepted as UFA for course estimate,design assumption
+office_3_ufa,410,m2,Drawing annotation 6F03; accepted as UFA for course estimate,design assumption
+office_density,0.16,kVA/m2,COP215 Rev07 Appendix 2 office,course reference
+cooling_capacity,1000,kW cooling,Assignment whole-building cooling capacity,given
+cooling_per_TR,3.51685,kW cooling/TR,Unit conversion,conversion
+AC_input_per_TR,1.85,kW electrical/TR,COP215 Rev07 Appendix 7 packaged air cooled,adopted system assumption
+AC_power_factor,0.9,ratio,Preliminary course design assumption,design assumption
+lift_count,5,lifts,Ground-floor drawing interpreted as five lifts,design assumption
+public_per_lift,40,kVA/lift,COP215 Rev07 clauses 3.1.6 and 3.3.1; aggregate public services,course reference
+zoning_factor,1.1,ratio,COP215 Rev07 clause 3.1.7; two separate supply zones proposed,course reference
+line_voltage,380,V,Balanced three-phase course supply assumption,design assumption
+transformer_count,2,transformers,Two independent supply zones A floors 1-5 and B floors 6-10,design proposal
+transformer_rating,1500,kVA/unit,Proposed rating; CLP available type and equipment dimensions to confirm,design proposal

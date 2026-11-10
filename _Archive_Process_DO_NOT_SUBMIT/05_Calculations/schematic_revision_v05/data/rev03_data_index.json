@@ -1,0 +1,10 @@
+{
+  "authoritative_inputs": "system_design_inputs_rev03.json",
+  "results": "system_design_results_rev03.json",
+  "voltage_table": "voltage_drop_rev03.csv",
+  "point_fault_table": "point_fault_bounds_rev03.csv",
+  "minimum_fault_table": "fault_protection_results.csv",
+  "legacy_results": "rev02_provenance, provenance only",
+  "original_data_source": "05_Calculations/data",
+  "release": "BSE3124_Final_Rev03"
+}

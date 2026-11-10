@@ -1,0 +1,77 @@
+{
+  "source_id": "MS-O1",
+  "source_lighting_xy_mm": [
+    93000,
+    40000
+  ],
+  "DB_lighting_xy_mm": [
+    73000,
+    31488.1
+  ],
+  "route_lighting_xy_mm": [
+    [
+      93000,
+      40000
+    ],
+    [
+      93000,
+      37400
+    ],
+    [
+      73000,
+      37400
+    ],
+    [
+      73000,
+      31488.1
+    ]
+  ],
+  "power_plan_y_offset_mm": -49378,
+  "vertical_termination_allowance_m": 3,
+  "source_position_basis": "Proposed tenant meter/switch position near source METER text handle location93076,40246; actual cabinet/termination not measured",
+  "floor_basis": "One typical-floor Office1; route from its floor meter position to office DB. Upstream ground-to-floor distribution is outside this cable segment and constrained by pre-origin drop/fault limits. No floor height inferred.",
+  "voltage_LN_V": 220,
+  "voltage_LL_V": 380,
+  "line_neutral_mm2": 35,
+  "CPC_mm2": 16,
+  "cable": "four-core PVC insulated nonarmoured copper L1/L2/L3/N; separate PVC Cu CPC in same protected containment",
+  "method": "B",
+  "ambient_C": 40,
+  "Ca": 0.87,
+  "Cg": 1,
+  "harmonic_content_assumed_percent_range": ">15 to33",
+  "Ch": 0.86,
+  "It_25_A": 80,
+  "It_35_A": 99,
+  "candidate_In_A": 63,
+  "candidate_curve": "C",
+  "candidate_breaking_capacity_kA": 10,
+  "DB_busbar_A": 100,
+  "threephase_35_r_mV_A_m": 1.1,
+  "threephase_35_z_mV_A_m": 1.1,
+  "CPC16_pair_mV_A_m_reference": 2.8,
+  "neutral_current_design_limit_A": 63,
+  "pre_origin_drop_allowance_V": 2.2,
+  "installation_drop_limit_percent": 4,
+  "reference_C63_Zs_limit_ohm": 0.33,
+  "PVC_CPC_k": 115,
+  "sources": {
+    "ampacity": "EMSD2025 TableA6(2) col5 printed283 PDF284",
+    "voltage_drop": "EMSD2025 TableA6(2)cont col4 printed284 PDF285,35mm2 r/z1.10mV/A/m; phase-neutral envelope2/sqrt3 times3phase z",
+    "harmonics": "EMSD2025 6B(6)(c) printed52 PDF53; A5(7) printed278 PDF279,4/5core >15-33% factor0.86",
+    "CPC": "EMSD2025 Table11(2)(a) printed99 PDF100;16<S<=35 =>Cu CPC16",
+    "Zs": "EMSD2025 Table11(10) printed105 PDF106;C63 reference0.33ohm; manufacturer curve to verify",
+    "CPC_resistance": "A6(1)cont col3 PDF283,16mm2 L+N2.8mV/A/m; half as one conductor resistance envelope",
+    "k": "EMSD2025 Table11(2)(c) printed100 PDF101, bunched PVC Cu initial70C final160C k115"
+  },
+  "limitations": [
+    "No grouping with outgoing circuits; mechanically protected enclosed route, no thermal insulation contact",
+    "Harmonic assumption must be verified; >33% requires neutral-current-based reselection",
+    "Pre-origin drop2.2V is a design allowance, not measured or zero; verify feeder from supply origin",
+    "Source position,3m vertical/tail allowance and service penetrations are proposed, not as-built",
+    "C63 breaking capacity and device let-through must be verified against actual PFC and manufacturer data",
+    "Voltage drop is a fundamental-frequency design envelope, not a harmonic voltage-distortion assessment"
+  ],
+  "source_protective_device": "C63 4-pole at MS-O1 before cable",
+  "DB_incoming_switch": "100A4-pole isolator, not a second incoming overcurrent device"
+}

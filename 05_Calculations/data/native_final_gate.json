@@ -1,11 +1,11 @@
 {
-  "drawing": "C:\\Users\\lyuml-win\\Desktop\\polyu_bse3124\\03_Design_Drawings\\BSE3124_Final.dwg",
-  "sha256": "2af2392f6359711fdb46c3f6c1092e1e6bed480fb1e0a0ce74aa979d59bc5ad7",
+  "drawing": "C:\\Users\\lyuml-win\\Desktop\\polyu_bse3124\\05_Calculations\\schematic_revision_v05\\BSE3124_Final_Rev05.dwg",
+  "sha256": "48b323fdccf25d262f9d070c29a4f337fb86122f5607287486ae9931a6380e07",
   "engine": "C:\\Program Files\\Autodesk\\AutoCAD 2027\\accoreconsole.exe",
   "native_version": "26.0",
   "native_reopen_pass": true,
   "read_only_hash_unchanged": true,
-  "checked_entity_handles": 962,
+  "checked_entity_handles": 1414,
   "missing_handles": 0,
   "lighting_labels_checked": 92,
   "routes": [
@@ -93,7 +93,9 @@
     "TASK2-DB-SCHEMATIC",
     "TASK2-LIGHTING-PLAN",
     "TASK2-POWER-PLAN",
-    "DESIGN-DETAILS"
+    "DESIGN-DETAILS",
+    "TASK1-MAIN-SCHEMATIC",
+    "REV03-ROUTE-AND-RING"
   ],
   "units": "millimetres (INSUNITS4)",
   "scope": "Native DWG reopen/read; PDF print quality reviewed separately"

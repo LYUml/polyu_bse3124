@@ -1,0 +1,30 @@
+{
+  "text_positions": [
+    {
+      "handle": "798D",
+      "before_position": [
+        64275.932,
+        -13900.0,
+        0.0
+      ],
+      "after_position": [
+        64275.932,
+        -14800
+      ]
+    },
+    {
+      "handle": "7BD2",
+      "before_position": [
+        73350.0,
+        31318.1,
+        0.0
+      ],
+      "after_position": [
+        73900,
+        31050
+      ]
+    }
+  ],
+  "locator_viewport": "86B7: crop unrelated schedule, expand right to show source label; scale retained 1:170",
+  "power_viewport": "7DDB: extend top 3mm; scale retained 1:75"
+}

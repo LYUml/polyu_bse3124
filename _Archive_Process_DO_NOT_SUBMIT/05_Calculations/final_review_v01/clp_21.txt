@@ -1,0 +1,91 @@
+Code of Practice No. 101 for Distribution Substation Design 
+Page 19 
+ 
+Version 16          
+ 
+ 
+ 
+December  2025
+ 
+ 
+Information Class: PROPRIETARY 專有 
+ 
+ 
+ 
+ 
+5.6.2.2 
+A second, or emergency exit door should be provided for 
+substations longer than 10m (possibly a wicket door in a 
+double leaf door).  Such an emergency exit will be provided 
+with a panic bar which will operate top and bottom bolts of 
+the door, without key. 
+ 
+ 
+ 
+ 
+5.6.2.3 
+In case of a double leaf switchgear access door an 
+emergency exit deadlock set with panic bar will operate one 
+leaf of the door if this is the only access. 
+ 
+ 
+ 
+ 
+5.6.2.4 
+Main double leaf transformer access doors will lock by top 
+and bottom bolts inside the substation. 
+ 
+ 
+ 
+5.6.3 
+Controlled Access 
+ 
+ 
+ 
+ 
+The access need to be controlled to ensure that only authorized staff, 
+contractors and visitors pass through by means of access control and 
+intruder detection system. Metallic conduit system for access control 
+should be provided from each access door to the pilot marshalling box. 
+Detail refer to drawing T-COP-72000-D-E33-0103-23-A-A. 
+ 
+ 
+5.7 
+Substation Name 
+ 
+ 
+ 
+The following principles shall be followed when naming distribution 
+substations :- 
+ 
+(i) 
+Building name, or 
+(ii) Street and street number, or 
+(iii) Village name, or 
+(iv) The generally accepted location name. 
+ 
+The substation name shall not be more than 25 characters and the above shall 
+be in both English and Chinese. 
+ 
+ 
+5.8 
+Vermin Proofing 
+ 
+ 
+ 
+5.8.1 
+Some distribution substations are located in buildings with a dusty, 
+damp and vermin infested environment.  Vermin are usually small 
+animals such as rats, lizards and birds, etc. and insects are cockroaches 
+and flies, etc.  To avoid problems of hygiene, corrosion and risk of 
+insulation breakdown inside the electrical equipment caused by the 
+vermin, vermin proofing is normally achieved by a combination of 
+means.  The substation building itself will act as the first line of 
+defense while the electrical equipment design will act as the second. 
+ 
+ 
+ 
+5.8.2 
+In case of indoor substations, the first line of defense shall be by means 
+of : 
+ Substation walls 

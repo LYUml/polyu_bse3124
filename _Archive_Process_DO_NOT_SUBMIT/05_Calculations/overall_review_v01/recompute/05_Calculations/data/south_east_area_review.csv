@@ -1,0 +1,2 @@
+zone,bounding_rectangle_m2,column_overlap_m2,net_assumption_m2,source_handles,formula,status
+south_east,14.041736,0.968625,13.073111,"4091;409A;40C4;5136;513A","(79808.432-75215.0)*(19162.5-16105.584)/1e6 - (79808.432-78783.432)*(17050.584-16105.584)/1e6","provisional only: verify full boundary and whether column is excluded for intended area definition"

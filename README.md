@@ -1,18 +1,23 @@
 # BSE3124 — Group 1
 
-Final submission: [Report PDF](04_Final_Report/BSE3124_Final.pdf) · [AutoCAD drawing](03_Design_Drawings/BSE3124_Final.dwg) · [中文说明](README.zh-CN.md)
+**Final submission: Rev05, 23 pages. Use only the two files in [00_Submit](00_Submit/BSE3124_Group1_Mini%20Design%20Project).**
 
-| Folder | Contents |
-|---|---|
-| 01_Assignment_Brief | Original assignment, teacher answer-sheet template, and original building drawings in Building_Drawings. Originals are preserved byte-for-byte. |
-| 02_References | Course references, downloaded regulations/manufacturer documents and source notes. |
-| 03_Design_Drawings | One final editable DWG, for AutoCAD 2027. |
-| 04_Final_Report | One final report PDF; editable LaTeX, corrected template and drawing assets in source. |
-| 05_Calculations | Common CSV/JSON data and verification evidence in data; calculation/export scripts in scripts. |
-| 06_Tools | Environment setup, dependency restoration and AutoCAD connector tools. |
+- [Final answer sheets and all drawings — PDF](00_Submit/BSE3124_Group1_Mini%20Design%20Project/BSE3124_Group1_Mini%20Design%20Answer%20Sheets.pdf)
+- [Matching editable drawing — AutoCAD 2027 DWG](00_Submit/BSE3124_Group1_Mini%20Design%20Project/BSE3124_Group1_Mini%20Design%20layout%20drawings.dwg)
+- [中文说明](README.zh-CN.md)
 
-The 18-page report keeps Task 1 on pp.2–5, Task 2 on pp.6–14 and Task 3 on pp.15–18. Drawing PDFs inside the report source are build dependencies, not additional submission versions.
+The PDF contains all three tasks and drawings: cover p1; Task1 pp2–7; Task2 pp8–17; Task3 pp18–23. The assignment does not explicitly prescribe a file format; follow any additional submission-portal instructions. The DWG is the matching editable companion.
 
-Build: run `04_Final_Report/source/build.ps1`. Verify with `.venv/Scripts/python.exe 05_Calculations/scripts/verify_final.py`. Native drawing verification and plotting scripts are alongside it. Start with PROJECT_SPEC.md for project instructions.
+## Retained workspace
 
-Hidden .venv, .codex and .agents folders support the local environment. Earlier versions are available through Git history.
+- `01_Assignment_Brief`: unchanged original assignment/template/building drawings.
+- `02_References`: unchanged reference documents.
+- `05_Calculations/data`: current Rev05 calculation data.
+- `05_Calculations/Final_v05/source`: editable LaTeX and required PDF assets; run build.ps1 to rebuild the submission PDF.
+- `05_Calculations/Final_v05/references`: retained manufacturer references.
+- `05_Calculations/Final_v05/verification`: final review and native-DWG evidence.
+- `06_Tools` and hidden environment folders: reusable tools, not submission items.
+
+This consolidation changes no engineering content and does not close the qualifications in the final review. Final file hashes are in `05_Calculations/Final_v05/FINAL_MANIFEST.json`.
+
+Old versions and process files are in `_Archive_Process_DO_NOT_SUBMIT`; automatic approval rejected permanent deletion. Four CAD-locked DWGs remain in old revision directories until their applications release them. None are submission paths. No application was closed or restarted.

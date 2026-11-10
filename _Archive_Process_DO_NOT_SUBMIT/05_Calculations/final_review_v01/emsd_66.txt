@@ -1,0 +1,67 @@
+65
+Table 7(1)
+Allowance for Diversity
+This table is applicable to installations having a current demand not exceeding 
+400A in each phase.
+Purpose of 
+Conductors or 
+Switchgear to 
+which Diversity 
+Applies
+Type of Premises
+Individual 
+Household 
+Installations, 
+Individual 
+Dwellings of a 
+Block
+Small Shops, 
+Stores, Offices and 
+Business Premises
+Small Hotels, 
+Boarding Houses, 
+Guest Houses, etc.
+1. Lighting
+66% of total 
+current demand
+90% of total 
+current demand
+75% of total 
+current demand
+2. Heating and 
+Power (Also see 
+3 to 10 below)
+100% of total 
+current demand 
+up to 10 
+amperes+50% 
+of any current 
+demand in excess 
+of 10 amperes
+100% f.l. of largest 
+appliance+75% 
+f.l. of remaining 
+appliances
+100% f.l. of largest 
+appliance+80% 
+f.l. of 2
+nd largest 
+appliance+60% 
+f.l. of remaining 
+appliances
+3. Cooking 
+Appliances
+10 amperes+30% 
+f.l. of connected 
+cooking 
+appliances in 
+excess of 10 
+amperes+5 
+amperes if 
+socket outlet 
+incorporated in 
+unit
+100% f.l. of largest appliance+80% 
+f.l. of 2
+nd largest appliance+60% f.l. of 
+remaining appliances

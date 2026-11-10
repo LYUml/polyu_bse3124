@@ -1,0 +1,103 @@
+% !TeX root = main.tex
+\subsection*{Incoming design conditions}
+The selected tenant is first-floor Office 1. MS-O1 is a 4P4D ComPacT NSX100H TM63D MCCB immediately before the CLP meter, providing isolation and 63 A protection. The 4C35 mm$^2$ PVC copper feeder has CPC16 mm$^2$. Its 28.5119 m plan route plus 3 m vertical/meter-tail allowance gives 31.5119 m from MS-O1 through the meter to DB-O1. Assumed Method B, 40\,$^\circ$C, separate containment and 15--33\% third harmonic give $I_z=99(0.87)(1)(0.86)=74.0718$ A; $48.6<63<74.0718$. The 25 mm$^2$ alternative gives only 59.856 A. The full-size neutral and its loading limit are retained.
+
+The phase-neutral feeder bound uses $(2/\sqrt3)(1.10)=1.270170592$ mV/A/m: 1.945239 V at the 48.600 A design-demand/neutral-current envelope, and 2.521606 V in the separate 63 A stress check. The upstream drop is calculated from the busway model below.
+
+\subsection*{All outgoing cables}
+All outgoing cable sizes refer to PVC copper L/N/CPC conductors. Lighting grouped separately has $I_z=24(0.87)(0.54)=11.2752$ A for seven 2.5 mm$^2$ circuits;  all $I_b\le 10\le I_z$. Lighting lengths include 5 m DB/switch vertical allowance.
+
+Each uniform ring bank counts as four current-carrying legs, giving $I_z=41(0.87)(0.65)=23.1855$ A per 6 mm$^2$ leg, above the standard 20 A minimum. With 13 A per point, the ring-network solution gives maximum leg currents 14.658--15.203 A, below $I_z$. Ring overload protection follows the A1 conditions below.
+
+The 10 mm$^2$ A2 radial cables have $I_z=57(0.87)(0.70)=34.713$ A;  P7's separate 4 mm$^2$ radial has $I_z=32(0.87)=27.84$ A. In determining route lengths, the power radials include a 2 m vertical allowance, while the rings include 2 m at each DB end. Each local point spur adds 0.5 m of 4 mm$^2$ cable.
+\begingroup\small\renewcommand{\arraystretch}{1.0}
+\begin{longtable}{llrrrr}\toprule
+Circuit & Phase & $I_b$ A & RCBO A & L/N/CPC mm$^2$ & Main length m\\\midrule\endhead
+
+LC-A & L1 & 2.030 & 10 & 2.5 & 58.301 \\
+LC-B & L2 & 1.980 & 10 & 2.5 & 62.184 \\
+LC-C & L3 & 2.000 & 10 & 2.5 & 44.999 \\
+LC-D & L3 & 1.222 & 10 & 2.5 & 27.233 \\
+LC-E & L2 & 1.980 & 10 & 2.5 & 34.464 \\
+LC-F & L1 & 1.414 & 10 & 2.5 & 32.710 \\
+LC-G & L3 & 0.768 & 10 & 2.5 & 27.379 \\
+P1 & L1 & 26.000 & 32 & 6 & 28.620 \\
+P2 & L1 & 26.000 & 32 & 6 & 35.520 \\
+P3 & L2 & 26.000 & 32 & 6 & 45.220 \\
+P4 & L2 & 26.000 & 32 & 6 & 34.220 \\
+P5 & L1 & 13.000 & 32 & 10 & 15.607 \\
+P6 & L3 & 26.000 & 32 & 10 & 13.864 \\
+P7 & L3 & 6.364 & 10 & 4 & 13.107 \\
+P8 & L3 & 13.000 & 32 & 10 & 15.107 \\
+
+\bottomrule\end{longtable}
+\endgroup
+\subsection*{Complete voltage drop and fault checks}
+The origin is the customer main incomer outgoing terminals. Adopt a maximum 28 m developed MSB-to-F1 busway route (design allowance), with phase fundamental current 1374.458 A and neutral fundamental current at most 10\% of that value. KTC2500 has hot $Z=0.021$ m$\Omega$/m. Allow 10\% impedance tolerance and 0.05 V for internal links/connections: $\Delta V_{up}=1374.458(1.10)(0.000021)(28)(1.10)+0.05=1.027900$ V. Meter tails are already included in the feeder allowance. The distribution segment is $(1.027900+1.945239)/220=1.3514\%<1.5\%$. Worst final drop is $1.936871/220=0.8804\%<2.5\%$. These classroom allocations are checked at design demand; the separate 63 A feeder stress check remains below the 4\% total limit. Harmonic voltage distortion is outside this fundamental-frequency calculation; the assumed phase balance must be maintained.
+
+For minimum earth-fault current, adopt TN-S and an origin external-loop acceptance limit of 0.18 $\Omega$ (design acceptance condition). The busway hot phase--PE resistance/reactance are 0.282/0.170 m$\Omega$/m (Canalis table, printed p.143). A conservative $R+X$ envelope gives $(0.282+0.170)(28)(1.1)/1000+0.002=0.015922$ $\Omega$, including connections. Hence $Z_e$ at MS-O1 is 0.195922 $\Omega$, and adding the feeder 0.064129 $\Omega$ gives 0.260051 $\Omega$ at DB-O1. Final-circuit checks retain hot conductor paths, minimum voltage factor 0.95 and B10/B32 reference limits of 4.17/1.31 $\Omega$. Uniform ring paths use the conservative quarter-circumference bound.
+\begingroup\small\renewcommand{\arraystretch}{1.0}
+\begin{longtable}{lrrrrr}\toprule
+Circuit & Out drop V & Total drop \% & $Z_s$ ohm & Min fault A & $Z_s$ limit ohm\\\midrule\endhead
+LC-A & 1.450 & 2.010 & 1.309 & 159.6 & 4.17 \\
+LC-B & 1.237 & 1.914 & 1.379 & 151.5 & 4.17 \\
+LC-C & 0.959 & 1.787 & 1.070 & 195.3 & 4.17 \\
+LC-D & 0.422 & 1.543 & 0.750 & 278.6 & 4.17 \\
+LC-E & 0.797 & 1.714 & 0.880 & 237.4 & 4.17 \\
+LC-F & 0.642 & 1.643 & 0.849 & 246.2 & 4.17 \\
+LC-G & 0.345 & 1.508 & 0.753 & 277.6 & 4.17 \\
+P1 & 1.269 & 1.928 & 0.318 & 657.7 & 1.31 \\
+P2 & 1.675 & 2.113 & 0.330 & 632.6 & 1.31 \\
+P3 & 1.937 & 2.232 & 0.348 & 600.4 & 1.31 \\
+P4 & 1.428 & 2.000 & 0.328 & 637.2 & 1.31 \\
+P5 & 0.964 & 1.790 & 0.334 & 625.3 & 1.31 \\
+P6 & 1.310 & 1.947 & 0.327 & 640.0 & 1.31 \\
+P7 & 0.953 & 1.784 & 0.410 & 510.1 & 4.17 \\
+P8 & 0.936 & 1.777 & 0.332 & 629.5 & 1.31 \\
+\bottomrule\end{longtable}
+\endgroup
+All 15 design-demand voltage checks pass; the maximum is 2.232\%. Using 63 A for the feeder instead gives a maximum full-path stress bound of 2.494\%. Final-circuit minimum fault currents exceed $5I_n$. For TM63D, the manufacturer magnetic setting is 500 A; allowing +20\% gives 600 A. The incoming minimum earth-fault current is $209/0.260051=803.69$ A $>600$ A; the TM63D curve (DOCA0187EN-04 p.235) gives instantaneous-region disconnection, conservatively below 0.1 s.
+\subsection*{Overload and total clearing energy}
+CPC thermal withstand is checked using $k=115$ for bunched PVC copper CPCs initially at 70\,$^\circ$C (11(2)(c)), with total $I^2t\le(kS)^2$ required. The incoming NSX100H is rated 70 kA; final RCBOs have 10 kA standalone ratings plus the documented NSX100H backup combination below. B-curve devices must limit class 3-equivalent total energy to at most 70,000 A$^2$s for B10 and 90,000 for B32. Accordingly, the selected RCBOs must have manufacturer total-clearing-energy data that meet these limits. Corresponding CPC withstands are 82,656.25 (2.5 mm$^2$), 211,600 (4), 476,100 (6) and 1,322,500 (10), each above the required device bound.
+
+Incoming NSX100H TM63D total energy must be at most 1,000,000 A$^2$s over the relevant fault range, below CPC16 withstand 3,385,600. The 4 mm$^2$ local spurs are also short-circuit protected by their upstream B32/B10 RCBOs: use the conservative 90,000 A$^2$s RCBO bound, below their 211,600 A$^2$s withstand. The FCU still provides the stated point overload protection and must meet its 6 kA interruption duty.
+
+For WH01, $I_b=1400/220=6.364<10<27.84$ A, and the manufacturer specifies 10 A protection. Its 10 A FCU gives $I_2=1.9(10)=19<28.2576$ A for the local spur. The assumed 0.5 m local allowance exceeds the 0.448 m drawn connection. The appliance assembly has an accessible earthed socket and double-pole isolation with at least 3 mm contact separation, following manual section 10.4.
+
+Under socket fuse overload conditions, $I_2=1.9(13)=24.7$ A. Spur $I_z=32(0.87)(0.70)=19.488$ A gives $1.45I_z=28.2576>24.7$ A. Overload suitability of P1--P4 is assessed using the standard A1 arrangement in EMSD 6C, 6E and Table 6(1), Note 1(i): 32 A protection, copper size at least 2.5 mm$^2$, corrected per-leg capacity at least 20 A, served area at most 100 m$^2$, intact L/N/CPC rings and evenly distributed outlets. The 6 mm$^2$ rings meet these conditions, with exactly two individually 13 A fused taps per ring. The actual point-fault calculation gives a maximum 5.147 kA at FB09, below the 6 kA fuse interruption rating; it includes incoming and branch resistance up to the FCU, without credit for the downstream spur. The design assumes an FCU ambient temperature of at most 35\,$^\circ$C and a board apparatus ambient temperature of at most 30\,$^\circ$C; a containment temperature of 40\,$^\circ$C remains the conservative cable condition.
+\input{system_protection_rev03.tex}
+\subsection*{References}
+CLP COP215 Rev 07: clauses 3.1.7 and 3.3.1; Appendices 2 and 7 (building demand). CLP COP101 v16: clauses 4.3, 5.5, 5.6 and 6.1--6.7 (plantroom planning).
+
+EMSD Code of Practice for the Electricity (Wiring) Regulations, 2025: Table 6(1), printed p.56; Table 7(1), pp.65--67; 9B, p.79; Table 11(2), pp.99--100; Table 11(10), p.105; Appendix 5 correction factors and Appendix 6 cable ratings.
+
+Performance in Lighting, PLATO 600 MultiPower 3117955: LOW (22 W), MEDIUMLOW (28 W) and HIGH (38 W) manufacturer LDT files, October 2022. ABB guide 9AKK108468A3912, p.130: B-curve energy references. Eaton TDC180 Technical Data 2042, August 2024, p.2: fuse conventional-fusing and interruption data. 
+
+\noindent Electrical Schematic 1: transformer, main LV switchboard and floor-metering arrangement. Electrical Schematic 2: final distribution-board schematic conventions.
+
+
+\clearpage
+\subsection*{Selected customer-side apparatus}
+\begingroup\small\renewcommand{\arraystretch}{1.0}
+\begin{longtable}{p{.19\linewidth}p{.42\linewidth}p{.31\linewidth}}\toprule
+Item & Selected model / configuration & Design selection\\\midrule\endhead
+Main incomers & Schneider MasterPact MTZ2 25H1, four-pole draw-out; MicroLogic 6.0X LSIG & 2500 A frame; 2250 A pickup; 66 kA\\
+Bus coupler BC & MTZ2 25H1 4P draw-out; 5.0X LSI & 2500AF/2250AT; 66 kA; N.O.\\
+Riser busways & Canalis KTC2500 copper, 3L+N+PE & 2500 A nominal; 1940 A corrected\\
+Rising supplies & Schneider MasterPact MTZ2 16H1, four-pole; MicroLogic 5.0X & 1600 A frame; 1440 A pickup; 66 kA\\
+Floor protection & Schneider ComPacT NSX400H C40H42D400 / MicroLogic 2.3 & 400 A frame; 320 A pickup; 70 kA\\
+Plant/public & Schneider ComPacT NS800H C080H45AFM / MicroLogic 5.0A & 800 A frame; 720 A pickup; 70 kA\\
+MS-O1 & Schneider ComPacT NSX100H C10H4TM063 & TM63D; 4P4D; 63 A; 70 kA Icu/Ics\\
+LC-A--G and P7 & Schneider Acti9 iC60H A9D31810 & B10; 1P+N; Type A, 30 mA; 10 kA\\
+P1--P6 and P8 & Schneider Acti9 iC60H A9D31832 & B32; 1P+N; Type A, 30 mA; 10 kA\\
+WH01 via FS01 & STIEBEL ELTRON SHC10 GB Eltron 235232 & 10 L; 1.4 kW at 220 V; B10 and 10 A DP FCU\\
+\bottomrule\end{longtable}
+\endgroup
+ACBs include the listed MicroLogic units. DB-O1 has a 100 A four-pole isolator, eight-way TPN chassis and 15 outgoing devices; unused positions are blanked.
+
+\subsection*{Manufacturer selection references}
+\href{https://www.stiebel-eltron.com/content/dam/ste/cdbassets/current/bedienungs-_u_installationsanleitungen/instructionandinstallationmanual_doc-00060782.pdf}{STIEBEL ELTRON, SHC 10 / SHC 15 operation and installation manual}, sections 10.4 and 15.7 (printed p.12): 220 V heater rating, 10 A protection and dimensions. The tabulated rounded current is 6.2 A; this design conservatively uses 1400/220 = 6.364 A.
+
+\href{https://ckm-content.se.com/ckmContent/sfc/servlet.shepherd/document/download/0691H00000FWgC6QAL}{Schneider Electric, MasterPact MTZ circuit breakers overview}: MTZ2 H1 frame range and 66 kA duty at 415 V. Schneider product sheets: \href{https://www.se.com/nl/nl/product/C40H42D400/compact-vermogenschakelaar-nsx400h-70ka-ac-4p4d-400a-2-3/}{C40H42D400} and \href{https://www.se.com/uk/en/product/C080H45AFM/circuit-breaker-compact-ns800h-70ka-at-415vac-4p-fixed-manually-operated-micrologic-5-0a-control-unit-800a/}{C080H45AFM} establish the selected MCCB ratings.
+
+Schneider product references \href{https://www.se.com/nl/en/product/C10H4TM063/}{C10H4TM063}, \href{https://www.se.com/uk/en/product/A9D31810/ic60h-earth-leakage-circuit-breaker-1p-\%2B-n-b-curve-10-a-30-ma-240-v/}{A9D31810} and \href{https://www.se.com/uk/en/product/A9D31832/ic60h-earth-leakage-circuit-breaker-1p-\%2B-n-b-curve-32-a-30-ma-240-v/}{A9D31832}.

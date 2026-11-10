@@ -1,0 +1,580 @@
+[
+  {
+    "layout": "TASK1-GROUND-OVERVIEW",
+    "handle": "7BB3",
+    "type": "AcDbViewport",
+    "layer": "0",
+    "Width": 19.387351778656125,
+    "Height": 9.0,
+    "Center": [
+      9.693675889328063,
+      4.5,
+      0.0
+    ],
+    "CustomScale": 1.0
+  },
+  {
+    "layout": "TASK1-GROUND-OVERVIEW",
+    "handle": "7BB6",
+    "type": "AcDbViewport",
+    "layer": "E-T1-VPORT-NOPLOT",
+    "Width": 290.0,
+    "Height": 220.0,
+    "Center": [
+      155.0,
+      153.0,
+      0.0
+    ],
+    "CustomScale": 0.005
+  },
+  {
+    "layout": "TASK1-GROUND-OVERVIEW",
+    "handle": "7BB8",
+    "type": "AcDbMText",
+    "layer": "E-T1-PAPER-NOTES",
+    "TextString": "TASK 1 | GROUND-FLOOR PLANTROOM LOCATION",
+    "InsertionPoint": [
+      12.0,
+      285.0,
+      0.0
+    ],
+    "Width": 395.0,
+    "Height": 4.0
+  },
+  {
+    "layout": "TASK1-GROUND-OVERVIEW",
+    "handle": "7BB9",
+    "type": "AcDbMText",
+    "layer": "E-T1-PAPER-NOTES",
+    "TextString": "A3 LANDSCAPE | SCALE 1:200 | DIMENSIONS IN mm | GROUND FLOOR",
+    "InsertionPoint": [
+      12.0,
+      276.0,
+      0.0
+    ],
+    "Width": 395.0,
+    "Height": 2.8
+  },
+  {
+    "layout": "TASK1-GROUND-OVERVIEW",
+    "handle": "7BBA",
+    "type": "AcDbMText",
+    "layer": "E-T1-PAPER-NOTES",
+    "TextString": "PROPOSED LOCATION\\PLower-left perimeter of supplied ground-floor plan. Substation 12430 x 5450; adjacent LV room 12430 x 3500 assumed. See separate 1:75 room detail.",
+    "InsertionPoint": [
+      305.0,
+      260.0,
+      0.0
+    ],
+    "Width": 102.0,
+    "Height": 2.8
+  },
+  {
+    "layout": "TASK1-GROUND-OVERVIEW",
+    "handle": "7BBB",
+    "type": "AcDbMText",
+    "layer": "E-T1-PAPER-NOTES",
+    "TextString": "LOCATION REASONS\\PDirect external plant access can be reserved subject to site confirmation.\\PAdjacent LV room keeps transformer-to-incomer interfaces short.\\PPerimeter plantrooms separate supply equipment from the upper lift/stair/AHU core and remaining accommodation.\\PLV room has its own proposed west entrance.",
+    "InsertionPoint": [
+      305.0,
+      212.0,
+      0.0
+    ],
+    "Width": 102.0,
+    "Height": 2.8
+  },
+  {
+    "layout": "TASK1-GROUND-OVERVIEW",
+    "handle": "7BBC",
+    "type": "AcDbMText",
+    "layer": "E-T1-PAPER-NOTES",
+    "TextString": "LOAD ASSESSMENT\\POffices: 1644.800 kVA.\\PAC: 1000 kW cooling -> 526.039 kW electrical -> 584.488 kVA at assumed PF 0.90.\\PPublic services: 200 kVA aggregate allowance.\\PTwo-zone conservative envelope: 2672.216 kVA.\\PPropose 2 x 1500 kVA, with equal zone allocation; no full-load N-1.",
+    "InsertionPoint": [
+      305.0,
+      143.0,
+      0.0
+    ],
+    "Width": 102.0,
+    "Height": 2.8
+  },
+  {
+    "layout": "TASK1-GROUND-OVERVIEW",
+    "handle": "7BBD",
+    "type": "AcDbMText",
+    "layer": "E-T1-PAPER-NOTES",
+    "TextString": "SITE CONDITIONS TO VERIFY\\PExternal apron, road and <=20m unloading route are not given by the source plan. Maintain >=3m clear delivery route.\\PArchitectural wall openings, structural/flood/fire provisions, ventilation and supplier equipment approval require coordination.",
+    "InsertionPoint": [
+      305.0,
+      68.0,
+      0.0
+    ],
+    "Width": 102.0,
+    "Height": 2.8
+  },
+  {
+    "layout": "TASK1-GROUND-OVERVIEW",
+    "handle": "7BBE",
+    "type": "AcDbMText",
+    "layer": "E-T1-PAPER-NOTES",
+    "TextString": "GROUP 1 | TASK 1",
+    "InsertionPoint": [
+      12.0,
+      20.0,
+      0.0
+    ],
+    "Width": 395.0,
+    "Height": 2.6
+  },
+  {
+    "layout": "TASK1-GROUND-OVERVIEW",
+    "handle": "7BBF",
+    "type": "AcDbMText",
+    "layer": "E-T1-PAPER-NOTES",
+    "TextString": "Design basis: CLP COP215 Rev07; CLP COP101 v16.",
+    "InsertionPoint": [
+      12.0,
+      12.0,
+      0.0
+    ],
+    "Width": 395.0,
+    "Height": 2.4
+  },
+  {
+    "layout": "TASK1-ROOM-REVIEW",
+    "handle": "8024",
+    "type": "AcDbViewport",
+    "layer": "0",
+    "Width": 22.633399209486164,
+    "Height": 12.819980636191419,
+    "Center": [
+      11.316699604743082,
+      6.409990318095709,
+      0.0
+    ],
+    "CustomScale": 1.04149377593361
+  },
+  {
+    "layout": "TASK1-ROOM-REVIEW",
+    "handle": "8027",
+    "type": "AcDbMText",
+    "layer": "E-T1-PAPER-NOTES",
+    "TextString": "TASK 1 | PROPOSED SUBSTATION AND MAIN LV ROOM",
+    "InsertionPoint": [
+      12.0,
+      285.0,
+      0.0
+    ],
+    "Width": 395.0,
+    "Height": 4.0
+  },
+  {
+    "layout": "TASK1-ROOM-REVIEW",
+    "handle": "8028",
+    "type": "AcDbMText",
+    "layer": "E-T1-PAPER-NOTES",
+    "TextString": "A3 LANDSCAPE | SCALE 1:75 | DIMENSIONS IN mm | PLANTROOM DETAIL",
+    "InsertionPoint": [
+      12.0,
+      276.0,
+      0.0
+    ],
+    "Width": 395.0,
+    "Height": 2.8
+  },
+  {
+    "layout": "TASK1-ROOM-REVIEW",
+    "handle": "8029",
+    "type": "AcDbMText",
+    "layer": "E-T1-PAPER-NOTES",
+    "TextString": "CAPACITY AND EQUIPMENT\\P2 x 1500 kVA proposed; normal load envelope 2672.216 kVA. No full-load N-1.\\PHV: 3000 x 1000 reservation.\\PTX-A/B: 2200 x 1800 each.\\PThese are assumed equipment envelopes, not manufacturer footprints.",
+    "InsertionPoint": [
+      270.0,
+      262.0,
+      0.0
+    ],
+    "Width": 140.0,
+    "Height": 2.7
+  },
+  {
+    "layout": "TASK1-ROOM-REVIEW",
+    "handle": "802A",
+    "type": "AcDbMText",
+    "layer": "E-T1-PAPER-NOTES",
+    "TextString": "CLEARANCES / BUILDING WORKS\\PHV rear 1000, front 1800, sides 750. TX LV terminals north: 900; other sides 750.\\PProposed 2h FRR partitions; fire-seal penetrations. FFL +0.15 vs external +0.00 assumed.\\PActual structures, wall thickness and equipment dimensions require coordination.",
+    "InsertionPoint": [
+      270.0,
+      210.0,
+      0.0
+    ],
+    "Width": 140.0,
+    "Height": 2.7
+  },
+  {
+    "layout": "TASK1-ROOM-REVIEW",
+    "handle": "802B",
+    "type": "AcDbMText",
+    "layer": "E-T1-PAPER-NOTES",
+    "TextString": "ACCESS AND DOORS\\PSouth external access assumed. Reserve 3000-wide delivery route; unloading distance <=20m to verify.\\PPlant doors: HV 4000 W; TX 3000 W each; 2800H assumed. 180-degree outward sweep, shown open 90 degrees.\\PShared sweeps: use adjacent doors sequentially. TX-A designated wicket personnel access. Independent LV entrance west.",
+    "InsertionPoint": [
+      270.0,
+      153.0,
+      0.0
+    ],
+    "Width": 140.0,
+    "Height": 2.7
+  },
+  {
+    "layout": "TASK1-ROOM-REVIEW",
+    "handle": "802C",
+    "type": "AcDbMText",
+    "layer": "E-T1-PAPER-NOTES",
+    "TextString": "VENTILATION\\P2 low-level 600 W x 2000H inlet louvres: 2.4m2 gross x assumed 50% free area = 1.20m2 >=1.12m2. Certified free area >=46.67% required.\\P2 high-level 630-dia fan symbols are conditional references. Actual losses, fan duty and noise to confirm; outlet >=2.5m above street, away from people.",
+    "InsertionPoint": [
+      270.0,
+      85.0,
+      0.0
+    ],
+    "Width": 140.0,
+    "Height": 2.7
+  },
+  {
+    "layout": "TASK1-ROOM-REVIEW",
+    "handle": "802D",
+    "type": "AcDbMText",
+    "layer": "E-T1-PAPER-NOTES",
+    "TextString": "LV INTERFACES / HV ROUTES\\PLV trench: 1000 W x 1100D, four MCTs per interface. A: 8.03+2=10.03m; B: 8.31+2=10.31m (<20m). 2m is assumed total termination/vertical allowance.\\PHV centre-lines: 1000 W at panels; 600 W branches; final 300 W; generally 1400D. Segregate HV/LV. Covered trenches; no beam obstruction.",
+    "InsertionPoint": [
+      12.0,
+      60.0,
+      0.0
+    ],
+    "Width": 245.0,
+    "Height": 2.7
+  },
+  {
+    "layout": "TASK1-ROOM-REVIEW",
+    "handle": "802E",
+    "type": "AcDbMText",
+    "layer": "E-T1-PAPER-NOTES",
+    "TextString": "DETAIL 1:75 AT A3",
+    "InsertionPoint": [
+      12.0,
+      18.0,
+      0.0
+    ],
+    "Width": 245.0,
+    "Height": 2.7
+  },
+  {
+    "layout": "TASK1-ROOM-REVIEW",
+    "handle": "802F",
+    "type": "AcDbMText",
+    "layer": "E-T1-PAPER-NOTES",
+    "TextString": "Basis: supplied COP215 Rev07; COP101 v16 clauses 4.3, 5.5, 5.6, 6.1-6.7.\\PSee Task1 for load estimate, equipment reservations and design assumptions.",
+    "InsertionPoint": [
+      270.0,
+      24.0,
+      0.0
+    ],
+    "Width": 140.0,
+    "Height": 2.4
+  },
+  {
+    "layout": "TASK1-ROOM-REVIEW",
+    "handle": "8030",
+    "type": "AcDbMText",
+    "layer": "E-T1-PAPER-NOTES",
+    "TextString": "LINE KEY: dashed = HV trench; solid = LV route; chain = clearance envelope.",
+    "InsertionPoint": [
+      12.0,
+      70.0,
+      0.0
+    ],
+    "Width": 245.0,
+    "Height": 2.6
+  },
+  {
+    "layout": "TASK1-ROOM-REVIEW",
+    "handle": "8031",
+    "type": "AcDbViewport",
+    "layer": "E-T1-VPORT-NOPLOT",
+    "Width": 245.0,
+    "Height": 190.0,
+    "Center": [
+      132.0,
+      166.0,
+      0.0
+    ],
+    "CustomScale": 0.013333333333333334
+  },
+  {
+    "handle": "79BE",
+    "type": "AcDbPolyline",
+    "layer": "E-T1-EQUIPMENT-RESERVE",
+    "Coordinates": [
+      10000.0,
+      18805.584,
+      13000.0,
+      18805.584,
+      13000.0,
+      19805.584,
+      10000.0,
+      19805.584
+    ]
+  },
+  {
+    "handle": "79BF",
+    "type": "AcDbPolyline",
+    "layer": "E-T1-CLEARANCE",
+    "Coordinates": [
+      9250.0,
+      17005.584,
+      13750.0,
+      17005.584,
+      13750.0,
+      20805.584,
+      9250.0,
+      20805.584
+    ]
+  },
+  {
+    "handle": "79C0",
+    "type": "AcDbMText",
+    "layer": "E-T1-NOTES",
+    "TextString": "HV-01\\P3000x1000 RESERVED",
+    "InsertionPoint": [
+      10100.0,
+      19705.584,
+      0.0
+    ],
+    "Height": 170.0
+  },
+  {
+    "handle": "79C1",
+    "type": "AcDbPolyline",
+    "layer": "E-T1-EQUIPMENT-RESERVE",
+    "Coordinates": [
+      14700.0,
+      18455.584,
+      16900.0,
+      18455.584,
+      16900.0,
+      20255.584,
+      14700.0,
+      20255.584
+    ]
+  },
+  {
+    "handle": "79C2",
+    "type": "AcDbPolyline",
+    "layer": "E-T1-CLEARANCE",
+    "Coordinates": [
+      13950.0,
+      17705.584,
+      17650.0,
+      17705.584,
+      17650.0,
+      21155.584,
+      13950.0,
+      21155.584
+    ]
+  },
+  {
+    "handle": "79C3",
+    "type": "AcDbMText",
+    "layer": "E-T1-NOTES",
+    "TextString": "TX-A\\P2200x1800 RESERVED",
+    "InsertionPoint": [
+      14800.0,
+      20155.584,
+      0.0
+    ],
+    "Height": 170.0
+  },
+  {
+    "handle": "79C4",
+    "type": "AcDbPolyline",
+    "layer": "E-T1-EQUIPMENT-RESERVE",
+    "Coordinates": [
+      18400.0,
+      18455.584,
+      20600.0,
+      18455.584,
+      20600.0,
+      20255.584,
+      18400.0,
+      20255.584
+    ]
+  },
+  {
+    "handle": "79C5",
+    "type": "AcDbPolyline",
+    "layer": "E-T1-CLEARANCE",
+    "Coordinates": [
+      17650.0,
+      17705.584,
+      21350.0,
+      17705.584,
+      21350.0,
+      21155.584,
+      17650.0,
+      21155.584
+    ]
+  },
+  {
+    "handle": "79C6",
+    "type": "AcDbMText",
+    "layer": "E-T1-NOTES",
+    "TextString": "TX-B\\P2200x1800 RESERVED",
+    "InsertionPoint": [
+      18500.0,
+      20155.584,
+      0.0
+    ],
+    "Height": 170.0
+  },
+  {
+    "handle": "79C7",
+    "type": "AcDbPolyline",
+    "layer": "E-T1-ACCESS",
+    "Coordinates": [
+      9500.0,
+      13105.584,
+      13500.0,
+      13105.584,
+      13500.0,
+      16105.584,
+      9500.0,
+      16105.584
+    ]
+  },
+  {
+    "handle": "79C8",
+    "type": "AcDbMText",
+    "layer": "E-T1-NOTES",
+    "TextString": "HV ACCESS RESERVE\\P4000 mm opening",
+    "InsertionPoint": [
+      9600.0,
+      14205.584,
+      0.0
+    ],
+    "Height": 170.0
+  },
+  {
+    "handle": "79C9",
+    "type": "AcDbPolyline",
+    "layer": "E-T1-ACCESS",
+    "Coordinates": [
+      14300.0,
+      13105.584,
+      17300.0,
+      13105.584,
+      17300.0,
+      16105.584,
+      14300.0,
+      16105.584
+    ]
+  },
+  {
+    "handle": "79CA",
+    "type": "AcDbMText",
+    "layer": "E-T1-NOTES",
+    "TextString": "TX-A ACCESS RESERVE\\P3000 mm opening",
+    "InsertionPoint": [
+      14400.0,
+      14205.584,
+      0.0
+    ],
+    "Height": 170.0
+  },
+  {
+    "handle": "79CB",
+    "type": "AcDbPolyline",
+    "layer": "E-T1-ACCESS",
+    "Coordinates": [
+      18000.0,
+      13105.584,
+      21000.0,
+      13105.584,
+      21000.0,
+      16105.584,
+      18000.0,
+      16105.584
+    ]
+  },
+  {
+    "handle": "79CC",
+    "type": "AcDbMText",
+    "layer": "E-T1-NOTES",
+    "TextString": "TX-B ACCESS RESERVE\\P3000 mm opening",
+    "InsertionPoint": [
+      18100.0,
+      14205.584,
+      0.0
+    ],
+    "Height": 170.0
+  },
+  {
+    "handle": "79CD",
+    "type": "AcDbMText",
+    "layer": "E-T1-MODEL-NOTES-HIDDEN",
+    "TextString": "SOUTH EXTERNAL ACCESS / DELIVERY APRON ASSUMED\\P3000 mm clear route; unloading distance <=20 m to be verified",
+    "InsertionPoint": [
+      9500.0,
+      12805.584,
+      0.0
+    ],
+    "Height": 250.0
+  },
+  {
+    "handle": "79CE",
+    "type": "AcDbMText",
+    "layer": "E-T1-MODEL-NOTES-HIDDEN",
+    "TextString": "GREEN: REQUIRED CLEARANCE ENVELOPES / RED: ASSUMED EQUIPMENT RESERVATIONS\\PNOT MANUFACTURER FOOTPRINTS. MATCH ACTUAL CLP EQUIPMENT BEFORE CONSTRUCTION.",
+    "InsertionPoint": [
+      9500.0,
+      26555.584,
+      0.0
+    ],
+    "Height": 250.0
+  },
+  {
+    "handle": "79CF",
+    "type": "AcDbMText",
+    "layer": "E-T1-MODEL-NOTES-HIDDEN",
+    "TextString": "LV TERMINALS FACE NORTH TO CUSTOMER SWITCHROOM\\P2h FRR separation; seal bus/cable penetrations",
+    "InsertionPoint": [
+      14300.0,
+      21455.584,
+      0.0
+    ],
+    "Height": 150.0
+  },
+  {
+    "handle": "79D0",
+    "type": "AcDbPolyline",
+    "layer": "E-T1-ACCESS",
+    "Coordinates": [
+      6000.0,
+      21755.584,
+      9000.0,
+      21755.584,
+      9000.0,
+      24755.584,
+      6000.0,
+      24755.584
+    ]
+  },
+  {
+    "handle": "79D1",
+    "type": "AcDbMText",
+    "layer": "E-T1-NOTES",
+    "TextString": "LV ACCESS\\P3000 mm\\Passumed",
+    "InsertionPoint": [
+      6200.0,
+      24155.584,
+      0.0
+    ],
+    "Height": 170.0
+  }
+]

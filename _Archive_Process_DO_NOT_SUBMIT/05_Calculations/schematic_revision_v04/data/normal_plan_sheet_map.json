@@ -1,0 +1,121 @@
+{
+  "drawing": "C:\\Users\\lyuml-win\\Desktop\\polyu_bse3124\\03_Design_Drawings\\BSE3124_Final.dwg",
+  "sheets": [
+    {
+      "layout": "TASK2-LIGHTING-PLAN",
+      "pdf": "C:\\Users\\lyuml-win\\Desktop\\polyu_bse3124\\04_Final_Report\\source\\assets\\office-lighting.pdf",
+      "plot_return": true,
+      "scale": "1:75",
+      "format": "A3 portrait full bleed",
+      "handles": [
+        "7DBC",
+        "7DBD",
+        "7DBE",
+        "7DC0",
+        "7DC1",
+        "7DC2",
+        "7DC3",
+        "7DC4",
+        "7DC5",
+        "7DC6",
+        "7DC7",
+        "7DC8",
+        "7DC9",
+        "7DCA",
+        "7DCB",
+        "7DCC",
+        "7DCD",
+        "7DCE"
+      ]
+    },
+    {
+      "layout": "TASK2-POWER-PLAN",
+      "pdf": "C:\\Users\\lyuml-win\\Desktop\\polyu_bse3124\\04_Final_Report\\source\\assets\\office-power.pdf",
+      "plot_return": true,
+      "scale": "1:75",
+      "format": "A3 portrait full bleed",
+      "handles": [
+        "7DD9",
+        "7DDA",
+        "7DDB",
+        "7DDD",
+        "7DDE",
+        "7DDF",
+        "7DE0",
+        "7DE1",
+        "7DE2",
+        "7DE3",
+        "7DE4",
+        "7DE5",
+        "7DE6",
+        "7DE7",
+        "7DE8",
+        "7DE9",
+        "7DEA",
+        "7DEB",
+        "7DEC",
+        "7DED"
+      ]
+    }
+  ],
+  "reference_style_changes": [
+    {
+      "layer": "ARCH",
+      "previous_color": 7,
+      "previous_rgb": [
+        255,
+        255,
+        255
+      ],
+      "new_rgb": [
+        160,
+        160,
+        160
+      ]
+    },
+    {
+      "layer": "Furniture",
+      "previous_color": 9,
+      "previous_rgb": [
+        192,
+        192,
+        192
+      ],
+      "new_rgb": [
+        185,
+        185,
+        185
+      ]
+    },
+    {
+      "layer": "Ceiling Grid",
+      "previous_color": 254,
+      "previous_rgb": [
+        214,
+        214,
+        214
+      ],
+      "new_rgb": [
+        210,
+        210,
+        210
+      ]
+    },
+    {
+      "layer": "Lighting",
+      "previous_on": true,
+      "new_on": false
+    },
+    {
+      "layer": "Power",
+      "previous_on": true,
+      "new_on": false
+    },
+    {
+      "layer": "circuitory",
+      "previous_on": true,
+      "new_on": false
+    }
+  ],
+  "visual_review": "native replot reviewed 2026-11-08; final PDF visual check"
+}

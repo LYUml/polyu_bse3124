@@ -1,0 +1,21 @@
+TM-D, TM-G Thermal-Magnetic and MA Magnetic Trip
+Units
+What’s in This Chapter
+Thermal-Magnetic Trip Unit Summary.............................................150
+TM-D Thermal-Magnetic Trip Unit for 1P and 2P Circuit
+Breakers ......................................................................................153
+TM-D Thermal-Magnetic Trip Unit for 1P Circuit Breakers 250
+A..................................................................................................154
+TM-D Thermal-Magnetic Trip Unit for 3P and 4P Circuit Breakers
+up to 63 A.....................................................................................155
+TM-D Thermal-Magnetic Trip Unit for 3P and 4P Circuit Breakers
+from 80 A to 250 A ........................................................................157
+TM-D Thermal-Magnetic Trip Unit for 3P and 4P Circuit Breakers
+from 400 A to 630 A.......................................................................160
+TM-G Thermal-Magnetic Trip Unit ..................................................162
+MA Magnetic Trip Unit ...................................................................164
+DOCA0187EN-04
+149
+TM-D, TM-G Thermal-Magnetic and MA Magnetic Trip Units
+ComPacT NSX Circuit Breakers and Switch-Disconnectors
+100-630 A

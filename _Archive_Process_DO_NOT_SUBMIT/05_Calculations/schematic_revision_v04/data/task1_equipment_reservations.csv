@@ -1,0 +1,4 @@
+id,description,xmin_mm,ymin_mm,xmax_mm,ymax_mm,clear_west_mm,clear_east_mm,clear_south_mm,clear_north_mm,orientation,basis
+HV-01,HV switchgear reservation,10000,18805.584,13000,19805.584,750,750,1800,1000,south,3000 x 1000 mm assumed planning envelope; not manufacturer dimensions
+TX-A,Transformer A 1500 kVA reservation,14700,18455.584,16900,20255.584,750,750,750,900,north LV terminals,2200 x 1800 mm assumed planning envelope; not actual transformer or plinth
+TX-B,Transformer B 1500 kVA reservation,18400,18455.584,20600,20255.584,750,750,750,900,north LV terminals,2200 x 1800 mm assumed planning envelope; not actual transformer or plinth

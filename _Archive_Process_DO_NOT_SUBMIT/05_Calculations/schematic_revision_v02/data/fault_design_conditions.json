@@ -1,0 +1,34 @@
+{
+  "earthing": "TN-S course design assumption; continuous copper CPC, no PEN downstream",
+  "Ze_at_MS_assumed_ohm": 0.2,
+  "PFC_max_assumed_A": 6000,
+  "MCB_RCBO_Icn_A": 10000,
+  "FCU_fuse_breaking_A": 6000,
+  "minimum_voltage_factor": 0.95,
+  "k_PVC_Cu_bunched": 115,
+  "reference_Zs_ohm": {
+    "B10": 4.17,
+    "B16": 2.61,
+    "B32": 1.31,
+    "C63": 0.33
+  },
+  "required_B10_B16_max_total_I2t_A2s": 70000,
+  "required_B32_max_total_I2t_A2s": 90000,
+  "required_incoming_C63_max_total_I2t_A2s": 1000000,
+  "required_FCU13_max_total_I2t_A2s": 90000,
+  "FCU13_conventional_fusing_factor": 1.9,
+  "FCU13_operating_ambient_max_C": 35,
+  "MCB_RCBO_panel_ambient_max_C": 30,
+  "RCD_mA": 30,
+  "source_protection_location": "C63 at MS-O1 upstream end of incoming cable; DB has100A4-pole isolator",
+  "sources": {
+    "Zs": "EMSD2025 Table11(10) printed105 PDF106; reference values, confirm equivalent manufacturer characteristics",
+    "k": "EMSD2025 Table11(2)(c) printed100 PDF101; PVC Cu bunched initial70C k115",
+    "overload": "EMSD2025 9B(1) printed79 PDF80; I2<=1.45Iz; standard ring provisions Table6(1)",
+    "class3_energy": "ABB9AKK108468A3912 technical details printed130; class3 at10kA B<=16A max70000A2s; B>16<=32A max90000A2s. Applied as specified overcurrent-function performance limits, not automatic certificate for arbitrary RCBO.",
+    "class3_url": "https://library.e.abb.com/public/4009e91864554accb8c325cb552f18e0/9AKK108468A3912_en_9AKK108468A3912_B01_D_B01%20Electrical%20installation%20solutions%20for%20buildings_part%20B01%20MCBs%20_EN_%20%28PDF%29.pdf",
+    "fuse": "Eaton TechnicalData2042 TDC180 August2024 p2:190% current max30min;13A fuse6000A interruption at264VAC; not use typical pre-arcing870A2s as total clearing energy",
+    "fuse_url": "https://www.eaton.com/content/dam/eaton/products/electronic-components/resources/data-sheet/eaton-tdc180-fuse-data-sheet.pdf"
+  },
+  "scope": "Adopted course design conditions/performance specification, not site measurements or certification of installed products. Select apparatus with certified total let-through not exceeding stated limits throughout relevant fault range. Incoming/FCU energy limits are explicit design requirements, not claimed manufacturer values."
+}

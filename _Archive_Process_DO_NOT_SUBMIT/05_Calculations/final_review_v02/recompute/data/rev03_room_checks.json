@@ -1,0 +1,11 @@
+{
+  "bays": 7,
+  "width_mm": 7980,
+  "room_width_mm": 12430,
+  "front_clear_mm": 1500,
+  "rear_clear_mm": 990,
+  "east_clear_mm": 3450,
+  "existing_transformer_tails_unchanged": true,
+  "bus_link_arrangement": "End coupler with separately insulated A/B rear links within switchboard; assembly construction to be verified",
+  "basis": "Layout envelope only; no unverified product envelope claimed"
+}

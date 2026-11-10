@@ -1,0 +1,29 @@
+{
+  "cable": "four-core PVC insulated nonarmoured copper L1/L2/L3/N; separate PVC Cu CPC in same protected containment",
+  "line_neutral_mm2": 35,
+  "CPC_mm2": 16,
+  "plan_route_m": 28.5119,
+  "vertical_termination_assumed_m": 3,
+  "design_length_m": 31.5119,
+  "design_Ib_A": 48.6,
+  "protective_In_A": 63,
+  "Iz25_A": 59.856,
+  "Iz35_A": 74.0718,
+  "capacity_pass": true,
+  "pair_drop_coefficient_bound_mV_A_m": 1.2701705922171769,
+  "incoming_drop_bound_at63A_V": 2.521606,
+  "incoming_drop_bound_at_designIb_V": 1.945239,
+  "Rphase_plus_CPC_70C_ohm": 0.064129,
+  "max_external_loop_Ze_at_meter_ohm": 0.265871,
+  "CPC_permissible_I2t_A2s": 3385600,
+  "all15_total_drop_checks_pass_under_conditions": true,
+  "worst_total_drop_percent": 3.02658,
+  "limitations": [
+    "No grouping with outgoing circuits; mechanically protected enclosed route, no thermal insulation contact",
+    "Harmonic assumption must be verified; >33% requires neutral-current-based reselection",
+    "Pre-origin drop2.2V is a design allowance, not measured or zero; verify feeder from supply origin",
+    "Source position,3m vertical/tail allowance and service penetrations are proposed, not as-built",
+    "C63 breaking capacity and device let-through must be verified against actual PFC and manufacturer data",
+    "Voltage drop is a fundamental-frequency design envelope, not a harmonic voltage-distortion assessment"
+  ]
+}

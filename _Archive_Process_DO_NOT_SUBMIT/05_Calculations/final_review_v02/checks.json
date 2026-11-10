@@ -1,0 +1,106 @@
+{
+  "review_target": "C:\\Users\\lyuml-win\\Desktop\\polyu_bse3124\\05_Calculations\\schematic_revision_v05",
+  "device_records": 112,
+  "circuit_count": 15,
+  "lighting_W": 2256,
+  "phase_demand_A": {
+    "L1": 48.6,
+    "L2": 42.56363636363636,
+    "L3": 42.45454545454545
+  },
+  "building_kVA": 2672.2164661873867,
+  "feeder_Iz_A": 74.0718,
+  "distribution_percent": 1.3514265132892804,
+  "max_total_design_percent": 2.2318224223801897,
+  "fault_rows_arithmetic_checked": 15,
+  "energy_check_scope": "Requirement bounds only; not proof of selected RCBO total clearing energy",
+  "source_hashes": [
+    {
+      "path": "01_Assignment_Brief\\BSE3124 Mini Design Answer Sheets.docx",
+      "matches": true
+    },
+    {
+      "path": "01_Assignment_Brief\\BSE3124 Mini Design Assignment-2.docx",
+      "matches": true
+    },
+    {
+      "path": "01_Assignment_Brief\\Building_Drawings\\Building Layouts Layout2-1.pdf",
+      "matches": true
+    },
+    {
+      "path": "01_Assignment_Brief\\Building_Drawings\\Building Layouts.dwg",
+      "matches": true
+    },
+    {
+      "path": "02_References\\257377810-COP-215.pdf",
+      "matches": true
+    },
+    {
+      "path": "02_References\\257377810-COP-215.txt",
+      "matches": true
+    },
+    {
+      "path": "02_References\\Switchboard Dimensions.pdf",
+      "matches": true
+    },
+    {
+      "path": "02_References\\Design_Source_Notes\\protection_sources.json",
+      "matches": true
+    },
+    {
+      "path": "02_References\\Official\\COP 101 version 16 drawings.pdf",
+      "matches": true
+    },
+    {
+      "path": "02_References\\Official\\Cop101 version 16 document.pdf",
+      "matches": true
+    },
+    {
+      "path": "02_References\\Official\\EMSD_BEC_2024_EN.pdf",
+      "matches": true
+    },
+    {
+      "path": "02_References\\Official\\EMSD_COP_2025_EN.pdf",
+      "matches": true
+    },
+    {
+      "path": "02_References\\Official\\GuideToSupply_(V10)_Eng_Final.pdf",
+      "matches": true
+    },
+    {
+      "path": "02_References\\Official\\sources.json",
+      "matches": true
+    },
+    {
+      "path": "02_References\\Official\\supplyrules_eng_aug26_R3.pdf",
+      "matches": true
+    },
+    {
+      "path": "05_Calculations\\schematic_revision_v02\\BSE3124_Final_Rev02.dwg",
+      "matches": true
+    },
+    {
+      "path": "05_Calculations\\schematic_revision_v03\\BSE3124_Final_Rev03.dwg",
+      "matches": true
+    },
+    {
+      "path": "05_Calculations\\schematic_revision_v03\\BSE3124_Final_Rev03.pdf",
+      "matches": true
+    },
+    {
+      "path": "05_Calculations\\schematic_revision_v04\\BSE3124_Final_Rev04.pdf",
+      "matches": true
+    },
+    {
+      "path": "05_Calculations\\schematic_revision_v04\\BSE3124_Final_Rev04.dwg",
+      "matches": true
+    }
+  ],
+  "LPD_W_m2": {
+    "Open office": 6.822768034081063,
+    "Pantry": 8.191089313336244,
+    "Upper east room": 8.314674807129238,
+    "South east room": 11.626928578531489
+  },
+  "system_replay_exact_match": true
+}

@@ -1,0 +1,52 @@
+[
+  {
+    "handle": "7BBB",
+    "before": "LOCATION REASONS\\PDirect external plant access can be reserved subject to site confirmation.\\PAdjacent LV room keeps transformer-to-incomer interfaces short.\\PPerimeter plantrooms separate supply equipment from the upper lift/stair/AHU core and remaining accommodation.\\PLV room has its own proposed west entrance.",
+    "after": "LOCATION REASONS\\PDirect external plant access is proposed, subject to site confirmation.\\PAdjacent LV room keeps transformer-to-incomer interfaces short.\\PPerimeter plantrooms separate supply equipment from the upper lift/stair/AHU core and remaining accommodation.\\PLV room has its own proposed west entrance."
+  },
+  {
+    "handle": "7DCC",
+    "before": "Normal lighting only. Landlord emergency/exit system independently supplied (course assumption).",
+    "after": "Normal lighting only. Landlord emergency/exit system independently supplied (design assumption)."
+  },
+  {
+    "handle": "7DE9",
+    "before": "FB09/SO01/SO03 serve pantry: P6/P8. P7 is reserved equipment capacity, appliance rating unknown.",
+    "after": "FB09/SO01/SO03 serve pantry: P6/P8. P7 is allocated equipment capacity, appliance rating unknown."
+  },
+  {
+    "handle": "79DF",
+    "before": "VENTILATION RESERVATION: 2 INLET LOUVRES, EACH 600 W x 2000H\\P2.4m2 GROSS x ASSUMED 50% FREE AREA = 1.20m2 >= 1.12m2 REQUIRED.\\PCERTIFIED FREE AREA >=46.67% REQUIRED. LOW LEVEL INTAKE / HIGH LEVEL EXHAUST.\\P2 x 630 DIA FAN SYMBOLS ARE CONDITIONAL REFERENCES (ACTUAL TRANSFORMER LOSSES / FAN DUTY TBD).\\PEXHAUST OUTLET >=2.5m ABOVE STREET; DIRECT AWAY FROM PERSONNEL. SEE COP101 6.1-6.7.",
+    "after": "VENTILATION PROVISION: 2 INLET LOUVRES, EACH 600 W x 2000H\\P2.4m2 GROSS x ASSUMED 50% FREE AREA = 1.20m2 >= 1.12m2 REQUIRED.\\PCERTIFIED FREE AREA >=46.67% REQUIRED. LOW LEVEL INTAKE / HIGH LEVEL EXHAUST.\\P2 x 630 DIA FAN SYMBOLS ARE CONDITIONAL REFERENCES (ACTUAL TRANSFORMER LOSSES / FAN DUTY TBD).\\PEXHAUST OUTLET >=2.5m ABOVE STREET; DIRECT AWAY FROM PERSONNEL. SEE COP101 6.1-6.7."
+  },
+  {
+    "handle": "77E5",
+    "before": "B-3",
+    "after": "B-PL"
+  },
+  {
+    "handle": "77E3",
+    "before": "B-2",
+    "after": "B-FL"
+  },
+  {
+    "handle": "77E1",
+    "before": "B-1",
+    "after": "B-IN"
+  },
+  {
+    "handle": "77DF",
+    "before": "A-3",
+    "after": "A-PL"
+  },
+  {
+    "handle": "77DD",
+    "before": "A-2",
+    "after": "A-FL"
+  },
+  {
+    "handle": "77DB",
+    "before": "A-1",
+    "after": "A-IN"
+  }
+]

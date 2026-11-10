@@ -1,0 +1,35 @@
+COP 215 – Load Assessment Procedure 
+September 2012 
+3.1.7 Multi-Transformer Case
+For development with multi-transformers serving for different zones, the final total 
+assessed load should be multiple by 1.1. 
+3.1.8 LV Outfeed Loads
+For any developments, the inputting to the LAST should not include any LV outfeed 
+loads, since this will cause confusion in future analysis of the LAST data.
+3.2 Residential Development (Please refer to Appendix 1)
+3.2.1 Housing Type Classification
+As depicted in the loading data, the loading demand patterns for public rental and 
+private housing are getting similar.  Hence, all classifications are merged into a 
+single category, i.e. 'All Housing Development', which includes all types of 
+permanent housing, like Public Rental Housing, Home Ownership Scheme (HOS), 
+Private Sector Participation Scheme (PSPS), Village Housing and Private Housing.
+3.2.2 Residential ADMD Figures
+Residential ADMD figures are presented in per flat basis.  The exact figure selected 
+depends on both the UFA of the flats and the number of flats served by the same 
+supply.  Three classes of UFA are chosen, namely, (1) less than 50 m2, (2) between 
+50-80 m2 and (3) above 80 m2.  Taking into consideration of diversity effect, for a 
+development of less than 50 flats, a range of figures is used for the same UFA class 
+depending on the number of flats served.  For a development of more than 50 flats, a 
+single value is used on the same UFA class.  All residential ADMD figures have 
+already included all typical lighting, general power and instantaneous electric water 
+heating loads.  For fixed electric cooking installation, individual assessment is still 
+required.
+3.2.3 Public Services and Clubhouse
+Public services and clubhouse loads should be assessed independently.   For public 
+services, a reference figure of 55 kVA/lift is adopted for easy reference and the 
+figures have already included public lighting, lift, water pump, fire services and 
+lobby air conditioning.  For development without lift service, a minimum provision 
+of 10 kVA of public services load should be provided.  Owing to the great variety of 
+CLP Power INTERNAL USE only 
+Page 4 of 21 
+Uncontrolled Copy : This printout is printed from Web on 15 Jan 2013. Please always refer to the controlled copy on the Web.

@@ -5,3 +5,4 @@ LV-A-OUT2,Zone A central plant and public feeders,1140,1010,2185,same,planning c
 LV-B-IN,Zone B incomer ACB compartment,1140,1010,2185,same,planning envelope; actual ACB rating dimensions and fault duty pending,13420,23055.584,14560,24065.584
 LV-B-OUT1,Zone B tenant feeders,1140,1010,2185,same,planning compartment count; actual feeder schedule pending,14560,23055.584,15700,24065.584
 LV-B-OUT2,Zone B central plant and public feeders,1140,1010,2185,same,planning compartment count; actual feeder schedule pending,15700,23055.584,16840,24065.584
+LV-BC,Normally-open 4P bus coupler; segregated insulated rear bus links,1140,1010,2185,same planning envelope; CLP GuideToSupply v10 section 3,design envelope; final assembly manufacturer verification,16840,23055.584,17980,24065.584

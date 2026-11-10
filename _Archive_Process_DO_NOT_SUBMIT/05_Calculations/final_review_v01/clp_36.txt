@@ -1,0 +1,66 @@
+Code of Practice No. 101 for Distribution Substation Design 
+Page 34 
+ 
+Version 16          
+ 
+ 
+ 
+December  2025
+ 
+ 
+Information Class: PROPRIETARY 專有 
+available for CLP staff to facilitate meter reading and 
+maintenance work. A label “Meter Room Key” shall be 
+secured onto the key. 
+ 
+10.4.4.3 
+The locking device for the door of meter room / enclosure, 
+including any front decoration panel, should be installed at 
+height of not less than 1000mm and not more than 1500mm 
+above finished floor level. 
+ 
+10.4.4.4 
+The minimum width of door and clearance path along the 
+exit route in the meter room, for personnel evacuation 
+during emergency, should not be less than 900mm. 
+ 
+10.4.4.5 
+Permanent label indicating both “電錶房” and “Meter 
+Room” of letter dimension not less than 30mm in height 
+should either be printed directly on the door or etched on 
+nameplate to be fixed at a prominent position on the door. 
+ 
+ 
+10.5 
+Cable Containment for Metering Purposes 
+ 
+ 
+10.5.1 
+A metallic surface junction box of 100mm x 100mm at 2300mm above 
+substation floor level shall be provided in both the customer’s main 
+switchroom and the CLP distribution substation to accommodate the 
+communication cable for metering purposes. A 25mm diameter 
+metallic conduit shall be installed for connection between the metallic 
+junction boxes in the main switchroom and substation. The void made 
+in the wall shall be sealed according to the appropriate degree of fire 
+resistance of the wall. 
+ 
+10.5.2 
+Conduits and conduit fittings shall be type-tested for completed 
+compliance with the following standards: 
+ 
+• Conduits shall have Class 4 protection in accordance with BS 4568: 
+Part 1 or IEC 61386. 
+• Conduit fittings shall have Class 4 protection in accordance with BS 
+EN 61386-1 or IEC 61386-1. 
+• Junction boxes shall have protection both inside and outside in 
+accordance with BS 4662 or IEC 60670-1. 
+ 
+10.5.3 
+Regarding the metering detailed requirement for the communication 
+infrastructure not within the substation, please refer to the meter 
+installation guideline “Guide to Supply and Metering Arrangement on 
+Customer’s Internal Distribution System” issued by Customer 
+Supplies and Services Branch. 
+ 
+ 

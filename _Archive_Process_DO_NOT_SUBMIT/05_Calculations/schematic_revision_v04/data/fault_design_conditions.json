@@ -1,0 +1,78 @@
+{
+  "status": "Rev03 adopted course design inputs; assumptions are not measured site data",
+  "selected_tenant": "First-floor Office 1 (F1/O1)",
+  "origin": "Customer main incomer outgoing terminals; utility transformer tails excluded from customer voltage-drop allowance",
+  "riser": {
+    "selection": "Schneider Canalis KTC2500, 3L+N+PE, copper",
+    "nominal_A": 2500,
+    "harmonic_15_to_33_percent_capacity_A": 2000,
+    "40C_daily_average_factor": 0.97,
+    "protection_Ir_A": 1440,
+    "main_to_F1_developed_route_allowance_m": 28,
+    "length_basis": "Proposed maximum developed MSB-to-F1 tap route allowance, including horizontal distribution and vertical rise; not a measured building height. Meter tails are included in the existing tenant feeder 3 m allowance.",
+    "hot_positive_sequence_Z_mohm_per_m": 0.021,
+    "hot_phase_PE_R_mohm_per_m": 0.282,
+    "phase_PE_X_mohm_per_m": 0.17,
+    "impedance_factor": 1.1,
+    "fundamental_neutral_current_fraction_of_max_phase": 0.1,
+    "internal_floor_links_and_connections_drop_allowance_V": 0.05,
+    "internal_connections_earth_loop_allowance_ohm": 0.002,
+    "Icw_1s_kA": 80,
+    "Ipk_kA": 176,
+    "sources": "DEBU024EN Canalis KT: printed143/PDF145 impedance and fault ratings; printed145/PDF147 harmonic ratings; temperature factor table. Balancing, route and connection allowances are declared design assumptions."
+  },
+  "earthing": {
+    "system": "TN-S design assumption; utility agreement required; customer MET and own electrode; no downstream PEN or N-PE bridge",
+    "maximum_main_origin_external_loop_ohm": 0.18,
+    "basis": "Design acceptance limit, not a site result; any optional CLP earth bond must not be the sole earth path. Verify with that bond disconnected under CLP Supply Rules 304.",
+    "main_trip": "MicroLogic 6.0X IEC LSIG with four-pole phase/neutral sensors",
+    "Ig_A": 500,
+    "pickup_upper_tolerance": 1.1,
+    "tg_s": 0.2,
+    "I2t": "OFF",
+    "maximum_breaking_time_s": 0.2,
+    "source": "DOCA0102EN-12 ground-fault settings pp118-119; CLP GuideToSupply v10 section2"
+  },
+  "cold_fault_bound": {
+    "equivalent_resistivity_lower_bound_ohm_mm2_per_m": 0.014,
+    "basis": "Indoor conductor temperature >=0C; effective copper area <=110% nominal and conductivity <=102% IACS. NBS Handbook100 gives rho20=1/58 ohm mm2/m and alpha20=0.00393/C. Resulting rho0/(1.10*1.02)=0.014159 > adopted0.014. Upstream resistance and all reactance omitted for maximum-fault bound.",
+    "source": "https://nvlpubs.nist.gov/nistpubs/Legacy/hb/nbshandbook100.pdf",
+    "maximum_voltage_factor": 1.1,
+    "DB_assembly_required_fault_rating_kA": 25,
+    "RCBO_backup": "NSX100H upstream: iC60H RCBO (VD) 6-20A reinforced40kA; 32-45A reinforced25kA at380-415V/220-240V phase-neutral. LVPED318033EN printedA-198/PDF206. Cascading is not full selectivity."
+  },
+  "incoming_MCCB": {
+    "model": "ComPacT NSX100H C10H4TM063, TM63D, 4P4D",
+    "Ir_A": 63,
+    "magnetic_pickup_A": 500,
+    "magnetic_upper_tolerance": 1.2,
+    "Icu_Ics_kA_at415V": 70,
+    "maximum_total_energy_design_A2s": 1000000,
+    "source": "C10H4TM063 manufacturer data sheet; DOCA0187EN-04 p235 TM63D trip curve; LVPED221001EN H-44/PDF396 energy-limitation envelope for NSX100 TM40-100 at415V"
+  },
+  "voltage_drop": {
+    "distribution_target_percent": 1.5,
+    "final_circuit_target_percent": 2.5,
+    "total_limit_percent": 4,
+    "basis": "Classroom1.5/2.5 allocation checked at diversified design demand. Also retain a separate full63A feeder stress check against4% total. Fundamental-frequency calculation; not a harmonic voltage-distortion study."
+  },
+  "coupler": {
+    "model": "MTZ2 25H1 4P draw-out, MicroLogic5.0X LSI",
+    "normal_state": "OPEN",
+    "frame_A": 2500,
+    "Ir_A": 2250,
+    "Icu_kA": 66,
+    "interlock": "Electrical and mechanical ACB-A/ACB-B/BC; never all three closed; isolate failed source and shed load before closing tie",
+    "source": "CLP GuideToSupply v10 section3"
+  },
+  "main_OC_settings": {
+    "Ir_A": 2250,
+    "Isd_A": 4500,
+    "Isd_upper_A": 4950,
+    "tsd_s": 0,
+    "I2t": "OFF",
+    "tr_at6Ir_s": 0.5,
+    "maximum_short_time_breaking_s": 0.08,
+    "basis": "MicroLogicX p110; CLP GuideToSupply Appendix1 2500A dashed curve; no full selectivity claimed"
+  }
+}

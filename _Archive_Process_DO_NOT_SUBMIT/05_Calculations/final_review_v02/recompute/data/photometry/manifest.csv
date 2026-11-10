@@ -1,0 +1,5 @@
+file,description,luminaire_flux_lm,power_W,C_planes_full,gamma_angles,symmetry_code,sha256,source
+PIL_PLATO_600_840_MULTIPOWER_HIGH_3117955.ldt,PLATO 600 MP 38W 840 UGR<19 MultiPower High,4685.55,38.00,72,181,4,9cd088aa33eb9db39805326dabb8429c80a07ffe135def9428808f0bd06c2aeb,https://www.performanceinlighting.com/pl/pl/products-indoor/plato/prod-3117955
+PIL_PLATO_600_840_MULTIPOWER_LOW_3117955.ldt,PLATO 600 MP 22W 840 UGR<19 MultiPower Low,2843.45,22.00,72,181,4,bb9b388011ef32b63da8542281c936a381462bce41dbc550afaa7b62854d5080,https://www.performanceinlighting.com/pl/pl/products-indoor/plato/prod-3117955
+PIL_PLATO_600_840_MULTIPOWER_MEDIUMHIGH_3117955.ldt,PLATO 600 MP 33W 840 UGR<19 MultiPower MediumHigh,4150.48,33.00,72,181,4,f8592a608cd4781890a7a8db4726fd18d1811b547eaf7d3453e0ad7a1f2f3d03,https://www.performanceinlighting.com/pl/pl/products-indoor/plato/prod-3117955
+PIL_PLATO_600_840_MULTIPOWER_MEDIUMLOW_3117955.ldt,PLATO 600 MP 28W 840 UGR<19 MultiPower MediumLow,3555.30,28.00,72,181,4,2b28c49915eb48bf36fa9180471767b565040eee9ef24ee6f40b80fe97506fa6,https://www.performanceinlighting.com/pl/pl/products-indoor/plato/prod-3117955

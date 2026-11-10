@@ -1,0 +1,112 @@
+[
+  {
+    "id": "TX-A;TX-B",
+    "qty": 2,
+    "selection": "CLP distribution transformer,1500kVA",
+    "source": "COP101v16 responsibility schedule7.1",
+    "dimension_basis": "2200x1800 installation design assumption; utility supplied equipment, no unverified commercial approval claimed"
+  },
+  {
+    "id": "HV-01",
+    "qty": 1,
+    "selection": "CLP incomer and two transformer-protection panels",
+    "source": "COP101v16 responsibility schedule7.2",
+    "dimension_basis": "3000x1000 installation design assumption"
+  },
+  {
+    "id": "ACB-A;ACB-B",
+    "qty": 2,
+    "selection": "Schneider MTZ2 25H1 4P + MicroLogic5.0X",
+    "frame_A": 2500,
+    "Ir_A": 2250,
+    "Icu_kA": 66,
+    "source": "https://ckm-content.se.com/ckmContent/sfc/servlet.shepherd/document/download/0691H00000FWgC6QAL"
+  },
+  {
+    "id": "A-FL;B-FL",
+    "qty": 2,
+    "selection": "Schneider MTZ2 16H1 4P + MicroLogic5.0X",
+    "frame_A": 1600,
+    "Ir_A": 1440,
+    "Icu_kA": 66,
+    "source": "MasterPact MTZ overview"
+  },
+  {
+    "id": "F1-F10 incoming MCCBs",
+    "qty": 10,
+    "selection": "Schneider NSX400H C40H42D400",
+    "frame_A": 400,
+    "Ir_A": 320,
+    "Icu_kA": 70,
+    "source": "https://www.se.com/nl/nl/product/C40H42D400/compact-vermogenschakelaar-nsx400h-70ka-ac-4p4d-400a-2-3/"
+  },
+  {
+    "id": "A-PL;B-PL",
+    "qty": 2,
+    "selection": "Schneider NS800H C080H45AFM",
+    "frame_A": 800,
+    "Ir_A": 720,
+    "Icu_kA": 70,
+    "source": "https://www.se.com/uk/en/product/C080H45AFM/circuit-breaker-compact-ns800h-70ka-at-415vac-4p-fixed-manually-operated-micrologic-5-0a-control-unit-800a/"
+  },
+  {
+    "id": "EF-A;EF-B",
+    "qty": 2,
+    "selection": "CLP standard axial type630mm/30degrees/700rpm",
+    "duty_m3h_each": 4500,
+    "static_Pa": 70,
+    "source": "COP101v16 6.6,printedp23"
+  },
+  {
+    "id": "IL-A;IL-B",
+    "qty": 2,
+    "selection": "Fabricated inlet louvre600Wx2000H,50percent minimum free area",
+    "source": "COP101v16 6.3; ventilation_selection.json"
+  },
+  {
+    "id": "WH01 / FS01",
+    "qty": 1,
+    "selection": "STIEBEL ELTRON SHC10 GB Eltron235232",
+    "power_W_at220V": 1400,
+    "width_depth_height_mm": [
+      280,
+      270,
+      430
+    ],
+    "circuit": "P7",
+    "protective_A": 10,
+    "source": "references/SHC10_GB_manual.pdf section15.7 printedp12"
+  },
+  {
+    "id": "MS-O1",
+    "qty": 1,
+    "selection": "Schneider A9F54463",
+    "protective_A": 63,
+    "curve": "C",
+    "poles": 4,
+    "Icn_kA": 10,
+    "source": "https://eshop.se.com/ae/acti9-ic60h-4p-63a-c-miniature-circuit-breaker-a9f54463.html"
+  },
+  {
+    "id": "LC-A..G;P7",
+    "qty": 8,
+    "selection": "Schneider A9D31810",
+    "protective_A": 10,
+    "curve": "B",
+    "RCD_type": "A",
+    "residual_mA": 30,
+    "Icn_kA": 10,
+    "source": "https://www.se.com/uk/en/product/A9D31810/ic60h-earth-leakage-circuit-breaker-1p-%2B-n-b-curve-10-a-30-ma-240-v/"
+  },
+  {
+    "id": "P1..P6;P8",
+    "qty": 7,
+    "selection": "Schneider A9D31832",
+    "protective_A": 32,
+    "curve": "B",
+    "RCD_type": "A",
+    "residual_mA": 30,
+    "Icn_kA": 10,
+    "source": "https://www.se.com/uk/en/product/A9D31832/ic60h-earth-leakage-circuit-breaker-1p-%2B-n-b-curve-32-a-30-ma-240-v/"
+  }
+]

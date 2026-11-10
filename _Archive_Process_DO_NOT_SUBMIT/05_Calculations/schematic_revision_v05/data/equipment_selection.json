@@ -1,0 +1,150 @@
+[
+  {
+    "id": "TX-A;TX-B",
+    "qty": 2,
+    "selection": "CLP distribution transformer,1500kVA",
+    "source": "COP101v16 responsibility schedule7.1",
+    "dimension_basis": "2200x1800 installation design assumption; utility supplied equipment, no unverified commercial approval claimed"
+  },
+  {
+    "id": "HV-01",
+    "qty": 1,
+    "selection": "CLP incomer and two transformer-protection panels",
+    "source": "COP101v16 responsibility schedule7.2",
+    "dimension_basis": "3000x1000 installation design assumption"
+  },
+  {
+    "id": "ACB-A;ACB-B",
+    "qty": 2,
+    "selection": "Schneider MTZ2 25H1 4P draw-out + MicroLogic6.0X LSIG",
+    "frame_A": 2500,
+    "Ir_A": 2250,
+    "Icu_kA": 66,
+    "source": "https://ckm-content.se.com/ckmContent/sfc/servlet.shepherd/document/download/0691H00000FWgC6QAL",
+    "Ig_A": 500,
+    "tg_s": 0.2
+  },
+  {
+    "id": "A-FL;B-FL",
+    "qty": 2,
+    "selection": "Schneider MTZ2 16H1 4P + MicroLogic5.0X",
+    "frame_A": 1600,
+    "Ir_A": 1440,
+    "Icu_kA": 66,
+    "source": "MasterPact MTZ overview"
+  },
+  {
+    "id": "F1-F10 incoming MCCBs",
+    "qty": 10,
+    "selection": "Schneider NSX400H C40H42D400",
+    "frame_A": 400,
+    "Ir_A": 320,
+    "Icu_kA": 70,
+    "source": "https://www.se.com/nl/nl/product/C40H42D400/compact-vermogenschakelaar-nsx400h-70ka-ac-4p4d-400a-2-3/"
+  },
+  {
+    "id": "A-PL;B-PL",
+    "qty": 2,
+    "selection": "Schneider NS800H C080H45AFM",
+    "frame_A": 800,
+    "Ir_A": 720,
+    "Icu_kA": 70,
+    "source": "https://www.se.com/uk/en/product/C080H45AFM/circuit-breaker-compact-ns800h-70ka-at-415vac-4p-fixed-manually-operated-micrologic-5-0a-control-unit-800a/"
+  },
+  {
+    "id": "EF-A;EF-B",
+    "qty": 2,
+    "selection": "CLP standard axial type630mm/30degrees/700rpm",
+    "duty_m3h_each": 4500,
+    "static_Pa": 70,
+    "source": "COP101v16 6.6,printedp23"
+  },
+  {
+    "id": "IL-A;IL-B",
+    "qty": 2,
+    "selection": "Fabricated inlet louvre600Wx2000H,50percent minimum free area",
+    "source": "COP101v16 6.3; ventilation_selection.json"
+  },
+  {
+    "id": "WH01 / FS01",
+    "qty": 1,
+    "selection": "STIEBEL ELTRON SHC10 GB Eltron235232",
+    "power_W_at220V": 1400,
+    "width_depth_height_mm": [
+      280,
+      270,
+      430
+    ],
+    "circuit": "P7",
+    "protective_A": 10,
+    "source": "references/SHC10_GB_manual.pdf section15.7 printedp12"
+  },
+  {
+    "id": "MS-O1",
+    "qty": 1,
+    "selection": "Schneider ComPacT NSX100H C10H4TM063 4P4D TM63D",
+    "protective_A": 63,
+    "curve": "TM-D LI",
+    "poles": 4,
+    "source": "C10H4TM063 datasheet; DOCA0187EN-04 p235",
+    "Icu_kA": 70,
+    "Ics_kA": 70,
+    "location": "Immediately before F1/O1 CLP meter"
+  },
+  {
+    "id": "LC-A..G;P7",
+    "qty": 8,
+    "selection": "Schneider A9D31810",
+    "protective_A": 10,
+    "curve": "B",
+    "RCD_type": "A",
+    "residual_mA": 30,
+    "Icn_kA": 10,
+    "source": "https://www.se.com/uk/en/product/A9D31810/ic60h-earth-leakage-circuit-breaker-1p-%2B-n-b-curve-10-a-30-ma-240-v/"
+  },
+  {
+    "id": "P1..P6;P8",
+    "qty": 7,
+    "selection": "Schneider A9D31832",
+    "protective_A": 32,
+    "curve": "B",
+    "RCD_type": "A",
+    "residual_mA": 30,
+    "Icn_kA": 10,
+    "source": "https://www.se.com/uk/en/product/A9D31832/ic60h-earth-leakage-circuit-breaker-1p-%2B-n-b-curve-32-a-30-ma-240-v/"
+  },
+  {
+    "id": "BC",
+    "qty": 1,
+    "selection": "MTZ2 25H1 4P draw-out, MicroLogic5.0X LSI",
+    "frame_A": 2500,
+    "Ir_A": 2250,
+    "Icu_kA": 66,
+    "normal_state": "OPEN",
+    "source": "CLP GuideToSupply v10 section3"
+  },
+  {
+    "id": "Riser busways",
+    "qty": 2,
+    "selection": "Schneider Canalis KTC2500, 3L+N+PE, copper",
+    "nominal_A": 2500,
+    "corrected_A": 1940,
+    "source": "DEBU024EN Canalis KT: printed143/PDF145 impedance and fault ratings; printed145/PDF147 harmonic ratings; temperature factor table. Balancing, route and connection allowances are declared design assumptions."
+  },
+  {
+    "id": "Other O1/O2 tenant controls",
+    "qty": 19,
+    "selection": "ComPacT NSX100H 4P4D TM100D",
+    "Ir_A": 100,
+    "Icu_kA": 70,
+    "basis": "COP215 preliminary area demand; selected F1/O1 excluded; detailed outgoing circuits outside scope"
+  },
+  {
+    "id": "O3 tenant controls",
+    "qty": 10,
+    "selection": "ComPacT NSX160H C16H4TM125 4P4D TM125D",
+    "Ir_A": 125,
+    "Icu_kA": 70,
+    "basis": "COP215 preliminary area demand; detailed outgoing circuits outside scope"
+  }
+]

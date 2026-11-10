@@ -1,0 +1,6 @@
+{
+  "release_path": "C:\\Users\\lyuml-win\\Desktop\\polyu_bse3124\\05_Calculations\\schematic_revision_v03",
+  "inputs": "C:\\Users\\lyuml-win\\Desktop\\polyu_bse3124\\05_Calculations\\schematic_revision_v03\\data\\system_design_inputs_rev03.json",
+  "manifest": "C:\\Users\\lyuml-win\\Desktop\\polyu_bse3124\\05_Calculations\\schematic_revision_v03\\data\\final_manifest.json",
+  "note": "Versioned Rev03 overrides and calculations based on this common source; base data retained for earlier releases."
+}

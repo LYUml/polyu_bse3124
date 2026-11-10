@@ -1,0 +1,107 @@
+Code of Practice No. 101 for Distribution Substation Design 
+Page 4 
+ 
+Version 16          
+ 
+ 
+ 
+December  2025
+ 
+ 
+Information Class: PROPRIETARY 專有 
+4.3 
+Equipment Dimensions, Weights and Operation Space 
+ 
+ 
+ 
+Due to the variety and continuous improvement of equipment in feature and 
+safety,  the type of equipment and hence its dimensions and weight may vary 
+from time to time. The substation layout is subject to the equipment being used. 
+ 
+ 
+ 
+In general, the minimum clearances and safe operating areas required around 
+the electrical equipment shall be : 
+ 
+HV switchgear  
+- 
+1000mm at the back of the panels. 
+ 
+- 
+1800mm in front of the panels.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+- 
+750mm on the other two sides of the 
+switchboard. 
+ 
+ 
+ 
+Distribution transformer 
+- 
+900mm around the LV terminals. 
+ 
+- 
+750mm on the other sides. 
+ 
+ 
+ 
+LV board 
+- 
+1000mm in front of the board.   
+ 
+- 
+750mm on the sides where cables turn in and 
+out. 
+ 
+- 
+The cable trench edge shall be 120mm from 
+wall. 
+ 
+- 
+Two wall mounted eye bolts with safety 
+loading of 1 ton shall be provided at 2.7m 
+above floor level. 
+ 
+LV capacitor bank 
+- 
+750mm in front and 200mm on two or rear 
+sides. 
+ 
+ 
+ 
+LV fuse cutout unit for 
+LV capacitor bank 
+- 
+1000mm in front of cutout. 
+ 
+ 
+ 
+Remote terminal unit 
+- 
+1000mm in front of the unit. Maximum 20m 
+wiring distance between LV board and CRTU 
+/ LRTU. 
+ 
+ 
+4.4 
+Foundations 
+ 
+ 
+ 
+4.4.1 
+The transformer foundation/plinth shall be capable of supporting a 
+minimum load of 9000kg. The minimum loading of the passage for 
+delivery of the transformer from the unloading point to the transformer 
+plinth shall be sufficient to support the transformer weight. Normally, 
+the transformer is supported by two metallic frames in form of 
+channels or inverted U-channels or four steel wheels which stand on 
+the transformer foundation/plinth. The plinth strength shall be 
+adequate to stand for the pressure imposed by transformer base 
+channels or wheels. 
+ 

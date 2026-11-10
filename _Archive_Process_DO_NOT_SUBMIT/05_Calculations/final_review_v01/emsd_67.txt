@@ -1,0 +1,64 @@
+66
+Purpose of 
+Conductors or 
+Switchgear to 
+which Diversity 
+Applies
+Type of Premises
+Individual 
+Household 
+Installations, 
+Individual 
+Dwellings of a 
+Block
+Small Shops, 
+Stores, Offices and 
+Business Premises
+Small Hotels, 
+Boarding Houses, 
+Guest Houses, etc.
+4. Motors (other 
+than lift motors, 
+see 8)
+—
+100% f.l. of largest 
+motor+80% f.l. 
+of 2nd largest 
+motor+ 60% f.l. of 
+remaining motors
+100% f.l. of largest 
+motor+50% f.l. of 
+remaining motors
+5. Water-Heaters 
+(instantaneous 
+type)
+100% f.l. of largest appliance+100% f.l. of 2
+nd largest 
+appliance+25% f.l. of remaining appliances
+6. Water Heaters 
+(thermostatically 
+controlled)
+No diversity allowable
+Note:  It is important to ensure that the distribution board 
+is of sufficient rating to take the total load connected 
+to it without the application of any diversity.
+7. Thermal Storage 
+Space Heating 
+Installations
+8. Lift motors
+Note:  Subject to requirements specified by the lift engineer 
+registered under Cap. 618, Lifts & Escalators 
+Ordinance.
+9. Water Pumps
+100% f.l. of the largest pump motor and 25% of the 
+remaining motors
+10. Air conditioners 100% f.l. of 
+the largest air-
+conditioner in the 
+premises and 40% 
+f.l. of the remaining 
+air- conditioner(s)
+100% of current demand of largest 
+point of utilisation+ 75% of current 
+demand of every other point of 
+utilisation

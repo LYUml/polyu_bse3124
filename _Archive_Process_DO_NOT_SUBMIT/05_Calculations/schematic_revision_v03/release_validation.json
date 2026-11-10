@@ -1,0 +1,129 @@
+{
+  "revision": 3,
+  "academic_status": "Ready for user acceptance under the stated course-design assumptions; not utility approval or site certification",
+  "pdf_pages": 24,
+  "office_device_records": 112,
+  "luminaires": 92,
+  "outgoing_circuits": 15,
+  "assigned_once": true,
+  "original_hashes_unchanged": 16,
+  "native_validation": {
+    "drawing": "C:\\Users\\lyuml-win\\Desktop\\polyu_bse3124\\05_Calculations\\schematic_revision_v03\\BSE3124_Final_Rev03.dwg",
+    "sha256": "a4d42e4ba982716b67a4ba5d0104af6024f82521f2c2d9b39b073c0112a7d672",
+    "engine": "C:\\Program Files\\Autodesk\\AutoCAD 2027\\accoreconsole.exe",
+    "native_version": "26.0",
+    "native_reopen_pass": true,
+    "read_only_hash_unchanged": true,
+    "checked_entity_handles": 1414,
+    "missing_handles": 0,
+    "lighting_labels_checked": 92,
+    "routes": [
+      {
+        "circuit_id": "LC-A",
+        "native_plan_m": 53.300948,
+        "expected_plan_m": 53.300948
+      },
+      {
+        "circuit_id": "LC-B",
+        "native_plan_m": 57.184084000000006,
+        "expected_plan_m": 57.184084
+      },
+      {
+        "circuit_id": "LC-C",
+        "native_plan_m": 39.999052000000006,
+        "expected_plan_m": 39.999052
+      },
+      {
+        "circuit_id": "LC-D",
+        "native_plan_m": 22.233416000000002,
+        "expected_plan_m": 22.233416
+      },
+      {
+        "circuit_id": "LC-E",
+        "native_plan_m": 29.464052,
+        "expected_plan_m": 29.464052
+      },
+      {
+        "circuit_id": "LC-F",
+        "native_plan_m": 27.709658,
+        "expected_plan_m": 27.709658
+      },
+      {
+        "circuit_id": "LC-G",
+        "native_plan_m": 22.378646,
+        "expected_plan_m": 22.378646
+      },
+      {
+        "circuit_id": "P1",
+        "native_plan_m": 24.6202,
+        "expected_plan_m": 24.6202
+      },
+      {
+        "circuit_id": "P2",
+        "native_plan_m": 31.5202,
+        "expected_plan_m": 31.5202
+      },
+      {
+        "circuit_id": "P3",
+        "native_plan_m": 41.2202,
+        "expected_plan_m": 41.2202
+      },
+      {
+        "circuit_id": "P4",
+        "native_plan_m": 30.220200000000002,
+        "expected_plan_m": 30.2202
+      },
+      {
+        "circuit_id": "P5",
+        "native_plan_m": 13.607484000000001,
+        "expected_plan_m": 13.607484
+      },
+      {
+        "circuit_id": "P6",
+        "native_plan_m": 11.863968000000002,
+        "expected_plan_m": 11.863968
+      },
+      {
+        "circuit_id": "P7",
+        "native_plan_m": 11.107484000000001,
+        "expected_plan_m": 11.107484
+      },
+      {
+        "circuit_id": "P8",
+        "native_plan_m": 13.107484000000001,
+        "expected_plan_m": 13.107484
+      }
+    ],
+    "incoming_plan_routes_checked": 2,
+    "db_schedule_rows_checked": 15,
+    "required_layouts": [
+      "TASK1-GROUND-OVERVIEW",
+      "TASK1-ROOM-REVIEW",
+      "TASK2-DB-SCHEMATIC",
+      "TASK2-LIGHTING-PLAN",
+      "TASK2-POWER-PLAN",
+      "DESIGN-DETAILS",
+      "TASK1-MAIN-SCHEMATIC",
+      "REV03-ROUTE-AND-RING"
+    ],
+    "units": "millimetres (INSUNITS4)",
+    "scope": "Native DWG reopen/read; PDF print quality reviewed separately"
+  },
+  "distribution_percent": 1.3514265132892802,
+  "max_total_design_percent": 2.2318224223801892,
+  "max_total_63A_stress_percent": 2.4938074392267318,
+  "reviewed_pdf_layouts": 8,
+  "remaining_declared_conditions": [
+    "Annotation-derived UFA assumption",
+    "28m maximum upstream route and phase balancing",
+    "Origin TN-S loop<=0.18ohm; optional CLP bond excluded as sole earth path",
+    "Manufacturer/utility acceptance of electronic sensors and complete25kA DB assembly",
+    "Specified total-energy performance for the selected apparatus combination; full discrimination not claimed"
+  ],
+  "deliverables": {
+    "BSE3124_Final_Rev03.pdf": "92d0368a9f905588e06d1d175be2e52a8cb4b2ca30303ca64fdb7fbe1a922a83",
+    "BSE3124_Final_Rev03.dwg": "a4d42e4ba982716b67a4ba5d0104af6024f82521f2c2d9b39b073c0112a7d672"
+  },
+  "visual_review": "All24 final pages rendered and viewed in acceptance montages; detailed checks of main schematic, plantroom, DB, route/ring and changed calculation pages. No blank drawings or overflowing text.",
+  "visual_review_pass": true
+}

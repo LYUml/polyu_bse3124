@@ -1,0 +1,27 @@
+{
+  "boundary_handles": [
+    "79C7",
+    "79C9",
+    "79CB"
+  ],
+  "label_handles": [
+    "79C8",
+    "79CA",
+    "79CC"
+  ],
+  "arrow_handles": [
+    "83AA",
+    "83AB",
+    "83AC",
+    "83AD",
+    "83AE",
+    "83AF",
+    "83B0",
+    "83B1",
+    "83B2"
+  ],
+  "linetype": "ACCESS_CLEAR",
+  "opening_dimensions_unchanged": true,
+  "arrow_direction": "north into plantroom",
+  "purpose": "delivery access clearance; keep clear; not equipment footprint"
+}

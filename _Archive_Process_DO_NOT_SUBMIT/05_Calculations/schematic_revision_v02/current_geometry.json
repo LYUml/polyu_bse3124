@@ -1,0 +1,3758 @@
+[
+  {
+    "h": "75C2",
+    "type": "AcDbPolyline",
+    "layer": "E-T1-SUPERSEDED",
+    "Coordinates": [
+      9000.0,
+      16105.584,
+      21430.0,
+      16105.584,
+      21430.0,
+      21555.584,
+      9000.0,
+      21555.584
+    ]
+  },
+  {
+    "h": "75C3",
+    "type": "AcDbMText",
+    "layer": "E-TRIAL-ROOM",
+    "TextString": "TRIAL CLP SUBSTATION\\P2 TRANSFORMERS: VERIFY ACCESS / CLEARANCES",
+    "InsertionPoint": [
+      9600.0,
+      20500.0,
+      0.0
+    ]
+  },
+  {
+    "h": "75CB",
+    "type": "AcDbPolyline",
+    "layer": "E-T1-SUPERSEDED",
+    "Coordinates": [
+      9000.0,
+      21555.584,
+      21430.0,
+      21555.584,
+      21430.0,
+      25055.584,
+      9000.0,
+      25055.584
+    ]
+  },
+  {
+    "h": "75CC",
+    "type": "AcDbMText",
+    "layer": "E-TRIAL-ROOM",
+    "TextString": "TRIAL CUSTOMER LV SWITCH ROOM\\PDEPTH 3500 ASSUMED - VERIFY EQUIPMENT / ACCESS",
+    "InsertionPoint": [
+      9600.0,
+      24300.0,
+      0.0
+    ]
+  },
+  {
+    "h": "7620",
+    "type": "AcDbText",
+    "layer": "E-TRIAL-ROOM",
+    "TextString": "PROPOSED SUBSTATION",
+    "InsertionPoint": [
+      9500.0,
+      17055.0,
+      0.0
+    ]
+  },
+  {
+    "h": "7621",
+    "type": "AcDbText",
+    "layer": "E-TRIAL-ROOM",
+    "TextString": "PROPOSED LV SWITCH ROOM",
+    "InsertionPoint": [
+      10000.0,
+      24650.0,
+      0.0
+    ]
+  },
+  {
+    "h": "762A",
+    "type": "AcDbText",
+    "layer": "E-T1-SUPERSEDED",
+    "TextString": "T1 (SCHEMATIC)",
+    "InsertionPoint": [
+      17700.0,
+      19800.0,
+      0.0
+    ]
+  },
+  {
+    "h": "762B",
+    "type": "AcDbText",
+    "layer": "E-T1-SUPERSEDED",
+    "TextString": "T2 (SCHEMATIC)",
+    "InsertionPoint": [
+      14100.0,
+      19800.0,
+      0.0
+    ]
+  },
+  {
+    "h": "762C",
+    "type": "AcDbText",
+    "layer": "E-T1-SUPERSEDED",
+    "TextString": "HV SWGR - SCHEM",
+    "InsertionPoint": [
+      9900.0,
+      19800.0,
+      0.0
+    ]
+  },
+  {
+    "h": "762D",
+    "type": "AcDbText",
+    "layer": "E-T1-SUPERSEDED",
+    "TextString": "ACCESS SUBJECT TO SITE VERIFICATION",
+    "InsertionPoint": [
+      10200.0,
+      15500.0,
+      0.0
+    ]
+  },
+  {
+    "h": "77D1",
+    "type": "AcDbMText",
+    "layer": "E-T1-MODEL-NOTES-HIDDEN",
+    "TextString": "PROPOSED PARTITIONS: 2h FRR - SEE CLP STD",
+    "InsertionPoint": [
+      9500.0,
+      24400.0,
+      0.0
+    ]
+  },
+  {
+    "h": "77D2",
+    "type": "AcDbMText",
+    "layer": "E-T1-MODEL-NOTES-HIDDEN",
+    "TextString": "PROPOSED FFL +0.15 / EXTERNAL +0.00 - VERIFY SITE LEVELS",
+    "InsertionPoint": [
+      9500.0,
+      16805.584,
+      0.0
+    ]
+  },
+  {
+    "h": "77DA",
+    "type": "AcDbPolyline",
+    "layer": "E-TRIAL-EQUIP",
+    "Coordinates": [
+      10000.0,
+      23055.584,
+      11140.0,
+      23055.584,
+      11140.0,
+      24065.584,
+      10000.0,
+      24065.584
+    ]
+  },
+  {
+    "h": "77DB",
+    "type": "AcDbMText",
+    "layer": "E-TRIAL-EQUIP",
+    "TextString": "A-IN",
+    "InsertionPoint": [
+      10120.0,
+      23755.584,
+      0.0
+    ]
+  },
+  {
+    "h": "77DC",
+    "type": "AcDbPolyline",
+    "layer": "E-TRIAL-EQUIP",
+    "Coordinates": [
+      11140.0,
+      23055.584,
+      12280.0,
+      23055.584,
+      12280.0,
+      24065.584,
+      11140.0,
+      24065.584
+    ]
+  },
+  {
+    "h": "77DD",
+    "type": "AcDbMText",
+    "layer": "E-TRIAL-EQUIP",
+    "TextString": "A-FL",
+    "InsertionPoint": [
+      11260.0,
+      23755.584,
+      0.0
+    ]
+  },
+  {
+    "h": "77DE",
+    "type": "AcDbPolyline",
+    "layer": "E-TRIAL-EQUIP",
+    "Coordinates": [
+      12280.0,
+      23055.584,
+      13420.0,
+      23055.584,
+      13420.0,
+      24065.584,
+      12280.0,
+      24065.584
+    ]
+  },
+  {
+    "h": "77DF",
+    "type": "AcDbMText",
+    "layer": "E-TRIAL-EQUIP",
+    "TextString": "A-PL",
+    "InsertionPoint": [
+      12400.0,
+      23755.584,
+      0.0
+    ]
+  },
+  {
+    "h": "77E0",
+    "type": "AcDbPolyline",
+    "layer": "E-TRIAL-EQUIP",
+    "Coordinates": [
+      13420.0,
+      23055.584,
+      14560.0,
+      23055.584,
+      14560.0,
+      24065.584,
+      13420.0,
+      24065.584
+    ]
+  },
+  {
+    "h": "77E1",
+    "type": "AcDbMText",
+    "layer": "E-TRIAL-EQUIP",
+    "TextString": "B-IN",
+    "InsertionPoint": [
+      13540.0,
+      23755.584,
+      0.0
+    ]
+  },
+  {
+    "h": "77E2",
+    "type": "AcDbPolyline",
+    "layer": "E-TRIAL-EQUIP",
+    "Coordinates": [
+      14560.0,
+      23055.584,
+      15700.0,
+      23055.584,
+      15700.0,
+      24065.584,
+      14560.0,
+      24065.584
+    ]
+  },
+  {
+    "h": "77E3",
+    "type": "AcDbMText",
+    "layer": "E-TRIAL-EQUIP",
+    "TextString": "B-FL",
+    "InsertionPoint": [
+      14680.0,
+      23755.584,
+      0.0
+    ]
+  },
+  {
+    "h": "77E4",
+    "type": "AcDbPolyline",
+    "layer": "E-TRIAL-EQUIP",
+    "Coordinates": [
+      15700.0,
+      23055.584,
+      16840.0,
+      23055.584,
+      16840.0,
+      24065.584,
+      15700.0,
+      24065.584
+    ]
+  },
+  {
+    "h": "77E5",
+    "type": "AcDbMText",
+    "layer": "E-TRIAL-EQUIP",
+    "TextString": "B-PL",
+    "InsertionPoint": [
+      15820.0,
+      23755.584,
+      0.0
+    ]
+  },
+  {
+    "h": "7992",
+    "type": "AcDbPolyline",
+    "layer": "E-POWER-WORK",
+    "Coordinates": [
+      66925.0,
+      -12857.416,
+      67075.0,
+      -12857.416,
+      67075.0,
+      -12707.416,
+      66925.0,
+      -12707.416
+    ]
+  },
+  {
+    "h": "7993",
+    "type": "AcDbMText",
+    "layer": "E-POWER-WORK",
+    "TextString": "FS01:P7\\P13 A FCU",
+    "InsertionPoint": [
+      66600.0,
+      -13350.0,
+      0.0
+    ]
+  },
+  {
+    "h": "79BE",
+    "type": "AcDbPolyline",
+    "layer": "E-REV-EQUIPMENT",
+    "Coordinates": [
+      10000.0,
+      18805.584,
+      13000.0,
+      18805.584,
+      13000.0,
+      19805.584,
+      10000.0,
+      19805.584
+    ]
+  },
+  {
+    "h": "79BF",
+    "type": "AcDbPolyline",
+    "layer": "E-T1-CLEARANCE",
+    "Coordinates": [
+      9250.0,
+      17005.584,
+      13750.0,
+      17005.584,
+      13750.0,
+      20805.584,
+      9250.0,
+      20805.584
+    ]
+  },
+  {
+    "h": "79C0",
+    "type": "AcDbMText",
+    "layer": "E-T1-NOTES",
+    "TextString": "HV-01 | HV SWITCHGEAR",
+    "InsertionPoint": [
+      10000.0,
+      18655.584,
+      0.0
+    ]
+  },
+  {
+    "h": "79C1",
+    "type": "AcDbPolyline",
+    "layer": "E-REV-EQUIPMENT",
+    "Coordinates": [
+      14700.0,
+      18455.584,
+      16900.0,
+      18455.584,
+      16900.0,
+      20255.584,
+      14700.0,
+      20255.584
+    ]
+  },
+  {
+    "h": "79C2",
+    "type": "AcDbPolyline",
+    "layer": "E-T1-CLEARANCE",
+    "Coordinates": [
+      13950.0,
+      17705.584,
+      17650.0,
+      17705.584,
+      17650.0,
+      21155.584,
+      13950.0,
+      21155.584
+    ]
+  },
+  {
+    "h": "79C3",
+    "type": "AcDbMText",
+    "layer": "E-T1-NOTES",
+    "TextString": "TX-A | 1500 kVA",
+    "InsertionPoint": [
+      14760.0,
+      18335.584,
+      0.0
+    ]
+  },
+  {
+    "h": "79C4",
+    "type": "AcDbPolyline",
+    "layer": "E-REV-EQUIPMENT",
+    "Coordinates": [
+      18400.0,
+      18455.584,
+      20600.0,
+      18455.584,
+      20600.0,
+      20255.584,
+      18400.0,
+      20255.584
+    ]
+  },
+  {
+    "h": "79C5",
+    "type": "AcDbPolyline",
+    "layer": "E-T1-CLEARANCE",
+    "Coordinates": [
+      17650.0,
+      17705.584,
+      21350.0,
+      17705.584,
+      21350.0,
+      21155.584,
+      17650.0,
+      21155.584
+    ]
+  },
+  {
+    "h": "79C6",
+    "type": "AcDbMText",
+    "layer": "E-T1-NOTES",
+    "TextString": "TX-B | 1500 kVA",
+    "InsertionPoint": [
+      18460.0,
+      18335.584,
+      0.0
+    ]
+  },
+  {
+    "h": "79C7",
+    "type": "AcDbPolyline",
+    "layer": "E-T1-ACCESS",
+    "Coordinates": [
+      9500.0,
+      13105.584,
+      13500.0,
+      13105.584,
+      13500.0,
+      16105.584,
+      9500.0,
+      16105.584
+    ]
+  },
+  {
+    "h": "79C8",
+    "type": "AcDbMText",
+    "layer": "E-T1-NOTES",
+    "TextString": "HV DELIVERY ACCESS\\P4000 mm opening",
+    "InsertionPoint": [
+      9600.0,
+      14205.584,
+      0.0
+    ]
+  },
+  {
+    "h": "79C9",
+    "type": "AcDbPolyline",
+    "layer": "E-T1-ACCESS",
+    "Coordinates": [
+      14300.0,
+      13105.584,
+      17300.0,
+      13105.584,
+      17300.0,
+      16105.584,
+      14300.0,
+      16105.584
+    ]
+  },
+  {
+    "h": "79CA",
+    "type": "AcDbMText",
+    "layer": "E-T1-NOTES",
+    "TextString": "TX-A DELIVERY ACCESS\\P3000 mm opening",
+    "InsertionPoint": [
+      14400.0,
+      14205.584,
+      0.0
+    ]
+  },
+  {
+    "h": "79CB",
+    "type": "AcDbPolyline",
+    "layer": "E-T1-ACCESS",
+    "Coordinates": [
+      18000.0,
+      13105.584,
+      21000.0,
+      13105.584,
+      21000.0,
+      16105.584,
+      18000.0,
+      16105.584
+    ]
+  },
+  {
+    "h": "79CC",
+    "type": "AcDbMText",
+    "layer": "E-T1-NOTES",
+    "TextString": "TX-B DELIVERY ACCESS\\P3000 mm opening",
+    "InsertionPoint": [
+      18100.0,
+      14205.584,
+      0.0
+    ]
+  },
+  {
+    "h": "79CD",
+    "type": "AcDbMText",
+    "layer": "E-T1-MODEL-NOTES-HIDDEN",
+    "TextString": "SOUTH EXTERNAL ACCESS / DELIVERY APRON ASSUMED\\P3000 mm clear route; unloading distance <=20 m to be verified",
+    "InsertionPoint": [
+      9500.0,
+      12805.584,
+      0.0
+    ]
+  },
+  {
+    "h": "79CE",
+    "type": "AcDbMText",
+    "layer": "E-T1-MODEL-NOTES-HIDDEN",
+    "TextString": "EQUIPMENT PLAN SYMBOLS / CLEARANCE ENVELOPES\\PAdopted overall dimensions; internal details diagrammatic, not fabrication drawings.",
+    "InsertionPoint": [
+      9500.0,
+      26555.584,
+      0.0
+    ]
+  },
+  {
+    "h": "79CF",
+    "type": "AcDbMText",
+    "layer": "E-T1-MODEL-NOTES-HIDDEN",
+    "TextString": "LV TERMINALS FACE NORTH TO CUSTOMER SWITCHROOM\\P2h FRR separation; seal bus/cable penetrations",
+    "InsertionPoint": [
+      14300.0,
+      21455.584,
+      0.0
+    ]
+  },
+  {
+    "h": "79D0",
+    "type": "AcDbPolyline",
+    "layer": "E-T1-ACCESS",
+    "Coordinates": [
+      6000.0,
+      21755.584,
+      9000.0,
+      21755.584,
+      9000.0,
+      24755.584,
+      6000.0,
+      24755.584
+    ]
+  },
+  {
+    "h": "79D1",
+    "type": "AcDbMText",
+    "layer": "E-T1-NOTES",
+    "TextString": "LV ACCESS\\P3000 mm\\Passumed",
+    "InsertionPoint": [
+      6200.0,
+      24155.584,
+      0.0
+    ]
+  },
+  {
+    "h": "79D8",
+    "type": "AcDbPolyline",
+    "layer": "E-T1-INTERFACES",
+    "Coordinates": [
+      15800.0,
+      20255.584,
+      15800.0,
+      21455.584,
+      10570.0,
+      21455.584,
+      10570.0,
+      23055.584
+    ]
+  },
+  {
+    "h": "79D9",
+    "type": "AcDbPolyline",
+    "layer": "E-T1-INTERFACES",
+    "Coordinates": [
+      19500.0,
+      20255.584,
+      19500.0,
+      22555.584,
+      13990.0,
+      22555.584,
+      13990.0,
+      23055.584
+    ]
+  },
+  {
+    "h": "79DA",
+    "type": "AcDbPolyline",
+    "layer": "E-T1-INTERFACES",
+    "Coordinates": [
+      13600.0,
+      16005.584,
+      14200.0,
+      16005.584,
+      14200.0,
+      16205.584,
+      13600.0,
+      16205.584
+    ]
+  },
+  {
+    "h": "79DB",
+    "type": "AcDbPolyline",
+    "layer": "E-T1-INTERFACES",
+    "Coordinates": [
+      17350.0,
+      16005.584,
+      17950.0,
+      16005.584,
+      17950.0,
+      16205.584,
+      17350.0,
+      16205.584
+    ]
+  },
+  {
+    "h": "79DC",
+    "type": "AcDbCircle",
+    "layer": "E-T1-INTERFACES",
+    "Center": [
+      15800.0,
+      16505.584,
+      0.0
+    ],
+    "Radius": 315.0
+  },
+  {
+    "h": "79DD",
+    "type": "AcDbCircle",
+    "layer": "E-T1-INTERFACES",
+    "Center": [
+      19500.0,
+      16505.584,
+      0.0
+    ],
+    "Radius": 315.0
+  },
+  {
+    "h": "79DE",
+    "type": "AcDbMText",
+    "layer": "E-T1-MODEL-NOTES-HIDDEN",
+    "TextString": "MAGENTA: PROPOSED LV TRENCH CENTRE-LINES / 1000 W x 1100D / COVERED\\PA: 8.03m PLAN + 2m ALLOWANCE = 10.03m; B: 8.31m + 2m = 10.31m (<20m)\\PSEPARATE HV/LV TRENCHES. FIRE-SEAL ROOM PENETRATIONS; COORDINATE STRUCTURE.",
+    "InsertionPoint": [
+      9500.0,
+      29455.584,
+      0.0
+    ]
+  },
+  {
+    "h": "79DF",
+    "type": "AcDbMText",
+    "layer": "E-T1-MODEL-NOTES-HIDDEN",
+    "TextString": "VENTILATION PROVISION: 2 INLET LOUVRES, EACH 600 W x 2000H\\P2.4m2 GROSS x ASSUMED 50% FREE AREA = 1.20m2 >= 1.12m2 REQUIRED.\\PCERTIFIED FREE AREA >=46.67% REQUIRED. LOW LEVEL INTAKE / HIGH LEVEL EXHAUST.\\P2 x 630 DIA FAN SYMBOLS ARE CONDITIONAL REFERENCES (ACTUAL TRANSFORMER LOSSES / FAN DUTY TBD).\\PEXHAUST OUTLET >=2.5m ABOVE STREET; DIRECT AWAY FROM PERSONNEL. SEE COP101 6.1-6.7.",
+    "InsertionPoint": [
+      9500.0,
+      11605.584,
+      0.0
+    ]
+  },
+  {
+    "h": "79E1",
+    "type": "AcDbLine",
+    "layer": "E-T1-DOORS-HV",
+    "StartPoint": [
+      9000.0,
+      16105.584,
+      0.0
+    ],
+    "EndPoint": [
+      9500.0,
+      16105.584,
+      0.0
+    ]
+  },
+  {
+    "h": "79E2",
+    "type": "AcDbLine",
+    "layer": "E-T1-DOORS-HV",
+    "StartPoint": [
+      13500.0,
+      16105.584,
+      0.0
+    ],
+    "EndPoint": [
+      14300.0,
+      16105.584,
+      0.0
+    ]
+  },
+  {
+    "h": "79E3",
+    "type": "AcDbLine",
+    "layer": "E-T1-DOORS-HV",
+    "StartPoint": [
+      17300.0,
+      16105.584,
+      0.0
+    ],
+    "EndPoint": [
+      18000.0,
+      16105.584,
+      0.0
+    ]
+  },
+  {
+    "h": "79E4",
+    "type": "AcDbLine",
+    "layer": "E-T1-DOORS-HV",
+    "StartPoint": [
+      21000.0,
+      16105.584,
+      0.0
+    ],
+    "EndPoint": [
+      21430.0,
+      16105.584,
+      0.0
+    ]
+  },
+  {
+    "h": "79E5",
+    "type": "AcDbLine",
+    "layer": "E-T1-DOORS-HV",
+    "StartPoint": [
+      9000.0,
+      16105.584,
+      0.0
+    ],
+    "EndPoint": [
+      9000.0,
+      21555.584,
+      0.0
+    ]
+  },
+  {
+    "h": "79E6",
+    "type": "AcDbLine",
+    "layer": "E-T1-DOORS-HV",
+    "StartPoint": [
+      21430.0,
+      16105.584,
+      0.0
+    ],
+    "EndPoint": [
+      21430.0,
+      25055.584,
+      0.0
+    ]
+  },
+  {
+    "h": "79E7",
+    "type": "AcDbLine",
+    "layer": "E-T1-DOORS-HV",
+    "StartPoint": [
+      9000.0,
+      21555.584,
+      0.0
+    ],
+    "EndPoint": [
+      21430.0,
+      21555.584,
+      0.0
+    ]
+  },
+  {
+    "h": "79E8",
+    "type": "AcDbLine",
+    "layer": "E-T1-DOORS-HV",
+    "StartPoint": [
+      9000.0,
+      25055.584,
+      0.0
+    ],
+    "EndPoint": [
+      21430.0,
+      25055.584,
+      0.0
+    ]
+  },
+  {
+    "h": "79E9",
+    "type": "AcDbLine",
+    "layer": "E-T1-DOORS-HV",
+    "StartPoint": [
+      9000.0,
+      21555.584,
+      0.0
+    ],
+    "EndPoint": [
+      9000.0,
+      21755.584,
+      0.0
+    ]
+  },
+  {
+    "h": "79EA",
+    "type": "AcDbLine",
+    "layer": "E-T1-DOORS-HV",
+    "StartPoint": [
+      9000.0,
+      24755.584,
+      0.0
+    ],
+    "EndPoint": [
+      9000.0,
+      25055.584,
+      0.0
+    ]
+  },
+  {
+    "h": "79EB",
+    "type": "AcDbLine",
+    "layer": "E-T1-DOORS-HV",
+    "StartPoint": [
+      9500.0,
+      16105.584,
+      0.0
+    ],
+    "EndPoint": [
+      9500.0,
+      14105.584,
+      0.0
+    ]
+  },
+  {
+    "h": "79EC",
+    "type": "AcDbLine",
+    "layer": "E-T1-DOORS-HV",
+    "StartPoint": [
+      13500.0,
+      16105.584,
+      0.0
+    ],
+    "EndPoint": [
+      13500.0,
+      14105.584,
+      0.0
+    ]
+  },
+  {
+    "h": "79ED",
+    "type": "AcDbArc",
+    "layer": "E-T1-DOORS-HV",
+    "Center": [
+      9500.0,
+      16105.584,
+      0.0
+    ],
+    "Radius": 2000.0,
+    "StartPoint": [
+      7500.0,
+      16105.584,
+      0.0
+    ],
+    "EndPoint": [
+      11500.0,
+      16105.584,
+      0.0
+    ]
+  },
+  {
+    "h": "79EE",
+    "type": "AcDbArc",
+    "layer": "E-T1-DOORS-HV",
+    "Center": [
+      13500.0,
+      16105.584,
+      0.0
+    ],
+    "Radius": 2000.0,
+    "StartPoint": [
+      11500.0,
+      16105.584,
+      0.0
+    ],
+    "EndPoint": [
+      15500.0,
+      16105.584,
+      0.0
+    ]
+  },
+  {
+    "h": "79EF",
+    "type": "AcDbLine",
+    "layer": "E-T1-DOORS-HV",
+    "StartPoint": [
+      14300.0,
+      16105.584,
+      0.0
+    ],
+    "EndPoint": [
+      14300.0,
+      14605.584,
+      0.0
+    ]
+  },
+  {
+    "h": "79F0",
+    "type": "AcDbLine",
+    "layer": "E-T1-DOORS-HV",
+    "StartPoint": [
+      17300.0,
+      16105.584,
+      0.0
+    ],
+    "EndPoint": [
+      17300.0,
+      14605.584,
+      0.0
+    ]
+  },
+  {
+    "h": "79F1",
+    "type": "AcDbArc",
+    "layer": "E-T1-DOORS-HV",
+    "Center": [
+      14300.0,
+      16105.584,
+      0.0
+    ],
+    "Radius": 1500.0,
+    "StartPoint": [
+      12800.0,
+      16105.584,
+      0.0
+    ],
+    "EndPoint": [
+      15800.0,
+      16105.584,
+      0.0
+    ]
+  },
+  {
+    "h": "79F2",
+    "type": "AcDbArc",
+    "layer": "E-T1-DOORS-HV",
+    "Center": [
+      17300.0,
+      16105.584,
+      0.0
+    ],
+    "Radius": 1500.0,
+    "StartPoint": [
+      15800.0,
+      16105.584,
+      0.0
+    ],
+    "EndPoint": [
+      18800.0,
+      16105.584,
+      0.0
+    ]
+  },
+  {
+    "h": "79F3",
+    "type": "AcDbLine",
+    "layer": "E-T1-DOORS-HV",
+    "StartPoint": [
+      18000.0,
+      16105.584,
+      0.0
+    ],
+    "EndPoint": [
+      18000.0,
+      14605.584,
+      0.0
+    ]
+  },
+  {
+    "h": "79F4",
+    "type": "AcDbLine",
+    "layer": "E-T1-DOORS-HV",
+    "StartPoint": [
+      21000.0,
+      16105.584,
+      0.0
+    ],
+    "EndPoint": [
+      21000.0,
+      14605.584,
+      0.0
+    ]
+  },
+  {
+    "h": "79F5",
+    "type": "AcDbArc",
+    "layer": "E-T1-DOORS-HV",
+    "Center": [
+      18000.0,
+      16105.584,
+      0.0
+    ],
+    "Radius": 1500.0,
+    "StartPoint": [
+      16500.0,
+      16105.584,
+      0.0
+    ],
+    "EndPoint": [
+      19500.0,
+      16105.584,
+      0.0
+    ]
+  },
+  {
+    "h": "79F6",
+    "type": "AcDbArc",
+    "layer": "E-T1-DOORS-HV",
+    "Center": [
+      21000.0,
+      16105.584,
+      0.0
+    ],
+    "Radius": 1500.0,
+    "StartPoint": [
+      19500.0,
+      16105.584,
+      0.0
+    ],
+    "EndPoint": [
+      22500.0,
+      16105.584,
+      0.0
+    ]
+  },
+  {
+    "h": "79F7",
+    "type": "AcDbLine",
+    "layer": "E-T1-DOORS-HV",
+    "StartPoint": [
+      9000.0,
+      21755.584,
+      0.0
+    ],
+    "EndPoint": [
+      7500.0,
+      21755.584,
+      0.0
+    ]
+  },
+  {
+    "h": "79F8",
+    "type": "AcDbArc",
+    "layer": "E-T1-DOORS-HV",
+    "Center": [
+      9000.0,
+      21755.584,
+      0.0
+    ],
+    "Radius": 1500.0,
+    "StartPoint": [
+      9000.0,
+      23255.584,
+      0.0
+    ],
+    "EndPoint": [
+      9000.0,
+      20255.584,
+      0.0
+    ]
+  },
+  {
+    "h": "79F9",
+    "type": "AcDbLine",
+    "layer": "E-T1-DOORS-HV",
+    "StartPoint": [
+      9000.0,
+      24755.584,
+      0.0
+    ],
+    "EndPoint": [
+      7500.0,
+      24755.584,
+      0.0
+    ]
+  },
+  {
+    "h": "79FA",
+    "type": "AcDbArc",
+    "layer": "E-T1-DOORS-HV",
+    "Center": [
+      9000.0,
+      24755.584,
+      0.0
+    ],
+    "Radius": 1500.0,
+    "StartPoint": [
+      9000.0,
+      26255.584,
+      0.0
+    ],
+    "EndPoint": [
+      9000.0,
+      23255.584,
+      0.0
+    ]
+  },
+  {
+    "h": "79FB",
+    "type": "AcDbPolyline",
+    "layer": "E-T1-HV-TRENCH",
+    "Coordinates": [
+      11200.0,
+      16105.584,
+      11200.0,
+      18805.584
+    ]
+  },
+  {
+    "h": "79FC",
+    "type": "AcDbPolyline",
+    "layer": "E-T1-HV-TRENCH",
+    "Coordinates": [
+      11200.0,
+      17405.584,
+      18000.0,
+      17405.584
+    ]
+  },
+  {
+    "h": "79FD",
+    "type": "AcDbPolyline",
+    "layer": "E-T1-HV-TRENCH",
+    "Coordinates": [
+      14300.0,
+      17405.584,
+      14300.0,
+      19355.584
+    ]
+  },
+  {
+    "h": "79FE",
+    "type": "AcDbPolyline",
+    "layer": "E-T1-HV-TRENCH",
+    "Coordinates": [
+      18000.0,
+      17405.584,
+      18000.0,
+      19355.584
+    ]
+  },
+  {
+    "h": "79FF",
+    "type": "AcDbPolyline",
+    "layer": "E-T1-HV-TRENCH",
+    "Coordinates": [
+      14300.0,
+      19355.584,
+      14700.0,
+      19355.584
+    ]
+  },
+  {
+    "h": "7A00",
+    "type": "AcDbPolyline",
+    "layer": "E-T1-HV-TRENCH",
+    "Coordinates": [
+      18000.0,
+      19355.584,
+      18400.0,
+      19355.584
+    ]
+  },
+  {
+    "h": "7A01",
+    "type": "AcDbMText",
+    "layer": "E-T1-MODEL-NOTES-HIDDEN",
+    "TextString": "CYAN: PROPOSED ROOM WALLS / OUTWARD DOORS / HV TRENCH CENTRE-LINES\\PHV: 1000 W AT PANELS; 600 W TO TRANSFORMERS; FINAL SECTION 300 W; GENERALLY 1400D.\\PHV SOUTH / LV NORTH. COVER ALL TRENCHES; NO CIVIL BEAM SHALL REDUCE CROSS-SECTION.",
+    "InsertionPoint": [
+      9500.0,
+      31955.584,
+      0.0
+    ]
+  },
+  {
+    "h": "7A02",
+    "type": "AcDbMText",
+    "layer": "E-T1-MODEL-NOTES-HIDDEN",
+    "TextString": "DOORS: WIDTHS ARE PROPOSED CLEAR OPENINGS; 2800H PLANT DOORS ASSUMED.\\P180-DEGREE OUTWARD SWING; LEAVES SHOWN AT 90 DEGREES. SHARED SWING ZONES: OPEN ADJACENT PLANT DOORS SEQUENTIALLY.\\PD-TXA: DESIGNATED PERSONNEL ENTRANCE WITH 700 W x 2100H WICKET, PANIC HARDWARE; OTHER EXITS OPENABLE FROM INSIDE.\\PLV ROOM HAS SEPARATE WEST ENTRANCE. ACTUAL FRAMES, FIRE RATING, EXTERNAL ROUTE AND ARCHITECTURAL OPENINGS REQUIRE COORDINATION.",
+    "InsertionPoint": [
+      9500.0,
+      8505.584,
+      0.0
+    ]
+  },
+  {
+    "h": "7A80",
+    "type": "AcDbAlignedDimension",
+    "layer": "E-T1-DIMENSIONS"
+  },
+  {
+    "h": "7AE4",
+    "type": "AcDbAlignedDimension",
+    "layer": "E-T1-DIMENSIONS"
+  },
+  {
+    "h": "7B48",
+    "type": "AcDbAlignedDimension",
+    "layer": "E-T1-DIMENSIONS"
+  },
+  {
+    "h": "8085",
+    "type": "AcDbPolyline",
+    "layer": "E-REV-EQUIPMENT",
+    "Coordinates": [
+      15050.0,
+      18715.584,
+      16550.0,
+      18715.584,
+      16550.0,
+      19895.584,
+      15050.0,
+      19895.584
+    ]
+  },
+  {
+    "h": "8086",
+    "type": "AcDbLine",
+    "layer": "E-REV-EQUIPMENT",
+    "StartPoint": [
+      14760.0,
+      18805.584,
+      0.0
+    ],
+    "EndPoint": [
+      15050.0,
+      18805.584,
+      0.0
+    ]
+  },
+  {
+    "h": "8087",
+    "type": "AcDbLine",
+    "layer": "E-REV-EQUIPMENT",
+    "StartPoint": [
+      16550.0,
+      18805.584,
+      0.0
+    ],
+    "EndPoint": [
+      16840.0,
+      18805.584,
+      0.0
+    ]
+  },
+  {
+    "h": "8088",
+    "type": "AcDbLine",
+    "layer": "E-REV-EQUIPMENT",
+    "StartPoint": [
+      14760.0,
+      18955.584,
+      0.0
+    ],
+    "EndPoint": [
+      15050.0,
+      18955.584,
+      0.0
+    ]
+  },
+  {
+    "h": "8089",
+    "type": "AcDbLine",
+    "layer": "E-REV-EQUIPMENT",
+    "StartPoint": [
+      16550.0,
+      18955.584,
+      0.0
+    ],
+    "EndPoint": [
+      16840.0,
+      18955.584,
+      0.0
+    ]
+  },
+  {
+    "h": "808A",
+    "type": "AcDbLine",
+    "layer": "E-REV-EQUIPMENT",
+    "StartPoint": [
+      14760.0,
+      19105.584,
+      0.0
+    ],
+    "EndPoint": [
+      15050.0,
+      19105.584,
+      0.0
+    ]
+  },
+  {
+    "h": "808B",
+    "type": "AcDbLine",
+    "layer": "E-REV-EQUIPMENT",
+    "StartPoint": [
+      16550.0,
+      19105.584,
+      0.0
+    ],
+    "EndPoint": [
+      16840.0,
+      19105.584,
+      0.0
+    ]
+  },
+  {
+    "h": "808C",
+    "type": "AcDbLine",
+    "layer": "E-REV-EQUIPMENT",
+    "StartPoint": [
+      14760.0,
+      19255.584,
+      0.0
+    ],
+    "EndPoint": [
+      15050.0,
+      19255.584,
+      0.0
+    ]
+  },
+  {
+    "h": "808D",
+    "type": "AcDbLine",
+    "layer": "E-REV-EQUIPMENT",
+    "StartPoint": [
+      16550.0,
+      19255.584,
+      0.0
+    ],
+    "EndPoint": [
+      16840.0,
+      19255.584,
+      0.0
+    ]
+  },
+  {
+    "h": "808E",
+    "type": "AcDbLine",
+    "layer": "E-REV-EQUIPMENT",
+    "StartPoint": [
+      14760.0,
+      19405.584,
+      0.0
+    ],
+    "EndPoint": [
+      15050.0,
+      19405.584,
+      0.0
+    ]
+  },
+  {
+    "h": "808F",
+    "type": "AcDbLine",
+    "layer": "E-REV-EQUIPMENT",
+    "StartPoint": [
+      16550.0,
+      19405.584,
+      0.0
+    ],
+    "EndPoint": [
+      16840.0,
+      19405.584,
+      0.0
+    ]
+  },
+  {
+    "h": "8090",
+    "type": "AcDbLine",
+    "layer": "E-REV-EQUIPMENT",
+    "StartPoint": [
+      14760.0,
+      19555.584,
+      0.0
+    ],
+    "EndPoint": [
+      15050.0,
+      19555.584,
+      0.0
+    ]
+  },
+  {
+    "h": "8091",
+    "type": "AcDbLine",
+    "layer": "E-REV-EQUIPMENT",
+    "StartPoint": [
+      16550.0,
+      19555.584,
+      0.0
+    ],
+    "EndPoint": [
+      16840.0,
+      19555.584,
+      0.0
+    ]
+  },
+  {
+    "h": "8092",
+    "type": "AcDbLine",
+    "layer": "E-REV-EQUIPMENT",
+    "StartPoint": [
+      14760.0,
+      19705.584,
+      0.0
+    ],
+    "EndPoint": [
+      15050.0,
+      19705.584,
+      0.0
+    ]
+  },
+  {
+    "h": "8093",
+    "type": "AcDbLine",
+    "layer": "E-REV-EQUIPMENT",
+    "StartPoint": [
+      16550.0,
+      19705.584,
+      0.0
+    ],
+    "EndPoint": [
+      16840.0,
+      19705.584,
+      0.0
+    ]
+  },
+  {
+    "h": "8094",
+    "type": "AcDbPolyline",
+    "layer": "E-REV-EQUIPMENT",
+    "Coordinates": [
+      15450.0,
+      19895.584,
+      16150.0,
+      19895.584,
+      16150.0,
+      20255.584,
+      15450.0,
+      20255.584
+    ]
+  },
+  {
+    "h": "8095",
+    "type": "AcDbPolyline",
+    "layer": "E-REV-EQUIPMENT",
+    "Coordinates": [
+      15050.0,
+      19205.584,
+      15310.0,
+      19205.584,
+      15310.0,
+      19585.584,
+      15050.0,
+      19585.584
+    ]
+  },
+  {
+    "h": "8096",
+    "type": "AcDbMText",
+    "layer": "E-REV-TEXT",
+    "TextString": "LV",
+    "InsertionPoint": [
+      15550.0,
+      20195.584,
+      0.0
+    ]
+  },
+  {
+    "h": "8097",
+    "type": "AcDbMText",
+    "layer": "E-REV-TEXT",
+    "TextString": "HV",
+    "InsertionPoint": [
+      15085.0,
+      19475.584,
+      0.0
+    ]
+  },
+  {
+    "h": "8098",
+    "type": "AcDbBlockReference",
+    "layer": "E-REV-SLD",
+    "InsertionPoint": [
+      15820.0,
+      19305.584,
+      0.0
+    ],
+    "Name": "AECBS_UK_E_transfmr"
+  },
+  {
+    "h": "8099",
+    "type": "AcDbMText",
+    "layer": "E-REV-TEXT",
+    "TextString": "2200 x 1800 mm",
+    "InsertionPoint": [
+      14760.0,
+      18085.584,
+      0.0
+    ]
+  },
+  {
+    "h": "809A",
+    "type": "AcDbPolyline",
+    "layer": "E-REV-EQUIPMENT",
+    "Coordinates": [
+      18750.0,
+      18715.584,
+      20250.0,
+      18715.584,
+      20250.0,
+      19895.584,
+      18750.0,
+      19895.584
+    ]
+  },
+  {
+    "h": "809B",
+    "type": "AcDbLine",
+    "layer": "E-REV-EQUIPMENT",
+    "StartPoint": [
+      18460.0,
+      18805.584,
+      0.0
+    ],
+    "EndPoint": [
+      18750.0,
+      18805.584,
+      0.0
+    ]
+  },
+  {
+    "h": "809C",
+    "type": "AcDbLine",
+    "layer": "E-REV-EQUIPMENT",
+    "StartPoint": [
+      20250.0,
+      18805.584,
+      0.0
+    ],
+    "EndPoint": [
+      20540.0,
+      18805.584,
+      0.0
+    ]
+  },
+  {
+    "h": "809D",
+    "type": "AcDbLine",
+    "layer": "E-REV-EQUIPMENT",
+    "StartPoint": [
+      18460.0,
+      18955.584,
+      0.0
+    ],
+    "EndPoint": [
+      18750.0,
+      18955.584,
+      0.0
+    ]
+  },
+  {
+    "h": "809E",
+    "type": "AcDbLine",
+    "layer": "E-REV-EQUIPMENT",
+    "StartPoint": [
+      20250.0,
+      18955.584,
+      0.0
+    ],
+    "EndPoint": [
+      20540.0,
+      18955.584,
+      0.0
+    ]
+  },
+  {
+    "h": "809F",
+    "type": "AcDbLine",
+    "layer": "E-REV-EQUIPMENT",
+    "StartPoint": [
+      18460.0,
+      19105.584,
+      0.0
+    ],
+    "EndPoint": [
+      18750.0,
+      19105.584,
+      0.0
+    ]
+  },
+  {
+    "h": "80A0",
+    "type": "AcDbLine",
+    "layer": "E-REV-EQUIPMENT",
+    "StartPoint": [
+      20250.0,
+      19105.584,
+      0.0
+    ],
+    "EndPoint": [
+      20540.0,
+      19105.584,
+      0.0
+    ]
+  },
+  {
+    "h": "80A1",
+    "type": "AcDbLine",
+    "layer": "E-REV-EQUIPMENT",
+    "StartPoint": [
+      18460.0,
+      19255.584,
+      0.0
+    ],
+    "EndPoint": [
+      18750.0,
+      19255.584,
+      0.0
+    ]
+  },
+  {
+    "h": "80A2",
+    "type": "AcDbLine",
+    "layer": "E-REV-EQUIPMENT",
+    "StartPoint": [
+      20250.0,
+      19255.584,
+      0.0
+    ],
+    "EndPoint": [
+      20540.0,
+      19255.584,
+      0.0
+    ]
+  },
+  {
+    "h": "80A3",
+    "type": "AcDbLine",
+    "layer": "E-REV-EQUIPMENT",
+    "StartPoint": [
+      18460.0,
+      19405.584,
+      0.0
+    ],
+    "EndPoint": [
+      18750.0,
+      19405.584,
+      0.0
+    ]
+  },
+  {
+    "h": "80A4",
+    "type": "AcDbLine",
+    "layer": "E-REV-EQUIPMENT",
+    "StartPoint": [
+      20250.0,
+      19405.584,
+      0.0
+    ],
+    "EndPoint": [
+      20540.0,
+      19405.584,
+      0.0
+    ]
+  },
+  {
+    "h": "80A5",
+    "type": "AcDbLine",
+    "layer": "E-REV-EQUIPMENT",
+    "StartPoint": [
+      18460.0,
+      19555.584,
+      0.0
+    ],
+    "EndPoint": [
+      18750.0,
+      19555.584,
+      0.0
+    ]
+  },
+  {
+    "h": "80A6",
+    "type": "AcDbLine",
+    "layer": "E-REV-EQUIPMENT",
+    "StartPoint": [
+      20250.0,
+      19555.584,
+      0.0
+    ],
+    "EndPoint": [
+      20540.0,
+      19555.584,
+      0.0
+    ]
+  },
+  {
+    "h": "80A7",
+    "type": "AcDbLine",
+    "layer": "E-REV-EQUIPMENT",
+    "StartPoint": [
+      18460.0,
+      19705.584,
+      0.0
+    ],
+    "EndPoint": [
+      18750.0,
+      19705.584,
+      0.0
+    ]
+  },
+  {
+    "h": "80A8",
+    "type": "AcDbLine",
+    "layer": "E-REV-EQUIPMENT",
+    "StartPoint": [
+      20250.0,
+      19705.584,
+      0.0
+    ],
+    "EndPoint": [
+      20540.0,
+      19705.584,
+      0.0
+    ]
+  },
+  {
+    "h": "80A9",
+    "type": "AcDbPolyline",
+    "layer": "E-REV-EQUIPMENT",
+    "Coordinates": [
+      19150.0,
+      19895.584,
+      19850.0,
+      19895.584,
+      19850.0,
+      20255.584,
+      19150.0,
+      20255.584
+    ]
+  },
+  {
+    "h": "80AA",
+    "type": "AcDbPolyline",
+    "layer": "E-REV-EQUIPMENT",
+    "Coordinates": [
+      18750.0,
+      19205.584,
+      19010.0,
+      19205.584,
+      19010.0,
+      19585.584,
+      18750.0,
+      19585.584
+    ]
+  },
+  {
+    "h": "80AB",
+    "type": "AcDbMText",
+    "layer": "E-REV-TEXT",
+    "TextString": "LV",
+    "InsertionPoint": [
+      19250.0,
+      20195.584,
+      0.0
+    ]
+  },
+  {
+    "h": "80AC",
+    "type": "AcDbMText",
+    "layer": "E-REV-TEXT",
+    "TextString": "HV",
+    "InsertionPoint": [
+      18785.0,
+      19475.584,
+      0.0
+    ]
+  },
+  {
+    "h": "80AD",
+    "type": "AcDbBlockReference",
+    "layer": "E-REV-SLD",
+    "InsertionPoint": [
+      19520.0,
+      19305.584,
+      0.0
+    ],
+    "Name": "AECBS_UK_E_transfmr"
+  },
+  {
+    "h": "80AE",
+    "type": "AcDbMText",
+    "layer": "E-REV-TEXT",
+    "TextString": "2200 x 1800 mm",
+    "InsertionPoint": [
+      18460.0,
+      18085.584,
+      0.0
+    ]
+  },
+  {
+    "h": "80AF",
+    "type": "AcDbLine",
+    "layer": "E-REV-EQUIPMENT",
+    "StartPoint": [
+      11000.0,
+      18805.584,
+      0.0
+    ],
+    "EndPoint": [
+      11000.0,
+      19805.584,
+      0.0
+    ]
+  },
+  {
+    "h": "80B0",
+    "type": "AcDbLine",
+    "layer": "E-REV-EQUIPMENT",
+    "StartPoint": [
+      12000.0,
+      18805.584,
+      0.0
+    ],
+    "EndPoint": [
+      12000.0,
+      19805.584,
+      0.0
+    ]
+  },
+  {
+    "h": "80B1",
+    "type": "AcDbPolyline",
+    "layer": "E-REV-EQUIPMENT",
+    "Coordinates": [
+      10160.0,
+      18965.584,
+      10840.0,
+      18965.584,
+      10840.0,
+      19545.584,
+      10160.0,
+      19545.584
+    ]
+  },
+  {
+    "h": "80B2",
+    "type": "AcDbMText",
+    "layer": "E-REV-TEXT",
+    "TextString": "IN",
+    "InsertionPoint": [
+      10250.0,
+      19395.584,
+      0.0
+    ]
+  },
+  {
+    "h": "80B3",
+    "type": "AcDbPolyline",
+    "layer": "E-REV-EQUIPMENT",
+    "Coordinates": [
+      11160.0,
+      18965.584,
+      11840.0,
+      18965.584,
+      11840.0,
+      19545.584,
+      11160.0,
+      19545.584
+    ]
+  },
+  {
+    "h": "80B4",
+    "type": "AcDbMText",
+    "layer": "E-REV-TEXT",
+    "TextString": "TX-A",
+    "InsertionPoint": [
+      11250.0,
+      19395.584,
+      0.0
+    ]
+  },
+  {
+    "h": "80B5",
+    "type": "AcDbPolyline",
+    "layer": "E-REV-EQUIPMENT",
+    "Coordinates": [
+      12160.0,
+      18965.584,
+      12840.0,
+      18965.584,
+      12840.0,
+      19545.584,
+      12160.0,
+      19545.584
+    ]
+  },
+  {
+    "h": "80B6",
+    "type": "AcDbMText",
+    "layer": "E-REV-TEXT",
+    "TextString": "TX-B",
+    "InsertionPoint": [
+      12250.0,
+      19395.584,
+      0.0
+    ]
+  },
+  {
+    "h": "80B7",
+    "type": "AcDbMText",
+    "layer": "E-REV-TEXT",
+    "TextString": "3000 x 1000 mm",
+    "InsertionPoint": [
+      10000.0,
+      18395.584,
+      0.0
+    ]
+  },
+  {
+    "h": "8027",
+    "type": "AcDbMText",
+    "layer": "E-T1-PAPER-NOTES",
+    "TextString": "TASK 1 | PROPOSED SUBSTATION AND MAIN LV ROOM",
+    "InsertionPoint": [
+      12.0,
+      285.0,
+      0.0
+    ]
+  },
+  {
+    "h": "8028",
+    "type": "AcDbMText",
+    "layer": "E-T1-PAPER-NOTES",
+    "TextString": "A3 LANDSCAPE | SCALE 1:75 | DIMENSIONS IN mm | PLANTROOM DETAIL",
+    "InsertionPoint": [
+      12.0,
+      276.0,
+      0.0
+    ]
+  },
+  {
+    "h": "8029",
+    "type": "AcDbMText",
+    "layer": "E-T1-PAPER-NOTES",
+    "TextString": "CAPACITY AND EQUIPMENT\\PTX-A / TX-B: 1500 kVA each. Total 3000 kVA; design load 2672.216 kVA. No full-load N-1.\\PHV-01: 3000 x 1000 mm; TX-A/B: 2200 x 1800 mm.\\PCabinets: A/B-IN incomer; A/B-FL floor feeders; A/B-PL plant/public feeders.\\PGeneric plan symbols; overall dimensions are adopted design assumptions. Internal details are diagrammatic.",
+    "InsertionPoint": [
+      270.0,
+      262.0,
+      0.0
+    ]
+  },
+  {
+    "h": "802A",
+    "type": "AcDbMText",
+    "layer": "E-T1-PAPER-NOTES",
+    "TextString": "CLEARANCES / BUILDING WORKS\\PHV rear 1000, front 1800, sides 750. TX LV terminals north: 900; other sides 750.\\PProposed 2h FRR partitions; fire-seal penetrations. FFL +0.15 vs external +0.00 assumed.\\PActual structures, wall thickness and equipment dimensions require coordination.",
+    "InsertionPoint": [
+      270.0,
+      210.0,
+      0.0
+    ]
+  },
+  {
+    "h": "802B",
+    "type": "AcDbMText",
+    "layer": "E-T1-PAPER-NOTES",
+    "TextString": "ACCESS AND DOORS\\PSouth external access assumed. Provide 3000-wide clear delivery route; unloading distance <=20 m to verify.\\PPlant doors: HV 4000 W; TX 3000 W each; 2800 H assumed. Outward opening, shown at 90 degrees.\\PAdjacent plant doors used sequentially; TX-A has wicket personnel access. Independent LV entrance west.",
+    "InsertionPoint": [
+      270.0,
+      153.0,
+      0.0
+    ]
+  },
+  {
+    "h": "802C",
+    "type": "AcDbMText",
+    "layer": "E-T1-PAPER-NOTES",
+    "TextString": "VENTILATION\\P2 low-level 600 W x 2000H inlet louvres: 2.4m2 gross x assumed 50% free area = 1.20m2 >=1.12m2. Certified free area >=46.67% required.\\P2 high-level 630-dia fan symbols are conditional references. Actual losses, fan duty and noise to confirm; outlet >=2.5m above street, away from people.",
+    "InsertionPoint": [
+      270.0,
+      85.0,
+      0.0
+    ]
+  },
+  {
+    "h": "802D",
+    "type": "AcDbMText",
+    "layer": "E-T1-PAPER-NOTES",
+    "TextString": "LV INTERFACES / HV ROUTES\\PLV trench: 1000 W x 1100D, four MCTs per interface. A: 8.03+2=10.03m; B: 8.31+2=10.31m (<20m). 2m is assumed total termination/vertical allowance.\\PHV centre-lines: 1000 W at panels; 600 W branches; final 300 W; generally 1400D. Segregate HV/LV. Covered trenches; no beam obstruction.",
+    "InsertionPoint": [
+      12.0,
+      60.0,
+      0.0
+    ]
+  },
+  {
+    "h": "802E",
+    "type": "AcDbMText",
+    "layer": "E-T1-PAPER-NOTES",
+    "TextString": "DETAIL 1:75 AT A3",
+    "InsertionPoint": [
+      12.0,
+      18.0,
+      0.0
+    ]
+  },
+  {
+    "h": "802F",
+    "type": "AcDbMText",
+    "layer": "E-T1-PAPER-NOTES",
+    "TextString": "Basis: supplied COP215 Rev07; COP101 v16.\\PSee the new main distribution schematic for TX-A/B, MSB-A/B and floor supply zones.",
+    "InsertionPoint": [
+      270.0,
+      24.0,
+      0.0
+    ]
+  },
+  {
+    "h": "8030",
+    "type": "AcDbMText",
+    "layer": "E-T1-PAPER-NOTES",
+    "TextString": "LINE KEY: dashed = HV trench; solid = LV route; chain = clearance. Equipment details are diagrammatic.",
+    "InsertionPoint": [
+      12.0,
+      70.0,
+      0.0
+    ]
+  },
+  {
+    "h": "8031",
+    "type": "AcDbViewport",
+    "layer": "E-T1-VPORT-NOPLOT",
+    "Center": [
+      132.0,
+      166.0,
+      0.0
+    ]
+  },
+  {
+    "h": "8168",
+    "type": "AcDbMText",
+    "layer": "E-REV-TEXT",
+    "TextString": "TASK 1 | MAIN ELECTRICAL DISTRIBUTION SCHEMATIC",
+    "InsertionPoint": [
+      12.0,
+      285.0,
+      0.0
+    ]
+  },
+  {
+    "h": "8169",
+    "type": "AcDbMText",
+    "layer": "E-REV-TEXT",
+    "TextString": "A3 LANDSCAPE | NOT TO SCALE | 2 x 1500 kVA | 380/220 V LV DESIGN BASIS",
+    "InsertionPoint": [
+      12.0,
+      277.0,
+      0.0
+    ]
+  },
+  {
+    "h": "816A",
+    "type": "AcDbLine",
+    "layer": "E-REV-EQUIPMENT",
+    "StartPoint": [
+      12.0,
+      272.0,
+      0.0
+    ],
+    "EndPoint": [
+      408.0,
+      272.0,
+      0.0
+    ]
+  },
+  {
+    "h": "816B",
+    "type": "AcDbMText",
+    "layer": "E-REV-TEXT",
+    "TextString": "NORMAL SUPPLY: 2672.216 kVA total; two independent LV sections.\\PEqual allocation: 1336.108 kVA / approx. 2030 A per section.",
+    "InsertionPoint": [
+      12.0,
+      268.0,
+      0.0
+    ]
+  },
+  {
+    "h": "816C",
+    "type": "AcDbMText",
+    "layer": "E-REV-TEXT",
+    "TextString": "TYPICAL OFFICE 1 SUPPLY\\PSelected tenant detail; applicable to its floor supply zone.",
+    "InsertionPoint": [
+      280.0,
+      268.0,
+      0.0
+    ]
+  },
+  {
+    "h": "816D",
+    "type": "AcDbPolyline",
+    "layer": "E-REV-EQUIPMENT",
+    "Coordinates": [
+      12.0,
+      50.0,
+      259.0,
+      50.0,
+      259.0,
+      92.0,
+      12.0,
+      92.0
+    ]
+  },
+  {
+    "h": "816E",
+    "type": "AcDbMText",
+    "layer": "E-REV-TEXT",
+    "TextString": "GROUND FLOOR | TRANSFORMER ROOM",
+    "InsertionPoint": [
+      15.0,
+      89.0,
+      0.0
+    ]
+  },
+  {
+    "h": "816F",
+    "type": "AcDbPolyline",
+    "layer": "E-REV-EQUIPMENT",
+    "Coordinates": [
+      12.0,
+      97.0,
+      259.0,
+      97.0,
+      259.0,
+      146.0,
+      12.0,
+      146.0
+    ]
+  },
+  {
+    "h": "8170",
+    "type": "AcDbMText",
+    "layer": "E-REV-TEXT",
+    "TextString": "GROUND FLOOR | MAIN LV SWITCH ROOM",
+    "InsertionPoint": [
+      15.0,
+      143.0,
+      0.0
+    ]
+  },
+  {
+    "h": "8171",
+    "type": "AcDbMText",
+    "layer": "E-REV-TEXT",
+    "TextString": "TX-A | 1500 kVA\\PLV 380/220 V\\P3-phase, 4-wire",
+    "InsertionPoint": [
+      69.0,
+      83.0,
+      0.0
+    ]
+  },
+  {
+    "h": "8172",
+    "type": "AcDbBlockReference",
+    "layer": "E-REV-SLD",
+    "InsertionPoint": [
+      55.0,
+      74.0,
+      0.0
+    ],
+    "Name": "AECBS_UK_E_transfmr"
+  },
+  {
+    "h": "8173",
+    "type": "AcDbLine",
+    "layer": "E-REV-SLD",
+    "StartPoint": [
+      55.0,
+      67.47792180984618,
+      0.0
+    ],
+    "EndPoint": [
+      55.0,
+      56.0,
+      0.0
+    ]
+  },
+  {
+    "h": "8174",
+    "type": "AcDbMText",
+    "layer": "E-REV-TEXT",
+    "TextString": "HV feeder from HV-01",
+    "InsertionPoint": [
+      25.0,
+      54.5,
+      0.0
+    ]
+  },
+  {
+    "h": "8175",
+    "type": "AcDbLine",
+    "layer": "E-REV-SLD",
+    "StartPoint": [
+      55.0,
+      80.52207819015382,
+      0.0
+    ],
+    "EndPoint": [
+      55.0,
+      105.0,
+      0.0
+    ]
+  },
+  {
+    "h": "8176",
+    "type": "AcDbBlockReference",
+    "layer": "E-REV-SLD",
+    "InsertionPoint": [
+      55.0,
+      105.0,
+      0.0
+    ],
+    "Name": "AECBS_UK_E_Circuitb"
+  },
+  {
+    "h": "8177",
+    "type": "AcDbMText",
+    "layer": "E-REV-TEXT",
+    "TextString": "ACB-A\\PMain incomer",
+    "InsertionPoint": [
+      63.0,
+      114.0,
+      0.0
+    ]
+  },
+  {
+    "h": "8178",
+    "type": "AcDbLine",
+    "layer": "E-REV-SLD",
+    "StartPoint": [
+      55.0,
+      116.51777002749098,
+      0.0
+    ],
+    "EndPoint": [
+      55.0,
+      130.0,
+      0.0
+    ]
+  },
+  {
+    "h": "8179",
+    "type": "AcDbLine",
+    "layer": "E-REV-SLD",
+    "StartPoint": [
+      29.0,
+      130.0,
+      0.0
+    ],
+    "EndPoint": [
+      113.0,
+      130.0,
+      0.0
+    ]
+  },
+  {
+    "h": "817A",
+    "type": "AcDbMText",
+    "layer": "E-REV-TEXT",
+    "TextString": "MSB-A | SECTION A",
+    "InsertionPoint": [
+      30.0,
+      126.0,
+      0.0
+    ]
+  },
+  {
+    "h": "817B",
+    "type": "AcDbLine",
+    "layer": "E-REV-SLD",
+    "StartPoint": [
+      62.0833,
+      68.0,
+      0.0
+    ],
+    "EndPoint": [
+      79.0,
+      68.0,
+      0.0
+    ]
+  },
+  {
+    "h": "817C",
+    "type": "AcDbBlockReference",
+    "layer": "E-REV-SLD",
+    "InsertionPoint": [
+      79.0,
+      65.0,
+      0.0
+    ],
+    "Name": "AECBS_UK_E_gnd"
+  },
+  {
+    "h": "817D",
+    "type": "AcDbLine",
+    "layer": "E-REV-SLD",
+    "StartPoint": [
+      79.0,
+      68.0,
+      0.0
+    ],
+    "EndPoint": [
+      79.0,
+      65.0,
+      0.0
+    ]
+  },
+  {
+    "h": "817E",
+    "type": "AcDbMText",
+    "layer": "E-REV-TEXT",
+    "TextString": "PE",
+    "InsertionPoint": [
+      83.0,
+      68.0,
+      0.0
+    ]
+  },
+  {
+    "h": "817F",
+    "type": "AcDbMText",
+    "layer": "E-REV-TEXT",
+    "TextString": "TX-B | 1500 kVA\\PLV 380/220 V\\P3-phase, 4-wire",
+    "InsertionPoint": [
+      194.0,
+      83.0,
+      0.0
+    ]
+  },
+  {
+    "h": "8180",
+    "type": "AcDbBlockReference",
+    "layer": "E-REV-SLD",
+    "InsertionPoint": [
+      180.0,
+      74.0,
+      0.0
+    ],
+    "Name": "AECBS_UK_E_transfmr"
+  },
+  {
+    "h": "8181",
+    "type": "AcDbLine",
+    "layer": "E-REV-SLD",
+    "StartPoint": [
+      180.0,
+      67.47792180984618,
+      0.0
+    ],
+    "EndPoint": [
+      180.0,
+      56.0,
+      0.0
+    ]
+  },
+  {
+    "h": "8182",
+    "type": "AcDbMText",
+    "layer": "E-REV-TEXT",
+    "TextString": "HV feeder from HV-01",
+    "InsertionPoint": [
+      150.0,
+      54.5,
+      0.0
+    ]
+  },
+  {
+    "h": "8183",
+    "type": "AcDbLine",
+    "layer": "E-REV-SLD",
+    "StartPoint": [
+      180.0,
+      80.52207819015382,
+      0.0
+    ],
+    "EndPoint": [
+      180.0,
+      105.0,
+      0.0
+    ]
+  },
+  {
+    "h": "8184",
+    "type": "AcDbBlockReference",
+    "layer": "E-REV-SLD",
+    "InsertionPoint": [
+      180.0,
+      105.0,
+      0.0
+    ],
+    "Name": "AECBS_UK_E_Circuitb"
+  },
+  {
+    "h": "8185",
+    "type": "AcDbMText",
+    "layer": "E-REV-TEXT",
+    "TextString": "ACB-B\\PMain incomer",
+    "InsertionPoint": [
+      188.0,
+      114.0,
+      0.0
+    ]
+  },
+  {
+    "h": "8186",
+    "type": "AcDbLine",
+    "layer": "E-REV-SLD",
+    "StartPoint": [
+      180.0,
+      116.51777002749098,
+      0.0
+    ],
+    "EndPoint": [
+      180.0,
+      130.0,
+      0.0
+    ]
+  },
+  {
+    "h": "8187",
+    "type": "AcDbLine",
+    "layer": "E-REV-SLD",
+    "StartPoint": [
+      154.0,
+      130.0,
+      0.0
+    ],
+    "EndPoint": [
+      238.0,
+      130.0,
+      0.0
+    ]
+  },
+  {
+    "h": "8188",
+    "type": "AcDbMText",
+    "layer": "E-REV-TEXT",
+    "TextString": "MSB-B | SECTION B",
+    "InsertionPoint": [
+      155.0,
+      126.0,
+      0.0
+    ]
+  },
+  {
+    "h": "8189",
+    "type": "AcDbLine",
+    "layer": "E-REV-SLD",
+    "StartPoint": [
+      187.0833,
+      68.0,
+      0.0
+    ],
+    "EndPoint": [
+      204.0,
+      68.0,
+      0.0
+    ]
+  },
+  {
+    "h": "818A",
+    "type": "AcDbBlockReference",
+    "layer": "E-REV-SLD",
+    "InsertionPoint": [
+      204.0,
+      65.0,
+      0.0
+    ],
+    "Name": "AECBS_UK_E_gnd"
+  },
+  {
+    "h": "818B",
+    "type": "AcDbLine",
+    "layer": "E-REV-SLD",
+    "StartPoint": [
+      204.0,
+      68.0,
+      0.0
+    ],
+    "EndPoint": [
+      204.0,
+      65.0,
+      0.0
+    ]
+  },
+  {
+    "h": "818C",
+    "type": "AcDbMText",
+    "layer": "E-REV-TEXT",
+    "TextString": "PE",
+    "InsertionPoint": [
+      208.0,
+      68.0,
+      0.0
+    ]
+  },
+  {
+    "h": "818D",
+    "type": "AcDbMText",
+    "layer": "E-REV-TEXT",
+    "TextString": "NO BUS\\PCOUPLER",
+    "InsertionPoint": [
+      126.0,
+      120.0,
+      0.0
+    ]
+  },
+  {
+    "h": "818E",
+    "type": "AcDbMText",
+    "layer": "E-REV-TEXT",
+    "TextString": "SYSTEM BASIS\\PHV supply voltage and upstream protection: utility interface. Capacities and LV voltage follow Task 1. Main ACB ratings/settings and fault duties require coordinated equipment selection. PE denotes equipment bonding; source earthing arrangement to be coordinated.",
+    "InsertionPoint": [
+      12.0,
+      39.0,
+      0.0
+    ]
+  },
+  {
+    "h": "818F",
+    "type": "AcDbMText",
+    "layer": "E-REV-TEXT",
+    "TextString": "REFERENCE: Electrical Schematic 1 - transformer, main switchboard and floor-metering arrangement.\\PRead with the plantroom layout and Office 1 distribution-board schematic.",
+    "InsertionPoint": [
+      12.0,
+      17.0,
+      0.0
+    ]
+  },
+  {
+    "h": "8190",
+    "type": "AcDbMText",
+    "layer": "E-REV-TEXT",
+    "TextString": "DESIGN LIMITS\\PNo full-load N-1. Central plant/public load is split equally as a design assumption. This sheet shows normal supply; emergency systems are separate.",
+    "InsertionPoint": [
+      280.0,
+      35.0,
+      0.0
+    ]
+  },
+  {
+    "h": "8191",
+    "type": "AcDbMText",
+    "layer": "E-REV-TEXT",
+    "TextString": "GROUP 1 | E-04 | REV 01 | 10 NOV 2026",
+    "InsertionPoint": [
+      280.0,
+      14.0,
+      0.0
+    ]
+  },
+  {
+    "h": "8192",
+    "type": "AcDbLine",
+    "layer": "E-REV-SLD",
+    "StartPoint": [
+      55.0,
+      130.0,
+      0.0
+    ],
+    "EndPoint": [
+      55.0,
+      151.0,
+      0.0
+    ]
+  },
+  {
+    "h": "8193",
+    "type": "AcDbBlockReference",
+    "layer": "E-REV-SLD",
+    "InsertionPoint": [
+      55.0,
+      151.0,
+      0.0
+    ],
+    "Name": "AECBS_UK_E_Circuitb"
+  },
+  {
+    "h": "8194",
+    "type": "AcDbLine",
+    "layer": "E-REV-SLD",
+    "StartPoint": [
+      55.0,
+      157.71869918270306,
+      0.0
+    ],
+    "EndPoint": [
+      55.0,
+      244.0,
+      0.0
+    ]
+  },
+  {
+    "h": "8195",
+    "type": "AcDbMText",
+    "layer": "E-REV-TEXT",
+    "TextString": "ZONE A | FLOORS 1-5",
+    "InsertionPoint": [
+      16.0,
+      249.0,
+      0.0
+    ]
+  },
+  {
+    "h": "8196",
+    "type": "AcDbCircle",
+    "layer": "E-REV-SLD",
+    "Center": [
+      55.0,
+      169.0,
+      0.0
+    ],
+    "Radius": 0.65
+  },
+  {
+    "h": "8197",
+    "type": "AcDbLine",
+    "layer": "E-REV-SLD",
+    "StartPoint": [
+      55.0,
+      169.0,
+      0.0
+    ],
+    "EndPoint": [
+      73.5778955081495,
+      169.0,
+      0.0
+    ]
+  },
+  {
+    "h": "8198",
+    "type": "AcDbBlockReference",
+    "layer": "E-REV-SLD",
+    "InsertionPoint": [
+      76.0,
+      169.0,
+      0.0
+    ],
+    "Name": "AECBS_UK_E_Meter"
+  },
+  {
+    "h": "8199",
+    "type": "AcDbLine",
+    "layer": "E-REV-SLD",
+    "StartPoint": [
+      78.4221044918505,
+      169.0,
+      0.0
+    ],
+    "EndPoint": [
+      107.0,
+      169.0,
+      0.0
+    ]
+  },
+  {
+    "h": "819A",
+    "type": "AcDbMText",
+    "layer": "E-REV-TEXT",
+    "TextString": "F1",
+    "InsertionPoint": [
+      39.0,
+      171.0,
+      0.0
+    ]
+  },
+  {
+    "h": "819B",
+    "type": "AcDbMText",
+    "layer": "E-REV-TEXT",
+    "TextString": "3 TENANTS",
+    "InsertionPoint": [
+      83.0,
+      175.0,
+      0.0
+    ]
+  },
+  {
+    "h": "819C",
+    "type": "AcDbCircle",
+    "layer": "E-REV-SLD",
+    "Center": [
+      55.0,
+      185.0,
+      0.0
+    ],
+    "Radius": 0.65
+  },
+  {
+    "h": "819D",
+    "type": "AcDbLine",
+    "layer": "E-REV-SLD",
+    "StartPoint": [
+      55.0,
+      185.0,
+      0.0
+    ],
+    "EndPoint": [
+      73.5778955081495,
+      185.0,
+      0.0
+    ]
+  },
+  {
+    "h": "819E",
+    "type": "AcDbBlockReference",
+    "layer": "E-REV-SLD",
+    "InsertionPoint": [
+      76.0,
+      185.0,
+      0.0
+    ],
+    "Name": "AECBS_UK_E_Meter"
+  },
+  {
+    "h": "819F",
+    "type": "AcDbLine",
+    "layer": "E-REV-SLD",
+    "StartPoint": [
+      78.4221044918505,
+      185.0,
+      0.0
+    ],
+    "EndPoint": [
+      107.0,
+      185.0,
+      0.0
+    ]
+  },
+  {
+    "h": "81A0",
+    "type": "AcDbMText",
+    "layer": "E-REV-TEXT",
+    "TextString": "F2",
+    "InsertionPoint": [
+      39.0,
+      187.0,
+      0.0
+    ]
+  },
+  {
+    "h": "81A1",
+    "type": "AcDbMText",
+    "layer": "E-REV-TEXT",
+    "TextString": "3 TENANTS",
+    "InsertionPoint": [
+      83.0,
+      191.0,
+      0.0
+    ]
+  },
+  {
+    "h": "81A2",
+    "type": "AcDbCircle",
+    "layer": "E-REV-SLD",
+    "Center": [
+      55.0,
+      201.0,
+      0.0
+    ],
+    "Radius": 0.65
+  },
+  {
+    "h": "81A3",
+    "type": "AcDbLine",
+    "layer": "E-REV-SLD",
+    "StartPoint": [
+      55.0,
+      201.0,
+      0.0
+    ],
+    "EndPoint": [
+      73.5778955081495,
+      201.0,
+      0.0
+    ]
+  },
+  {
+    "h": "81A4",
+    "type": "AcDbBlockReference",
+    "layer": "E-REV-SLD",
+    "InsertionPoint": [
+      76.0,
+      201.0,
+      0.0
+    ],
+    "Name": "AECBS_UK_E_Meter"
+  },
+  {
+    "h": "81A5",
+    "type": "AcDbLine",
+    "layer": "E-REV-SLD",
+    "StartPoint": [
+      78.4221044918505,
+      201.0,
+      0.0
+    ],
+    "EndPoint": [
+      107.0,
+      201.0,
+      0.0
+    ]
+  },
+  {
+    "h": "81A6",
+    "type": "AcDbMText",
+    "layer": "E-REV-TEXT",
+    "TextString": "F3",
+    "InsertionPoint": [
+      39.0,
+      203.0,
+      0.0
+    ]
+  },
+  {
+    "h": "81A7",
+    "type": "AcDbMText",
+    "layer": "E-REV-TEXT",
+    "TextString": "3 TENANTS",
+    "InsertionPoint": [
+      83.0,
+      207.0,
+      0.0
+    ]
+  },
+  {
+    "h": "81A8",
+    "type": "AcDbCircle",
+    "layer": "E-REV-SLD",
+    "Center": [
+      55.0,
+      217.0,
+      0.0
+    ],
+    "Radius": 0.65
+  },
+  {
+    "h": "81A9",
+    "type": "AcDbLine",
+    "layer": "E-REV-SLD",
+    "StartPoint": [
+      55.0,
+      217.0,
+      0.0
+    ],
+    "EndPoint": [
+      73.5778955081495,
+      217.0,
+      0.0
+    ]
+  },
+  {
+    "h": "81AA",
+    "type": "AcDbBlockReference",
+    "layer": "E-REV-SLD",
+    "InsertionPoint": [
+      76.0,
+      217.0,
+      0.0
+    ],
+    "Name": "AECBS_UK_E_Meter"
+  },
+  {
+    "h": "81AB",
+    "type": "AcDbLine",
+    "layer": "E-REV-SLD",
+    "StartPoint": [
+      78.4221044918505,
+      217.0,
+      0.0
+    ],
+    "EndPoint": [
+      107.0,
+      217.0,
+      0.0
+    ]
+  },
+  {
+    "h": "81AC",
+    "type": "AcDbMText",
+    "layer": "E-REV-TEXT",
+    "TextString": "F4",
+    "InsertionPoint": [
+      39.0,
+      219.0,
+      0.0
+    ]
+  },
+  {
+    "h": "81AD",
+    "type": "AcDbMText",
+    "layer": "E-REV-TEXT",
+    "TextString": "3 TENANTS",
+    "InsertionPoint": [
+      83.0,
+      223.0,
+      0.0
+    ]
+  },
+  {
+    "h": "81AE",
+    "type": "AcDbCircle",
+    "layer": "E-REV-SLD",
+    "Center": [
+      55.0,
+      233.0,
+      0.0
+    ],
+    "Radius": 0.65
+  },
+  {
+    "h": "81AF",
+    "type": "AcDbLine",
+    "layer": "E-REV-SLD",
+    "StartPoint": [
+      55.0,
+      233.0,
+      0.0
+    ],
+    "EndPoint": [
+      73.5778955081495,
+      233.0,
+      0.0
+    ]
+  },
+  {
+    "h": "81B0",
+    "type": "AcDbBlockReference",
+    "layer": "E-REV-SLD",
+    "InsertionPoint": [
+      76.0,
+      233.0,
+      0.0
+    ],
+    "Name": "AECBS_UK_E_Meter"
+  },
+  {
+    "h": "81B1",
+    "type": "AcDbLine",
+    "layer": "E-REV-SLD",
+    "StartPoint": [
+      78.4221044918505,
+      233.0,
+      0.0
+    ],
+    "EndPoint": [
+      107.0,
+      233.0,
+      0.0
+    ]
+  },
+  {
+    "h": "81B2",
+    "type": "AcDbMText",
+    "layer": "E-REV-TEXT",
+    "TextString": "F5",
+    "InsertionPoint": [
+      39.0,
+      235.0,
+      0.0
+    ]
+  },
+  {
+    "h": "81B3",
+    "type": "AcDbMText",
+    "layer": "E-REV-TEXT",
+    "TextString": "3 TENANTS",
+    "InsertionPoint": [
+      83.0,
+      239.0,
+      0.0
+    ]
+  },
+  {
+    "h": "81B4",
+    "type": "AcDbMText",
+    "layer": "E-REV-TEXT",
+    "TextString": "Floor metering shown collectively",
+    "InsertionPoint": [
+      57.0,
+      164.0,
+      0.0
+    ]
+  },
+  {
+    "h": "81B5",
+    "type": "AcDbLine",
+    "layer": "E-REV-SLD",
+    "StartPoint": [
+      113.0,
+      130.0,
+      0.0
+    ],
+    "EndPoint": [
+      113.0,
+      124.0,
+      0.0
+    ]
+  },
+  {
+    "h": "81B6",
+    "type": "AcDbBlockReference",
+    "layer": "E-REV-SLD",
+    "InsertionPoint": [
+      113.0,
+      124.0,
+      0.0
+    ],
+    "Name": "AECBS_UK_E_Circuitb"
+  },
+  {
+    "h": "81B7",
+    "type": "AcDbLine",
+    "layer": "E-REV-SLD",
+    "StartPoint": [
+      113.0,
+      117.28130081729692,
+      0.0
+    ],
+    "EndPoint": [
+      113.0,
+      115.0,
+      0.0
+    ]
+  },
+  {
+    "h": "81B8",
+    "type": "AcDbMText",
+    "layer": "E-REV-TEXT",
+    "TextString": "PLANT / PUBLIC\\P392.244 kVA*",
+    "InsertionPoint": [
+      98.0,
+      113.0,
+      0.0
+    ]
+  },
+  {
+    "h": "81B9",
+    "type": "AcDbLine",
+    "layer": "E-REV-SLD",
+    "StartPoint": [
+      180.0,
+      130.0,
+      0.0
+    ],
+    "EndPoint": [
+      180.0,
+      151.0,
+      0.0
+    ]
+  },
+  {
+    "h": "81BA",
+    "type": "AcDbBlockReference",
+    "layer": "E-REV-SLD",
+    "InsertionPoint": [
+      180.0,
+      151.0,
+      0.0
+    ],
+    "Name": "AECBS_UK_E_Circuitb"
+  },
+  {
+    "h": "81BB",
+    "type": "AcDbLine",
+    "layer": "E-REV-SLD",
+    "StartPoint": [
+      180.0,
+      157.71869918270306,
+      0.0
+    ],
+    "EndPoint": [
+      180.0,
+      244.0,
+      0.0
+    ]
+  },
+  {
+    "h": "81BC",
+    "type": "AcDbMText",
+    "layer": "E-REV-TEXT",
+    "TextString": "ZONE B | FLOORS 6-10",
+    "InsertionPoint": [
+      141.0,
+      249.0,
+      0.0
+    ]
+  },
+  {
+    "h": "81BD",
+    "type": "AcDbCircle",
+    "layer": "E-REV-SLD",
+    "Center": [
+      180.0,
+      169.0,
+      0.0
+    ],
+    "Radius": 0.65
+  },
+  {
+    "h": "81BE",
+    "type": "AcDbLine",
+    "layer": "E-REV-SLD",
+    "StartPoint": [
+      180.0,
+      169.0,
+      0.0
+    ],
+    "EndPoint": [
+      198.57789550814948,
+      169.0,
+      0.0
+    ]
+  },
+  {
+    "h": "81BF",
+    "type": "AcDbBlockReference",
+    "layer": "E-REV-SLD",
+    "InsertionPoint": [
+      201.0,
+      169.0,
+      0.0
+    ],
+    "Name": "AECBS_UK_E_Meter"
+  },
+  {
+    "h": "81C0",
+    "type": "AcDbLine",
+    "layer": "E-REV-SLD",
+    "StartPoint": [
+      203.42210449185052,
+      169.0,
+      0.0
+    ],
+    "EndPoint": [
+      232.0,
+      169.0,
+      0.0
+    ]
+  },
+  {
+    "h": "81C1",
+    "type": "AcDbMText",
+    "layer": "E-REV-TEXT",
+    "TextString": "F6",
+    "InsertionPoint": [
+      164.0,
+      171.0,
+      0.0
+    ]
+  },
+  {
+    "h": "81C2",
+    "type": "AcDbMText",
+    "layer": "E-REV-TEXT",
+    "TextString": "3 TENANTS",
+    "InsertionPoint": [
+      208.0,
+      175.0,
+      0.0
+    ]
+  },
+  {
+    "h": "81C3",
+    "type": "AcDbCircle",
+    "layer": "E-REV-SLD",
+    "Center": [
+      180.0,
+      185.0,
+      0.0
+    ],
+    "Radius": 0.65
+  },
+  {
+    "h": "81C4",
+    "type": "AcDbLine",
+    "layer": "E-REV-SLD",
+    "StartPoint": [
+      180.0,
+      185.0,
+      0.0
+    ],
+    "EndPoint": [
+      198.57789550814948,
+      185.0,
+      0.0
+    ]
+  },
+  {
+    "h": "81C5",
+    "type": "AcDbBlockReference",
+    "layer": "E-REV-SLD",
+    "InsertionPoint": [
+      201.0,
+      185.0,
+      0.0
+    ],
+    "Name": "AECBS_UK_E_Meter"
+  },
+  {
+    "h": "81C6",
+    "type": "AcDbLine",
+    "layer": "E-REV-SLD",
+    "StartPoint": [
+      203.42210449185052,
+      185.0,
+      0.0
+    ],
+    "EndPoint": [
+      232.0,
+      185.0,
+      0.0
+    ]
+  },
+  {
+    "h": "81C7",
+    "type": "AcDbMText",
+    "layer": "E-REV-TEXT",
+    "TextString": "F7",
+    "InsertionPoint": [
+      164.0,
+      187.0,
+      0.0
+    ]
+  },
+  {
+    "h": "81C8",
+    "type": "AcDbMText",
+    "layer": "E-REV-TEXT",
+    "TextString": "3 TENANTS",
+    "InsertionPoint": [
+      208.0,
+      191.0,
+      0.0
+    ]
+  },
+  {
+    "h": "81C9",
+    "type": "AcDbCircle",
+    "layer": "E-REV-SLD",
+    "Center": [
+      180.0,
+      201.0,
+      0.0
+    ],
+    "Radius": 0.65
+  },
+  {
+    "h": "81CA",
+    "type": "AcDbLine",
+    "layer": "E-REV-SLD",
+    "StartPoint": [
+      180.0,
+      201.0,
+      0.0
+    ],
+    "EndPoint": [
+      198.57789550814948,
+      201.0,
+      0.0
+    ]
+  },
+  {
+    "h": "81CB",
+    "type": "AcDbBlockReference",
+    "layer": "E-REV-SLD",
+    "InsertionPoint": [
+      201.0,
+      201.0,
+      0.0
+    ],
+    "Name": "AECBS_UK_E_Meter"
+  },
+  {
+    "h": "81CC",
+    "type": "AcDbLine",
+    "layer": "E-REV-SLD",
+    "StartPoint": [
+      203.42210449185052,
+      201.0,
+      0.0
+    ],
+    "EndPoint": [
+      232.0,
+      201.0,
+      0.0
+    ]
+  },
+  {
+    "h": "81CD",
+    "type": "AcDbMText",
+    "layer": "E-REV-TEXT",
+    "TextString": "F8",
+    "InsertionPoint": [
+      164.0,
+      203.0,
+      0.0
+    ]
+  },
+  {
+    "h": "81CE",
+    "type": "AcDbMText",
+    "layer": "E-REV-TEXT",
+    "TextString": "3 TENANTS",
+    "InsertionPoint": [
+      208.0,
+      207.0,
+      0.0
+    ]
+  },
+  {
+    "h": "81CF",
+    "type": "AcDbCircle",
+    "layer": "E-REV-SLD",
+    "Center": [
+      180.0,
+      217.0,
+      0.0
+    ],
+    "Radius": 0.65
+  },
+  {
+    "h": "81D0",
+    "type": "AcDbLine",
+    "layer": "E-REV-SLD",
+    "StartPoint": [
+      180.0,
+      217.0,
+      0.0
+    ],
+    "EndPoint": [
+      198.57789550814948,
+      217.0,
+      0.0
+    ]
+  },
+  {
+    "h": "81D1",
+    "type": "AcDbBlockReference",
+    "layer": "E-REV-SLD",
+    "InsertionPoint": [
+      201.0,
+      217.0,
+      0.0
+    ],
+    "Name": "AECBS_UK_E_Meter"
+  },
+  {
+    "h": "81D2",
+    "type": "AcDbLine",
+    "layer": "E-REV-SLD",
+    "StartPoint": [
+      203.42210449185052,
+      217.0,
+      0.0
+    ],
+    "EndPoint": [
+      232.0,
+      217.0,
+      0.0
+    ]
+  },
+  {
+    "h": "81D3",
+    "type": "AcDbMText",
+    "layer": "E-REV-TEXT",
+    "TextString": "F9",
+    "InsertionPoint": [
+      164.0,
+      219.0,
+      0.0
+    ]
+  },
+  {
+    "h": "81D4",
+    "type": "AcDbMText",
+    "layer": "E-REV-TEXT",
+    "TextString": "3 TENANTS",
+    "InsertionPoint": [
+      208.0,
+      223.0,
+      0.0
+    ]
+  },
+  {
+    "h": "81D5",
+    "type": "AcDbCircle",
+    "layer": "E-REV-SLD",
+    "Center": [
+      180.0,
+      233.0,
+      0.0
+    ],
+    "Radius": 0.65
+  },
+  {
+    "h": "81D6",
+    "type": "AcDbLine",
+    "layer": "E-REV-SLD",
+    "StartPoint": [
+      180.0,
+      233.0,
+      0.0
+    ],
+    "EndPoint": [
+      198.57789550814948,
+      233.0,
+      0.0
+    ]
+  },
+  {
+    "h": "81D7",
+    "type": "AcDbBlockReference",
+    "layer": "E-REV-SLD",
+    "InsertionPoint": [
+      201.0,
+      233.0,
+      0.0
+    ],
+    "Name": "AECBS_UK_E_Meter"
+  },
+  {
+    "h": "81D8",
+    "type": "AcDbLine",
+    "layer": "E-REV-SLD",
+    "StartPoint": [
+      203.42210449185052,
+      233.0,
+      0.0
+    ],
+    "EndPoint": [
+      232.0,
+      233.0,
+      0.0
+    ]
+  },
+  {
+    "h": "81D9",
+    "type": "AcDbMText",
+    "layer": "E-REV-TEXT",
+    "TextString": "F10",
+    "InsertionPoint": [
+      164.0,
+      235.0,
+      0.0
+    ]
+  },
+  {
+    "h": "81DA",
+    "type": "AcDbMText",
+    "layer": "E-REV-TEXT",
+    "TextString": "3 TENANTS",
+    "InsertionPoint": [
+      208.0,
+      239.0,
+      0.0
+    ]
+  },
+  {
+    "h": "81DB",
+    "type": "AcDbMText",
+    "layer": "E-REV-TEXT",
+    "TextString": "Floor metering shown collectively",
+    "InsertionPoint": [
+      182.0,
+      164.0,
+      0.0
+    ]
+  },
+  {
+    "h": "81DC",
+    "type": "AcDbLine",
+    "layer": "E-REV-SLD",
+    "StartPoint": [
+      238.0,
+      130.0,
+      0.0
+    ],
+    "EndPoint": [
+      238.0,
+      124.0,
+      0.0
+    ]
+  },
+  {
+    "h": "81DD",
+    "type": "AcDbBlockReference",
+    "layer": "E-REV-SLD",
+    "InsertionPoint": [
+      238.0,
+      124.0,
+      0.0
+    ],
+    "Name": "AECBS_UK_E_Circuitb"
+  },
+  {
+    "h": "81DE",
+    "type": "AcDbLine",
+    "layer": "E-REV-SLD",
+    "StartPoint": [
+      238.0,
+      117.28130081729692,
+      0.0
+    ],
+    "EndPoint": [
+      238.0,
+      115.0,
+      0.0
+    ]
+  },
+  {
+    "h": "81DF",
+    "type": "AcDbMText",
+    "layer": "E-REV-TEXT",
+    "TextString": "PLANT / PUBLIC\\P392.244 kVA*",
+    "InsertionPoint": [
+      223.0,
+      113.0,
+      0.0
+    ]
+  },
+  {
+    "h": "81E0",
+    "type": "AcDbPolyline",
+    "layer": "E-REV-EQUIPMENT",
+    "Coordinates": [
+      278.0,
+      57.0,
+      408.0,
+      57.0,
+      408.0,
+      252.0,
+      278.0,
+      252.0
+    ]
+  },
+  {
+    "h": "81E1",
+    "type": "AcDbMText",
+    "layer": "E-REV-TEXT",
+    "TextString": "FROM THE RELEVANT FLOOR METERING",
+    "InsertionPoint": [
+      282.0,
+      248.0,
+      0.0
+    ]
+  },
+  {
+    "h": "81E2",
+    "type": "AcDbLine",
+    "layer": "E-REV-SLD",
+    "StartPoint": [
+      300.0,
+      235.0,
+      0.0
+    ],
+    "EndPoint": [
+      300.0,
+      227.46014927407217,
+      0.0
+    ]
+  },
+  {
+    "h": "81E3",
+    "type": "AcDbBlockReference",
+    "layer": "E-REV-SLD",
+    "InsertionPoint": [
+      300.0,
+      224.0,
+      0.0
+    ],
+    "Name": "AECBS_UK_E_Meter"
+  },
+  {
+    "h": "81E4",
+    "type": "AcDbLine",
+    "layer": "E-REV-SLD",
+    "StartPoint": [
+      300.0,
+      220.53985072592783,
+      0.0
+    ],
+    "EndPoint": [
+      300.0,
+      203.67851335166065,
+      0.0
+    ]
+  },
+  {
+    "h": "81E5",
+    "type": "AcDbBlockReference",
+    "layer": "E-REV-SLD",
+    "InsertionPoint": [
+      300.0,
+      196.0,
+      0.0
+    ],
+    "Name": "AECBS_UK_E_Circuitb"
+  },
+  {
+    "h": "81E6",
+    "type": "AcDbMText",
+    "layer": "E-REV-TEXT",
+    "TextString": "Office 1 tenant meter",
+    "InsertionPoint": [
+      313.0,
+      227.0,
+      0.0
+    ]
+  },
+  {
+    "h": "81E7",
+    "type": "AcDbMText",
+    "layer": "E-REV-TEXT",
+    "TextString": "MS-O1 | C63, 4P\\P10 kA specified",
+    "InsertionPoint": [
+      313.0,
+      205.0,
+      0.0
+    ]
+  },
+  {
+    "h": "81E8",
+    "type": "AcDbLine",
+    "layer": "E-REV-SLD",
+    "StartPoint": [
+      300.0,
+      196.0,
+      0.0
+    ],
+    "EndPoint": [
+      300.0,
+      155.0,
+      0.0
+    ]
+  },
+  {
+    "h": "81E9",
+    "type": "AcDbMText",
+    "layer": "E-REV-TEXT",
+    "TextString": "4C35 mm2 PVC Cu\\P+ CPC16 mm2\\P31.512 m design length",
+    "InsertionPoint": [
+      313.0,
+      184.0,
+      0.0
+    ]
+  },
+  {
+    "h": "81EA",
+    "type": "AcDbPolyline",
+    "layer": "E-REV-EQUIPMENT",
+    "Coordinates": [
+      289.0,
+      117.0,
+      397.0,
+      117.0,
+      397.0,
+      155.0,
+      289.0,
+      155.0
+    ]
+  },
+  {
+    "h": "81EB",
+    "type": "AcDbMText",
+    "layer": "E-REV-TEXT",
+    "TextString": "DB-O1 | 100 A, 4P isolator\\P15 outgoing RCBO circuits\\P7 lighting + 8 small power\\PIb(max phase) = 49.091 A",
+    "InsertionPoint": [
+      294.0,
+      151.0,
+      0.0
+    ]
+  },
+  {
+    "h": "81EC",
+    "type": "AcDbLine",
+    "layer": "E-REV-SLD",
+    "StartPoint": [
+      300.0,
+      117.0,
+      0.0
+    ],
+    "EndPoint": [
+      300.0,
+      102.0,
+      0.0
+    ]
+  },
+  {
+    "h": "81ED",
+    "type": "AcDbMText",
+    "layer": "E-REV-TEXT",
+    "TextString": "See detailed DB schematic\\Pand Office 1 layouts.",
+    "InsertionPoint": [
+      313.0,
+      111.0,
+      0.0
+    ]
+  },
+  {
+    "h": "81EE",
+    "type": "AcDbMText",
+    "layer": "E-REV-TEXT",
+    "TextString": "TN-S design assumption; dedicated N and PE. PE bypasses switching.\\PAt MS-O1: Ze = 0.20 ohm; PFC <=6 kA; upstream drop allowance <=2.2 V.",
+    "InsertionPoint": [
+      283.0,
+      88.0,
+      0.0
+    ]
+  },
+  {
+    "h": "81EF",
+    "type": "AcDbMText",
+    "layer": "E-REV-TEXT",
+    "TextString": "* Per section: AC 292.244 + public services 100 = 392.244 kVA before the 1.1 zoning factor.",
+    "InsertionPoint": [
+      12.0,
+      47.0,
+      0.0
+    ]
+  }
+]

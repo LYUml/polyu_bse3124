@@ -1,0 +1,120 @@
+•
+Remote: by sending a setting command using the communication network
+(password-protected)
+Without an external command, Ir, tr, Isd, tsd, Ii, Ig, and tg settings are those of Set
+A.
+When the Activate Set B external command is sent, the Ir, tr, Isd, tsd, Ii, Ig, and tg
+settings switch to those of Set B.
+When the dual settings function is enabled, the settings on the display screen are
+marked _A or _B.
+Setting the Protection Parameters
+The Set A protection parameters are set as follows:
+•
+On the MicroLogic X display screen, at Home > Protection
+•
+With EcoStruxure Power Commission software
+•
+By sending a setting command using the communication network (password-
+protected).
+The Set B protection parameters are set as follows:
+•
+On the MicroLogic X display screen, at Home > Protection > Dual settings
+> Settings
+•
+With EcoStruxure Power Commission software
+•
+By sending a setting command using the communication network (password-
+protected).
+Function Settings
+Function
+Settings
+Factory settings
+Setting range
+MicroLogic X type
+Dual settings
+Enable
+NO
+YES/NO
+MicroLogic 2.0 X, 3.0 X,
+5.0 X, 6.0 X, 7.0 X
+Switch mode
+Local HMI
+•
+Local HMI
+•
+Remote
+•
+IO - 1 Wire
+•
+IO - 2 Wires
+MicroLogic 2.0 X, 3.0 X,
+5.0 X, 6.0 X, 7.0 X
+Long-time Set B
+Ir
+1 x In
+Same as set A
+MicroLogic 2.0 X, 3.0 X,
+5.0 X, 6.0 X, 7.0 X
+tr
+0.5 s
+Same as set A
+Short-time Set B
+Isd
+1.5 x Ir
+Same as set A
+MicroLogic 5.0 X, 6.0 X,
+7.0 X
+tsd
+0
+Same as set A
+Instantaneous Set B
+Isd
+1.5 x Ir
+Same as set A
+MicroLogic 2.0 X
+Instantaneous Set B
+Ii
+1.5 x In
+Same as set A
+MicroLogic 3.0 X
+Instantaneous Set B
+Ii mode
+ON
+Same as set A
+MicroLogic 5.0 X, 6.0 X,
+7.0 X
+Ii tripping mode
+Standard
+Same as set A
+Ii
+2.0 x In
+Same as set A
+Ground-fault Set B
+Ig mode
+ON
+Same as set A
+MicroLogic 6.0 X IEC
+standard
+Ig
+0.2 x In(1)
+Same as set A
+tg
+0
+Same as set A
+Ground-fault Set B
+Ig for In ≤1200 A
+0.2 x In(1)
+Same as set A
+MicroLogic 6.0 X UL
+standard
+Ig for In > 1200 A
+500 A
+Same as set A
+tg
+0
+Same as set A
+(1) For In ≤400 A, the Ig factory setting is 0.3 x In.
+DOCA0102EN-12
+127
+Standard Protection Functions
+MasterPacT MTZ - MicroLogic X Control Unit

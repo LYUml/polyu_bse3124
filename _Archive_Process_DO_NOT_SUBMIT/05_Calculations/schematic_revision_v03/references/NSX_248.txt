@@ -1,0 +1,15 @@
+Current-limiting Curves
+Voltage 400/440 Vac
+Voltage 660/690 Vac
+Limited short-circuit current (kÂ peak)
+Limited short-circuit current (kÂ peak)
+Energy-limiting Curves
+Voltage 400/440 Vac
+Voltage 660/690 Vac
+Limited energy
+Limited energy
+248
+DOCA0187EN-04
+ComPacT NSX Circuit Breakers and Switch-Disconnectors
+100-630 A
+Additional Characteristics

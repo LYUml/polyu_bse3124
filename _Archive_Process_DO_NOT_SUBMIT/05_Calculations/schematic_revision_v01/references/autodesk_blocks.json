@@ -1,0 +1,402 @@
+[
+  {
+    "name": "*Model_Space",
+    "count": 0
+  },
+  {
+    "name": "*Paper_Space",
+    "count": 2
+  },
+  {
+    "name": "*Paper_Space0",
+    "count": 0
+  },
+  {
+    "name": "AECBS_UK_E_Alarm1",
+    "count": 6
+  },
+  {
+    "name": "AECBS_UK_E_Alarm2",
+    "count": 7
+  },
+  {
+    "name": "AECBS_UK_E_Ammeter",
+    "count": 2
+  },
+  {
+    "name": "AECBS_UK_E_Ammeter_switch",
+    "count": 9
+  },
+  {
+    "name": "AECBS_UK_E_Amp",
+    "count": 2
+  },
+  {
+    "name": "AECBS_UK_E_ats",
+    "count": 10
+  },
+  {
+    "name": "AECBS_UK_E_Autotrans",
+    "count": 12
+  },
+  {
+    "name": "AECBS_UK_E_ballast",
+    "count": 14
+  },
+  {
+    "name": "AECBS_UK_E_battery",
+    "count": 4
+  },
+  {
+    "name": "AECBS_UK_E_bell",
+    "count": 6
+  },
+  {
+    "name": "AECBS_UK_E_Busplan",
+    "count": 6
+  },
+  {
+    "name": "AECBS_UK_E_Cbusplug",
+    "count": 6
+  },
+  {
+    "name": "AECBS_UK_E_circuit_closed_switch",
+    "count": 8
+  },
+  {
+    "name": "AECBS_UK_E_circuit_open_switch",
+    "count": 3
+  },
+  {
+    "name": "AECBS_UK_E_Circuitb",
+    "count": 9
+  },
+  {
+    "name": "AECBS_UK_E_conduit_seal",
+    "count": 6
+  },
+  {
+    "name": "AECBS_UK_E_ct",
+    "count": 4
+  },
+  {
+    "name": "AECBS_UK_E_delta",
+    "count": 4
+  },
+  {
+    "name": "AECBS_UK_E_disconnecting_fuse",
+    "count": 9
+  },
+  {
+    "name": "AECBS_UK_E_doublethrow",
+    "count": 7
+  },
+  {
+    "name": "AECBS_UK_E_fan",
+    "count": 6
+  },
+  {
+    "name": "AECBS_UK_E_Ffight",
+    "count": 4
+  },
+  {
+    "name": "AECBS_UK_E_fluorescent",
+    "count": 17
+  },
+  {
+    "name": "AECBS_UK_E_Fuse",
+    "count": 5
+  },
+  {
+    "name": "AECBS_UK_E_Fusedbp",
+    "count": 9
+  },
+  {
+    "name": "AECBS_UK_E_fuseddsw",
+    "count": 8
+  },
+  {
+    "name": "AECBS_UK_E_gnd",
+    "count": 3
+  },
+  {
+    "name": "AECBS_UK_E_gndc",
+    "count": 5
+  },
+  {
+    "name": "AECBS_UK_E_gnds",
+    "count": 3
+  },
+  {
+    "name": "AECBS_UK_E_ground",
+    "count": 6
+  },
+  {
+    "name": "AECBS_UK_E_ground_loop",
+    "count": 14
+  },
+  {
+    "name": "AECBS_UK_E_incandescent",
+    "count": 4
+  },
+  {
+    "name": "AECBS_UK_E_inline_fuse",
+    "count": 10
+  },
+  {
+    "name": "AECBS_UK_E_jumpover",
+    "count": 1
+  },
+  {
+    "name": "AECBS_UK_E_lighting_arrestor",
+    "count": 32
+  },
+  {
+    "name": "AECBS_UK_E_lwithfan",
+    "count": 3
+  },
+  {
+    "name": "AECBS_UK_E_maghd",
+    "count": 5
+  },
+  {
+    "name": "AECBS_UK_E_Meter",
+    "count": 2
+  },
+  {
+    "name": "AECBS_UK_E_meter1",
+    "count": 3
+  },
+  {
+    "name": "AECBS_UK_E_meter2",
+    "count": 6
+  },
+  {
+    "name": "AECBS_UK_E_motdamp2",
+    "count": 7
+  },
+  {
+    "name": "AECBS_UK_E_motor",
+    "count": 3
+  },
+  {
+    "name": "AECBS_UK_E_movingct",
+    "count": 4
+  },
+  {
+    "name": "AECBS_UK_E_movingnl",
+    "count": 2
+  },
+  {
+    "name": "AECBS_UK_E_mushroom",
+    "count": 6
+  },
+  {
+    "name": "AECBS_UK_E_nccontac",
+    "count": 6
+  },
+  {
+    "name": "AECBS_UK_E_nocontac",
+    "count": 7
+  },
+  {
+    "name": "AECBS_UK_E_nssignal",
+    "count": 21
+  },
+  {
+    "name": "AECBS_UK_E_Panel_generic",
+    "count": 4
+  },
+  {
+    "name": "AECBS_UK_E_panel_mb",
+    "count": 8
+  },
+  {
+    "name": "AECBS_UK_E_panel_mf",
+    "count": 6
+  },
+  {
+    "name": "AECBS_UK_E_panel_ml",
+    "count": 6
+  },
+  {
+    "name": "AECBS_UK_E_potential_xfrm",
+    "count": 10
+  },
+  {
+    "name": "AECBS_UK_E_power_flow_1way",
+    "count": 7
+  },
+  {
+    "name": "AECBS_UK_E_power_flow_2way",
+    "count": 11
+  },
+  {
+    "name": "AECBS_UK_E_powtrans",
+    "count": 10
+  },
+  {
+    "name": "AECBS_UK_E_pushbut",
+    "count": 4
+  },
+  {
+    "name": "AECBS_UK_E_pushbut3",
+    "count": 13
+  },
+  {
+    "name": "AECBS_UK_E_signal_xfrm",
+    "count": 4
+  },
+  {
+    "name": "AECBS_UK_E_singlethrow",
+    "count": 5
+  },
+  {
+    "name": "AECBS_UK_E_Switch",
+    "count": 8
+  },
+  {
+    "name": "AECBS_UK_E_target",
+    "count": 10
+  },
+  {
+    "name": "AECBS_UK_E_terminal_block",
+    "count": 17
+  },
+  {
+    "name": "AECBS_UK_E_thereover",
+    "count": 2
+  },
+  {
+    "name": "AECBS_UK_E_transfmr",
+    "count": 3
+  },
+  {
+    "name": "AECBS_UK_E_up_conduit",
+    "count": 5
+  },
+  {
+    "name": "AECBS_UK_E_valvesol",
+    "count": 3
+  },
+  {
+    "name": "AECBS_UK_E_Voltmeter",
+    "count": 2
+  },
+  {
+    "name": "AECBS_UK_E_Voltmeter_switch",
+    "count": 9
+  },
+  {
+    "name": "AECBS_UK_E_wirebrk1",
+    "count": 2
+  },
+  {
+    "name": "AECBS_UK_E_wirebrk2",
+    "count": 4
+  },
+  {
+    "name": "AECBS_UK_E_wye",
+    "count": 3
+  },
+  {
+    "name": "_ClosedFilled",
+    "count": 1
+  },
+  {
+    "name": "AECBS_UK_E_CT_CABINET",
+    "count": 6
+  },
+  {
+    "name": "AECBS_UK_E_DISCONNECTCB",
+    "count": 8
+  },
+  {
+    "name": "AECBS_UK_E_FUSED_DISCONNECT",
+    "count": 7
+  },
+  {
+    "name": "AECBS_UK_E_GEC",
+    "count": 7
+  },
+  {
+    "name": "AECBS_UK_E_GENERAL_XFRM",
+    "count": 16
+  },
+  {
+    "name": "AECBS_UK_E_GENERATOR",
+    "count": 5
+  },
+  {
+    "name": "AECBS_UK_E_MCC1",
+    "count": 22
+  },
+  {
+    "name": "AECBS_UK_E_MCC2",
+    "count": 37
+  },
+  {
+    "name": "AECBS_UK_E_NONFUSED_DISCONNECT",
+    "count": 6
+  },
+  {
+    "name": "AECBS_UK_E_PADMOUNTXFRM",
+    "count": 9
+  },
+  {
+    "name": "AECBS_UK_E_PANEL_RISER",
+    "count": 12
+  },
+  {
+    "name": "AECBS_UK_E_SB_DISTRIBUTION",
+    "count": 103
+  },
+  {
+    "name": "AECBS_UK_E_SWITCHBOARD",
+    "count": 46
+  },
+  {
+    "name": "AECBS_UK_E_WIREWAY",
+    "count": 2
+  },
+  {
+    "name": "Aecb_Default_Rnd_2Line_Drop",
+    "count": 3
+  },
+  {
+    "name": "Aecb_Default_Rnd_2Line_Rise",
+    "count": 3
+  },
+  {
+    "name": "Aecb_Default_Rnd_1Line_Drop",
+    "count": 2
+  },
+  {
+    "name": "Aecb_Default_Rnd_1Line_Rise",
+    "count": 1
+  },
+  {
+    "name": "Aecb_Default_Rnd_1Line_Tee_Drop",
+    "count": 3
+  },
+  {
+    "name": "Aecb_Default_Rect_2Line_Drop",
+    "count": 6
+  },
+  {
+    "name": "Aecb_Default_Rect_2Line_Rise",
+    "count": 6
+  },
+  {
+    "name": "Aecb_Default_Rect_1Line_Drop",
+    "count": 4
+  },
+  {
+    "name": "Aecb_Default_Rect_1Line_Rise",
+    "count": 4
+  },
+  {
+    "name": "Aecb_Default_Rect_1Line_Tee_Drop",
+    "count": 7
+  }
+]

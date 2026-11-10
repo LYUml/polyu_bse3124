@@ -1,0 +1,26 @@
+{
+  "drawing": "C:\\Users\\lyuml-win\\Desktop\\polyu_bse3124\\03_Design_Drawings\\assignment_working_v02.dwg",
+  "route_handles": {
+    "P1": "7BD6",
+    "P2": "7BD8",
+    "P3": "7BDA",
+    "P4": "7BDC",
+    "P5": "7BDE",
+    "P6": "7BE0",
+    "P7": "7BE2",
+    "P8": "7BE4"
+  },
+  "service_envelope_handles": {
+    "P1": "7BE6",
+    "P2": "7BE7",
+    "P3": "7BE8",
+    "P4": "7BE9",
+    "P5": "7BEA",
+    "P6": "7BEB",
+    "P8": "7BEC"
+  },
+  "point_FCU_labels": 13,
+  "native_length_and_area_checks": true,
+  "saved": true,
+  "limitations": "Proposed containment; penetrations/terminals/FCU product/fault checks pending. All point spurs4mm2 and0.5m assumed, not measured."
+}

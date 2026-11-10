@@ -1,0 +1,72 @@
+TM-D Thermal-Magnetic Trip Unit for 1P and 2P Circuit
+Breakers
+Introduction
+The TM-D thermal-magnetic trip unit for 1P/2P circuit breakers up to 160 A are
+built-in trip units.
+They are designed for AC and DC general-purpose applications.
+The TM-D built-in 1P/2P trip units provide:
+•
+fixed thermal threshold
+•
+fixed magnetic pickup
+Setting the Thermal Protection
+The thermal protection pickup Ir cannot be adjusted and equals the value shown
+below:
+Trip unit rating In (A) at 40 °C (104 °F)
+16
+20
+25
+32
+40
+50
+63
+80
+100
+125
+160
+Fixed Pickup Ir (A) at 40 °C (104 °F)
+16
+20
+25
+32
+40
+50
+63
+80
+100
+125
+160
+Setting the Magnetic Protection
+The magnetic protection pickup cannot be adjusted and equals the value shown
+below:
+Trip unit rating In (A)
+16
+20
+25
+32
+40
+50
+63
+80
+100
+125
+160
+Fixed pickup Ii
+(A) +/– 20%
+DC value
+260
+260
+400
+400
+700
+700
+700
+800
+1,000
+1,200
+1,250
+DOCA0187EN-04
+153
+TM-D, TM-G Thermal-Magnetic and MA Magnetic Trip Units
+ComPacT NSX Circuit Breakers and Switch-Disconnectors
+100-630 A

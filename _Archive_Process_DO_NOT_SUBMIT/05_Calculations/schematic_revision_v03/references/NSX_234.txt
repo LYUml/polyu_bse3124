@@ -1,0 +1,86 @@
+ComPacT NSX100-250 - Distribution Protection Tripping
+Curves
+TM-D Thermal-Magnetic Trip Units
+For all TM-D curves:
+Values are given for 40 °C ambient, Ir = 1 x In, 3 poles loaded, cold start.
+For Ir = k x In, read the time corresponding to 1/k times given current.
+For 1 pole tripping, read the time corresponding to 0.85 times given current.
+For hot start (0.9 x Ir), divide max. time by 2, min. time by 4.
+TM16D
+.5 .7
+1
+2
+3 4 5
+7 10
+20
+30
+50 70 100
+200 300
+I / Ir
+10 000
+5 000
+2 000
+1 000
+500
+200
+100
+50
+20
+10
+5
+2
+1
+.5
+.2
+.1
+.05
+.02
+.01
+.005
+.002
+.001
+t(s)
+TM16D : Ii = 12 x In
+t < 10 ms
+Reflex tripping
+TM25D
+.5 .7
+1
+2
+3 4 5
+7 10
+20
+30
+50 70 100
+200 300
+I / Ir
+10 000
+5 000
+2 000
+1 000
+500
+200
+100
+50
+20
+10
+5
+2
+1
+.5
+.2
+.1
+.05
+.02
+.01
+.005
+.002
+.001
+t(s)
+TM25D : Ii = 12 x In
+t < 10 ms
+234
+DOCA0187EN-04
+ComPacT NSX Circuit Breakers and Switch-Disconnectors
+100-630 A
+Additional Characteristics

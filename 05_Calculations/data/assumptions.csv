@@ -11,7 +11,7 @@ AS10,Lighting power factor,0.90,,PIL3117955 PF>0.9; adopt0.90,adopted design ass
 AS11,Pantry luminaire setting,PIL PLATO 600 MP 3117955 at 22 W / 2843 lm,,PIL3117955 LOW LDT; eleven22W panels; final photometry and LC-D checks,adopted selection; calculations and drawings reconciled
 AS12,Task1 public-services reference,200,kVA,COP215 Rev07 aggregate200kVA allowance; possible0-200kVA overlap assessed in task1_capacity_bounds.csv; adopt upper demand,adopted design assumption
 AS13,Supply zoning for Task1,two zones,,"COP2153.1.7; two equal zones, each five floors and half central/public load",adopted design assumption
-AS-PW01,Each socket point individually fused,13,A,Design restriction: nine floor boxes and three twin sockets each behind13A FCU; FS01 existing13A connection,adopted design assumption
+AS-PW01,Each socket point individually fused,13,A,Design restriction: nine floor boxes and three twin sockets each behind13A FCU; FS01/WH01 selected heater with10A DP FCU,adopted design assumption
 AS-PW02,Power vertical allowances,2 per radial; 2 each ring end,m,"Proposed route model, not measured installed vertical lengths",adopted design assumption
 AS-PW03,Local FCU cable allowance,0.5,m,4mm2 local spur after13A FCU; overload/energy checks in fault_protection_summary.json,adopted design assumption
 AS-PW04,P6 classification,PANTRY,,Source rectangle contains FB09 and SO01; previous non-kitchen description superseded,adopted design assumption
@@ -25,4 +25,8 @@ AS-T307,Point13A bound meaning,rated intended continuous load,,FCU is not an ins
 REV04-LH,Luminaire height above task plane,1.9,m,Adopt1.9m; sensitivity checked at1.7/2.2m; four38W south-east panels give589.2lx at2.2m,adopted design condition
 REV04-GROUP,Inter-bank thermal separation,>2x largest adjacent cable OD,,EMSD2025 A5(3) Note2; separate MethodB enclosures and verify actual horizontal cable clearance,required installation condition
 REV04-RING,Ring overload method,A1 standard arrangement,,EMSD2025 6C/6E/Table6(1) Note1(i); nominal leg current is supplementary not protective-device I2,adopted
-REV04-FCU,Point arrangement,One13A FCU before each assembly spur,,FB four outlets share13A; SO twins share13A; FS01 separate; fuse not instantaneous clamp,adopted
+REV04-FCU,Point arrangement,One13A FCU before each assembly spur,,FB four outlets share13A; SO twins share13A; FS01/WH01 separate10A DP FCU; fuse not instantaneous clamp,adopted
+REV02-WH01,Fixed pantry load,SHC10 GB Eltron235232;1400W at220V,,Manufacturer manual15.7; P7 uses1400/220A; protection10A,selected
+REV02-TX-UK,Transformer impedance design case,"6 percent, minus10percent tolerance",,Explicit assignment design assumption; actual utility equipment must meet envelope,adopted assumption
+REV02-MOTOR,Motor fault contribution envelope,8 times full plant/public design current,,Conservative assumed all-motor envelope; no measured motor impedances claimed,adopted assumption
+REV02-VENT,Ventilation design duty,2x4500m3/h at70Pa,,COP101v16 6.6;2x15kW reference plus25percent heat margin; ventilation_selection.json,selected standard type

@@ -1,0 +1,46 @@
+% !TeX root = main.tex
+{\fontsize{12}{14}\selectfont\tenantselection}
+\subsection*{Normal lighting and local controls}
+The lighting design uses 92 PIL PLATO 600 MultiPower 3117955 panels on the 600 mm ceiling grid: sixty 22 W, twenty-eight 28 W and four 38 W, totalling 2256 W. Separate circuits serve the enclosed rooms and distributed main-office zones, with a maintained mean illuminance target of 500 lx adopted for the design. The connected lighting density is 7.301 W/m$^2$ using the adopted 309 m$^2$ office area.
+
+Seven passive manual switches S-A--S-G provide local control of their corresponding circuits. These switches must have a minimum rating of 20 AX, an LED switching capacity of at least 600 W and make/break/inrush compatibility with the selected drivers. Since their phases differ, S-A/B/C use separate enclosures. No borrowed neutral is allowed. Each route passes through its switch and includes a 2 m DB rise plus 1.5 m down and 1.5 m back at the switch, giving an assumed vertical allowance of 5 m per lighting radial. Passive controls add no operating power.
+\begin{center}\begin{tabular}{lrrrrl}\toprule
+Circuit & Lamps & W & Phase & RCBO & Control\\\midrule
+
+LC-A & 18 & 402 & L1 & B10 & S-A \\
+LC-B & 17 & 392 & L2 & B10 & S-B \\
+LC-C & 18 & 396 & L3 & B10 & S-C \\
+LC-D & 11 & 242 & L3 & B10 & S-D \\
+LC-E & 14 & 392 & L2 & B10 & S-E \\
+LC-F & 10 & 280 & L1 & B10 & S-F \\
+LC-G & 4 & 152 & L3 & B10 & S-G \\
+
+\bottomrule\end{tabular}\end{center}
+On the plan, the A/B/C numeric labels correspond to the LED IDs and circuits LC-A/B/C. D01--D11 correspond to PN01--PN11, E82--E96 excluding E90 to the northeast LEDs, F01--F10 to UE01--UE10, and G01--G04 to SE01--SE04.
+\input{lighting_basis.tex}
+\subsection*{Small power and fixed equipment}
+Small-power provision includes nine four-socket floor boxes, three twin wall sockets and the fixed connection FS01. Each floor-box/socket assembly is individually 13 A fused. The demand calculation uses a 13 A continuous capacity per assembly; FS01 supplies WH01, a STIEBEL ELTRON SHC10 GB Eltron 235232 undersink water heater. Its 1.4 kW at 220 V gives 6.364 A at unity power factor; the selected protection is B10 with a 10 A double-pole FCU. Building central AC is supplied as central plant and not duplicated in this office DB.
+
+P1--P4 are A1 rings with fused floor-box connections. P5/P6/P8 are A2 radials, while P7 is a fixed radial. Both P6 and P8 serve the PANTRY identified on the source plan, with FB09 and SO01 connected to P6. P8 is a separate socket group for convenient isolation. Kitchen sockets are separated from ordinary office circuits under EMSD6E(3)(a).
+\begin{center}\begin{tabular}{llllr}\toprule
+Circuit & Points & Phase & Topology & Protection\\\midrule
+
+P1 & FB01, FB02 & L1 & A1 ring & B32 \\
+P2 & FB03, FB04 & L1 & A1 ring & B32 \\
+P3 & FB05, FB06 & L2 & A1 ring & B32 \\
+P4 & FB07, FB08 & L2 & A1 ring & B32 \\
+P5 & SO02 & L1 & A2 radial & B32 \\
+P6 & FB09, SO01 & L3 & A2 radial & B32 \\
+P7 & FS01/WH01 & L3 & Fixed radial & B10 \\
+P8 & SO03 & L3 & A2 radial & B32 \\
+
+\bottomrule\end{tabular}\end{center}
+Circuit service envelopes meet the A1 limit of 100 m$^2$ and A2 limit of 50 m$^2$. Envelopes may overlap; they are not summed as office area. Connection and containment details follow.
+\clearpage
+\input{installation_notes.tex}
+\subsection*{Protection and board arrangement}
+The DB schematic shows NSX100H TM63D four-pole protection at MS-O1 before the CLP meter, 4-core 35 mm$^2$ plus CPC16, a 100 A four-pole DB isolator, independent L1/L2/L3/N/PE bars and 15 separate 1P+N Type A 30 mA RCBOs. Each circuit has a dedicated RCBO neutral and labelled phase; PE is unswitched.
+
+Check driver inrush and protective-device coordination against the Task 3 requirements.
+\subsection*{Emergency lighting assumption}
+Landlord emergency lighting and exit signage use independent essential supplies, separated from normal lighting under EMSD 6B(4). These feeds bypass tenant normal-lighting switches and RCBO load sides. Emergency-system loads are therefore outside this office normal-supply DB.

@@ -1,0 +1,100 @@
+Ig setting for MicroLogic 6.0 X UL standard
+Setting
+Unit
+Range
+Step
+Factory
+setting
+Accuracy
+Ig mode
+–
+ON (always enabled)
+–
+ON
+–
+Ig for In ≤400 A
+A
+0.3–1 x In
+0.1 x In
+0.3 x In
++/– 10%
+Ig for 400 A < In
+≤1200 A
+A
+0.2–1 x In
+0.1 x In
+0.2 x In
++/– 10%
+Ig for In >1200 A
+A
+500–1200 A
+–
+500 A
++/– 10%
+tg setting for MicroLogic 6.0 X IEC and UL standard
+Setting
+Unit
+Setting Value
+tg with I²t OFF
+s
+0
+0.1
+0.2
+0.3
+0.4
+tg with I²t ON
+s
+–
+0.1
+0.2
+0.3
+0.4
+Non-tripping time
+s
+> 0.02
+> 0.08
+> 0.14
+> 0.23
+> 0.36
+Maximum breaking time
+s
+< 0.08
+< 0.14
+< 0.20
+< 0.32
+< 0.50
+The default tg time delay setting value is 0 s with I²t OFF.
+NOTE: When tg is set to 0 s and I²t is changed to ON, the tg time delay is
+automatically set to 0.1.
+Testing the Protection
+Test the operation of ground-fault protection as follows:
+Step
+Action
+1
+Check that the circuit breaker is closed and the control unit is supplied with power
+(ready LED is flashing).
+2
+Use a thin screwdriver to briefly push in (< 1 s) the test button (T) on the front face of
+the MicroLogic X control unit. This action is recorded as an event.
+3
+The circuit breaker trips. An event is generated.
+4
+If the circuit breaker does not trip, an event is generated. Contact your Schneider
+Electric Services representative.
+Zone Selective Interlocking (ZSI)
+The ZSI characteristics and external wiring of the zone selective interlocking
+function, are described specifically, page 131.
+If ZSI IN is not set to 1 (open circuit between Z3 and Z4 terminals), the maximum
+breaking time is 0.08 s regardless of the tg setting value.
+When ZSI IN is set to 1 and connected to the ZSI OUTof a downstream device (or
+when ZSI is not used, there is a jumper between the Z3 and Z4 terminals), the tg
+time delay is used.
+The Ig threshold activates ZSI OUT (Z1 and Z2 terminals).
+NOTE: MasterPacT MTZ circuit breakers are delivered with a jumper installed
+between Z3 and Z4.
+Predefined Events
+The function generates the following predefined events:
+DOCA0102EN-12
+119
+Standard Protection Functions
+MasterPacT MTZ - MicroLogic X Control Unit

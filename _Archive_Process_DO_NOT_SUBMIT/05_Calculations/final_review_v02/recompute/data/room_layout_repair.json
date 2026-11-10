@@ -1,0 +1,17 @@
+{
+  "reason": "Recreated paper layout with valid overall paper viewport and enabled 1:75 model viewport",
+  "handle_map": {
+    "7A21": "8027",
+    "7A22": "8028",
+    "7A23": "8029",
+    "7A24": "802A",
+    "7A25": "802B",
+    "7A26": "802C",
+    "7A27": "802D",
+    "7A28": "802E",
+    "7A29": "802F",
+    "7A2C": "8030"
+  },
+  "viewport_handle": "8031",
+  "layout": "TASK1-ROOM-REVIEW"
+}

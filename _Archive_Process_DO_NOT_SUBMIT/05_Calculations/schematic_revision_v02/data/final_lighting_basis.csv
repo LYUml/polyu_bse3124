@@ -1,0 +1,13 @@
+zone,circuits,lamp_count,power_W,area_m2,height_above_workplane_m,maintenance_factor,mean_maintained_direct_lx,minimum_direct_lx,min_mean,target_mean_lx,mean_target_met,scope
+Open office,LC-A;LC-B;LC-C;LC-E,67,1582.0,231.8707,1.7,0.8,606.8,69.3,0.114,500,True,"Adopted course envelopes; no reflections, furniture shadow or verified mounting height; not glare/uniformity certification"
+Open office,LC-A;LC-B;LC-C;LC-E,67,1582.0,231.8707,1.9,0.8,592.9,80.4,0.136,500,True,"Adopted course envelopes; no reflections, furniture shadow or verified mounting height; not glare/uniformity certification"
+Open office,LC-A;LC-B;LC-C;LC-E,67,1582.0,231.8707,2.2,0.8,573.0,94.8,0.165,500,True,"Adopted course envelopes; no reflections, furniture shadow or verified mounting height; not glare/uniformity certification"
+Pantry,LC-D,11,242.0,29.5443,1.7,0.8,576.0,213.3,0.37,500,True,"Adopted course envelopes; no reflections, furniture shadow or verified mounting height; not glare/uniformity certification"
+Pantry,LC-D,11,242.0,29.5443,1.9,0.8,546.3,213.2,0.39,500,True,"Adopted course envelopes; no reflections, furniture shadow or verified mounting height; not glare/uniformity certification"
+Pantry,LC-D,11,242.0,29.5443,2.2,0.8,505.8,209.6,0.414,500,True,"Adopted course envelopes; no reflections, furniture shadow or verified mounting height; not glare/uniformity certification"
+Upper east room,LC-F,10,280.0,33.6754,1.7,0.8,619.2,141.1,0.228,500,True,"Adopted course envelopes; no reflections, furniture shadow or verified mounting height; not glare/uniformity certification"
+Upper east room,LC-F,10,280.0,33.6754,1.9,0.8,588.5,157.0,0.267,500,True,"Adopted course envelopes; no reflections, furniture shadow or verified mounting height; not glare/uniformity certification"
+Upper east room,LC-F,10,280.0,33.6754,2.2,0.8,545.0,172.0,0.316,500,True,"Adopted course envelopes; no reflections, furniture shadow or verified mounting height; not glare/uniformity certification"
+South east room,LC-G,4,152.0,13.0731,1.7,0.8,716.6,98.6,0.138,500,True,"Adopted course envelopes; no reflections, furniture shadow or verified mounting height; not glare/uniformity certification"
+South east room,LC-G,4,152.0,13.0731,1.9,0.8,662.6,115.7,0.175,500,True,"Adopted course envelopes; no reflections, furniture shadow or verified mounting height; not glare/uniformity certification"
+South east room,LC-G,4,152.0,13.0731,2.2,0.8,589.2,136.8,0.232,500,True,"Adopted course envelopes; no reflections, furniture shadow or verified mounting height; not glare/uniformity certification"

@@ -1,0 +1,7 @@
+{
+  "course_scope": "Tenant normal lighting and small power DB design. Emergency lighting/exit signage are assumed existing landlord life-safety systems with independent essential supply; no normal luminaire is claimed as an emergency fitting.",
+  "source": "EMSD2025 6B(4),printed52 PDF53: separate essential circuits from one another and other circuits",
+  "interface": "Keep landlord emergency feeders electrically separate from DB-O1 normal circuits; do not connect them downstream of local manual lighting switches or tenant RCBOs. Maintain emergency operation during normal lighting circuit isolation.",
+  "loading": "No emergency units are added to the tenant normal DB device schedule or its demand. This is an explicit course scope assumption, not evidence of installed emergency coverage.",
+  "verification_boundary": "Detailed landlord escape-route coverage, autonomy and emergency illuminance are outside this normal-office assignment design; the assumption and electrical separation are stated, not certified."
+}

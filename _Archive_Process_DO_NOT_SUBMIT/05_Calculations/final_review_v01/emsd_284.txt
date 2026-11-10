@@ -1,0 +1,235 @@
+283
+TABLE A6(2)
+Multicore PVC insulated cables, non-armoured 
+(COPPER CONDUCTORS)
+BS 6004 
+	
+BS 7629-1	
+Ambient temperature: 30° C 
+CURRENT CARRYING CAPACITY (Amperes): 
+BS 8436  
+Conductor operating temperature: 70° C
+Conductor cross- 
+sectional area
+1
+Reference Method A  
+(enclosed in conduit 
+in thermally insulating wall etc.)
+Reference Method B  
+(enclosed in conduit on a wall or  
+in trunking etc.)
+Reference Method C
+ (clipped direct)
+Reference Method E
+(in free air or on a perforated cable 
+tray, etc, horizontal 
+or vertical)
+1 two-core cable*, 
+single-phase
+AC or DC
+2
+1 three-core cable 
+or 1 four-core 
+cable*, three-
+phase AC
+3
+1 two-core cable*, 
+single-phase
+AC or DC
+4
+1 three-core cable 
+or 1 four-core 
+cable*, three-
+phase AC
+5
+1 two-core cable*, 
+single-phase
+AC or DC
+6
+1 three-core cable 
+or 1 four-core 
+cable*, three-
+phase AC
+7
+1 two-core cable*, 
+single-phase
+AC or DC
+8
+1 three-core cable 
+or 1 four-core 
+cable*, three-
+phase AC
+9
+mm
+2
+1
+1.5
+2.5
+4
+6
+10
+16
+25
+35
+50
+70
+95
+120
+150
+185
+240
+300
+400
+A
+11
+14
+18.5
+25
+32
+43
+57
+75
+92
+110
+139
+167
+192
+219
+248
+291
+334
+–
+A
+10
+13
+17.5
+23
+29
+39
+52
+68
+83
+99
+125
+150
+172
+196
+223
+261
+298
+–
+A
+13
+16.5
+23
+30
+38
+52
+69
+90
+111
+133
+168
+201
+232
+258
+294
+344
+394
+470
+A
+11.5
+15
+20
+27
+34
+46
+62
+80
+99
+118
+149
+179
+206
+225
+255
+297
+339
+402
+A
+15
+19.5
+27
+36
+46
+63
+85
+112
+138
+168
+213
+258
+299
+344
+392
+461
+530
+634
+A
+13.5
+17.5
+24
+32
+41
+57
+76
+96
+119
+144
+184
+223
+259
+299
+341
+403
+464
+557
+A
+17
+22
+30
+40
+51
+70
+94
+119
+148
+180
+232
+282
+328
+379
+434
+514
+593
+715
+A
+14.5
+18.5
+25
+34
+43
+60
+80
+101
+126
+153
+196
+238
+276
+319
+364
+430
+497
+597
+NOTE: *With or without protective conductor

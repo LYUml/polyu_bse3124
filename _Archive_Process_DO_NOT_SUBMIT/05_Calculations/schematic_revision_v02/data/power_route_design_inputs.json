@@ -1,0 +1,43 @@
+{
+  "DB_xy_mm": [
+    73000,
+    -17889.9
+  ],
+  "voltage_V": 220,
+  "ambient_C": 40,
+  "Ca": 0.87,
+  "ring_line_N_CPC_mm2": 6,
+  "ring_It_A": 41,
+  "ring_Cg": 0.65,
+  "ring_equivalent_grouped_pairs": 4,
+  "ring_mV_A_m": 7.3,
+  "radial_line_N_CPC_mm2": 10,
+  "radial_It_A": 57,
+  "radial_Cg": 0.7,
+  "radial_mV_A_m": 4.4,
+  "fixed_line_N_CPC_mm2": 4,
+  "fixed_It_A": 32,
+  "fixed_Cg": 1,
+  "fixed_mV_A_m": 11,
+  "socket_protection_A": 32,
+  "fixed_protection_A": 10,
+  "point_FCU_A": 13,
+  "spur_line_N_CPC_mm2": 4,
+  "spur_It_A": 32,
+  "spur_Cg": 0.7,
+  "spur_mV_A_m": 11,
+  "spur_assumed_length_m": 0.5,
+  "radial_vertical_allowance_m": 2,
+  "ring_vertical_each_end_m": 2,
+  "branch_drop_budget_V": 4.4,
+  "design_basis": "Planning installation: P1/P2 four ring legs grouped in bank A; P3/P4 four ring legs bank B; P5/P6/P8 three10mm2 radials bank C; P7 separate. Physically segregate banks and lighting to prevent additional grouping. No insulation contact.",
+  "source": "EMSD2025 Table6(1) PDF57 ring corrected capacity>=20A and max100m2; radial32 max50m2; A6(1) PDF282/283; A5(1) PDF274; A5(3) PDF275",
+  "limitations": [
+    "Socket branch13A capacity is FCU rating, not appliance nameplate demand",
+    "All accessory/junction terminals must accept selected main cables; 6/10mm2 are not assumed to fit socket terminals",
+    "Raised floor/ceiling method and penetrations remain proposed; mechanical protection and access require review",
+    "Power phases and final incoming demand must be recomputed after adoption"
+  ],
+  "fixed_design_current_A": 6.363636363636363,
+  "fixed_FCU_A": 10
+}

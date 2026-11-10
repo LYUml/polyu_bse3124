@@ -1,0 +1,496 @@
+Characteristics of run sections
+Symbol Unit
+Busbar trunking rating (A)
+General characteristics
+1000
+1350
+1600
+2000
+2500
+3200
+4000
+5000
+6300
+Compliance with standards
+IEC/EN 61439-6
+Protection degree
+IP
+55
+Any installation (indoors only) is possible for the busbar truncking: edgewise,  
+flat or vertical. See test condition, page 147.
+Shock resistance
+IK
+08
+Nominal rated current at an ambient temperature of 35°C Inc
+A
+1000
+1350
+1600
+2000
+2500
+3200
+4000
+5000
+6300
+Rated insulation voltage
+Ui
+V
+1000
+Rated operating voltage
+Ue
+V
+1000
+Operating frequency
+f
+Hz
+50 / 60 (for 60 to 400 Hz AC or for DC, consult us)
+Short-circuit current withstand
+Standard version 3L + N + PER
+Allowable rated short-time withstand current (t = 1 s)
+Icw
+kA
+50
+50
+65
+70
+80
+86
+90
+95
+120
+Allowable rated peak current
+Ipk
+kA
+110
+110
+143
+154
+176
+189
+198
+209
+264
+Maximum thermal stress I2t (t = 1 s)
+I2t
+A2s 106
+2500
+2500
+4225
+4900
+6400
+7396
+8100
+9025
+14400
+Reinforced version 3L + N + PER (optional)
+Allowable rated short-time withstand current (t = 1 s)
+Icw 
+kA
+65
+65
+85
+110
+113
+113
+120
+120
+120
+Allowable rated peak current
+Ipk
+kA
+143
+143
+187
+242
+248
+248
+264
+264
+264
+Maximum thermal stress
+I2t
+A2s 106
+4225
+4225
+7225
+12100
+12769
+12769
+14400
+14400
+14400
+Conductor characteristics
+Phase conductors
+Average resistance at an ambient temperature of 20°C
+R20
+mW/m
+0.041
+0.029
+0.024
+0.018
+0.014
+0.012
+0.009
+0.007
+0.006
+Average resistance at Inc and at 35°C
+R1
+mW/m
+0.049
+0.035
+0.029
+0.022
+0.018
+0.015
+0.012
+0.009
+0.0075
+Average reactance at Inc and at 35°C and at 50 Hz
+X1
+mW/m
+0.022
+0.016
+0.015
+0.013
+0.011
+0.008
+0.007
+0.007
+0.004
+Average impedance at Inc and at 35°C and at 50 Hz
+Z1
+mW/m
+0.054
+0.039
+0.033
+0.026
+0.021
+0.017
+0.014
+0.012
+0.0085
+PE = internal copper protective conductor
+Average resistance at an ambient temperature of 20°C
+mW/m
+0.051
+0.040
+0.035
+0.027
+0.022
+0.019
+0.014
+0.012
+0.010
+Copper cross-section
+mm²
+210
+300
+360
+480
+600
+720
+960
+1200
+1440
+Fault loop characteristics
+Symmetrical 
+components 
+method
+Ph/N 
+at 35°C
+Average resistance
+R0 ph / N
+mW/m
+0.189
+0.134
+0.113
+0.085
+0.069
+0.057
+0.043
+0.035
+0.029
+Average reactance
+X0 ph / N
+mW/m
+0.087
+0.061
+0.054
+0.042
+0.041
+0.029
+0.022
+0.018
+0.015
+Average impedance
+Z0 ph / N
+mW/m
+0.208
+0.148
+0.125
+0.095
+0.080
+0.064
+0.049
+0.039
+0.032
+Ph/PE 
+at 35°C
+Average resistance
+R0 ph / PE
+mW/m
+0.212
+0.162
+0.139
+0.109
+0.090
+0.076
+0.059
+0.048
+0.038
+Average reactance
+X0 ph / PE
+mW/m
+0.067
+0.051
+0.043
+0.034
+0.028
+0.024
+0.019
+0.015
+0.012
+Average impedance
+Z0 ph / PE
+mW/m
+0.222
+0.169
+0.145
+0.114
+0.094
+0.080
+0.062
+0.051
+0.040
+Impedance 
+method
+At 20°C
+Average resistance Ph/Ph
+Rb0 ph / ph
+mW/m
+0.083
+0.058
+0.048
+0.036
+0.029
+0.024
+0.018
+0.014
+0.012
+Ph/N
+Rb0 ph / N
+mW/m
+0.087
+0.059
+0.019
+0.239
+0.199
+0.170
+0.135
+0.110
+0.085
+Ph/PER Rb0 ph / PE
+mW/m
+0.107
+0.079
+0.067
+0.051
+0.042
+0.035
+0.027
+0.022
+0.017
+At Inc and  
+at 35°C
+Average resistance Ph/Ph
+Rb1 ph / ph
+mW/m
+0.099
+0.071
+0.059
+0.044
+0.036
+0.030
+0.023
+0.019
+0.015
+Ph/N
+Rb1 ph / N
+mW/m
+0.104
+0.072
+0.060
+0.045
+0.036
+0.031
+0.023
+0.019
+0.016
+Ph/PE
+Rb1 ph / PE
+mW/m
+0.129
+0.096
+0.082
+0.063
+0.052
+0.044
+0.034
+0.028
+0.023
+At Inc and  
+at 35°C  
+and at 50 Hz
+Average reactance
+Ph/Ph
+Xb ph / ph
+mW/m
+0.028
+0.020
+0.017
+0.013
+0.011
+0.009
+0.004
+0.006
+0.005
+Ph/N
+Xb ph / N
+mW/m
+0.043
+0.032
+0.028
+0.021
+0.017
+0.015
+0.011
+0.009
+0.008
+Ph/PE
+Xb ph / PE
+mW/m
+0.050
+0.040
+0.035
+0.029
+0.023
+0.020
+0.016
+0.013
+0.010
+Other characteristics
+Voltage drop
+Line-to-line voltage drop, in volts (V) per 100 metres and per amp (A) at 50 Hz with load spread over 
+the run. For the case of loads concentrated at the end of a run, the voltage drops are double those 
+shown in this table.
+This calculation table applies to three-phase loads. For single-phase loads, the voltage drop given in 
+the table is divided by 1.732.
+For a cosine j of
+1
+V/100 
+m/A
+0.0043
+0.0031
+0.0026
+0.0019
+0.0015
+0.0013
+0.0010
+0.0008
+0.00065
+0.9
+V/100 
+m/A
+0.0047
+0.0034
+0.0029
+0.0022
+0.0018
+0.0015
+0.0012
+0.0010
+0.00075
+0.8
+V/100 
+m/A
+0.0046
+0.0033
+0.0028
+0.0022
+0.0018
+0.0015
+0.0012
+0.0010
+0.00075
+0.7
+V/100 
+m/A
+0.0044
+0.0031
+0.0027
+0.0021
+0.0018
+0.0014
+0.0012
+0.0010
+0.0007
+Average weight
+3L + N + PER
+kg/m
+25
+33
+39
+49
+60
+71
+92
+114
+142
+Fire load value
+kWh / m
+2.5
+3.6
+4.1
+5.9
+7.3
+8.0
+11.5
+14.4
+16
+Radiated magnetic field
+Radiated magnetic field strength 1 metre from the 
+trunking
+B
+µT
+0.4
+0.6
+0.8
+1.1
+1.5
+2.1
+2.6
+3.7
+4.5
+Design guide
+Characteristics
+Canalis KTC 3L + N + PE
+Canalis KTC
+144
+www.se.com
+C
+E
+F
+G
+D
+A
+B

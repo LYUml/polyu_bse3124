@@ -1,0 +1,30 @@
+{
+  "source": "COP101 v16 clauses6.3,6.4,6.6, printedp23",
+  "heat_kW_per_TX_reference": 15,
+  "units": 2,
+  "overload_margin_assumed": 1.25,
+  "design_heat_kW": 37.5,
+  "fan_type": "630mm /30deg /700rpm",
+  "fan_m3h_each": 4500,
+  "fan_Pa_each": 70,
+  "air_density_assumed_kgm3": 1.2,
+  "air_cp_JkgK": 1005,
+  "air_rise_K": 12.437810945273633,
+  "duct_mm": [
+    900,
+    750
+  ],
+  "duct_area_m2": 0.675,
+  "duct_route_design_m_each": 1.4,
+  "free_louvre_area_m2": 1.2,
+  "free_inlet_velocity_ms": 2.0833333333333335,
+  "design_loss_coefficients": {
+    "inlet": 2.0,
+    "outlet": 1.0,
+    "bend_and_transition": 1.0,
+    "friction_factor": 0.025
+  },
+  "pressure_note": "Loss coefficients are declared design assumptions; factory louvre/fan curves and actual duct fittings must satisfy this duty.",
+  "estimated_Pa": 9.41157978966621,
+  "available_Pa": 70
+}

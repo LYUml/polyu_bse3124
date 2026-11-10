@@ -1,0 +1,13 @@
+{
+  "final_pages": 23,
+  "pdf_and_dwg_match_reviewed_Rev05": true,
+  "original_hashes_unchanged": 15,
+  "permanent_deletion": "blocked by policy",
+  "process_files": "archived where not locked",
+  "locked_old_paths": [
+    "05_Calculations\\schematic_revision_v02\\BSE3124_Final_Rev02.dwg",
+    "05_Calculations\\schematic_revision_v03\\BSE3124_Final_Rev03.dwg",
+    "05_Calculations\\schematic_revision_v04\\BSE3124_Final_Rev04.dwg",
+    "05_Calculations\\schematic_revision_v05\\BSE3124_Final_Rev05.dwg"
+  ]
+}

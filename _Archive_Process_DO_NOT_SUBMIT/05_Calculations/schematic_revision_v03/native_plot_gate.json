@@ -1,0 +1,47 @@
+{
+  "dwg_sha256": "a4d42e4ba982716b67a4ba5d0104af6024f82521f2c2d9b39b073c0112a7d672",
+  "saved_dwg_unchanged": true,
+  "layouts": [
+    {
+      "layout": "TASK1-GROUND-OVERVIEW",
+      "text_characters": 1670,
+      "plot_sha256": "e067413c6d63daf24472574d0e4000d60663e76ae071f3796c03e17526f8a06b"
+    },
+    {
+      "layout": "TASK1-ROOM-REVIEW",
+      "text_characters": 2664,
+      "plot_sha256": "c347d8c389871f21d877a0adfc8ee4d1481f3f0ce69b3c84edc78d3d0f4bc554"
+    },
+    {
+      "layout": "TASK1-MAIN-SCHEMATIC",
+      "text_characters": 2907,
+      "plot_sha256": "20e005473b4c0ac96927c7d82af0afe0772e2ea2eada6e997f59b1f047939d8a"
+    },
+    {
+      "layout": "TASK2-LIGHTING-PLAN",
+      "text_characters": 1138,
+      "plot_sha256": "28c85bb49c3e5f4e07e578f2709addda8dac9a4425da55236f8b77cfba4740e3"
+    },
+    {
+      "layout": "TASK2-POWER-PLAN",
+      "text_characters": 1146,
+      "plot_sha256": "fb8da23815dd8c5f9d8a607a014e9c3f3250fd65ef9a95df0362aa858b44997c"
+    },
+    {
+      "layout": "TASK2-DB-SCHEMATIC",
+      "text_characters": 2920,
+      "plot_sha256": "c170016c9116ed0e576e5d769b5a49166c47321da15e36b2da1f9e6d48f46068"
+    },
+    {
+      "layout": "DESIGN-DETAILS",
+      "text_characters": 2379,
+      "plot_sha256": "d291d62c76814a9a54578ab5192ac31578da764e1ae6a5402ef16b6ee960876e"
+    },
+    {
+      "layout": "REV03-ROUTE-AND-RING",
+      "text_characters": 1253,
+      "plot_sha256": "e7b653f4229e2e7cff75fe12dc81fd3cde811fd3fd02f6f55a6762d7dff1b176"
+    }
+  ],
+  "review": "Native plots generated; visual PDF review required separately"
+}

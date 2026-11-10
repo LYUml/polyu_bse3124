@@ -1,0 +1,74 @@
+67
+Purpose of 
+Conductors or 
+Switchgear to 
+which Diversity 
+Applies
+Type of Premises
+Individual 
+Household 
+Installations, 
+Individual 
+Dwellings of a 
+Block
+Small Shops, 
+Stores, Offices and 
+Business Premises
+Small Hotels, 
+Boarding Houses, 
+Guest Houses, etc.
+11. Arrangements 
+of Final Circuits 
+in accordance 
+with code 6D
+100% of current 
+demand of largest 
+circuit+30% of 
+current demand of 
+every other circuit
+100% of current demand of largest 
+circuit+ 40% of current demand of 
+every other circuit
+12. Arrangements 
+of Final Circuits 
+in accordance 
+with code 6E
+100% of current 
+demand of largest 
+circuit+40% of 
+current demand of 
+every other circuit
+100% of current demand of largest 
+circuit+ 50% of current demand of 
+every other circuit
+13. Fixed 
+Equipment of 
+the same type
+e.g. Refrigerators 
+and freezers other 
+than those listed 
+above
+100% of current 
+demand of 
+largest point of 
+utilisation+ 40% of 
+current demand of 
+every other point 
+of utilisation
+100% of current 
+demand of 
+largest point of 
+utilisation+ 75% of 
+current demand of 
+every other point 
+of utilisation
+100% of current 
+demand of 
+largest point of 
+utilisation+ 75% of 
+current demand of 
+every point in main 
+rooms (dining 
+rooms, etc.) + 40% 
+of every other 
+point of utilisation

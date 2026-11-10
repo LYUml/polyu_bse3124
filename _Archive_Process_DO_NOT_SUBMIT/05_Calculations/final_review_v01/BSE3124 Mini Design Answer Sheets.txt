@@ -1,0 +1,40 @@
+The Hong Kong Polytechnic University
+Department of Building Environment and Energy Engineering
+BSE312
+4
+ 
+E
+lectricity and Buildings
+20
+2
+6
+/
+2
+7
+ Semester 1
+Assignment – Answer Sheet
+s
+Group number:
+___________________________________
+Names of group members:
+___________________________________
+___________________________________
+___________________________________
+___________________________________
+Task 1 – Loading estimation and transformer room location
+Estimation of the building electrical load using CLP COP215 and
+ justifications for transformer room and main LV switch
+ 
+room locations
+:
+Task 2 – Layout drawings and MCB board schematics
+The office tenant chosen for layout design: Office 1 / Office 2 / Office 3
+Design considerations of circuit arrangement and protective device selection for small power and lighting layout
+:
+Task 3 – Maximum current demand calculation and cable sizing
+Maximum current demand calculation:
+C
+able siz
+ing
+ for the incoming circuit to the distribution board
+:

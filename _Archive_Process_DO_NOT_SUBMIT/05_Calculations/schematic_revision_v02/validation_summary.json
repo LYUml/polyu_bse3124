@@ -1,0 +1,23 @@
+{
+  "release": "Final Rev02",
+  "pages": 21,
+  "pdf_sha256": "748dcf7f20e35dea46d4b812f03aa669ce55212023f92563b67c9fecad437720",
+  "dwg_sha256": "ccb721b1dfafa8c6ef4b98521f7624478c25792b3279df045236190ac03bf21d",
+  "native_checked_handles": 1363,
+  "luminaire_count": 92,
+  "device_and_control_assemblies": 112,
+  "outgoing_circuits": 15,
+  "floor_meters": 30,
+  "office_inset_meter": 1,
+  "P7_W": 1400,
+  "P7_Ib_A": 6.363636363636363,
+  "P7_B10": true,
+  "max_phase_demand_A": 48.6,
+  "worst_total_drop_percent": 3.02658,
+  "main_PFC_kA": 51.668751,
+  "native_and_plot_hashes_match": true,
+  "original_sources_unchanged": true,
+  "visual_review": "All21 pages reviewed; enlarged checks of changed room/main/power/DB sheets and equipment table.",
+  "scope": "Assignment design under stated assumptions; utility-owned equipment is selected by CLP standard type, not falsely claimed as commercially approved.",
+  "access_clarity_revision": "Three dashed delivery envelopes, KEEP CLEAR labels, northbound arrows; openings unchanged; pages5-6 re-rendered."
+}

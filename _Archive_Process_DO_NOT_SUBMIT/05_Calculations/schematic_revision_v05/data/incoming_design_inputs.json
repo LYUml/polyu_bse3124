@@ -1,0 +1,78 @@
+{
+  "source_id": "MS-O1",
+  "source_lighting_xy_mm": [
+    93000,
+    40000
+  ],
+  "DB_lighting_xy_mm": [
+    73000,
+    31488.1
+  ],
+  "route_lighting_xy_mm": [
+    [
+      93000,
+      40000
+    ],
+    [
+      93000,
+      37400
+    ],
+    [
+      73000,
+      37400
+    ],
+    [
+      73000,
+      31488.1
+    ]
+  ],
+  "power_plan_y_offset_mm": -49378,
+  "vertical_termination_allowance_m": 3,
+  "source_position_basis": "Proposed tenant meter/switch position near source METER text handle location93076,40246; actual cabinet/termination not measured",
+  "floor_basis": "First-floor Office1; source via declared28m busway route allowance, see system_design_inputs_rev03.json",
+  "voltage_LN_V": 220,
+  "voltage_LL_V": 380,
+  "line_neutral_mm2": 35,
+  "CPC_mm2": 16,
+  "cable": "four-core PVC insulated nonarmoured copper L1/L2/L3/N; separate PVC Cu CPC in same protected containment",
+  "method": "B",
+  "ambient_C": 40,
+  "Ca": 0.87,
+  "Cg": 1,
+  "harmonic_content_assumed_percent_range": ">15 to33",
+  "Ch": 0.86,
+  "It_25_A": 80,
+  "It_35_A": 99,
+  "candidate_In_A": 63,
+  "candidate_curve": "TM63D",
+  "candidate_breaking_capacity_kA": 70,
+  "DB_busbar_A": 100,
+  "threephase_35_r_mV_A_m": 1.1,
+  "threephase_35_z_mV_A_m": 1.1,
+  "CPC16_pair_mV_A_m_reference": 2.8,
+  "neutral_current_design_limit_A": 63,
+  "pre_origin_drop_allowance_V": 1.0278995791508378,
+  "installation_drop_limit_percent": 4,
+  "PVC_CPC_k": 115,
+  "sources": {
+    "ampacity": "EMSD2025 TableA6(2) col5 printed283 PDF284",
+    "voltage_drop": "EMSD2025 TableA6(2)cont col4 printed284 PDF285,35mm2 r/z1.10mV/A/m; phase-neutral envelope2/sqrt3 times3phase z",
+    "harmonics": "EMSD2025 6B(6)(c) printed52 PDF53; A5(7) printed278 PDF279,4/5core >15-33% factor0.86",
+    "CPC": "EMSD2025 Table11(2)(a) printed99 PDF100;16<S<=35 =>Cu CPC16",
+    "Zs": "EMSD2025 Table11(10) printed105 PDF106;C63 reference0.33ohm; manufacturer curve to verify",
+    "CPC_resistance": "A6(1)cont col3 PDF283,16mm2 L+N2.8mV/A/m; half as one conductor resistance envelope",
+    "k": "EMSD2025 Table11(2)(c) printed100 PDF101, bunched PVC Cu initial70C final160C k115"
+  },
+  "limitations": [
+    "No grouping with outgoing circuits; mechanically protected enclosed route, no thermal insulation contact",
+    "Harmonic assumption must be verified; >33% requires neutral-current-based reselection",
+    "Source position,3m vertical/tail allowance and service penetrations are proposed, not as-built",
+    "Voltage drop is a fundamental-frequency design envelope, not a harmonic voltage-distortion assessment",
+    "Rev03 system design inputs/results govern upstream fault and voltage conditions; original C63 reference fields are superseded."
+  ],
+  "source_protective_device": "ComPacT NSX100H C10H4TM063, TM63D, 4P4D",
+  "DB_incoming_switch": "100A4-pole isolator, not a second incoming overcurrent device",
+  "upstream_drop_basis": "Calculated busway envelope, not independently selected allowance",
+  "DB_assembly_fault_rating_kA": 25,
+  "reference_TM63D_Zs_limit_ohm": 0.34833333333333333
+}

@@ -1,0 +1,33 @@
+COP 215 – Load Assessment Procedure 
+September 2012 
+the power rating of the individual installation, applicant's load estimations for public 
+services and clubhouse shall be referenced.
+3.2.4 Developments with Mixed UFA Flats
+For developments with mixed UFA flats, planning engineer should first identify the 
+total number of mixed flats, and then read the corresponding ADMD figures.  For 
+instance, if the development contains 8 flats with UFA < 50m2 and 10 flats with 
+UFA > 80m2, the figures for 18 number of flats should be selected, i.e. 7.6 kVA/flat 
+for UFA < 50m2 and 14.5 kVA/flat for UFA > 80m2 respectively.
+3.2.5 Special Flats
+For multi-floor flats, planning engineer should decide the equivalent number flats 
+for the assessment, e.g. a duplex flat occupying 70 m2 per floor, it should be counted 
+as two flats of UFA between 50-80 m2.  Besides, for UFA > 150 m2, individual 
+assessment is required.  
+3.3 Commercial Development (Please refer to Appendix 2)
+3.3.1 Commercial ADMD Figures
+All the ADMD figures are represented in per m2 basis.  All ADMD figures have not 
+included central air conditioning load and central electric water heating loads.  
+Hence, individual assessment is required.  The proposed figure of 40 kVA/lift is just 
+a reference for general public services and it should be assessed individually 
+whenever possible.  
+3.3.2 Commercial Complex
+'Commercial Complex' – refers to large-scale shop floor areas that cannot be 
+determined as Catering or Non-Catering at the time when an applicant submits 
+application for supply with a development plan. It is assumed that in general about 
+30% floor area of the commercial complex will be used for catering purposes.  
+3.3.3 General Shop
+'General Shop - Catering' – refers to restaurants, cafes, fast food shops, and Chinese 
+restaurants.  
+CLP Power INTERNAL USE only 
+Page 5 of 21 
+Uncontrolled Copy : This printout is printed from Web on 15 Jan 2013. Please always refer to the controlled copy on the Web.

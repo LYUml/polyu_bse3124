@@ -1,0 +1,15 @@
+REFERENCE AND SYMBOL PROVENANCE
+
+C:\Users\lyuml-win\iCloudDrive\Desktop\y3_s1\bse3124\01_lec\References\Electrical_Schematic_1.pdf
+SHA256: 6271d3286d695c08b328ffff85aa0f8a21bf2eccc8b760dddb0d3461737fc676
+
+C:\Users\lyuml-win\iCloudDrive\Desktop\y3_s1\bse3124\01_lec\References\Electrical_Schematic_2.pdf
+SHA256: f0415ad88d4738d9cd87568dab1596d3eeb92b027d686913ff7eef9c5615f6d2
+
+C:\ProgramData\Autodesk\MEP 2027\enu\MEPContent\UK\Schematic\Electrical Schematic (UK).dwg
+SHA256: ed9c2c920fb7ddb4cf5d7c377e341f38002f1d14507ae111f405fefa2628fba2
+
+Native Autodesk MEP 2027 UK blocks used: AECBS_UK_E_transfmr, AECBS_UK_E_Circuitb, AECBS_UK_E_Meter, AECBS_UK_E_gnd.
+Generic plan equipment geometry is schematic; adopted dimensions remain design assumptions.
+QElectroTech open-source library and Autodesk cloud-family resources were considered but no assets from them were used.
+Report text basis: 05_Calculations/submission_export_v01/source (user-edited final text).

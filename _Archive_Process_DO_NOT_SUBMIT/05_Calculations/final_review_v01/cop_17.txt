@@ -1,0 +1,41 @@
+COP 215 – Load Assessment Procedure 
+September 2012 
+Appendix 2 – ADMD Figures for Commercial Developments
+Classification
+ADMD Figures1 (kVA/m2)
+ 
+Commercial Complex 
+ 
+0.30 
+ 
+General Shop - Catering2
+0.66
+General Shop - Non-catering2
+0.40
+Hotel - Restaurant 
+0.56
+Hotel - Shopping Mall 
+0.30
+Hotel - Accommodation 
+0.03
+Office
+0.16
+Cinema 
+0.27/seat
+Car Park with Ventilation 
+0.03
+Public Services3
+40kVA/lift 
+Footnotes:
+1.
+As ADMD figures have not included central air conditioning load and central electric water heating load, 
+individual assessment is required for such loads. 
+2.
+ADMD figures for both 'General Shop – Catering' and 'General Shop – Non-catering' have already included 
+non-central air conditioning load and 0.1 kVA/m2 has to be deducted in case there is central air conditioning 
+system covered in the development. 
+3.
+Public Services Load requires individual assessment and 40kVA/lift is a reference figure only. 
+CLP Power INTERNAL USE only 
+Page 13 of 21 
+Uncontrolled Copy : This printout is printed from Web on 15 Jan 2013. Please always refer to the controlled copy on the Web.

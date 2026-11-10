@@ -1,0 +1,1387 @@
+PDF PAGE 1
+Version 10 – 10/24 
+ 
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+GUIDE TO  
+SUPPLY AND METERING ARRANGEMENT  
+ON CUSTOMER’S  
+INTERNAL DISTRIBUTION SYSTEM 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CLP POWER HONG KONG LIMITED 
+ 
+DATE REVISED: Oct 2024
+
+PDF PAGE 2
+ 
+ 
+Version 10 – 10/24 
+Page 1 of 31 
+ 
+ 
+ 
+Guide to Supply and Metering Arrangement on  
+Customer’s Internal Distribution System 
+ 
+1. Acceptance of Customer’s Schematic Wiring Diagram 
+ 
+This Guide shall be read in conjunction with the attached wiring diagram / 
+drawing(s) returned herewith to the Developer / Customer.  CLP Power Hong 
+Kong Ltd. (CLP) accepts the diagram(s) / drawing(s) on condition that they 
+comply with all requirements stated in the Guide. 
+ 
+The scope of acceptance is confined to the Developer / Customer’s internal 
+distribution system only. The interfacing arrangement between CLP’s and 
+Developer / Customer’s supply systems shall be agreed separately with CLP 
+Regions.  
+ 
+The summation metering system, if any, shall be agreed separately with CLP. 
+ 
+It is the responsibility of the REC/REW to ensure the electrical installation shall 
+comply with CLP Supply Rules and requirements, as well as the latest Electricity 
+Ordinance, and Code of Practice for the Electricity (Wiring) Regulations. 
+ 
+ 
+2. Ratings and Protection Facilities of Main Incoming Circuit Breaker (MICB) 
+ 
+Where the supply is to be taken directly from CLP transformer, the MICB shall be 
+of draw-out type and rated at 40kA at low voltage. 
+ 
+Earth Fault Protection 
+Each MICB shall be provided with suitable protective device so that in the event 
+of an earth fault between any phase and earth conductors, it shall disconnect the 
+supply automatically within 5 seconds. 
+ 
+Over-current Protection 
+The over-current protection relays of each MICB shall be so selected and set that 
+they will operate at a speed not slower than the “maximum time current 
+characteristic curve of customer LV over-current protective relays” shown on the 
+diagram on appendix 1. 
+ 
+The over-current relay having flexible operating characteristics and complying 
+
+PDF PAGE 3
+ 
+ 
+Version 10 – 10/24 
+Page 2 of 31 
+ 
+ 
+with standards recognized by EMSD is recommended to be used at customer’s 
+MICBs. Flexible operating characteristics means the operating characteristics 
+could be changed by adjusting the relay parameters without relay replacement. 
+ 
+ 
+Protection Current Transformer (CT) Requirements 
+The over-current and earth fault protection CT shall be of 15VA and class 10P20 
+and have the following CT Ratio. 
+ 
+Tx Rating in kVA:  
+2000  
+1500  
+1000  
+500 
+Protection CT Ratio: 
+3000/5A 
+2250/5A 
+1500/5A 
+750/5A 
+ 
+Output voltage of the protection CT shall be capable of operating the relays; its 
+value > 16 x Is (Zct + Zlead + Zo/c + Ze/f) 
+where 
+ 
+Is 
+ 
+o/c relay current setting 
+ 
+ 
+ 
+Zct 
+ 
+C.T. resistance 
+ 
+ 
+ 
+Zlead  
+total C.T. lead impedance 
+ 
+ 
+ 
+Zo/c 
+ 
+o/c relay impedance at setting 
+ 
+ 
+ 
+Ze/f 
+ 
+e/f relay impedance at setting 
+This is CT max. operating voltage  (Rated VA / Rated Current) x A.L.F. 
+where 
+ 
+A.L.F. 
+Accuracy Limiting Factor of C.T. 
+ 
+e.g. A 2250/5A C.T. of 15 VA and class 10P20 
+i.e. 
+Rated VA = 15; Rated Current = 5A; 
+A.L.F. = 20 
+ 
+For electro-mechanical O/C & E/F relays connected to the common set of CT 
+for a circuit breaker, the CT requirement is normally 15VA 10P20 subject to 
+satisfactory inspection on site.  
+ 
+However, alternative CT arrangement for protective device which deviates from 
+the above may also be considered. In this connection, Developer / Customer shall 
+submit the design detail to CLP for agreement before installation.  
+ 
+ 
+3. Interconnection Facilities between Main Incoming Circuit Breakers (MICB) 
+ 
+Where the supply is designed to be taken from more than one transformer, a 4-
+pole circuit breaker of not less than 1600A shall be installed to provide 
+interconnection facilities. To prevent CLP transformer from parallel operation and 
+
+PDF PAGE 4
+ 
+ 
+Version 10 – 10/24 
+Page 3 of 31 
+ 
+ 
+supply backfeed, this 4-pole circuit breaker shall be electrically & mechanically 
+interlocked with the adjacent two MICBs. 
+ 
+4. Multi-switchroom Premises 
+ 
+Where the MICBs for one building are installed in more than one switchroom, a 
+permanent location board shall be provided to display the zones/area to be 
+controlled by each MICB. 
+ 
+ 
+5. Ratings of Outgoing Control Gear in the Main Switchboard 
+ 
+The breaking capacity of all circuit breakers installed shall be capable of 
+interrupting the prospective maximum fault current. 
+ 
+ 
+6. Size of Conductor for Rising Mains and Installation Methods 
+ 
+6.1 
+For cable rising mains of 800A or above, the number and size of cables to 
+be used shall be no less than that given in the table on appendix 2. 
+ 
+6.2 
+No part of the rising mains installation is allowed to pass through any 
+individual customer’s unit. 
+ 
+6.3 
+Where busbar type rising mains are used, suitable facilities shall be provided 
+to  take up the expansion or contraction of the busbar system under normal 
+service condition. 
+ 
+6.4 
+Unless specified otherwise on the drawings, all conductors are assumed to 
+be copper. 
+ 
+ 
+7. Rising Mains Tee-Off Arrangements 
+ 
+7.1 
+Any building of more than four floors including the ground floor should be 
+provided with 3-phase electrical rising mains with a 3-phase 4-wire tee-off 
+at each floor unless otherwise agreed by this company. 
+ 
+7.2 
+All Tee-off connections from busbar rising mains shall be of flexible 
+arrangement. Provision for at least one spare lateral tee-off unit is 
+
+PDF PAGE 5
+ 
+ 
+Version 10 – 10/24 
+Page 4 of 31 
+ 
+ 
+recommended on each floor for future use for multi-risers (rising mains) 
+installation of commercial / industrial buildings. 
+ 
+7.3 
+Where HRC fuses are used, they shall be fitted with insulated carriers to 
+avoid exposure of any live parts.  Where circuit breakers are used they shall 
+be capable of interrupting the prospective maximum fault current. 
+ 
+7.4 
+A switch or linked circuit breaker shall be provided immediately before CLP 
+metering equipment to control each customer’s main for single-phase 
+installation.  The device shall be of double-pole type.  For three-phase 
+installation, it shall be of triple-pole and neutral type.  Where the number of 
+potential customers cannot be ascertained, a suitable busbar chamber with 
+adequate pre-drilled holes to terminate all potential customer mains is 
+required. 
+ 
+ 
+8. Connections of Landlord and Fire Services Installations 
+ 
+8.1 
+The supply for the Landlord’s and Fire Services installations shall normally 
+be fed through MICB.  Only in the event of the MICB being tripped off can 
+the Fire Services installation be arranged to be switched over to the incoming 
+side of the MICB via an automatic changeover switch. Maximum amount of 
+loading to be switched over to the incoming side of the MICB is 25% of the 
+rating of the MICB / protection C.T. (the less will be chosen) and the 
+arrangement can only be applied to one MICB in each building. Therefore 
+fused-switch or circuit breaker that may bypass the MICB, shall be capable 
+of disconnecting the supply within 5 seconds in the event of an earth fault in 
+the Fire Services circuit. If private generator (or alternative source) is 
+installed by the landlord, the above arrangement is not allowed to be 
+adopted. 
+ 
+8.2 
+Where a private generator (or alternative source) is used to afford standby 
+supply, the automatic changeover switch shall be of a 4-pole type and 
+equipped with electrical and mechanical interlocking device to prevent 
+parallel connecting with the supply source. The generator earth shall be 
+connected to the Developer / Customer’s main earthing terminal. Local 
+switch should be installed after the changeover switch (refer to drawing no. 
+CSB/99-009). 
+ 
+8.3 
+The control gear and distribution board for the Fire Services installation 
+shall be painted in red and clearly labeled in English and Chinese.  
+
+PDF PAGE 6
+ 
+ 
+Version 10 – 10/24 
+Page 5 of 31 
+ 
+ 
+ 
+ 
+9. Metering Arrangement 
+ 
+9.1 
+Adequate space shall be reserved in switch room / meter room (including 
+cable duct & closet) for CLP metering equipment including meter, meter 
+chamber, CT, CT chamber, modem, cable, marshalling box, antenna 
+installation, meter board, etc. (refer to drawing nos. CSB/99-001, CSB/99-
+002, CSB/99-003, CSB/99-004, CSB/99-005, CSB/99-006 and CSB/99-007 
+for dimensional requirements and other details).  
+ 
+9.2 
+Meter position shall be located next to the service position and / or the rising 
+mains tee-off position. 
+ 
+9.3 
+The switch room / meter room and the meter position shall be at a clean and 
+safe position and readily accessible from a communal area at all times 
+without the need to pass through any individual Customer’s premises. The 
+access shall not be less than 0.6m wide inside and at the entrance / exit of 
+the room. The room shall be kept free of any obstruction and sufficient 
+working space in front of the meter position shall be provided (refer to 
+drawing no. CSB/99-003). Developer / Customer shall also ensure that the 
+door-lock device of the meter room, as provided, complies with the 
+requirements as shown in drawing no. CSB/99-008.  
+ 
+9.4 
+Adequate lighting shall be provided inside switch room / meter room / meter 
+chamber / meter enclosure or any location where installed meter. 
+ 
+9.5 
+All through-floor holes and trenches shall be properly sealed or covered to 
+prevent fall from height.  
+ 
+9.6 
+25mm diameter galvanised steel eye bolts should be installed on internal 
+wall on both sides of all doors of the switch room / meter room at 1m above 
+the floor for hanging a temporary caution notice. 
+ 
+9.7 
+The meter position shall be provided with adequate illumination to facilitate 
+meter reading and installation work.   
+ 
+9.8 
+All meter boards and loops shall be provided and installed by Developer / 
+Customer as agreed with CLP. 
+ 
+
+PDF PAGE 7
+ 
+ 
+Version 10 – 10/24 
+Page 6 of 31 
+ 
+ 
+9.9 
+Meter boards, preferably made of environmental friendly materials such as 
+varnished hardwood, shall be of 13mm minimum thickness and have clear 
+indication of the position of meters arranged in sequence with the flat 
+numbers.  The flat numbering should be arranged in ascending order from 
+left to right and top to bottom to ensure consistency. 
+ 
+9.10 Appropriate labels provided by CLP shall be fixed on Unmetered Riser (可
+安裝電錶的上升總線) by Developer / Customer at positions to be defined 
+by CLP engineer on site.  
+ 
+9.11 For 3 phase low voltage installation with main switch of rating up to and 
+including 100A, whole-current type meter shall be installed, while for 3 
+phase low voltage installation with main switch of rating exceeding 100A, 
+CT operated meter shall be used. 
+ 
+9.12 Minimum size of meter leads for termination on whole-current meter shall 
+be 4mm2 stranded copper conductors and comply with the table shown in 
+drawing no. CSB/99-003. 
+ 
+9.13 Meter leads terminated on meter terminals shall be circular stranded copper 
+conductors.  Sector-shaped conductors or flexible cables/cords are not 
+allowed. 
+ 
+9.14 Bundle of multi-circuit cables running through the core of the same CT is 
+not permitted. Drawing no. CSB/99-005 shall be referred to for the CT 
+connection arrangement with dual main cables. 
+ 
+9.15 In order to prevent potential hazards arising from inadvertent contact of live 
+parts inside the CT chamber, the relevant live parts inside the CT chamber 
+shall be insulated by / screened with insulating materials, e.g. heat shrink 
+tubing, transparent protective screens segregating the busbars or other 
+equivalent means (refer to drawing nos. CSB/99-001, CSB/99-002 and 
+CSB/99-005). 
+ 
+9.16  All CT operated meter installation shall be completed with removable 16A 
+HRC voltage fuses / link (refer to drawing nos.: CSB/99-001, CSB/99-002 
+& CSB/99-004). 
+ 
+9.17 Free-standing floor-mounted metering cubicle exclusive for the installation 
+of CLP metering equipment is acceptable provided that:- 
+
+PDF PAGE 8
+ 
+ 
+Version 10 – 10/24 
+Page 7 of 31 
+ 
+ 
+i) 
+the cubicle shall be installed immediately adjacent to the main 
+switchboard; 
+ii) 
+the maximum length of any metering CT circuit shall not exceed 4.5m 
+for our standard meters of 5A secondary rating & 5VA CTs; 
+iii) 
+the proposed design of the metering cubicle shall be approved by CLP 
+before installation. 
+ 
+9.18 Meter leads between main switch and whole-current meter terminals shall 
+not exceed 3m. 
+ 
+9.19 Personnel and vehicular access and temporary parking facility shall be 
+provided to meter enclosure / rooms located on highways for operation and 
+maintenance purpose. 
+ 
+9.20 Voltage measuring points for CT operated meters should be located at or 
+near the corresponding current measuring points (refer to drawing no. 
+CSB/99-004). 
+ 
+9.21 Metering point of an installation shall be arranged from unmetered position 
+to avoid double metering.  If shut down supply for purpose of necessary 
+inspection and confirmation of no double metering at the time of inspection 
+by CLP could not be arranged, Registered Electrical Worker (REW) on 
+behalf of the Developer / Customer shall carry out necessary inspection and 
+confirm by way of the prescribed form (Confirmation of no double metering 
+form) that there is no other CLP meter installed at the existing and proposed 
+circuit if that new circuit has not installed CLP meter.  The written 
+confirmation and accompany information mentioned in 9.22 shall be 
+presented to the CLP inspector at the time of onsite inspection.  
+ 
+9.22 At the time of onsite inspection carried out by CLP Inspector, REW shall 
+provide schematic diagram (existing and proposed), busbar arrangement 
+drawing, photo(s) illustrated busbar arrangement of tapping from unmetered 
+position and Confirmation of no double metering form (Appendix 3). 
+ 
+9.23 REW shall arrange shutdown of supply for purpose of the necessary 
+inspection and confirmation of no double metering mentioned in 9.21 above 
+upon request by the onsite CLP Inspector if it is deemed inadequate after 
+review on information provided by REW.  
+ 
+9.24 Appropriate label provided by CLP shall be fixed on the unmetered circuit 
+
+PDF PAGE 9
+ 
+ 
+Version 10 – 10/24 
+Page 8 of 31 
+ 
+ 
+of switchboard by developer / customer at the position to be defined by CLP 
+Inspector on site. 
+ 
+9.25 Appropriate assistive lockable function for newly installed overcurrent 
+protective devices shall be provided in accordance with Code of Practice for 
+the Electricity (Wiring) Regulations. 
+ 
+9.26 For 132kV customer substation where metering equipment is installed in 
+customer installation, dedicated Voltage Transformer (VT) or separate 
+winding (for VT with multiple secondary outputs) solely for revenue 
+metering and dedicated Current Transformer (CT) for revenue metering 
+shall be provided. The installation including the VT and CT shall be in 
+accordance with “Metering Equipment Specification and Installation 
+Requirements for New 11kV Supply Network Arrangement of 132kV 
+Developer Substation” (refer to Appendix 4). The design of the installation 
+shall also be in accordance with “Code of Practice for 132kV Customer 
+Substation Design”. 
+ 
+  
+ 
+10. Communication Facility 
+ 
+Developer / Customer shall provide and install at their own cost a dedicated 
+telephone conduit with telephone socket near meter location at the switchboard 
+(refer to drawing nos. CSB/99-001, CSB/99-002 & CSB/99-007). 
+ 
+For Bulk Tariff / Large Power Tariff application, Developer / Customer shall 
+provide location for meter installation where the telecom signal of mobile 
+operators engaged by CLP is strong.  If telecom signal at meter location is not 
+strong during application or afterwards, Developer / Customer shall provide and 
+install a dedicated telephone line together with telephone socket to be terminated 
+at position immediately adjacent to the meter in the switchboard / metering 
+cubicle / on wall-mounted meter board at their own cost  (refer to drawing nos. 
+CSB/99-004, CSB/99-006 & CSB/99-007).  The telephone line shall be suitably 
+protected by conduit / trunking solely for metering purposes and connected to 
+the analogue public switched telephone network (PSTN) junction box of 
+telecommunication service providers. 
+ 
+To meet the needs of smart meter communication equipment in buildings, 
+Developer / Customer is required to supply, install and maintain necessary 
+
+PDF PAGE 10
+ 
+ 
+Version 10 – 10/24 
+Page 9 of 31 
+ 
+ 
+infrastructure provisions for the development to facilitate automatic meter 
+reading and associated metering operations.  Details of requirement, Developer 
+/ Customer shall refer to CLP Website and drawing no. CSB/99-010, 
+Requirements of Power Supply Facilities for Smart Meter Communication 
+Equipment in Building  
+ 
+11. Earthing Arrangement 
+ 
+In every Installation, Developer / Customer is required to provide his own 
+earthing system by which the exposed conductive parts of the Installation are 
+connected to earth in accordance with CLP Supply Rules and the Code of 
+Practice for the Electricity (Wiring) Regulations. 
+ 
+Each rising mains installation shall be provided with an earthing conductor of 
+not less than 70mm2 copper or 150mm2 aluminum to earth all units in the 
+building through a suitable earthing terminal block at each floor. 
+ 
+Where the supply is taken directly from a transformer or via an underground 
+cable having exposed conductive parts, a bonding conductor may be allowed 
+between Developer / Customer’s main earthing terminal and CLP transformer 
+earth or metallic sheaths of service cable subject to the conditions set out in CLP 
+Supply Rules and the Code of Practice for the Electricity (Wiring) Regulations. 
+ 
+12. Other Services 
+ 
+No water pipe, drainage system or flammable gas pipe is permitted within a 
+switch room / meter room while gas pipe for fire protection could be exempted.  
+Where it is designed to accommodate other communication equipment such as 
+telephone, communal aerial broadcasting distribution system or security system, 
+such equipment and the associated wiring shall be segregated from all electrical 
+services. 
+ 
+13. Means to Prevent Ingress of Water 
+ 
+To prevent ingress of water, the switch room / meter room shall be suitably 
+constructed and not be under an expansion joint. A kerb of not less than 100mm 
+high shall be provided at the entrance of the room as shown on drawing No. 
+CSB/99-008, except that the internal floor level of the room is higher than the 
+external floor level.  
+ 
+ 
+
+PDF PAGE 11
+ 
+ 
+Version 10 – 10/24 
+Page 10 of 31 
+ 
+ 
+14. Materials, Workmanship and Details of Installation Arrangements 
+ 
+14.1 No part of electrical installation of individual customer is allowed to pass 
+through any other customer’s unit. 
+ 
+14.2 Although the Guide does not specify the materials to be used, 
+workmanship and details of installation arrangement shall comply with the 
+Code of  Practice for the Electricity (Wiring) Regulations, the Electricity 
+Ordinance and CLP Supply Rules and be subject to CLP inspection before 
+supply connection. 
+ 
+15. Interfacing Requirements for New Cable Colour Code 
+ 
+In accordance with the Code of Practice for the Electricity (Wiring) Regulations, 
+the following interfacing requirements shall be fulfilled for phase identification 
+purpose. 
+ 
+15.1 Label and coding identification marked in L1 & N, L2 & N or L3 & N shall be 
+provided as interfacing requirements on the incoming and outgoing cables at the 
+connections of CLP single-phase meter, whenever new cable colour code is adopted. 
+Specification to L1, L2 or L3 shall be made instead of L, for phase identification 
+purpose.
+ 
+Figure 15.1 - Typical Arrangements of Label & Coding Identification for Single-phase Meters  
+ 
+15.2 Label and coding identification marked in L1, L2, L3 and N shall be 
+provided as interfacing requirements on the incoming and outgoing cables 
+
+PDF PAGE 12
+ 
+ 
+Version 10 – 10/24 
+Page 11 of 31 
+ 
+ 
+at the connections of CLP three-phase whole current meter, whenever 
+mixed of new and old cable colour code are adopted. 
+ 
+15.3 Label and coding identification marked in L1, L2, L3 and N shall be 
+provided on the customer side’s equipment / cables at the supply point 
+interface between customer and CLP under following situations:- 
+i) Modification, alteration or repair at the existing supply point interface  
+between customer and CLP; or 
+ 
+ii) Establishment of new supply point interface between customer and CLP. 
+ 
+15.4 Label and coding identification shall be clearly legible and durable, and 
+shall be in contrast to the colours of the insulations. 
+ 
+ 
+ 
+ 
+Remark: colour version is available on CLP Website, www.clponline.com 
+
+PDF PAGE 13
+ 
+ 
+Version 10 – 10/24 
+Page 12 of 31 
+ 
+ 
+  
+ 
+ 
+GREY 灰
+GREY 灰
+BLUE 藍
+BLUE 藍
+BROWN 棕
+BROWN 棕
+BLACK 黑
+BLACK 黑
+N
+L3
+L1
+L2
+N
+L3
+L1
+L2
+N
+L3
+L1
+L2
+N
+L3
+L1
+L2
+N
+L3
+L1
+L2
+N
+L3
+L1
+L2
+ 
+ 
+ 
+        
+ 
+       
+RED 紅
+YELLOW 黃
+BLUE 藍
+BLACK 黑
+BROWN 棕
+BLACK 黑
+GREY 灰
+BLUE 藍
+RED 紅
+YELLOW 黃
+BLUE 藍
+BLACK 黑
+BROWN 棕
+BLACK 黑
+GREY 灰
+BLUE 藍
+N
+L3
+L1
+L2
+N
+L3
+L1
+L2
+N
+L3
+L1
+L2
+N
+L3
+L1
+L2
+N
+L3
+L1
+L2
+N
+L3
+L1
+L2
+N
+L3
+L1
+L2
+N
+L3
+L1
+L2
+N
+L3
+L1
+L2
+N
+L3
+L1
+L2
+N
+L3
+L1
+L2
+N
+L3
+L1
+L2
+ 
+ 
+ 
+Figure 15.2 Typical Arrangement of Label & Coding Identification for Three-phase Whole Current Meters. 
+Label and coding identification marked in L1, L2, L3 and N shall be provided as interfacing requirements
+ 
+Label and coding identification marked in L1, L2, L3 and N shall be provided 
+as interfacing requirements  
+ 
+L1 L1 L2 L2 L3 L3 N
+N
+ 
+L1 L1 L2 L2 L3 L3 N
+N
+Cable
+Colour
+Incoming
+New
+Outgoing
+New
+Cable
+Colour
+Incoming
+Old
+Outgoing
+New
+Cable
+Colour
+Incoming
+New
+Outgoing
+Old
+
+PDF PAGE 14
+ 
+ 
+Version 10 – 10/24 
+Page 13 of 31 
+ 
+ 
+16. Sample Flat & Typical Meter Room for Pre-inspection 
+ 
+16.1. Developer / Customer shall construct a sample flat for residential 
+development together with typical meter room (completed with decoration 
+panel for door if any) on the development site for CLP’s agreement. To 
+avoid unnecessary delay, Developer / Customer shall make appointment 
+with CLP for pre-inspection at the earliest possible stage of the 
+development.  
+ 
+16.2. The distribution board in the flat shall be installed in a readily accessible 
+place which can be reached without use of tools (e.g. ladder) and removal 
+of obstacle in the front of the distribution board.  
+ 
+17. Grid Connection of Renewable Energy Power System 
+ 
+No grid connection of private renewable energy power system is allowed unless 
+otherwise pre-agreed by CLP.  Application for grid connection of such system 
+shall be submitted to CLP for assessment at the design stage.   
+For details of eligibility, procedures, required documents and technical 
+guidelines, Developer / Customer shall refer to CLP Website, 
+https://www.clp.com.hk/en/help-support/feed-in-tariff 
+ 
+18. Meter Room Key 
+ 
+A dedicated master key exclusively for the meter enclosure / rooms (i.e. sharing 
+with other utility rooms including lift machine room / lift well is not permitted) 
+shall be kept under the custody of building management. The key shall be 
+available for CLP staff to facilitate meter reading and maintenance work. A label 
+“Meter Room Key” shall be secured onto the key.  
+ 
+19. Electric Vehicle Charging Facility at Building Developments 
+ 
+For the requirements of electrical installation with supplies to charging facilities 
+for electric vehicles at car park of building developments, Developer / Customer 
+shall refer to CLP Website,  
+https://www.clp.com.hk/en/business/low-carbon-solutions/emobility/power-
+supply-services 
+ 
+For supplement of metering arrangement of electric vehicle (EV) charging 
+facilities for car parks of new building development, Developer / Customer shall 
+
+PDF PAGE 15
+ 
+ 
+Version 10 – 10/24 
+Page 14 of 31 
+ 
+ 
+refer to CLP Website, 
+Standard Metering Arrangement for Electric Vehicle (EV) Charging Facilities 
+ 
+20. Fire Resisting Enclosure (FRE) 
+ 
+In accordance with the Fire Safety (Commercial Premises) Ordinance and the 
+Fire Safety (Buildings) Ordinance, FRE is required to be installed to enclose CLP 
+electricity meters and associated electrical equipment. To assist in designing the 
+FRE, Customer / Consultant / Contractor should refer to the latest “Drawings of 
+Typical Details for Improvement Works to Electrical Cable, Meter & etc. under 
+the Fire Safety (Commercial Premises) Ordinance and the Fire Safety (Buildings) 
+Ordinance” for reference. 
+ 
+Please note that FRE shall comply with the requirements under the Fire Safety 
+(Commercial Premises) Ordinance, the Fire Safety (Buildings) Ordinance, the 
+Buildings Ordinance, the Electricity Ordinance and other relevant Government 
+regulations as well as our company’s Supply Rules. 
+ 
+The latest “Drawings of Typical Details for Improvement Works to Electrical 
+Cable, Meter & etc. under the Fire Safety (Commercial Premises) Ordinance and 
+the Fire Safety (Buildings) Ordinance” can be obtained in CLP Website,  
+Typical Details for Improvement Works to Electrical Cable, Meters & etc. 
+under the Fire Safety (Commercial Premises) Ordinance or Fire Safety 
+(Buildings) Ordinance 
+ 
+21. Essential Supply Standby Meter (ESSM) 
+ 
+For ESSM installed inside a switchboard, the telecommunication accessories, 
+including but not limited to the necessary conduits, socket outlet and sealable 
+PVC box, shall be provided by Developer / Customer (refer to drawing no. 
+CSB/99-007). 
+ 
+22. Submission of Schematic Wiring Diagram 
+ 
+For all electrical installations, installing in multi-customers premises or 
+incorporating rising mains in accordance with the Supply Rules or having an 
+estimated demand greater than or equal to low voltage 400A (except typical 
+village house), Developer / Customer shall submit three copies of the proposed 
+schematic wiring diagram to CLP for agreement. 
+ 
+
+PDF PAGE 16
+ 
+ 
+Version 10 – 10/24 
+Page 15 of 31 
+ 
+ 
+For HV metering / summation metering application, one extra copy of the 
+proposed schematic wiring diagram shall be submitted to CLP for comment. 
+ 
+For 132kV customer substation where metering equipment is installed in 
+customer installation, dedicated Voltage Transformer (VT) or separate winding 
+(for VT with multiple secondary outputs) solely for revenue metering and 
+dedicated Current Transformer (CT) for revenue metering shall be provided.   
+ 
+23. Amendment Shown in Red 
+ 
+Apart from the foregoing, the completed installations shall comply fully with the 
+drawings returned and accepted by CLP including any amendments shown in red. 
+ 
+ 
+24. Statutory Requirements 
+ 
+The Guide is intended to provide general technical references to enable a 
+registered electrical worker in the design of electrical installation to comply with 
+CLP requirements only.  It is the responsibility of the registered electrical worker 
+to ensure that the design complies in all respect with the latest Electricity 
+Ordinance  and other statutory requirements.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+PDF PAGE 17
+ 
+ 
+Version 10 – 10/24 
+Page 16 of 31 
+ 
+ 
+Appendix 1 
+ 
+
+PDF PAGE 18
+ 
+ 
+Version 10 – 10/24 
+Page 17 of 31 
+ 
+ 
+Appendix 2 
+ 
+Minimum Size of Single-core Cables for Rising Mains 
+ 
+Design Current of 
+Cable Riser (A) 
+Number x Size of Cable (in mm2) for each Phase Conductor
+Enclosed
+Clipped Direct
+Bundled 
+Together 
+Single-layer 
+Touching 
+Trefoil 
+Single or 
+Multi-layer 
+Spaced at a 
+Clearance of 
+1 Cable 
+Diameter
+Bundled 
+Together 
+Single-layer 
+Touching 
+Trefoil 
+Spaced at a 
+Clearance of 
+1 Cable 
+Diameter 
+Single or 
+Multi-layer 
+Spaced at a 
+Clearance of 
+1 Cable 
+Diameter 
+COPPER 
+800 
+2 x 500 
+2 x 500 
+2 x 400 
+1 x 630 
+1 x 630 
+1 x 630 
+1 x 500 
+1200 
+2 x 1000 
+3 x 630 
+2 x 1000 
+3 x 500 
+2 x 800 
+3 x 400 
+2 x 630 
+2 x 500 
+2 x 500 
+1 x 1000 
+2 x 400 
+1600 
+4 x 800 
+3 x 800 
+4 x 500 
+3 x 630 
+2 x 1000 
+3 x 630 
+2 x 1000 
+3 x 500 
+2 x 800 
+3 x 400 
+2 x 630 
+2000 
+ 
+4 x 800 
+3 x 1000 
+4 x 630 
+4 x 1000 
+4 x 630 
+3 x 800 
+4 x 500 
+3 x 630 
+2 x 1000 
+3 x 630 
+2500 
+ 
+ 
+4 x 1000 
+4 x 1000 
+4 x 630 
+4 x 630 
+3 x 800 
+4 x 630 
+ALUMINIUM 
+800 
+2 x 740 
+2 x 740 
+2 x 600 
+1 x 1200 
+2 x 480 
+1 x 1200 
+2 x 480 
+1 x 960 
+1 x 960 
+1200 
+3 x 960 
+3 x 740 
+2 x 1200 
+3 x 600 
+2 x 960 
+2 x 740 
+2 x 740 
+2 x 600 
+1600 
+4 x 1200 
+3 x 1200 
+3 x 960 
+3 x 960 
+3 x 740 
+2 x 1200 
+3 x 600 
+2 x 960 
+3 x 600 
+2000 
+ 
+4 x 1200 
+4 x 960 
+4 x 960 
+3 x 1200 
+4 x 740 
+3 x 960 
+3 x 960 
+2500 
+ 
+ 
+ 
+ 
+4 x 1200 
+4 x 960 
+3 x 1200 
+4 x 960 
+ 
+Note: The neutral conductor shall have a suitable current carrying capacity  
+          not less than that of the phase conductor. 
+ 
+
+PDF PAGE 19
+ 
+ 
+Version 10 – 10/24 
+                                                          Page 18 of 31 
+ 
+ 
+ 
+    
+
+PDF PAGE 20
+ 
+ 
+Version 10 – 10/24 
+                                                          Page 19 of 31 
+ 
+ 
+ 
+
+PDF PAGE 21
+ 
+ 
+Version 10 – 10/24 
+                                                          Page 20 of 31 
+ 
+ 
+ 
+ 
+ 
+
+PDF PAGE 22
+ 
+ 
+Version 10 – 10/24 
+                                                          Page 21 of 31 
+ 
+ 
+ 
+ 
+
+PDF PAGE 23
+ 
+ 
+Version 10 – 10/24 
+                                                          Page 22 of 31 
+ 
+ 
+ 
+ 
+
+PDF PAGE 24
+ 
+ 
+Version 10 – 10/24 
+                                                          Page 23 of 31 
+ 
+ 
+ 
+ 
+
+PDF PAGE 25
+ 
+ 
+Version 10 – 10/24 
+                                                          Page 24 of 31 
+ 
+ 
+ 
+
+PDF PAGE 26
+ 
+ 
+Version 10 – 10/24 
+                                                          Page 25 of 31 
+ 
+ 
+ 
+ 
+
+PDF PAGE 27
+ 
+ 
+Version 10 – 10/24 
+                                                          Page 26 of 31 
+ 
+ 
+ 
+
+PDF PAGE 28
+ 
+ 
+Version 10 – 10/24 
+                                                          Page 27 of 31 
+ 
+ 
+ 
+
+PDF PAGE 29
+ 
+ 
+ 
+ 
+           Version 10 – 10/24 
+ Page 28 of 31 
+ 
+ 
+ 
+Appendix 3 
+ 
+ 
+ 
+無重複計量的證明 
+CONFIRMATION OF NO DOUBLE METERING 
+ 
+ 
+服務申請號碼 SERVICE ORDER NUMBER 
+ 
+供電地址 SUPPLY ADDRESS 
+ 
+ 
+致中華電力： 
+由於無法暫停電力以供 貴公司進行「無重複計量」的檢查，本人已安排註冊電業工程人員（註
+冊編號： 
+ 
+）檢查供電予上址電力裝置的線路，並證明在現有或新電錶位前
+和後無接駁任何 
+貴公司的電錶。現附上有關線路示意圖及電巴圖安排以供參照。 
+ 
+To CLP Power, 
+Since shutdown supply cannot be arranged for CLP Power to check for no double metering, we have 
+arranged registered electrical worker (Registration No. :   
+) to check the circuit and 
+confirm that there is no tariff meter of your Company installed before and after the present or proposed 
+metering point. A copy of relevant schematic wiring diagram and busbar arrangement is attached for 
+reference. 
+ 
+管理處／發展商名稱 NAME OF MANAGEMENT OFFICE / DEVELOPER 
+ 
+聯絡電話號碼 CONTACT TEL. NO. 
+ 
+ 
+ 
+ 
+ 
+管理處／發展商簽名／蓋章 
+MANAGEMENT OFFICE / DEVELOPER SIGNATURE / CHOP 
+ 
+ 
+ 
+ 
+ 
+日期 DATE 
+ 
+注意事項： 
+1. 
+請將填妥之證明書交給本公司。 
+2. 
+本公司現已制訂一套符合個人資料(私隱)條例的個人資
+料收集聲明。如欲了解該聲明，請參考此證明書背面。 
+Note： 
+1. 
+Please forward this completed form to the Company. 
+2. 
+The Company has a Personal Information Collection Statement, which complies 
+with the Personal Data (Privacy) Ordinance and the statement can be referred from 
+back side of this form if find out the statement.
+
+PDF PAGE 30
+ 
+ 
+ 
+Version 10 – 10/24                                                                        Page 29 of 31 
+ 
+ 
+ 
+Personal Information Collection Statement 
+CLP is committed to protecting your privacy.  Set out below is information that explains our practices about the way your personal data (“the Data”) is 
+collected and used. 
+ 
+Purpose of Collection 
+CLP may use the personal data you provide in this form for supporting supply application and any directly related purposes.  CLP may also use such personal 
+data:  
+ 
+ 
+To communicate with you; 
+ 
+To handle and follow up service enquiries and complaints; and  
+ 
+To investigate double meter incident 
+ 
+You are not required to provide the personal data requested in this form.  However, the personal data you provide in this form will enable CLP to process 
+your application.  CLP may not be able to process your application unless you provide the personal data. 
+ 
+Transfer of Personal Data 
+CLP will disclose data when required to do so by law and may also disclose such data in response to requests from law enforcement agencies or regulatory 
+authorities. 
+ 
+Access and Correction of Personal Data 
+You have a right to request access to, the correction and erasure of, your personal data in accordance with, where applicable, the provisions of the Personal 
+Data (Privacy) Ordinance (Cap 486), and any other data protection law as applicable.  Requests for access, correction and/or erasure of personal data, as 
+well as withdrawal of consent, where applicable, should be by email and addressed to the Personal Data Officer of CLP at csd@clp.com.hk  
+ 
+Privacy Policy Statement 
+You can find out more about CLP’s policies on privacy and personal data protection by accessing our privacy policy statement available on the CLP 
+website at https://www.clp.com.hk/en/privacy-policy. 
+Unless specified otherwise, reference to “CLP” and the “CLP Group” shall mean CLP Holdings Limited, its subsidiaries and affiliates. 
+ 
+ 
+個人資料收集聲明 
+中電集團致力於保護你的私隱。以下所列示信息解釋我們的操作慣例和收集及使用閣下個人資料的方式。 
+ 
+收集個人資料的用途 
+中電集團使用閣下提供的個人資料主要用於支援供電申請及任何直接有關的用途上。 
+中電集團也可能使用閣下的個人資料 ： 
+ 
+與閣下溝通； 
+ 
+以處理及跟進客戶提出的服務諮詢及投訴； 
+ 
+調查有關重複計量事故。 
+ 
+中電集團並無規定閣下必須提供個人資料， 但閣下所提供的個人資料能夠使中電集團可處理閣下的供電申請。除非閣下向中電集團提供表格中
+的個人資料， 否則中電集團可能無法處理閣下的供電申請。 
+ 
+個人資料的轉移 
+如有法律規定， 中電集團會披露有關資料， 也會應執法機關或監管部門的要求披露上述資料。 
+ 
+查閱或更正你的個人資料的方法 
+根據《個人資料(私隱)條例》 (第486 章) 及其他適用的個人資料保護法例， 你有權知道中電集團是否擁有你的個人資料， 亦可索取有關資料副
+本， 並更正和刪除中電保存的有關資料。 有關索閱，更正及/或刪除中電集團記錄內任何有關你的個人資料的要求， 以及撤回同意的要求(如適
+用) ， 可電郵至csd@clp.com.hk 與中電集團的個人資料主任聯絡。 
+ 
+ 
+私隱政策聲明 
+你可以登入中電集團的網站https://www.clp.com.hk/en/privacy-policy 查閱中電集團的私隱政策聲明， 以了解更多關於中電集團在私隱及個人資
+料保護方面的政策。 
+ 
+除非文義明確另有所指， 本文所提及的 「中電」 及「中電集團」 是指中電控股有限公司，其附屬公司及關聯公司。 
+ 
+ 
+
+PDF PAGE 31
+ 
+ 
+ 
+Version 10 – 10/24                                                                        Page 30 of 31 
+ 
+ 
+ 
+Appendix 4 - Metering Equipment Specification and Installation Requirements for New 11kV Supply 
+Network Arrangement of 132kV Developer Substation 
+ 
+A. 
+Metering Equipment Specification 
+ 
+1. 
+Metering VT 
+ Dedicated VT for revenue metering or separate winding (for VT with multiple secondary 
+outputs) solely for revenue metering. 
+ Standard:  
+IEC61869-3 
+ Burden: 
+75 VA /phase (reserved for metering purpose) 
+ Accuracy class: 
+0.5 
+ VT Secondary 
+ 
+    110V 
+ VT Ratio:  
+             11000/110 
+ Connection cable: 
+    4 mm2 10 core PVC/PVC copper  
+ Sealing facility:  
+    To be provided for fuse carriers, test terminal blocks, terminals, etc.  
+ Test report:  
+             To be submitted to CLP prior to installation of meters 
+ 
+2. 
+Metering CT 
+ Dedicated CT for revenue metering 
+ Standard:  
+ 
+    IEC61869-2 
+ Burden: 
+ 
+ 
+    15 VA  
+ Accuracy class:  
+    0.5 
+ CT Secondary:  
+    5A 
+ CT Ratio:  
+ 
+    To be advised by customer & agreed by CLP (e.g.  
+                                             400/5A,800/5A, etc.)                                      
+ Connection cable: 
+    4 mm2 10 core PVC/PVC copper  
+ Sealing facility:              To be provided for test terminal block, terminals, etc.  
+ Test report:  
+             To be submitted to CLP prior to installation of meters 
+ 
+3.  Metering Cubicle  
+ Size:  
+ 
+ 
+    850mm(w) x 650mm(d) x 1800mm(h) with front and rear  
+  
+ 
+ 
+ 
+    swing doors 
+ Access clearance: 
+    900 mm minimum (both front and rear) 
+                                       
+ 
+ 
+ 
+ 
+ 
+
+PDF PAGE 32
+ 
+ 
+ 
+Version 10 – 10/24                                                                        Page 31 of 31 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Metering 
+Panel 
+Metering 
+CT/VT 
+at customer 
+1xTariff metering 
+cable with cable 
+ 
+ 
+ 
+Metering 
+CT/VT 
+at customer 11kV 
+switchgear 
+Terminal 
+Box* 
+Customer 11kV Switchgear Room 
+*Detailed arrangement of 
+Terminal Box to be specified 
+by CLP Engineer 
+1 x Tariff metering cable 
+with cable containment 

@@ -20,7 +20,7 @@
   "fixed_Cg": 1,
   "fixed_mV_A_m": 11,
   "socket_protection_A": 32,
-  "fixed_protection_A": 16,
+  "fixed_protection_A": 10,
   "point_FCU_A": 13,
   "spur_line_N_CPC_mm2": 4,
   "spur_It_A": 32,
@@ -37,5 +37,7 @@
     "All accessory/junction terminals must accept selected main cables; 6/10mm2 are not assumed to fit socket terminals",
     "Raised floor/ceiling method and penetrations remain proposed; mechanical protection and access require review",
     "Power phases and final incoming demand must be recomputed after adoption"
-  ]
+  ],
+  "fixed_design_current_A": 6.363636363636363,
+  "fixed_FCU_A": 10
 }

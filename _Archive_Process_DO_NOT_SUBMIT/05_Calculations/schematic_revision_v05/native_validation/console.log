@@ -1,0 +1,264 @@
+Redirect stdout (file: C:\Users\LYUML-~1\AppData\Local\Temp\accc94322).
+AcCoreConsole: StdOutConsoleMode: processed-output: disabled,auto
+AutoCAD Core Engine Console - Copyright 2026 Autodesk, Inc.  All rights reserved. (X.118.0.0)
+
+Execution Path:
+C:\Program Files\Autodesk\AutoCAD 2027\accoreconsole.exe
+Current Directory: C:\Users\lyuml-win\Desktop\polyu_bse3124
+
+Version Number: X.118.0.0 (UNICODE)
+LogFilePath has been set to the working folder.
+
+************************MessageBox****************************
+AutoCAD Alert
+ C:\Users\lyuml-win\Desktop\polyu_bse3124\05_Calculations\schematic_revision_v05\BSE3124_Final_Rev05.dwg is currently in use by :
+ lyuml-win , LYUML-WIN .
+Would you like to open the file read-only?
+>>>Responding: Yes.
+**************************************************************
+CoreHeartBeat
+Loading AEC Base...
+Loading AEC Base Extended...
+Loading AEC Core...
+Loading AEC Project Base...
+Loading AEC Architectural Base...
+Loading AEC Schedule...
+
+Loading Modeler DLLs.
+Loading AEC Area Base...
+Loading MEP Base...
+Loading MEP HVAC Base...
+Loading MEP Pipe Base...
+Loading MEP Electrical Base...
+Loading MEP COLE Base...
+Loading MEP Plumbing Base...
+Loading MEP Tools...
+Regenerating layout.
+
+**** System Variable Changed ****
+4 of the monitored system variables have changed from the preferred value. Use SYSVARMONITOR command to view changes.
+
+
+AutoCAD menu utilities loaded.
+Command:
+Command:
+
+Command:
+Command: (defun bse-plan-length (d / pts q prev total first closed)
+(_>  (setq pts nil total 0.0)
+(_>  (foreach q d (if (= (car q) 10) (setq pts (append pts (list (cdr q))))))
+(_>  (if pts (progn (setq first (car pts) prev first)
+(((_>  (foreach q (cdr pts) (setq total (+ total (distance prev q)) prev q))
+(((_>  (if (= 1 (logand 1 (cdr (assoc 70 d)))) (setq total (+ total (distance prev first)))))) total)
+BSE-PLAN-LENGTH
+
+Command: (setq auditfile (open "C:/Users/lyuml-win/Desktop/polyu_bse3124/05_Calculations/schematic_revision_v05/native_validation/native_entities.tsv" "w"))
+#<file "C:/Users/lyuml-win/Desktop/polyu_bse3124/05_Calculations/schematic_revision_v05/native_validation/native_entities.tsv">
+
+Command: (write-line (strcat "DRAWING\t" (getvar "DWGPREFIX") (getvar "DWGNAME")) auditfile)
+"DRAWING\tC:\\Users\\lyuml-win\\Desktop\\polyu_bse3124\\05_Calculations\\schematic_revision_v05\\BSE3124_Final_Rev05.dwg"
+
+Command: (write-line (strcat "VERSION\t" (getvar "ACADVER")) auditfile)
+"VERSION\t26.0"
+
+Command: (write-line (strcat "UNITS\t" (itoa (getvar "INSUNITS"))) auditfile)
+"UNITS\t4"
+
+Command: (foreach pair (dictsearch (namedobjdict) "ACAD_LAYOUT") (if (= (car pair) 3) (write-line (strcat "LAYOUT\t" (cdr pair)) auditfile)))
+nil
+
+Command: (foreach h '(
+('(_> "7654" "7658" "765A" "765C" "765E" "7660" "7662" "7664"
+('(_> "76EA" "76EB" "76ED" "76EE" "76F0" "76F1" "7736" "7737"
+('(_> "7738" "7765" "7766" "7767" "7768" "7769" "776A" "776B"
+('(_> "776C" "776D" "776E" "776F" "7770" "7771" "7772" "7773"
+('(_> "7774" "7775" "7776" "7777" "7778" "7779" "777A" "777B"
+('(_> "777C" "77A0" "77A1" "77A2" "77A3" "77A4" "77A5" "77A6"
+('(_> "77A7" "77A8" "77A9" "77AA" "77AB" "77AC" "77AD" "77AE"
+('(_> "77AF" "77B0" "77B1" "77B2" "77B3" "77B4" "77B5" "77B6"
+('(_> "77B7" "77B8" "77B9" "77BA" "77BB" "77BC" "77BD" "77BE"
+('(_> "77BF" "77C0" "77C1" "77C2" "77C3" "77C4" "77C5" "77C6"
+('(_> "77C7" "77C8" "77C9" "784F" "7850" "7851" "7852" "7853"
+('(_> "7854" "7855" "7856" "7857" "7858" "7859" "785A" "785B"
+('(_> "785C" "785D" "785E" "785F" "7860" "7861" "7862" "7863"
+('(_> "7864" "7865" "7866" "7867" "7868" "7869" "786A" "786B"
+('(_> "786C" "786D" "786E" "786F" "7870" "7871" "7872" "7873"
+('(_> "7874" "7875" "7876" "7877" "7878" "7879" "787A" "787B"
+('(_> "787C" "787D" "787E" "787F" "7880" "7881" "7882" "7883"
+('(_> "7884" "7885" "7886" "7887" "7888" "7889" "788A" "788B"
+('(_> "788C" "788D" "788E" "788F" "7890" "7891" "7892" "7893"
+('(_> "7894" "7895" "7896" "7897" "7898" "7899" "789A" "789B"
+('(_> "789C" "789D" "789E" "789F" "78A0" "78A1" "78A2" "78A3"
+('(_> "78A4" "78A5" "78A6" "78A7" "78A8" "78A9" "78AA" "78AB"
+('(_> "78AC" "78AD" "78AE" "78AF" "78B0" "78B1" "78B2" "78B3"
+('(_> "78B4" "78B5" "78B6" "78B7" "78B8" "78B9" "78BA" "78BB"
+('(_> "78BC" "78BD" "78BE" "78BF" "78C0" "78C1" "78C2" "78C3"
+('(_> "78C4" "78C5" "78C6" "78C7" "78C8" "78C9" "78CA" "78CB"
+('(_> "78CC" "78CD" "78CE" "78CF" "78D0" "78D1" "78D2" "78D3"
+('(_> "78D4" "78D5" "78D6" "78D7" "78D8" "78D9" "78DA" "78DB"
+('(_> "78DC" "78DD" "78DE" "78DF" "78E0" "78E1" "78E2" "78E3"
+('(_> "78E4" "78E5" "78E6" "78E7" "78E8" "78E9" "78EA" "78EB"
+('(_> "78EC" "78ED" "78EE" "78EF" "78F0" "78F1" "78F2" "78F3"
+('(_> "78F4" "78F5" "78F6" "78F7" "78F8" "78F9" "78FA" "78FB"
+('(_> "78FC" "78FD" "78FE" "78FF" "7900" "7901" "7902" "7903"
+('(_> "7904" "7905" "7906" "7907" "7908" "7909" "790A" "790B"
+('(_> "790C" "790D" "790E" "790F" "7910" "7911" "7912" "7913"
+('(_> "7914" "7915" "7916" "7917" "797A" "797B" "797C" "797D"
+('(_> "797E" "797F" "7980" "7981" "7982" "7983" "7984" "7985"
+('(_> "7986" "7987" "7988" "7989" "798A" "798B" "798C" "798D"
+('(_> "798E" "798F" "7990" "7991" "7992" "7993" "79BE" "79BF"
+('(_> "79C0" "79C1" "79C2" "79C3" "79C4" "79C5" "79C6" "79C7"
+('(_> "79C8" "79C9" "79CA" "79CB" "79CC" "79CD" "79CE" "79CF"
+('(_> "79D0" "79D1" "79D8" "79D9" "79DA" "79DB" "79DC" "79DD"
+('(_> "79DE" "79DF" "79E1" "79E2" "79E3" "79E4" "79E5" "79E6"
+('(_> "79E7" "79E8" "79E9" "79EA" "79EB" "79EC" "79ED" "79EE"
+('(_> "79EF" "79F0" "79F1" "79F2" "79F3" "79F4" "79F5" "79F6"
+('(_> "79F7" "79F8" "79F9" "79FA" "79FB" "79FC" "79FD" "79FE"
+('(_> "79FF" "7A00" "7A01" "7A02" "7BB9" "7BBE" "7BBF" "7BC3"
+('(_> "7BC5" "7BC7" "7BC9" "7BCB" "7BCD" "7BCF" "7BD6" "7BD8"
+('(_> "7BDA" "7BDC" "7BDE" "7BE0" "7BE2" "7BE4" "7BE6" "7BE7"
+('(_> "7BE8" "7BE9" "7BEA" "7BEB" "7BEC" "7BEE" "7BEF" "7BF0"
+('(_> "7BF1" "7BF2" "7BF3" "7BF5" "7BF6" "7BF7" "7BF8" "7BF9"
+('(_> "7BFA" "7BFB" "7BFC" "7BFD" "7BFE" "7BFF" "7C00" "7C01"
+('(_> "7C02" "7C03" "7C04" "7C05" "7C06" "7C07" "7C08" "7C09"
+('(_> "7C15" "7C16" "7C17" "7C18" "7C19" "7C1A" "7C1B" "7C1C"
+('(_> "7C1D" "7C1E" "7C1F" "7C20" "7C21" "7C22" "7C23" "7C24"
+('(_> "7C25" "7C26" "7C27" "7C28" "7C29" "7C2A" "7C2B" "7C2C"
+('(_> "7C2D" "7C2E" "7C2F" "7C30" "7C31" "7C32" "7C33" "7C34"
+('(_> "7C35" "7C36" "7C37" "7C38" "7C39" "7C3A" "7C3B" "7C3C"
+('(_> "7C3D" "7C3E" "7C3F" "7C40" "7C41" "7C42" "7C43" "7C44"
+('(_> "7C45" "7C46" "7C47" "7C48" "7C49" "7C4A" "7C4B" "7C4C"
+('(_> "7C4D" "7C4E" "7C4F" "7C50" "7C51" "7C52" "7C53" "7C54"
+('(_> "7C55" "7C56" "7C57" "7C58" "7C59" "7C5A" "7C5B" "7C5C"
+('(_> "7C5D" "7C5E" "7C5F" "7C60" "7C61" "7C62" "7C63" "7C64"
+('(_> "7C65" "7C66" "7C67" "7C68" "7C69" "7C6A" "7C6B" "7C6C"
+('(_> "7C6D" "7C6E" "7C6F" "7C70" "7C71" "7C72" "7C73" "7C74"
+('(_> "7C75" "7C76" "7C77" "7C78" "7C79" "7C7A" "7C7B" "7C7C"
+('(_> "7C7D" "7C7E" "7C7F" "7C80" "7C81" "7C82" "7C83" "7C84"
+('(_> "7C85" "7C86" "7C87" "7C88" "7C89" "7C8A" "7C8B" "7C8C"
+('(_> "7C8D" "7C8E" "7C8F" "7C90" "7C91" "7C92" "7C93" "7C94"
+('(_> "7C95" "7C96" "7C97" "7C98" "7C99" "7C9A" "7C9B" "7C9C"
+('(_> "7C9D" "7C9E" "7C9F" "7CA0" "7CA1" "7CA2" "7CA3" "7CA4"
+('(_> "7CA5" "7CA6" "7CA7" "7CA8" "7CA9" "7CAA" "7CAB" "7CAC"
+('(_> "7CAD" "7CAE" "7CAF" "7CB0" "7CB1" "7CB2" "7CB3" "7CB4"
+('(_> "7CB5" "7CB6" "7CB7" "7CB8" "7CB9" "7CBA" "7CBB" "7CBC"
+('(_> "7CBD" "7CBE" "7CBF" "7CC0" "7CC1" "7CC2" "7CC3" "7CC4"
+('(_> "7CC5" "7CC6" "7CC7" "7CC8" "7CC9" "7CCA" "7CCB" "7CCC"
+('(_> "7CCD" "7CCE" "7CCF" "7CD0" "7CD1" "7CD2" "7CD3" "7CD4"
+('(_> "7CD5" "7CD6" "7CD7" "7CD8" "7CD9" "7CDA" "7CDB" "7CDC"
+('(_> "7CDD" "7CDE" "7CDF" "7CE0" "7CE1" "7CE2" "7CE3" "7CE4"
+('(_> "7CE5" "7CE6" "7CE7" "7CE8" "7CE9" "7CEA" "7CEB" "7CEC"
+('(_> "7CED" "7CEE" "7CEF" "7CF0" "7CF1" "7CF2" "7CF3" "7CF4"
+('(_> "7CF5" "7CF6" "7CF7" "7CF8" "7CF9" "7CFA" "7CFB" "7CFC"
+('(_> "7CFD" "7CFE" "7CFF" "7D00" "7D01" "7D02" "7D03" "7D04"
+('(_> "7D05" "7D06" "7D07" "7D08" "7D09" "7D0A" "7D0B" "7D0C"
+('(_> "7D0D" "7D0E" "7D0F" "7D10" "7D11" "7D12" "7D13" "7D14"
+('(_> "7D15" "7D16" "7D17" "7D18" "7D19" "7D1A" "7D1B" "7D1C"
+('(_> "7D1D" "7D1E" "7D1F" "7D20" "7D21" "7D22" "7D23" "7D24"
+('(_> "7D25" "7D26" "7D27" "7D28" "7D29" "7D2A" "7D2B" "7D2C"
+('(_> "7D2D" "7D2E" "7D2F" "7D30" "7D31" "7D32" "7D33" "7D34"
+('(_> "7D35" "7D36" "7D37" "7D38" "7D39" "7D3A" "7D3B" "7D3C"
+('(_> "7D3D" "7D3E" "7D3F" "7D40" "7D41" "7D42" "7D43" "7D44"
+('(_> "7D45" "7D46" "7D47" "7D48" "7D49" "7D4A" "7D4B" "7D4C"
+('(_> "7D4D" "7D4E" "7D4F" "7D50" "7D51" "7D52" "7D53" "7D54"
+('(_> "7D55" "7D56" "7D57" "7D58" "7D59" "7D5A" "7D5B" "7D5C"
+('(_> "7D5D" "7D5E" "7D5F" "7D60" "7D61" "7D62" "7D63" "7D64"
+('(_> "7D65" "7D66" "7D67" "7D68" "7D69" "7D6A" "7D6B" "7D6C"
+('(_> "7D6D" "7D6E" "7D6F" "7D70" "7D71" "7D72" "7D73" "7D74"
+('(_> "7D75" "7D76" "7D77" "7D78" "7D79" "7D7A" "7D7B" "7D7C"
+('(_> "7D7D" "7D7E" "7D7F" "7D80" "7D81" "7D82" "7D83" "7D84"
+('(_> "7D85" "7D86" "7D87" "7D88" "7D89" "7D8A" "7D8B" "7D8C"
+('(_> "7D8D" "7D8E" "7D8F" "7D90" "7D91" "7D92" "7D93" "7D94"
+('(_> "7D95" "7D96" "7D97" "7D98" "7D99" "7D9A" "7D9B" "7D9C"
+('(_> "7D9D" "7D9E" "7D9F" "7DA0" "7DA1" "7DA2" "7DA3" "7DA4"
+('(_> "7DA5" "7DA6" "7DA7" "7DA8" "7DA9" "7DAA" "7DAB" "7DAC"
+('(_> "7DAD" "7DAE" "7DAF" "7DB0" "7DBC" "7DBD" "7DBE" "7DC0"
+('(_> "7DC1" "7DC2" "7DC3" "7DC4" "7DC5" "7DC6" "7DC7" "7DC8"
+('(_> "7DC9" "7DCA" "7DCB" "7DCC" "7DCD" "7DCE" "7DD9" "7DDA"
+('(_> "7DDB" "7DDD" "7DDE" "7DDF" "7DE0" "7DE1" "7DE2" "7DE3"
+('(_> "7DE4" "7DE5" "7DE6" "7DE7" "7DE8" "7DE9" "7DEA" "7DEB"
+('(_> "7DEC" "7DED" "7FA8" "7FA9" "7FAA" "7FAB" "7FAC" "7FAD"
+('(_> "7FAE" "7FAF" "7FB0" "7FB1" "7FB2" "7FB3" "7FB4" "7FB5"
+('(_> "7FB6" "7FB7" "7FB8" "7FB9" "7FBA" "7FBB" "7FBC" "7FBD"
+('(_> "7FBE" "7FBF" "7FC0" "7FC1" "7FC2" "7FC3" "7FC4" "7FC5"
+('(_> "7FC6" "7FC7" "7FC8" "7FC9" "7FCA" "7FCB" "7FCC" "7FCD"
+('(_> "7FCE" "7FCF" "7FD0" "7FD1" "7FD2" "7FD3" "7FD4" "7FD5"
+('(_> "7FD6" "7FD7" "7FD8" "7FD9" "7FDA" "7FDB" "7FDC" "7FDD"
+('(_> "7FDE" "7FDF" "7FE0" "7FE1" "7FE2" "7FE3" "7FE4" "7FE5"
+('(_> "7FE6" "7FE7" "7FE8" "7FE9" "7FEA" "7FEB" "7FEC" "7FED"
+('(_> "7FEE" "7FEF" "7FF0" "7FF1" "7FF2" "7FF3" "7FF4" "8027"
+('(_> "8028" "8029" "802A" "802B" "802C" "802D" "802E" "802F"
+('(_> "8030" "8031" "852E" "852F" "8530" "8531" "8532" "8533"
+('(_> "8534" "8535" "8536" "86B4" "86B5" "86B6" "86B9" "86BA"
+('(_> "86BB" "86BC" "86BD" "86BE" "86BF" "86C0" "86C1" "86C2"
+('(_> "86C3" "86C4" "86C5" "86C6" "86C7" "86C8" "86C9" "86CA"
+('(_> "86CB" "86CC" "86CD" "86CE" "86CF" "86D0" "86D1" "86D2"
+('(_> "86D3" "86D4" "86D5" "86D6" "86D7" "86D8" "86D9" "86DA"
+('(_> "86DB" "86DC" "86DD" "86DE" "86DF" "86E0" "86E1" "86E2"
+('(_> "86E3" "86E4" "86E5" "86E6" "86E7" "86E8" "86E9" "86EA"
+('(_> "86EB" "86EC" "86ED" "86EE" "86EF" "86F0" "885D" "885E"
+('(_> "885F" "8860" "8861" "8862" "8863" "8864" "8865" "8866"
+('(_> "8867" "8868" "8869" "886A" "886B" "886C" "886D" "886E"
+('(_> "886F" "8870" "8871" "8872" "8873" "8874" "8875" "8876"
+('(_> "8877" "8878" "8879" "887A" "887B" "887C" "887D" "887E"
+('(_> "887F" "8880" "8881" "8882" "8883" "8884" "8885" "8886"
+('(_> "8887" "8888" "8889" "888A" "888B" "888C" "888D" "888E"
+('(_> "888F" "8890" "8891" "8892" "8893" "8894" "8895" "8896"
+('(_> "8897" "8898" "8899" "889A" "889B" "889C" "889D" "889E"
+('(_> "889F" "88A0" "88A1" "88A2" "88A3" "88A4" "88A5" "88A6"
+('(_> "88A7" "88A8" "88A9" "88AA" "88AB" "88AC" "88AD" "88AE"
+('(_> "88AF" "88B0" "88B1" "88B2" "88B3" "88B4" "88B5" "88B6"
+('(_> "88B7" "88B8" "88B9" "88BA" "88BB" "88BC" "88BD" "88BE"
+('(_> "88BF" "88C0" "88C1" "88C2" "88C3" "88C4" "88C5" "88C6"
+('(_> "88C7" "88C8" "88C9" "88CA" "88CB" "88CC" "88CD" "88CE"
+('(_> "88CF" "88D0" "88D1" "88D2" "88D3" "88D4" "88D5" "88D6"
+('(_> "88D7" "88D8" "88D9" "88DA" "88DB" "88DC" "88DD" "88DE"
+('(_> "88DF" "88E0" "88E1" "88E2" "88E3" "88E4" "88E5" "88E6"
+('(_> "88E7" "88E8" "88E9" "88EA" "88EB" "88EC" "88ED" "88EE"
+('(_> "88EF" "88F0" "88F1" "88F2" "88F3" "88F4" "88F5" "88F6"
+('(_> "88F7" "88F8" "88F9" "88FA" "88FB" "88FC" "88FD" "88FE"
+('(_> "88FF" "8900" "8901" "8902" "8903" "8904" "8905" "8906"
+('(_> "8907" "8908" "8909" "890A" "890B" "890C" "890D" "890E"
+('(_> "890F" "8910" "8911" "8912" "8913" "8914" "8915" "8916"
+('(_> "8917" "8918" "8919" "891A" "891B" "891C" "891D" "891E"
+('(_> "891F" "8920" "8921" "8922" "8923" "8924" "8925" "8926"
+('(_> "8927" "8928" "8929" "892A" "892B" "892C" "892D" "892E"
+('(_> "892F" "8930" "8931" "8932" "8933" "8934" "8935" "8936"
+('(_> "8937" "8938" "8939" "893A" "893B" "893C" "893D" "893E"
+('(_> "893F" "8940" "8941" "8942" "8943" "8944" "8945" "8946"
+('(_> "8947" "8948" "8949" "894A" "894B" "894C" "894D" "894E"
+('(_> "894F" "8950" "8951" "8952" "8953" "8954" "8955" "8956"
+('(_> "8957" "8958" "8959" "895A" "895B" "895C" "895D" "895E"
+('(_> "895F" "8960" "8961" "8962" "8963" "8964" "8965" "8966"
+('(_> "8967" "8968" "8969" "896A" "896B" "896C" "896D" "896E"
+('(_> "896F" "8970" "8971" "8972" "8973" "8974" "8975" "8976"
+('(_> "8977" "8978" "8979" "897A" "897B" "897C" "897D" "897E"
+('(_> "897F" "8980" "8981" "8982" "8983" "8984" "8985" "8986"
+('(_> "8987" "8988" "8989" "898A" "898B" "898C" "898D" "898E"
+('(_> "898F" "8990" "8991" "8992" "8993" "8994" "8995" "8996"
+('(_> "8997" "8998" "8999" "899A" "899B" "899C" "899D" "899E"
+('(_> "899F" "89A0" "89A1" "89A2" "89A3" "89A4" "89A5" "89A6"
+('(_> "89A7" "89A8" "89A9" "89AA" "89AB" "89AC" "89AD" "89AE"
+('(_> "89AF" "89B0" "89B1" "89B2" "89B3" "89B4" "89B5" "89B6"
+('(_> "89B7" "89B8" "89B9" "89BA" "89BB" "89BC" "89BD" "89BE"
+('(_> "89BF" "89C0" "89C1" "89C2" "89C3" "89C4" "89C5" "89C6"
+('(_> "89C7" "89C8" "89C9" "89CA" "89CB" "89CC" "89CD" "89CE"
+('(_> "89CF" "89D0" "89D1" "89D2" "89D3" "89D4" "89D5" "89D6"
+('(_> "89D7" "89D8" "89D9" "89DA" "89DB" "89DC")
+(_>  (setq en (handent h))
+(_>  (if en (progn
+(((_>   (setq d (entget en) ty (cdr (assoc 0 d)) txt "" len "")
+(((_>   (if (member ty '("TEXT" "MTEXT"))
+((((_>    (foreach a d (if (member (car a) '(1 3)) (setq txt (strcat txt (cdr a))))))
+(((_>   (if (= ty "LWPOLYLINE") (setq len (rtos (bse-plan-length d) 2 8)))
+(((_>   (write-line (strcat h "\t" ty "\t" (cdr (assoc 8 d)) "\t" txt "\t" len "\t" (if (= ty "INSERT") (cdr (assoc 2 d)) "")) auditfile))
+((_>   (write-line (strcat h "\tMISSING") auditfile)))
+"89DC\tMTEXT\tE-REV-TEXT\t2672.216 kVA building demand | 1336.108 kVA / 2030 A per normal section | CT/sensor arrangement subject to CLP acceptance\t\t"
+
+Command: (close auditfile)
+nil
+
+Command: (princ "BSE_NATIVE_READ_COMPLETE")
+BSE_NATIVE_READ_COMPLETE"BSE_NATIVE_READ_COMPLETE"
+
+Command: (princ)

@@ -1,86 +1,115 @@
 {
-  "release": "Group1 final",
-  "date": "2026-11-08",
-  "files": [
-    {
-      "file": "04_Final_Report\\BSE3124_Final.pdf",
-      "sha256": "d1f3002e9f92b5cff24aa01dbcbdddea62c23dd4a6be62224b1dee421ff38ec5",
-      "bytes": 1744260
-    },
-    {
-      "file": "03_Design_Drawings\\BSE3124_Final.dwg",
-      "sha256": "2af2392f6359711fdb46c3f6c1092e1e6bed480fb1e0a0ce74aa979d59bc5ad7",
-      "bytes": 475860
-    },
-    {
-      "file": "04_Final_Report\\source\\assets\\continuation-template.pdf",
-      "sha256": "0e831b74681495baf7904d3e33d344d298b4c35824b2f1e9ffde3bfaf43dea74",
-      "bytes": 713378
-    },
-    {
-      "file": "04_Final_Report\\source\\assets\\installation-details.pdf",
-      "sha256": "88c654e773ccacaf5708131254e720c4b6dc6047f76ddd2892c6f0ac3ddadff6",
-      "bytes": 112038
-    },
-    {
-      "file": "04_Final_Report\\source\\assets\\office-db.pdf",
-      "sha256": "39a76808d408c8b4cdc2186723d95ac516d66aab6977b835bbc9d648f5cd046c",
-      "bytes": 113914
-    },
-    {
-      "file": "04_Final_Report\\source\\assets\\office-lighting.pdf",
-      "sha256": "39a48268604381bc8b05e6934b07cefea7f4906981af3f42c972e78b22e08d6c",
-      "bytes": 153305
-    },
-    {
-      "file": "04_Final_Report\\source\\assets\\office-power.pdf",
-      "sha256": "ae355d9e8fb76f4693728fefd10a6952974283850ea73c63cb8f8967757a7dac",
-      "bytes": 125518
-    },
-    {
-      "file": "04_Final_Report\\source\\assets\\official-template.pdf",
-      "sha256": "7a8a1094430086d49dee572363030bbdb50c7d1163552bf0c0bf9afe296d1f52",
-      "bytes": 184071
-    },
-    {
-      "file": "04_Final_Report\\source\\assets\\task1-drawings.pdf",
-      "sha256": "3ad8146a9b6492bc4cc586222c5d63c6a8d20dcdc72f012e4718aa3827a276cf",
-      "bytes": 310703
-    }
-  ],
-  "pdf_pages": 18,
-  "original_sources_unchanged": true,
-  "source_checks": [
-    {
-      "file": "01_Assignment_Brief\\BSE3124 Mini Design Answer Sheets.docx",
-      "expected": "da927db8e419e8639f0a89052ddf64c104011f22ce808b371756012d2f25d65d",
-      "actual": "da927db8e419e8639f0a89052ddf64c104011f22ce808b371756012d2f25d65d",
-      "unchanged": true
-    },
-    {
-      "file": "01_Assignment_Brief\\BSE3124 Mini Design Assignment-2.docx",
-      "expected": "561727aa33f0844b0f79308019256d1da37ef3640468880863ce198d3514daac",
-      "actual": "561727aa33f0844b0f79308019256d1da37ef3640468880863ce198d3514daac",
-      "unchanged": true
-    },
-    {
-      "file": "01_Assignment_Brief/Building_Drawings\\Building Layouts Layout2-1.pdf",
-      "expected": "abc963b4e48a5eb7643564106ea273ebc36130779bdced6de441e86a2d2c4208",
-      "actual": "abc963b4e48a5eb7643564106ea273ebc36130779bdced6de441e86a2d2c4208",
-      "unchanged": true
-    },
-    {
-      "file": "01_Assignment_Brief/Building_Drawings\\Building Layouts.dwg",
-      "expected": "0adaa4351e0e5c665cec56bf8feb177b9d3e68001bc991cf96abd5176811d23a",
-      "actual": "0adaa4351e0e5c665cec56bf8feb177b9d3e68001bc991cf96abd5176811d23a",
-      "unchanged": true
-    }
-  ],
-  "native_reopen_gate": "native_final_gate.json",
-  "conditional_protection_checks": 15,
-  "lighting_adopted_mean_checks": 4,
-  "lighting_height_sensitivity_disclosed": true,
-  "template_fidelity": "template_fidelity.json",
-  "visual_review": "All18 final rendered pages visually inspected; reviewed again after layout-sensitive changes",
-  "scope": "Course design under VALIDATION declared conditions; not unrestricted site/product/photometric certification"
+  "revision": 5,
+  "scope": "Layout and label clearance repair; engineering inputs unchanged",
+  "pdf_pages": 23,
+  "office_device_records": 112,
+  "luminaires": 92,
+  "outgoing_circuits": 15,
+  "unchanged_data_files": 71,
+  "source_and_previous_release_hashes_checked": 20,
+  "native_validation": {
+    "drawing": "C:\\Users\\lyuml-win\\Desktop\\polyu_bse3124\\05_Calculations\\schematic_revision_v05\\BSE3124_Final_Rev05.dwg",
+    "sha256": "48b323fdccf25d262f9d070c29a4f337fb86122f5607287486ae9931a6380e07",
+    "engine": "C:\\Program Files\\Autodesk\\AutoCAD 2027\\accoreconsole.exe",
+    "native_version": "26.0",
+    "native_reopen_pass": true,
+    "read_only_hash_unchanged": true,
+    "checked_entity_handles": 1414,
+    "missing_handles": 0,
+    "lighting_labels_checked": 92,
+    "routes": [
+      {
+        "circuit_id": "LC-A",
+        "native_plan_m": 53.300948,
+        "expected_plan_m": 53.300948
+      },
+      {
+        "circuit_id": "LC-B",
+        "native_plan_m": 57.184084000000006,
+        "expected_plan_m": 57.184084
+      },
+      {
+        "circuit_id": "LC-C",
+        "native_plan_m": 39.999052000000006,
+        "expected_plan_m": 39.999052
+      },
+      {
+        "circuit_id": "LC-D",
+        "native_plan_m": 22.233416000000002,
+        "expected_plan_m": 22.233416
+      },
+      {
+        "circuit_id": "LC-E",
+        "native_plan_m": 29.464052,
+        "expected_plan_m": 29.464052
+      },
+      {
+        "circuit_id": "LC-F",
+        "native_plan_m": 27.709658,
+        "expected_plan_m": 27.709658
+      },
+      {
+        "circuit_id": "LC-G",
+        "native_plan_m": 22.378646,
+        "expected_plan_m": 22.378646
+      },
+      {
+        "circuit_id": "P1",
+        "native_plan_m": 24.6202,
+        "expected_plan_m": 24.6202
+      },
+      {
+        "circuit_id": "P2",
+        "native_plan_m": 31.5202,
+        "expected_plan_m": 31.5202
+      },
+      {
+        "circuit_id": "P3",
+        "native_plan_m": 41.2202,
+        "expected_plan_m": 41.2202
+      },
+      {
+        "circuit_id": "P4",
+        "native_plan_m": 30.220200000000002,
+        "expected_plan_m": 30.2202
+      },
+      {
+        "circuit_id": "P5",
+        "native_plan_m": 13.607484000000001,
+        "expected_plan_m": 13.607484
+      },
+      {
+        "circuit_id": "P6",
+        "native_plan_m": 11.863968000000002,
+        "expected_plan_m": 11.863968
+      },
+      {
+        "circuit_id": "P7",
+        "native_plan_m": 11.107484000000001,
+        "expected_plan_m": 11.107484
+      },
+      {
+        "circuit_id": "P8",
+        "native_plan_m": 13.107484000000001,
+        "expected_plan_m": 13.107484
+      }
+    ],
+    "incoming_plan_routes_checked": 2,
+    "db_schedule_rows_checked": 15,
+    "required_layouts": [
+      "TASK1-GROUND-OVERVIEW",
+      "TASK1-ROOM-REVIEW",
+      "TASK2-DB-SCHEMATIC",
+      "TASK2-LIGHTING-PLAN",
+      "TASK2-POWER-PLAN",
+      "DESIGN-DETAILS",
+      "TASK1-MAIN-SCHEMATIC",
+      "REV03-ROUTE-AND-RING"
+    ],
+    "units": "millimetres (INSUNITS4)",
+    "scope": "Native DWG reopen/read; PDF print quality reviewed separately"
+  },
+  "pdf_sha256": "0e01fa64a3cede78fa74335290bb5f19cd4ff7046d0ce50e58a4423da5e49b98",
+  "visual_review": "All source pages inspected at readable scale, revised pages rerendered and inspected; lamp schedule fragment removed from route locator; DB/C69 and SO01/SO03 annotation clearance corrected; references consolidated on page23",
+  "no_tex_overfull_boxes": true
 }

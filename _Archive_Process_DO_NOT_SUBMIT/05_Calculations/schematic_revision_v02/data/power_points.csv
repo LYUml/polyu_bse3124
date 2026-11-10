@@ -1,0 +1,14 @@
+device_id,type,x_mm,y_mm,design_basis,circuit_candidate,status
+FB01,floor box 4x13A,68000,-21350,north west desk group,P1,working13A fused point; proposed routes/containment; terminal installation and final plot checks pending
+FB02,floor box 4x13A,69500,-23200,centre north desk group,P1,working13A fused point; proposed routes/containment; terminal installation and final plot checks pending
+FB03,floor box 4x13A,68000,-26650,west desk group,P2,working13A fused point; proposed routes/containment; terminal installation and final plot checks pending
+FB04,floor box 4x13A,69100,-26600,centre south desk group,P2,working13A fused point; proposed routes/containment; terminal installation and final plot checks pending
+FB05,floor box 4x13A,66114.1,-30431.7,south west desk group; outside desk bounding box,P3,working13A fused point; proposed routes/containment; terminal installation and final plot checks pending
+FB06,floor box 4x13A,71600,-30500,south centre desk group,P3,working13A fused point; proposed routes/containment; terminal installation and final plot checks pending
+FB07,floor box 4x13A,73800,-26500,east desk group,P4,working13A fused point; proposed routes/containment; terminal installation and final plot checks pending
+FB08,floor box 4x13A,79200,-26300,east desk group boundary check,P4,working13A fused point; proposed routes/containment; terminal installation and final plot checks pending
+FB09,floor box 4x13A,70000,-15100,table position within source PANTRY rectangle; previous meeting-area description corrected,P6,working13A fused point; proposed routes/containment; terminal installation and final plot checks pending
+SO01,13A twin socket,64525.932,-14500,PANTRY west-wall point; previous meeting-area description corrected,P6,working13A fused point; proposed routes/containment; terminal installation and final plot checks pending
+SO02,13A twin socket,77500,-12782.416,upper room wall verify wall face,P5,working13A fused point; proposed routes/containment; terminal installation and final plot checks pending
+SO03,13A twin socket,65000,-12782.416,pantry wall verify equipment location,P8,working13A fused point; proposed routes/containment; terminal installation and final plot checks pending
+FS01,10A DP FCU / WH01 SHC10 GB heater connection,67000,-12782.416,pantry equipment assumed,P7,"Selected WH01 1.4kW/220V; fixed connection assembly, not spare load"

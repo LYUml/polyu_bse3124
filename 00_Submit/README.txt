@@ -1,0 +1,4 @@
+最终提交版本：Rev05，23页。
+打开 BSE3124_Group1_Mini Design Project 文件夹。
+PDF包含完整答案及全部图纸；DWG为同版AutoCAD2027编辑文件。
+请勿提交_Archive_Process_DO_NOT_SUBMIT或旧revision目录文件。

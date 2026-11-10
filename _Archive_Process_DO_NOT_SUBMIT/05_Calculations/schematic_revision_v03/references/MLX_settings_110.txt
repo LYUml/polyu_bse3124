@@ -1,0 +1,92 @@
+•
+With EcoStruxure Power Commission software (password-protected)
+•
+With EcoStruxure Power Device app (password-protected)
+•
+By sending a setting command using the communication network (password-
+protected).
+Short-time overcurrent protection can be duplicated when dual settings are
+activated, page 126.
+Protection Settings
+Setting
+Unit
+Range
+Step
+Factory
+setting
+Accuracy
+Isd
+A
+1.5–10 x Ir
+0.5 x Ir(1)
+1.5 x Ir
++/- 10%
+tsd with I²t ON
+s
+0.1–0.4
+0.1
+–
+–
+tsd with I²t OFF
+s
+0–0.4
+0.1
+0
+–
+(1) Finer resolution settings are possible with EcoStruxure Power Commission software and
+EcoStruxure Power Device app
+For more information, refer to the setting guidelines, page 185.
+Operating Times at 10 x Ir
+The operating times of short-time protection depend on the tsd time delay. They
+are valid for I²t ON or OFF.
+tsd time delay
+0 s
+0.1 s
+0.2 s
+0.3 s
+0.4 s
+Non-tripping time
+> 0.02 s
+> 0.08 s
+> 0.14 s
+> 0.23 s
+> 0.35 s
+Maximum breaking time
+< 0.08 s
+< 0.14 s
+< 0.20 s
+< 0.32 s
+< 0.50 s
+Zone Selective Interlocking (ZSI)
+The ZSI characteristics and external wiring of the zone selective interlocking
+function, are described specifically, page 131.
+If ZSI IN is not set to 1 (open circuit between Z3 and Z4 terminals), the maximum
+breaking time is 0.08 s regardless of the tsd setting value.
+When ZSI IN is set to 1 and connected to the ZSI OUTof a downstream device (or
+when the ZSI function is not used and there is a jumper between the Z3 and Z4
+terminals), the tsd time delay is used.
+The Isd threshold activates ZSI OUT (Z1 and Z2 terminals).
+NOTE: MasterPacT MTZ circuit breakers are delivered with a jumper installed
+between Z3 and Z4.
+Predefined Events
+The function generates the following predefined events:
+Code
+Event
+History
+Severity
+0x6401 (25601)
+Isd trip
+Trip
+High
+0x6301 (25345)
+Isd operate
+Protection
+Medium
+0x6201 (25089)
+Isd start (I > Isd)
+Protection
+Medium
+110
+DOCA0102EN-12
+MasterPacT MTZ - MicroLogic X Control Unit
+Standard Protection Functions

@@ -1,0 +1,4 @@
+area_id,floor,office,area_m2,boundary,measurement_method,evidence,status
+A01,typical,Office 1,309,Original annotation boundary not independently verified,Drawing text,DXF handle 6EFD,provisional UFA
+A02,typical,Office 2,309,Original annotation boundary not independently verified,Drawing text,DXF handle 6F00,provisional UFA
+A03,typical,Office 3,410,Original annotation boundary not independently verified,Drawing text,DXF handle 6F03,provisional UFA

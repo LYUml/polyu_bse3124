@@ -1,0 +1,269 @@
+{
+  "zones": {
+    "Open office": {
+      "circuits": [
+        "LC-A",
+        "LC-B",
+        "LC-C",
+        "LC-E"
+      ],
+      "rectangles": [
+        [
+          64.525932,
+          75.115,
+          16.105584,
+          31.4881
+        ],
+        [
+          75.115,
+          79.808432,
+          19.2625,
+          24.0569
+        ],
+        [
+          70.525932,
+          79.808432,
+          31.5881,
+          36.595584
+        ]
+      ],
+      "target": 500
+    },
+    "Pantry": {
+      "circuits": [
+        "LC-D"
+      ],
+      "rectangles": [
+        [
+          64.525932,
+          70.425932,
+          31.588083655,
+          36.595583655
+        ]
+      ],
+      "target": 500
+    },
+    "Upper east room": {
+      "circuits": [
+        "LC-F"
+      ],
+      "rectangles": [
+        [
+          75.215,
+          79.808432,
+          24.1569,
+          31.4881
+        ]
+      ],
+      "target": 500
+    },
+    "South east room": {
+      "circuits": [
+        "LC-G"
+      ],
+      "rectangles": [
+        [
+          75.215,
+          78.783432,
+          16.105584,
+          17.050584
+        ],
+        [
+          75.215,
+          79.808432,
+          17.050584,
+          19.1625
+        ]
+      ],
+      "target": 500
+    }
+  },
+  "adopted_height_above_workplane_m": 1.9,
+  "maintenance_factor": 0.8,
+  "grid_max_spacing_m": 0.2,
+  "method": "E=sum(I(C,gamma)*cos(gamma)/d^2)*MF; LDT cd/klm scaled by actual flux. Separate zones receive only their own luminaires; approximate open-office connected geometry.",
+  "area_source": "Adopted rectangle coordinates recorded in this script and final_lighting_basis.json; pantry_area_sensitivity.csv; lighting_room_rectangles_review.csv; south_east_area_review.csv",
+  "limitations": "Adopted planning geometry not independent survey. MF0.8 assumes periodic cleaning/replacement. No credit for reflected light. Mean target does not establish minimum illuminance, glare or uniformity. Task1 309m2 is a different provisional UFA basis.",
+  "results": [
+    {
+      "zone": "Open office",
+      "circuits": "LC-A;LC-B;LC-C;LC-E",
+      "lamp_count": 67,
+      "power_W": 1582.0,
+      "area_m2": 231.8707,
+      "height_above_workplane_m": 1.7,
+      "maintenance_factor": 0.8,
+      "mean_maintained_direct_lx": 606.8,
+      "minimum_direct_lx": 69.3,
+      "min_mean": 0.114,
+      "target_mean_lx": 500,
+      "mean_target_met": true,
+      "scope": "Adopted course envelopes; no reflections, furniture shadow or verified mounting height; not glare/uniformity certification"
+    },
+    {
+      "zone": "Open office",
+      "circuits": "LC-A;LC-B;LC-C;LC-E",
+      "lamp_count": 67,
+      "power_W": 1582.0,
+      "area_m2": 231.8707,
+      "height_above_workplane_m": 1.9,
+      "maintenance_factor": 0.8,
+      "mean_maintained_direct_lx": 592.9,
+      "minimum_direct_lx": 80.4,
+      "min_mean": 0.136,
+      "target_mean_lx": 500,
+      "mean_target_met": true,
+      "scope": "Adopted course envelopes; no reflections, furniture shadow or verified mounting height; not glare/uniformity certification"
+    },
+    {
+      "zone": "Open office",
+      "circuits": "LC-A;LC-B;LC-C;LC-E",
+      "lamp_count": 67,
+      "power_W": 1582.0,
+      "area_m2": 231.8707,
+      "height_above_workplane_m": 2.2,
+      "maintenance_factor": 0.8,
+      "mean_maintained_direct_lx": 573.0,
+      "minimum_direct_lx": 94.8,
+      "min_mean": 0.165,
+      "target_mean_lx": 500,
+      "mean_target_met": true,
+      "scope": "Adopted course envelopes; no reflections, furniture shadow or verified mounting height; not glare/uniformity certification"
+    },
+    {
+      "zone": "Pantry",
+      "circuits": "LC-D",
+      "lamp_count": 11,
+      "power_W": 242.0,
+      "area_m2": 29.5443,
+      "height_above_workplane_m": 1.7,
+      "maintenance_factor": 0.8,
+      "mean_maintained_direct_lx": 576.0,
+      "minimum_direct_lx": 213.3,
+      "min_mean": 0.37,
+      "target_mean_lx": 500,
+      "mean_target_met": true,
+      "scope": "Adopted course envelopes; no reflections, furniture shadow or verified mounting height; not glare/uniformity certification"
+    },
+    {
+      "zone": "Pantry",
+      "circuits": "LC-D",
+      "lamp_count": 11,
+      "power_W": 242.0,
+      "area_m2": 29.5443,
+      "height_above_workplane_m": 1.9,
+      "maintenance_factor": 0.8,
+      "mean_maintained_direct_lx": 546.3,
+      "minimum_direct_lx": 213.2,
+      "min_mean": 0.39,
+      "target_mean_lx": 500,
+      "mean_target_met": true,
+      "scope": "Adopted course envelopes; no reflections, furniture shadow or verified mounting height; not glare/uniformity certification"
+    },
+    {
+      "zone": "Pantry",
+      "circuits": "LC-D",
+      "lamp_count": 11,
+      "power_W": 242.0,
+      "area_m2": 29.5443,
+      "height_above_workplane_m": 2.2,
+      "maintenance_factor": 0.8,
+      "mean_maintained_direct_lx": 505.8,
+      "minimum_direct_lx": 209.6,
+      "min_mean": 0.414,
+      "target_mean_lx": 500,
+      "mean_target_met": true,
+      "scope": "Adopted course envelopes; no reflections, furniture shadow or verified mounting height; not glare/uniformity certification"
+    },
+    {
+      "zone": "Upper east room",
+      "circuits": "LC-F",
+      "lamp_count": 10,
+      "power_W": 280.0,
+      "area_m2": 33.6754,
+      "height_above_workplane_m": 1.7,
+      "maintenance_factor": 0.8,
+      "mean_maintained_direct_lx": 619.2,
+      "minimum_direct_lx": 141.1,
+      "min_mean": 0.228,
+      "target_mean_lx": 500,
+      "mean_target_met": true,
+      "scope": "Adopted course envelopes; no reflections, furniture shadow or verified mounting height; not glare/uniformity certification"
+    },
+    {
+      "zone": "Upper east room",
+      "circuits": "LC-F",
+      "lamp_count": 10,
+      "power_W": 280.0,
+      "area_m2": 33.6754,
+      "height_above_workplane_m": 1.9,
+      "maintenance_factor": 0.8,
+      "mean_maintained_direct_lx": 588.5,
+      "minimum_direct_lx": 157.0,
+      "min_mean": 0.267,
+      "target_mean_lx": 500,
+      "mean_target_met": true,
+      "scope": "Adopted course envelopes; no reflections, furniture shadow or verified mounting height; not glare/uniformity certification"
+    },
+    {
+      "zone": "Upper east room",
+      "circuits": "LC-F",
+      "lamp_count": 10,
+      "power_W": 280.0,
+      "area_m2": 33.6754,
+      "height_above_workplane_m": 2.2,
+      "maintenance_factor": 0.8,
+      "mean_maintained_direct_lx": 545.0,
+      "minimum_direct_lx": 172.0,
+      "min_mean": 0.316,
+      "target_mean_lx": 500,
+      "mean_target_met": true,
+      "scope": "Adopted course envelopes; no reflections, furniture shadow or verified mounting height; not glare/uniformity certification"
+    },
+    {
+      "zone": "South east room",
+      "circuits": "LC-G",
+      "lamp_count": 4,
+      "power_W": 152.0,
+      "area_m2": 13.0731,
+      "height_above_workplane_m": 1.7,
+      "maintenance_factor": 0.8,
+      "mean_maintained_direct_lx": 716.6,
+      "minimum_direct_lx": 98.6,
+      "min_mean": 0.138,
+      "target_mean_lx": 500,
+      "mean_target_met": true,
+      "scope": "Adopted course envelopes; no reflections, furniture shadow or verified mounting height; not glare/uniformity certification"
+    },
+    {
+      "zone": "South east room",
+      "circuits": "LC-G",
+      "lamp_count": 4,
+      "power_W": 152.0,
+      "area_m2": 13.0731,
+      "height_above_workplane_m": 1.9,
+      "maintenance_factor": 0.8,
+      "mean_maintained_direct_lx": 662.6,
+      "minimum_direct_lx": 115.7,
+      "min_mean": 0.175,
+      "target_mean_lx": 500,
+      "mean_target_met": true,
+      "scope": "Adopted course envelopes; no reflections, furniture shadow or verified mounting height; not glare/uniformity certification"
+    },
+    {
+      "zone": "South east room",
+      "circuits": "LC-G",
+      "lamp_count": 4,
+      "power_W": 152.0,
+      "area_m2": 13.0731,
+      "height_above_workplane_m": 2.2,
+      "maintenance_factor": 0.8,
+      "mean_maintained_direct_lx": 589.2,
+      "minimum_direct_lx": 136.8,
+      "min_mean": 0.232,
+      "target_mean_lx": 500,
+      "mean_target_met": true,
+      "scope": "Adopted course envelopes; no reflections, furniture shadow or verified mounting height; not glare/uniformity certification"
+    }
+  ]
+}

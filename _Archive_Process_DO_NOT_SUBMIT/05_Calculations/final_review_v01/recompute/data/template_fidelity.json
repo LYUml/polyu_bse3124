@@ -1,0 +1,27 @@
+[
+  {
+    "page": 1,
+    "mean_difference": 0.022431697748952456,
+    "changed_channels": 26355
+  },
+  {
+    "page": 2,
+    "mean_difference": 0.005082158149701543,
+    "changed_channels": 15915
+  },
+  {
+    "page": 3,
+    "mean_difference": 0.003281240339761194,
+    "changed_channels": 19743
+  },
+  {
+    "page": 4,
+    "mean_difference": 0.006030481979852855,
+    "changed_channels": 13425
+  },
+  {
+    "page": 5,
+    "mean_difference": 0.0,
+    "changed_channels": 0
+  }
+]

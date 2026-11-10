@@ -1,0 +1,6 @@
+﻿zone,x_min_mm,x_max_mm,y_min_mm,y_max_mm,rectangle_m2,source_dxf_handles,candidate_centres_inside,panel_crosses_rect_boundary,status
+north_west,64525.9,70425.9,31588.1,36595.6,29.54,"3E42,5128,512B",9,LED79;LED80;LED81,"rectangular approximation; columns, openings and actual room extent unverified"
+north_east,70525.9,79808.4,31588.1,36595.6,46.48,"3E42,40C3,512A,5125",15,LED92;LED93;LED94;LED95;LED96,"rectangular approximation; columns, openings and actual room extent unverified"
+south_east,75215.0,79808.4,16105.6,19162.5,14.04,"409A,40C4,5136,513A",5,,"rectangular approximation; columns, openings and actual room extent unverified"
+middle_east,75215.0,79808.4,19262.5,24056.9,22.02,"40C4,513A,5132",6,LED22;LED30,INVALID as separate room: open west edge; merge into main room after block/door check
+upper_east,75215.0,79808.4,24156.9,31488.1,33.68,"40C4,5132,5131,5125",14,,PRELIMINARY: west wall starts at y=25116.3; doorway and accurate boundary need review

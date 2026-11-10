@@ -1,0 +1,35 @@
+{
+  "files": [
+    {
+      "file": "02_References/Official/COP 101 version 16 drawings.pdf",
+      "sha256": "b8590639d2195571c9053a8fffb7897b08af16ff24be9508369f186c2e2cd8cb",
+      "bytes": 13737070
+    },
+    {
+      "file": "02_References/Official/Cop101 version 16 document.pdf",
+      "sha256": "7eec667e4484e93d06b4ebfc2d546dfa2bb423393036e0f1b34d9a39929ff1f3",
+      "bytes": 854825
+    },
+    {
+      "file": "02_References/Official/EMSD_BEC_2024_EN.pdf",
+      "sha256": "9fae5eb2134caa7f5645735d618d82da0cf3f284e576a9f6402de9b8357f95b7",
+      "bytes": 5225501
+    },
+    {
+      "file": "02_References/Official/EMSD_COP_2025_EN.pdf",
+      "sha256": "d69ae0c53972cc583de64b8e83ca7428460419b7f06ffa2f4f3db79e7b165c3b",
+      "bytes": 10581124
+    },
+    {
+      "file": "02_References/Official/GuideToSupply_(V10)_Eng_Final.pdf",
+      "sha256": "483af24f0d36dc3a0160498aa08c5aec4c0a356ac4ec57778d9e99f6948213b4",
+      "bytes": 3555919
+    },
+    {
+      "file": "02_References/Official/supplyrules_eng_aug26_R3.pdf",
+      "sha256": "e761b33868d1a0e1487a09a0f7019efdfd88c781ab2acdf67be15ec4240bcbde",
+      "bytes": 1751266
+    }
+  ],
+  "scope": "Existing downloaded official PDFs preserved byte-for-byte"
+}

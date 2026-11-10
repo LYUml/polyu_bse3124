@@ -1,0 +1,236 @@
+{
+  "text_changes": [
+    {
+      "handle": "79D1",
+      "before": "LV ACCESS\\P3000 mm\\Passumed",
+      "after": "PROPOSED\\PLV ACCESS\\P3000 mm\\PCLEAR WIDTH"
+    },
+    {
+      "handle": "8030",
+      "before": "LINE KEY: dashed path = HV trench; solid path = LV route. Dashed boxes = delivery clearance; arrows = delivery direction. Equipment details diagrammatic.",
+      "after": "LINE KEY: dashed line = HV trench; solid line = LV route; dashed box = delivery clearance. Equipment details diagrammatic."
+    },
+    {
+      "handle": "7BBA",
+      "before": "PROPOSED LOCATION\\PLower-left perimeter of supplied ground-floor plan. Substation 12430 x 5450; adjacent LV room 12430 x 3500 assumed. See separate 1:75 room detail.",
+      "after": "PROPOSED LOCATION\\PSubstation: 12430 x 5450 mm.\\PAdjacent LV room: 12430 x 3500 mm (proposed).\\PSee 1:75 plantroom detail."
+    },
+    {
+      "handle": "7BBB",
+      "before": "LOCATION REASONS\\PDirect external plant access is proposed, subject to site confirmation.\\PAdjacent LV room keeps transformer-to-incomer interfaces short.\\PPerimeter plantrooms separate supply equipment from the upper lift/stair/AHU core and remaining accommodation.\\PLV room has its own proposed west entrance.",
+      "after": "LOCATION REASONS\\PExternal plant access.\\PShort transformer-to-incomer interfaces.\\PSeparation from lift/stair/AHU core.\\PIndependent west entrance to LV room."
+    },
+    {
+      "handle": "7BBD",
+      "before": "SITE CONDITIONS TO VERIFY\\PExternal apron, road and <=20m unloading route are not given by the source plan. Maintain >=3m clear delivery route.\\PArchitectural wall openings, structural/flood/fire provisions, ventilation and supplier equipment approval require coordination.",
+      "after": "SITE COORDINATION\\PConfirm external access, >=3 m clear delivery route and unloading within 20 m.\\PCoordinate openings, structure, flood/fire provisions and supplier equipment dimensions."
+    },
+    {
+      "handle": "8029",
+      "before": "CAPACITY AND EQUIPMENT\\PTX-A/B: CLP 1500 kVA; 3000 kVA installed, 2672.216 kVA demand. No full-load N-1.\\PHV-01: incomer + two transformer protection panels.\\PMSB: seven 1140 mm bays; 2500 A bus sections. BC: 4P normally-open end coupler, segregated insulated rear links to A/B.\\PA-IN/B-IN/BC electrically and mechanically interlocked. Transfer after isolation and load shedding.\\PInstallation envelopes are design assumptions, not certified manufacturer dimensions.",
+      "after": "EQUIPMENT\\PTX-A/B: CLP 1500 kVA each; demand 2672.216 kVA.\\PHV-01: incomer + two transformer protection panels.\\PMSB: two 2500 A sections, seven 1140 mm bays.\\PBC: normally-open 4P end coupler with segregated rear links. See main schematic for interlocking."
+    },
+    {
+      "handle": "802A",
+      "before": "CLEARANCES / BUILDING WORKS\\PHV rear1000, front1800, sides750. TX LV terminals north:900; other sides750.\\PLV board: front1500, rear990; seven bays x1140 =7980 mm.\\PProposed FRR partitions; fire-seal penetrations. FFL +0.15 m vs external +0.00 assumed.\\PActual structure and equipment dimensions require coordination.",
+      "after": "CLEARANCES / BUILDING WORKS\\PHV: rear 1000, front 1800, sides 750 mm.\\PTX: LV terminals 900, other sides 750 mm.\\PLV board: front 1500, rear 990 mm; total width 7980 mm.\\PProposed 2 h FRR partitions, sealed penetrations and FFL 150 mm above external level."
+    },
+    {
+      "handle": "802B",
+      "before": "ACCESS AND DOORS\\PSouth external access assumed. Provide 3000-wide clear delivery route; unloading distance <=20 m to verify.\\PPlant doors: HV 4000 W; TX 3000 W each; 2800 H assumed. Outward opening, shown at 90 degrees.\\PAdjacent plant doors used sequentially; TX-A has wicket personnel access. Independent LV entrance west.",
+      "after": "ACCESS AND DOORS\\PProposed south delivery access: >=3000 mm clear route; unloading within 20 m.\\PHV opening 4000 mm; TX openings 3000 mm each; proposed height 2800 mm.\\POutward-opening doors shown at 90 degrees; adjacent doors used sequentially.\\PTX-A wicket access; independent west LV entrance."
+    },
+    {
+      "handle": "802C",
+      "before": "VENTILATION\\PEF-A/B: COP101 v16 6.6 type 630 mm / 30 deg / 700 rpm; each 4500 m3/h at 70 Pa, <=58 dB(A) at 1 m.\\PDesign heat: 2 x 15 kW x 1.25 = 37.5 kW. Combined 9000 m3/h gives 12.44 K air rise.\\PIL-A/B: each 600 W x 2000H, minimum 50% free area; combined 1.20 m2 >=1.12 m2.\\PHigh-level ducts: 900 x 750 mm; discharge >=2.5 m above street, away from people. See ventilation calculation.",
+      "after": "VENTILATION\\PEF-A/B: 630 mm / 30 deg / 700 rpm; each 4500 m3/h at 70 Pa; <=58 dB(A) at 1 m (COP101 6.6).\\PIL-A/B: 600 x 2000H mm, >=50% free area; total 1.20 m2.\\PHigh-level ducts: 900 x 750 mm; discharge >=2.5 m above street. Thermal calculation: Task 1."
+    },
+    {
+      "handle": "7FED",
+      "before": "Ring leg currents14.658-15.203 A support load distribution; overload protection follows the A1 standard arrangement. Verify ring continuity before energisation.",
+      "after": "Calculated ring-leg current 14.658-15.203 A. Verify L/N/CPC continuity; A1 overload conditions apply."
+    },
+    {
+      "handle": "7FEE",
+      "before": "TN-S origin Ze<=0.18 ohm (design condition). MS-O1: NSX100H TM63D 70 kA. RCBO backup: Schneider A-198. See Rev03 Task3 for derived faults and energy limits.",
+      "after": "Protection: NSX100H TM63D 70 kA; RCBO backup per Schneider A-198. Task 3 gives fault, earth-loop and total-energy checks."
+    },
+    {
+      "handle": "7FEF",
+      "before": "Select apparatus meeting the stated breaking capacity and total clearing energy. Control20 AX/LED>=600 W; confirm driver inrush. PE bypasses switching.",
+      "after": "Controls: 20 AX, LED>=600 W; verify driver inrush. PE remains continuous."
+    },
+    {
+      "handle": "7FF1",
+      "before": "92 panels /2256 W. LDT calculation, MF0.80, luminaires1.9m above workplane: mean direct lux open592.9 /pantry546.3 /upper east588.5 /south east662.6.",
+      "after": "LIGHTING: 92 panels / 2256 W. LDT results and maintained-illuminance assumptions: Task 2."
+    },
+    {
+      "handle": "7FF2",
+      "before": "South east: four38 W panels,4685.55 lm each; mean589.2 lx at2.2m above workplane,17.8% above500 lx target. Lighting positions and routes retained.",
+      "after": "South-east room: four 38 W panels; 589.2 lx mean at 2.2 m above workplane."
+    },
+    {
+      "handle": "7C30",
+      "before": "NSX100H TM63D before meter; 70 kA. DB assembly >=25 kA; RCBO backup per Schneider A-198. Rev03 Task3 governs fault and I2t checks.",
+      "after": "MS-O1: NSX100H TM63D 70 kA before meter. DB assembly>=25 kA; RCBO backup per Schneider A-198. Protection checks: Task 3."
+    },
+    {
+      "handle": "7DB0",
+      "before": "S-A/B/C: separate enclosures for different phases. All manual controls20 AX/LED>=600 W minimum; local switching and RCBO inrush performance must meet adopted design specification.",
+      "after": "S-A/B/C in separate phase enclosures. Manual controls 20 AX / LED>=600 W; verify driver inrush."
+    },
+    {
+      "handle": "7DC0",
+      "before": "Supply continues to MS-O1 at meter location; incoming route on model / DB schematic.",
+      "after": "Full MS-O1-to-DB route: see incoming-route and ring-detail sheet."
+    },
+    {
+      "handle": "7DDD",
+      "before": "Supply continues to MS-O1 at meter location; incoming route on model / DB schematic.",
+      "after": "Full MS-O1-to-DB route: see incoming-route and ring-detail sheet."
+    },
+    {
+      "handle": "7BF0",
+      "before": "MS-O1 (ASSUMED)\\P63 A / 4C35 + CPC16",
+      "after": "PROPOSED MS-O1\\P63 A / 4C35 + CPC16"
+    },
+    {
+      "handle": "7BF3",
+      "before": "MS-O1 (ASSUMED)\\P63 A / 4C35 + CPC16",
+      "after": "PROPOSED MS-O1\\P63 A / 4C35 + CPC16"
+    },
+    {
+      "handle": "885F",
+      "before": "REV03 | 380/220 V, 3-phase 4-wire + PE | Single-line diagram, not to scale | Normal supply only",
+      "after": "REV04 | 380/220 V, 3-phase 4-wire + PE | Single-line diagram, not to scale | Normal supply only"
+    },
+    {
+      "handle": "86B6",
+      "before": "REV03 | F1 / Office 1 | Locator viewport 1:170; electrical detail not to scale",
+      "after": "REV04 | F1 / Office 1 | Locator viewport 1:170; electrical detail not to scale"
+    }
+  ],
+  "removed_delivery_arrow_segments": [
+    {
+      "handle": "83AA",
+      "start": [
+        11500.0,
+        14550.584,
+        0.0
+      ],
+      "end": [
+        11500.0,
+        15700.584,
+        0.0
+      ]
+    },
+    {
+      "handle": "83AB",
+      "start": [
+        11320.0,
+        15400.584,
+        0.0
+      ],
+      "end": [
+        11500.0,
+        15700.584,
+        0.0
+      ]
+    },
+    {
+      "handle": "83AC",
+      "start": [
+        11680.0,
+        15400.584,
+        0.0
+      ],
+      "end": [
+        11500.0,
+        15700.584,
+        0.0
+      ]
+    },
+    {
+      "handle": "83AD",
+      "start": [
+        15800.0,
+        14550.584,
+        0.0
+      ],
+      "end": [
+        15800.0,
+        15700.584,
+        0.0
+      ]
+    },
+    {
+      "handle": "83AE",
+      "start": [
+        15620.0,
+        15400.584,
+        0.0
+      ],
+      "end": [
+        15800.0,
+        15700.584,
+        0.0
+      ]
+    },
+    {
+      "handle": "83AF",
+      "start": [
+        15980.0,
+        15400.584,
+        0.0
+      ],
+      "end": [
+        15800.0,
+        15700.584,
+        0.0
+      ]
+    },
+    {
+      "handle": "83B0",
+      "start": [
+        19500.0,
+        14550.584,
+        0.0
+      ],
+      "end": [
+        19500.0,
+        15700.584,
+        0.0
+      ]
+    },
+    {
+      "handle": "83B1",
+      "start": [
+        19320.0,
+        15400.584,
+        0.0
+      ],
+      "end": [
+        19500.0,
+        15700.584,
+        0.0
+      ]
+    },
+    {
+      "handle": "83B2",
+      "start": [
+        19680.0,
+        15400.584,
+        0.0
+      ],
+      "end": [
+        19500.0,
+        15700.584,
+        0.0
+      ]
+    }
+  ],
+  "fan_airflow_arrows_preserved": true,
+  "door_arcs_preserved": true,
+  "clearance_boundaries_preserved": true
+}

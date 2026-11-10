@@ -1,0 +1,126 @@
+T
+he Hong Kong Polytechnic University
+Department of Building 
+Environment and Energy 
+Engineering
+BSE312
+4
+ 
+E
+lectricity and Buildings
+20
+2
+6
+/
+2
+7
+ Semester 1
+Assignment
+Students should form groups of 3 students. Each group is
+ responsible for 
+the electrical installation design for a build
+ing which consists of 10
+ 
+typical 
+office floors
+ and a ground floor for main entrance 
+lobby 
+and 
+M&E 
+plantrooms.
+ Each 
+typical 
+floor is assumed to have 
+three
+ tenant
+s
+ (Office 1, Office 2 and Office 3)
+.
+ 
+The
+ 
+a
+rchitectural 
+layout p
+lan for 
+ground floor
+ 
+and two layout plans for typical floor are given (one with false ceiling grid for lighting 
+layout plan
+ and the other one with furniture layout for power 
+layout plan
+)
+. 
+Each group is
+ required to complete the following tasks.
+Loading 
+e
+stimation and 
+t
+ransformer 
+r
+oom
+ location
+Estimate the building electrical load using 
+CLP COP215
+. 
+Propose the transformer room location 
+by drawing the transformer room and main LV switch
+ 
+room on the 
+ground floor 
+layout plan. 
+Present
+ justifications for 
+the proposed plant room location
+.
+ The total building cooling load is assumed to b
+e 1000
+ kW.
+ State all the assumptions.
+Layout 
+d
+rawings and MCB 
+b
+oard 
+schematics
+Choose ONE of the office tenants for doing the lighting layout and power layout design. You should assi
+gn circuitories to all lighting units, socket outlets, floor outlet boxes, fused spur units
+ and 
+any other fixed electrical 
+equipment
+. You should also
+ draw the MCB board schematics
+ for the distribution board(s) of the office
+. 
+Describe the 
+d
+esign considerations of circuit arrangement and protective device selection for small power and lighting layout
+. 
+State all the assumptions.
+Maximum 
+c
+urrent 
+d
+emand 
+c
+alculation and 
+c
+able 
+s
+izing
+Calculate
+ the maximum current dema
+nd and the corresponding cable size for
+ the incoming circuit to
+ the distribution board
+ of the 
+chosen
+ office tenant
+ and outgoing circuits as well
+.
+ 
+State all the assumptions.
+Each group should 
+finish the above three tasks by completing the answer sheets 
+and finishing the layout drawings. 

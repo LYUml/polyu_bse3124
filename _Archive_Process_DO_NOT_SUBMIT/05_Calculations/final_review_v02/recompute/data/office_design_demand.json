@@ -1,0 +1,43 @@
+{
+  "basis": "EMSD2025 Table7(1): small office lighting90%; code6E circuits largest100% plus others50%; fixed WH01 P7 at1400/220A without diversity",
+  "load_basis": "Individually13A fused point bounds: four rings26A each; P5/P8 radials13A each; P6 radial26A; P7 SHC10 GB heater 1400W at220V.",
+  "design_peak_A": 48.6,
+  "incoming_protective_candidate_A": 63,
+  "DB_busbar_minimum_design_A": 100,
+  "nondiversified_peak_A": 68.444444,
+  "phases": [
+    {
+      "phase": "L1",
+      "lighting_undiversified_A": 3.444444,
+      "socket_FCU_sum_A": 65.0,
+      "socket_diversified_A": 45.5,
+      "fixed_equipment_A": 0,
+      "design_demand_A": 48.6,
+      "undiversified_point_capacity_A": 68.444444
+    },
+    {
+      "phase": "L2",
+      "lighting_undiversified_A": 3.959596,
+      "socket_FCU_sum_A": 52.0,
+      "socket_diversified_A": 39.0,
+      "fixed_equipment_A": 0,
+      "design_demand_A": 42.563636,
+      "undiversified_point_capacity_A": 55.959596
+    },
+    {
+      "phase": "L3",
+      "lighting_undiversified_A": 3.989899,
+      "socket_FCU_sum_A": 39.0,
+      "socket_diversified_A": 32.5,
+      "fixed_equipment_A": 6.363636363636363,
+      "design_demand_A": 42.454545,
+      "undiversified_point_capacity_A": 49.353535
+    }
+  ],
+  "limitations": [
+    "63A source with 4C35mm2 + CPC16; see incoming_cable_results.json and fault_protection_summary.json",
+    "Only valid with all designed13A point FCUs installed; no unfused additions",
+    "P7: SHC10 GB Eltron235232; B10 and10A DP FCU",
+    "Maximum demand uses the adopted 13A assembly capacities and phase diversity"
+  ]
+}

@@ -109,7 +109,7 @@
     {
       "circuit_id": "P7",
       "phase": "L3",
-      "protective_A": "16",
+      "protective_A": "10",
       "cable_mm2": "4",
       "length_m": "13.107484",
       "paper_y": 67.5

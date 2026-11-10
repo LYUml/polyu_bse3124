@@ -1,0 +1,54 @@
+ComPacT NSX Circuit Breakers and Switch-Disconnectors
+100-630 A
+Insulated NSX Cord .......................................................................... 119
+SD Auxiliary Contact for BSCM Modbus SL/ULP Module .....................121
+Modbus SL Hub................................................................................123
+Specific Indication Auxiliaries with MicroLogic Trip Units............................125
+SDx Module......................................................................................126
+SDTAM Module (MicroLogic 2 M and 6 E-M).......................................129
+24 Vdc Power Supply Connector........................................................132
+PowerTag Energy M250/M630.................................................................133
+3P/4P Current Transformer Module With Voltage Output ...........................135
+ComPacT NSX Trip Units ......................................................................138
+Fault Currents and Trip Units...................................................................139
+Applications......................................................................................140
+Fault Currents in Electrical Distribution ...............................................141
+Protection Against Overcurrents in Electrical Distribution .....................142
+Protection Against Ground Faults.......................................................144
+Protection for Motor-Feeders .............................................................146
+TM-D, TM-G Thermal-Magnetic and MA Magnetic Trip Units .....................149
+Thermal-Magnetic Trip Unit Summary ................................................150
+TM-D Thermal-Magnetic Trip Unit for 1P and 2P Circuit
+Breakers ..........................................................................................153
+TM-D Thermal-Magnetic Trip Unit for 1P Circuit Breakers 250
+A .....................................................................................................154
+TM-D Thermal-Magnetic Trip Unit for 3P and 4P Circuit Breakers up
+to 63 A .............................................................................................155
+TM-D Thermal-Magnetic Trip Unit for 3P and 4P Circuit Breakers
+from 80 A to 250 A ............................................................................157
+TM-D Thermal-Magnetic Trip Unit for 3P and 4P Circuit Breakers
+from 400 A to 630 A ..........................................................................160
+TM-G Thermal-Magnetic Trip Unit .....................................................162
+MA Magnetic Trip Unit.......................................................................164
+Earth-Leakage Protection by VigiPacT Add-on..........................................166
+MicroLogic Electronic Trip Units...............................................................171
+Characteristics of MicroLogic Electronic Trip Units...............................172
+MicroLogic 2 Electronic Trip Units ......................................................179
+MicroLogic 4 Electronic Trip Units ......................................................183
+MicroLogic 1.3 M Electronic Trip Unit..................................................190
+MicroLogic 2 M Electronic Trip Unit ....................................................192
+MicroLogic 2 G Electronic Trip Unit.....................................................196
+MicroLogic 2 AB and 4 AB Electronic Trip Units...................................198
+Maintenance Interfaces for MicroLogic Trip Units..............................200
+MicroLogic Maintenance Interfaces..........................................................201
+Pocket Battery........................................................................................203
+Service Interface Connected to a PC........................................................205
+Stand-Alone USB Maintenance Interface..................................................207
+USB Maintenance Interface Connected to a PC........................................212
+ComPacT NSX Circuit Breakers Operation .......................................214
+Commissioning ......................................................................................215
+Maintaining the Circuit Breaker During Operation......................................222
+Responding to a Trip...............................................................................225
+Troubleshooting .....................................................................................228
+4
+DOCA0187EN-04

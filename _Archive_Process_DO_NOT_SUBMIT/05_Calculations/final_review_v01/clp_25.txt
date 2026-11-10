@@ -1,0 +1,105 @@
+Code of Practice No. 101 for Distribution Substation Design 
+Page 23 
+ 
+Version 16          
+ 
+ 
+ 
+December  2025
+ 
+ 
+Information Class: PROPRIETARY 專有 
+6. 
+VENTILATION DESIGN 
+ 
+ 
+6.1 
+Indoor substations housing transformers shall be adequately ventilated with a 
+fixed ventilation system to cope with the total heat dissipated at full load, with 
+a margin to provide for cyclic overloads.  
+ 
+ 
+6.2 
+The height of the ventilation outlet to free air should be 2.5m above footpath or 
+street level. The hot air outlet stream should be directed away from personnel 
+on the footpath nearby. 
+ 
+ 
+6.3 
+Effective inlet louvre area shall be a minimum of 1.12 sq.m for every 3000kVA 
+of installed transformer capacity. Calculation shall be provided to verify the 
+effective area of the proposed inlet louvre. The design shall obtain prior 
+agreement of CLP Power. 
+ 
+ 
+6.4 
+For each transformer at or above ground level with heat dissipation of about 
+15kW, a 630mm diameter fan and 0.65 sq.m air trunking/duct (maximum 9m 
+long) are required.  If the transformer is in a basement, 800mm fan and 0.85 
+sq.m trunking should be provided. Typical dimensions of the air trunking/duct: 
+ 
+ 
+ 
+Fan Diameter (mm) 
+Air Duct Dimensions (mm) 
+800 
+1200 x 800 /1400 x 600 (minimum) 
+630 
+800 x 800 / 1200 x 600 (minimum) 
+ 
+ 
+6.5 
+The air duct should be painted in grey colour with exhaust air direction labels 
+in black painted on the air duct. 
+ 
+ 
+6.6 
+The standard exhaust fans provided by CLP Power will be one of below types 
+or with equivalent performance:- 
+ 
+Diameter 
+(mm) / 
+Impeller 
+angle 
+RPM 
+Air Extraction 
+Rate 
+(Cu. m/hr.) 
+Static 
+Pressure 
+(N/m2) 
+Maximum 
+Noise 
+Level at 
+1m 
+800 / 20o 
+700 
+7,000 
+100 
+63 dB(A) 
+630 / 20o 
+700 
+3,500 
+70 
+56 dB(A) 
+630 / 30o 
+700 
+4,500 
+70 
+58 dB(A) 
+ 
+ 
+6.7 
+Where weatherproof louvres are adopted, calculation shall be provided to verify 
+that the exhaust fans to be adopted is suitable. The design shall obtain prior 
+agreement of CLP Power. 
+ 
+ 
+6.8 
+Where a long air duct (e.g. 20m) is required, axial flow type fan with ventilation 
+rate of 7000 cu.m/hour may be required in the middle of the air duct to 
+compensate the air pressure drop. This axial fan and associated fan control 
+panel, power supply switches shall be provided and maintained by the building 
+owner. Source of electrical power supply shall be from building owner’s / 
+customer’s essential power supply system. Detailed design of fan system 
+depends on the number of bends and site conditions. Building owner / customer 

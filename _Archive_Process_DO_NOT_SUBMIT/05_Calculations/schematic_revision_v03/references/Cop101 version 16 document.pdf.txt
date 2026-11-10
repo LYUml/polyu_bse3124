@@ -1,0 +1,4636 @@
+PAGE 1
+Information Class: PROPRIETARY 專有 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CODE OF PRACTICE 101 
+ 
+FOR 
+ 
+DISTRIBUTION SUBSTATION DESIGN 
+ 
+Version 16  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Issued By :  
+Asset Management Department 
+ 
+ 
+Asset Strategy Branch 
+ 
+Date of Issue : 31 December, 2025
+
+PAGE 2
+Code of Practice No. 101 for Distribution Substation Design 
+ 
+ 
+Version 16          
+ 
+ 
+ 
+Content -1
+ 
+ 
+Information Class: PROPRIETARY 專有 
+ 
+ 
+ 
+ 
+CODE OF PRACTICE 101 
+ 
+FOR 
+ 
+DISTRIBUTION SUBSTATION DESIGN 
+ 
+VERSION 16 
+ 
+CONTENTS  
+ 
+ 
+Page 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. 
+INTRODUCTION 
+1 
+ 
+2. 
+OBJECTIVES 
+1 
+ 
+3. 
+PROJECT MANAGEMENT 
+1 
+ 
+4. 
+ELECTRICAL EQUIPMENT IN DISTRIBUTION SUBSTATION 
+2 
+ 
+5. 
+ARCHITECTURAL/CIVIL DESIGN 
+6 
+ 
+6. 
+VENTILATION DESIGN  
+23 
+ 
+7. 
+LIGHTING DESIGN  
+ 
+25 
+ 
+8. 
+ELECTRICAL SERVICES DESIGN  
+26 
+ 
+9. 
+FIRE SERVICES DESIGN  
+28 
+ 
+10. 
+CUSTOMER MAIN SWITCHROOM DESIGN  
+32 
+ 
+11. 
+OUTDOOR SUBSTATION 
+36 
+ 
+12. 
+PROVISION, INSTALLATION AND MAINTENANCE OF BUILDING  
+38 
+ 
+WORKS AND ACCESSORIES IN DISTRIBUTION SUBSTATION 
+ 
+ 
+13. 
+DRAWINGS 
+43 
+ 
+ 
+APPENDIX 
+ 
+A. 
+Regional Boundary and Contact Details of CLP Power Hong Kong Limited 
+ 
+ 
+Note: COP 101 Version 16 is available on CLP Power web site. 
+ 
+ 
+
+PAGE 3
+Code of Practice No. 101 for Distribution Substation Design 
+Page 1 
+ 
+Version 16          
+ 
+ 
+ 
+December  2025
+ 
+ 
+Information Class: PROPRIETARY 專有 
+1. 
+INTRODUCTION 
+ 
+ 
+This Code of Practice provides the details of general principles to be applied to the 
+design of distribution substations, including substations located at ground floor, 
+basement, upper floor level (including at high level in high rise building) and outdoor 
+areas. For substations situated in a special environment, special designs may be adopted 
+subject to the approval by CLP Power. 
+ 
+ 
+2. 
+OBJECTIVES 
+ 
+ 
+The objectives of this Code of Practice are to ensure all distribution substations 
+provided by the customers or building owners are designed to the same standard, and 
+fully comply with the statutory requirements of Fire Services Department (FSD), 
+Buildings Department (BD) and those requirements of CLP Power.  
+ 
+ 
+Other than the above statutory requirements, this Code of Practice is to be read in 
+conjunction with other relevant Ordinances, Regulations and Codes of Practice 
+published by the Hong Kong SAR Government. In case there are discrepancies between 
+the requirements stipulated herein and the other Ordinances, Regulations and Codes of 
+Practice, the more stringent requirement shall prevail. 
+ 
+ 
+The requirements in this Code of Practice may be changed as new equipment becomes 
+available, new technologies are developed or because of new requirements from FSD, 
+BD or CLP Power. 
+ 
+ 
+3. 
+PROJECT MANAGEMENT 
+ 
+3.1 
+Acquisition of Substation Site 
+ 
+ 
+ 
+Bearing in mind the difficulties likely to be encountered in acquiring a 
+substation site once a development has been completed, careful consideration 
+must be given at the initial design stage whether or not to request for a substation 
+site. 
+ 
+ 
+3.2 
+Main Considerations 
+ 
+ 
+ 
+Considerations should be given to the following points when designing a 
+substation:- 
+ 
+ 
+ 
+3.2.1 
+Distribution substations shall be planned having in mind the future 
+loading and development of the area. 
+ 
+ 
+ 
+3.2.2 
+Many of the requirements are associated with the safety of the 
+operational personnel, the public and the equipment.  Priority shall be 
+given to safety. 
+ 
+ 
+
+PAGE 4
+Code of Practice No. 101 for Distribution Substation Design 
+Page 2 
+ 
+Version 16          
+ 
+ 
+ 
+December  2025
+ 
+ 
+Information Class: PROPRIETARY 專有 
+3.2.3 
+The maximum number and types of plant to be accommodated. 
+ 
+3.2.4 
+Personnel access and equipment access (including power cables). 
+ 
+ 
+3.3 
+Approval of Drawings 
+ 
+ 
+ 
+3.3.1 
+Substation layout plans prepared by the building owner / customer’s 
+agent (e.g. architects or consultants) shall be submitted for the 
+approval of the Principal Manager - Planning and Design of the 
+relevant Region of CLP Power. Regional boundary map in the 
+Appendix A shows the geographical demarcation and contacts of the 
+Regions in CLP Power supply area. 
+ 
+ 
+ 
+3.3.2 
+Standard (or typical) substation layout plans submitted by the Hong 
+Kong Housing Authority shall be approved by the Head of Asset 
+Strategy of the Asset Management Department, CLP Power. 
+ 
+ 
+ 
+3.3.3 
+The submitted drawings shall be in both hardcopy and softcopy 
+format. The softcopy shall be in .dwg format and compatible to 
+AutoCAD® 2007 version or later version accepted by CLP Power. 
+ 
+ 
+4. 
+ELECTRICAL EQUIPMENT IN DISTRIBUTION SUBSTATION 
+ 
+4.1 
+General Arrangement 
+ 
+ 
+4.1.1 
+Distribution substation mainly consists of high voltage equipment 
+including high voltage gas insulated switchgear (GIS) or air insulated 
+switchgear (AIS), distribution transformer and associated auxillary 
+equipment. Distribution substation can also be named as transformer 
+room where transformer(s) are installed. High voltage switchgear 
+room is for substation where only high voltage switchgear panels are 
+installed. 
+ 
+ 
+4.1.2 
+Substations shall normally be equipped with non-flammable silicone 
+fluid filled transformers or equivalent as a standard to avoid the need 
+for a fixed fire fighting installation for the substation.   
+ 
+ 
+4.1.3 
+CLP Power will also consider to adopt other non-standard transformer 
+(e.g. slim type transformer) by considering the site conditions and 
+location of the substation where transportation issue is encountered 
+subject to the approval by CLP Power.  
+ 
+ 
+4.1.4 
+For single development with only one transformer, the rating of 
+transformer will be limited up to 1.5MVA. 
+ 
+ 
+ 
+ 
+ 
+
+PAGE 5
+Code of Practice No. 101 for Distribution Substation Design 
+Page 3 
+ 
+Version 16          
+ 
+ 
+ 
+December  2025
+ 
+ 
+Information Class: PROPRIETARY 專有 
+4.2 
+Types of Electrical Equipment  
+ 
+ 
+ 
+4.2.1 
+A substation shall normally accommodate the following equipment. 
+ 
+HV switchgear  
+ 
+ 
+- This normally consists of the total number 
+of panels required for the particular project 
+plus one spare panel for future purpose. 
+ 
+ 
+ 
+Distribution 
+transformer 
+- One to three transformers as required. 
+ 
+ 
+ 
+LV board 
+- 
+ 
+- 
+ 
+One to two boards per substation with one 
+transformer. 
+One to two boards per substation with two 
+transformers.  
+ 
+- Two to three boards per substation with 
+three transformers. 
+ 
+LV capacitor bank 
+- One per transformer. 
+ 
+ 
+ 
+LV fuse cutout unit 
+- One per LV capacitor bank. 
+ 
+ 
+ 
+30V battery and 
+charger 
+-
+  
+One for 5 or less HV switchgear panels. 
+Two for more than 5 panels. 
+ 
+ 
+ 
+Pilot marshalling 
+box 
+ 
+ 
+ 
+- Two per substation. 
+ 
+ 
+ 
+Fibre optic 
+marshalling box 
+- Two per substation. 
+ 
+ 
+ 
+ 
+Remote terminal 
+unit 
+- Consists of Customer Remote Terminal 
+Unit (CRTU) and Low Voltage Remote 
+Terminal Unit (LRTU). One to two for 
+each type per substation. 
+ 
+ 
+ 
+HV Meter Board 
+-  One per substation for HV metering / 
+summation metering facilities 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4.2.2 
+The number of LV boards in a substation will normally be one to three 
+units. The LV boards will be connected to other substations by LV 
+cable interconnectors in order to improve the reliability of the LV 
+supply to customers. Principal Manager - Planning and Design will 
+determine the number of LV boards and LV cable interconnectors to 
+be installed for the substation. 
+ 
+ 
+4.2.3 
+The battery/charger unit, pilot marshalling box, fibre optic 
+marshalling box and remote terminal unit shall be wall-mounted. 
+
+PAGE 6
+Code of Practice No. 101 for Distribution Substation Design 
+Page 4 
+ 
+Version 16          
+ 
+ 
+ 
+December  2025
+ 
+ 
+Information Class: PROPRIETARY 專有 
+4.3 
+Equipment Dimensions, Weights and Operation Space 
+ 
+ 
+ 
+Due to the variety and continuous improvement of equipment in feature and 
+safety,  the type of equipment and hence its dimensions and weight may vary 
+from time to time. The substation layout is subject to the equipment being used. 
+ 
+ 
+ 
+In general, the minimum clearances and safe operating areas required around 
+the electrical equipment shall be : 
+ 
+HV switchgear  
+- 
+1000mm at the back of the panels. 
+ 
+- 
+1800mm in front of the panels.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+- 
+750mm on the other two sides of the 
+switchboard. 
+ 
+ 
+ 
+Distribution transformer 
+- 
+900mm around the LV terminals. 
+ 
+- 
+750mm on the other sides. 
+ 
+ 
+ 
+LV board 
+- 
+1000mm in front of the board.   
+ 
+- 
+750mm on the sides where cables turn in and 
+out. 
+ 
+- 
+The cable trench edge shall be 120mm from 
+wall. 
+ 
+- 
+Two wall mounted eye bolts with safety 
+loading of 1 ton shall be provided at 2.7m 
+above floor level. 
+ 
+LV capacitor bank 
+- 
+750mm in front and 200mm on two or rear 
+sides. 
+ 
+ 
+ 
+LV fuse cutout unit for 
+LV capacitor bank 
+- 
+1000mm in front of cutout. 
+ 
+ 
+ 
+Remote terminal unit 
+- 
+1000mm in front of the unit. Maximum 20m 
+wiring distance between LV board and CRTU 
+/ LRTU. 
+ 
+ 
+4.4 
+Foundations 
+ 
+ 
+ 
+4.4.1 
+The transformer foundation/plinth shall be capable of supporting a 
+minimum load of 9000kg. The minimum loading of the passage for 
+delivery of the transformer from the unloading point to the transformer 
+plinth shall be sufficient to support the transformer weight. Normally, 
+the transformer is supported by two metallic frames in form of 
+channels or inverted U-channels or four steel wheels which stand on 
+the transformer foundation/plinth. The plinth strength shall be 
+adequate to stand for the pressure imposed by transformer base 
+channels or wheels. 
+ 
+
+PAGE 7
+Code of Practice No. 101 for Distribution Substation Design 
+Page 5 
+ 
+Version 16          
+ 
+ 
+ 
+December  2025
+ 
+ 
+Information Class: PROPRIETARY 專有 
+ 
+ 
+4.4.2 
+In case there is requirement to maintain a low noise environment for 
+sensitive receivers under customer’s duty, the building owner/ 
+customer may adopt an option for constructing a transformer plinth 
+with vibration isolation pads, according to typical design provided in 
+drawing T-COP-10250-D-E33-0103-48. 
+ 
+ 
+ 
+4.4.3 
+The minimum dimensions of the transformer plinth should be 1.8m 
+long x 1.35m wide and level with finished floor level. Actual plinth 
+size is subject to the transformer rating and type. 
+ 
+ 
+ 
+4.4.4 
+The HV switchgear foundation shall be capable of supporting a 
+maximum static plus dynamic load of 17kN per panel. The minimum 
+cover between the finished floor level and the reinforcement bar of the 
+foundation shall be 80mm.  The floor surface shall be flat and within 
+a tolerance of 1mm in 1000mm. 
+ 
+ 
+4.5 
+Earthing Design for Electrical Equipment  
+ 
+4.5.1 
+Earthing design for the electrical equipment shall be in compliance 
+with CLP Power earthing standard. The designer or builder of the 
+distribution substation should coordinate with the Principal Manager - 
+Planning and Design of CLP Power for the provisions of earthing 
+installation.  
+ 
+4.5.2 
+For the connection of CLP Power earthing network outside the 
+distribution substation, the earthing bars which are provided and 
+installed by the building owner for the distribution substation shall be 
+extended to the first earthing draw-pit at the periphery of the premises 
+area. Earthing draw-pits and related pipe ducts should be provided 
+along the CLP Power supply cables within the private area managed 
+by the building owner / property manager. 
+ 
+4.5.3 
+For ground floor substation directly accessible to open space, a layer 
+of 150mm thick crushed rock shall be provided within a distance of 
+1500mm as sub-base material from the external wall of the substation. 
+For other substations, floor finishes within a distance of 1500mm 
+directly outside the substation entrance / exits shall follow the 
+requirement as stated in clause 5.1.12.  
+ 
+4.6 
+Equipment for Metering at High Voltage Supply 
+ 
+When metering of high voltage supply is used, additional space and building 
+provisions shall be required in the substation for accommodating the HV 
+metering equipment. The building owner shall agree with CLP Power to provide 
+enough space and provisions in the substation. 
+ 
+
+PAGE 8
+Code of Practice No. 101 for Distribution Substation Design 
+Page 6 
+ 
+Version 16          
+ 
+ 
+ 
+December  2025
+ 
+ 
+Information Class: PROPRIETARY 專有 
+5. 
+ARCHITECTURAL/CIVIL DESIGN 
+ 
+ 
+5.1 
+General Requirements 
+ 
+ 
+5.1.1 
+All substations shall comply with the Hong Kong Electricity 
+Ordinance (Cap. 406), the Hong Kong Buildings Ordinance (Cap. 
+123) and the “Fire Services Requirements for Consumer Substations 
+using Oil Filled Transformers and Switchgear in Buildings” (latest 
+version of NP 101), Part X of FSD Circular Letter no. 4/96, Part X.2 
+of FSD Circular Letter no. 5/98 and the related Codes of Practice on 
+Fire Services. 
+ 
+5.1.2 
+Substations shall be situated at the periphery of the building and be 
+accessible at all times. For substations on ground level, the access 
+route should be directly from open air (non-covered area). Such area 
+should be vertically uncovered and unobstructed. In case the periphery 
+is covered by the canopy of the building, the direct distance from the 
+entry of the substation to the non-covered area should not exceed 
+2.5m. The permanent access to the substation shall be of adequate 
+height, width and of sufficient strength to accommodate the size and 
+weight of both the transformer and the conveying vehicle. The 
+minimum width for plant delivery shall not be less than 3 meters taking 
+into consideration the size of the major electrical plant such as 
+transformers and switchgear being used, and the substations shall not 
+be located more than 20m away from the nearest loading/unloading 
+area. 
+ 
+5.1.3 
+For substation location exposing to the risk of flooding such as near 
+an inclined road, slope and sea front, or locating at low principal datum 
+(PD) level, less than 4.4mPD at Victoria Harbour or 5.5mPD at Tolo 
+Harbour, the following anti-flooding measures shall be considered to 
+prevent flooding of the substation:- 
+ 
+ 
+Description 
+Anti-Flooding Measures 
+New substation near inclined road, slope, sea 
+front or located below the level of public 
+street 
+Developer should change the 
+location of substation from 
+ground floor to upper floor or, 
+retain the ground floor location 
+with provision of one basement 
+level below the substation, 
+associate 
+drainage 
+system, 
+sump pump facilities and flood 
+gates subject to approval by 
+CLP Power. 
+New substation outside pavement level reach 
+4.4mPD at Victoria Harbour or 5.5mPD at 
+Tolo Harbour 
+Not required 
+ 
+ 
+ 
+
+PAGE 9
+Code of Practice No. 101 for Distribution Substation Design 
+Page 7 
+ 
+Version 16          
+ 
+ 
+ 
+December  2025
+ 
+ 
+Information Class: PROPRIETARY 專有 
+Description 
+Anti-Flooding Measures 
+New substation outside pavement  level reach 
+between 3.8 ~ 4.4mPD at Victoria Harbour or 
+4.9 ~ 5.5mPD at Tolo Harbour 
+Install sump pump and a high 
+water level detector  facilities 
+and flood gates. 600mm Flood 
+gates should be installed in 
+substation to prevent water 
+ingress from door or low level 
+louvre.  
+New substation outside pavement level below 
+3.8mPD at Victoria Harbour or 4.9mPD at 
+Tolo Harbour 
+Developer should raise the 
+substation floor level/change 
+the location of substation from 
+ground floor to upper floor 
+ 
+5.1.4 
+The layout shall be designed to be adequate for the lifetime of the 
+substation and the ultimate quantities of electrical equipment to be 
+installed such that any civil work in the substation can be avoided or 
+will be minimal when additional electrical equipment is necessary to 
+install. 
+ 
+ 
+5.1.5 
+The substation minimum clear headroom shall be: 
+ 
+• 
+3.3m above ground for substation without transformer. 
+ 
+• 
+3.6m above ground for substation with transformer and 
+630mm diameter exhaust fan. 
+ 
+• 
+3.8m above ground for substation with transformer and 
+800mm diameter exhaust fan. 
+ 
+The recommended maximum ceiling height is 4m but subject to the 
+required clearance of  lifting hoist on the ceiling if provided. 
+ 
+ 
+ 
+ 
+5.1.6 
+The substation ceiling and customer main switchroom ceiling shall be 
+of suitable waterproof construction to prevent water leakage. No water 
+pipe, drainage pipe or customer’s installation shall be located in the 
+substation or located in and passing through any part of and inside the 
+ceiling slab of the substation. Decorative structure / add-on material 
+applied on the ceiling surface of the substation will not be allowed. 
+ 
+5.1.7 
+To avoid water seepage / leakage into the substation from the floors 
+above the substation, double slab ceiling with waterproofing 
+construction and drainage system or equivalent design shall be 
+constructed by the building owner / customer of the substation. The 
+double slab ceiling or equivalent design shall first be agreed with CLP 
+Power and shall be approved by the Authorized Person (AP) (as 
+defined under the Buildings Ordinance) of the developer and/or the 
+building owner of the substation. 
+ 
+
+PAGE 10
+Code of Practice No. 101 for Distribution Substation Design 
+Page 8 
+ 
+Version 16          
+ 
+ 
+ 
+December  2025
+ 
+ 
+Information Class: PROPRIETARY 專有 
+5.1.7.1 
+The developer and / or the building owner of the substation 
+is recommended to follow the standard requirement of 
+double slab, which headroom of 1000mm under slab and 
+600mm underneath beam. However, in case the developer 
+has encountered specific site difficulties and with 
+substantiation provided such as: 
+ 
+1) site constraint; 
+2) height restriction;  
+3) tight construction programme. 
+ 
+ 
+The following alternative solutions will also be accepted by 
+CLP:- 
+ 
+i) 
+Transfer slab with minimum thickness of 1000mm; 
+ii) 
+minimum 600mm under slab  
+ 
+5.1.7.2 
+There shall be no left in timber formwork inside the void 
+after  casting the concrete to avoid breeding of organisms. 
+ 
+5.1.7.3 
+Other alternative arrangements proposed such as light 
+weight ceiling / non-structural double slab with water 
+proofing are required to be substantiated by the developer 
+with life time performance not worse than double slab design 
+for CLP consideration. 
+  
+5.1.8 
+No civil expansion joint shall be located in any part of the substation. 
+ 
+5.1.9 
+Not more than 3 transformers shall be accommodated within any one 
+transformer room. 
+ 
+5.1.10 
+Ground level substations should be at least 150mm higher than the 
+outside (pavement) level to reduce the risk of flooding. 
+ 
+5.1.11 
+Substation walls shall be made of reinforced concrete or concrete 
+block of BS 6073 Part A with a compressive strength of not less than 
+20N/mm2. The wall and the ceiling should be cement and sand 
+plastered. Two coats of liquid applied waterproofing coating and two 
+coats of light grey epoxy dustproof coating should be applied at 
+bottom 1500mm high of the wall. Above 1500mm height, the wall and 
+the ceiling should be finished with one coat of liquid prepolymer 
+sealing and two finishing coats of white acrylic resin based coating in 
+glossy finish. 
+ 
+5.1.12 
+The substation floor should be cement and sand rendered with 
+trowelled smooth finish and painted with one coat of polyurethane 
+sealer and two coats of grey epoxy dustproof coating, which dielectric 
+strength property shall not be less than 20kV/mm. The total thickness 
+of two coats of epoxy dustproof coating shall not be less than 1mm. 
+For the floor finish outside substation, sub-base material shall be 
+crushed rock with 150mm thickness.  
+
+PAGE 11
+Code of Practice No. 101 for Distribution Substation Design 
+Page 9 
+ 
+Version 16          
+ 
+ 
+ 
+December  2025
+ 
+ 
+Information Class: PROPRIETARY 專有 
+ 
+5.1.13 
+When single core cables are used for the connection between the 
+HV/LV transformer LV terminals and the customer’s switchgear, the 
+customer main switchroom should be immediately adjacent to, above 
+or below the substation.  Cable sealing to 2-hour fire resistance rating 
+(FRR) by ‘Multi-Cable Transit’ (MCT) system shall be used. 
+ 
+5.1.14 
+The openings for cable inlet shall be properly sealed by CLP Power so 
+as to prevent water ingress into the substation and be of 2-hour FRR 
+construction. The method of sealing shall be referred to CLP Power’s 
+duct sealing standard. 
+ 
+5.1.15 
+For laying of temporary supply cables from the substation, a 150mm 
+x150mm through wall opening at high level on the perimeter wall of 
+the substation shall be provided. The opening shall be sealed by 
+removable stainless steel cover with waterproof gasket. The cover 
+shall be fitted on both inside and outside of the substation. 
+ 
+5.1.16 
+All external steelwork shall be stainless steel of the low carbon type, 
+Grade 316L (Japanese SUS 316L or US AISI 316L). This 
+specification applies to all doors, door frames, louvres, rat guards, etc. 
+The stainless steel substation door should not be painted to avoid 
+maintenance due to aging of the painting. 
+ 
+5.1.17 
+Internal steelwork (air trunking hangers, chequer plate, etc.) should be 
+hot dip galvanised and finished with one coat of calcium plumbate or 
+zinc phosphate primer and two finishing coats of grey synthetic paint. 
+ 
+5.1.18 
+Adequate ventilation to open air by means of permanent installation 
+which is completely segregated from ventilation system of the main 
+building should be provided. 
+ 
+5.1.19 
+A recess for sump pump in the deepest cable trench shall be 
+constructed for placing the sump pump to extract water in the cable 
+trench when necessary.  
+ 
+5.1.20 
+No storage of transformer insulant or switchgear insulant is allowed in 
+the distribution substation or customer main switchroom. 
+ 
+5.1.21 
+The typical distribution substation layouts in this Code of Practice 
+should be used whenever possible. 
+ 
+5.1.22 
+Black/Yellow colour stripes shall be painted on the edge/step where 
+floor level change. 
+ 
+5.1.23 
+When stair is built for accessing the substation, handrailing shall be 
+installed along the stair and the stair nosing (the front edge of the stair 
+step) should use durable yellow colour tile or shall be painted by 
+durable yellow colour reflective paint. 
+ 
+
+PAGE 12
+Code of Practice No. 101 for Distribution Substation Design 
+Page 10 
+ 
+Version 16          
+ 
+ 
+ 
+December  2025
+ 
+ 
+Information Class: PROPRIETARY 專有 
+5.1.24 
+Adequate exit signage and emergency lights in compliance with the 
+relevant BD, FSD regulations shall be provided along the emergency 
+exit route of distribution substation. 
+ 
+5.1.25 
+For substation areas exposing to potential risk of falling, include but 
+not limit to cable riser room, side wall opening or floor opening in 
+upper floor substation, and ceiling opening in basement substation, 
+precautionary measures in accordance with the following hierarchy 
+shall be adopted in design stage :- 
+ 
+(i) 
+Areas with falling hazard shall be protected by engineering control 
+measure, such as permanent working platform, reinforced concrete 
+cover, stainless steel fencing with proper guardrails, side wall opening 
+with metallic gate/door/fencing etc. 
+ 
+(ii) 
+For access to areas as mentioned above where provision of 
+engineering control measure could not be maintained in working 
+stage, fall restraint system shall be provided. 
+ 
+(iii) 
+Fall restraint system consists of anchor point(s) which is capable of 
+supporting at least 600kg (6kN) per person per anchor point to control 
+or restrict the travel distance of person wearing a full body harness 
+attached to anchor point from reaching the nearest edge of falling 
+hazard. Fall restraint systems shall be positioned more than 2m from 
+the falling hazard/edge. Typically worker shall connect a lanyard with 
+fixed length of 1.8 metres to the anchor point(s) of the system. 
+ 
+(iv) 
+When provision of fall restraint system is not reasonably practicable, 
+fall arrest system shall be provided as the last resort. 
+ 
+ 
+5.2 
+Additional Requirements for Basement Substations 
+ 
+In general, basement substation would not be acceptable due to concerns of 
+flooding risk. Basement substations would only be considered under the 
+condition that there is no ground floor area available in the new development.  
+ 
+5.2.1 
+Basement substations shall be directly accessible from the open air at 
+ground level by a separate and independent staircase.  
+ 
+5.2.2  
+Multiple substations on the same floor and are in close proximity may 
+share one separate and independent staircase(s) leading to ground level 
+in lieu of one staircase for each substation. 
+ 
+5.2.3 
+When the staircase or access route from the exit of the basement 
+substation to ground floor is longer than 10m of travel, adequate 
+natural or mechanical ventilation installation shall be provided. (For 
+details, refer to the Section on Ventilation Design in this COP) 
+ 
+5.2.4 
+Basement substations should be located at maximum one level below 
+the ground floor to reduce the risk of flooding, and at the same level 
+
+PAGE 13
+Code of Practice No. 101 for Distribution Substation Design 
+Page 11 
+ 
+Version 16          
+ 
+ 
+ 
+December  2025
+ 
+ 
+Information Class: PROPRIETARY 專有 
+or above the customer main switchroom. Under the substation, there 
+should be at least one accessible basement floor where adequate 
+drainage system is installed to prevent flooding.  
+ 
+5.2.5 
+A protected lobby with self-closing doors fitted with panic bolt leading 
+to the adjacent communal area of the building shall be provided.  
+ 
+5.2.6 
+A vehicular access leading from street level to the substation should 
+be provided for equipment delivery. 
+ 
+5.2.7 
+Emergency exit route diagram shall be provided in the substation. 
+ 
+5.2.8   
+Subject to the configuration of the HV supply network, provision of a 
+HV switch room(s) on ground level will be required as a switching 
+substation for the HV cables supplying the building.  
+ 
+5.2.9 
+A fan room should be provided at ground level for accommodating the 
+ventilation fans for the substation. Access and adequate working space 
+shall be provided.  
+ 
+5.2.10 
+A suitable damp-proof course shall be provided on the outside of all 
+external walls which are below ground level to separate the substation 
+from unexcavated ground. 
+ 
+5.2.11 
+A sump pit with sump pump of minimum pumping capacity of 3 litres 
+per second and sufficient head and removable covers shall be 
+provided.  A high water level detector shall be fitted in the sump pit to 
+raise an alarm inside the substation and shall activate the substation 
+monitoring alarm system.  A drainage pipe with valve shall be 
+provided to drain water in the sump pit to the building drainage 
+system. 
+ 
+5.2.12 
+A change-over switch shall be provided for the sump pump so as to 
+operate from the customer’s supply when necessary. 
+ 
+5.2.13 
+Flooding alarm light shall be provided at each access point of the 
+basement substation. 
+ 
+5.2.14 
+An automatic and manual control for the sump pump start/stop shall 
+be provided. A normally open voltage free contact for the flooding 
+alarm is required for substation monitoring alarm system by 
+Distribution Automation. This alarm contact shall be provided in a 
+weatherproof enclosure to IP55 located in the substation. 
+ 
+5.2.15 
+Alternative access by a lift in the public area inside the building shall 
+be provided for operational and maintenance purpose. 
+ 
+ 
+
+PAGE 14
+Code of Practice No. 101 for Distribution Substation Design 
+Page 12 
+ 
+Version 16          
+ 
+ 
+ 
+December  2025
+ 
+ 
+Information Class: PROPRIETARY 專有 
+5.3 
+Additional Requirements for Upper Floor Substations (maximum fifth floor or 
+maximum 17m above ground level) 
+ 
+5.3.1 
+Upper floor substations should be located at the periphery of the 
+building.  Substations should be directly accessible by a separate and 
+independent staircase. 
+ 
+ 
+ 
+ 
+5.3.2 
+The access and exit route of the upper floor substation shall always 
+lead to the ground level of the building. Any lockable door, gate, 
+barrier along the route shall be avoided. 
+ 
+5.3.3 
+A protected lobby with self-closing doors fitted with panic bolt leading 
+to the adjacent communal area of the building shall be provided.  
+ 
+5.3.4 
+Clear, durable signage to indicate the location of the substation in the 
+building shall be displayed at suitable places to guide personnel to 
+access the substation. The layout of the signage shall be agreed by 
+CLP Power. Emergency exit route diagram shall be provided in the 
+substation. 
+ 
+5.3.5 
+Multiple substations on the same floor and are in close proximity may 
+share one separate and independent staircase(s) leading to ground 
+level in lieu of one staircase for each substation. 
+ 
+5.3.6 
+When the staircase or access route from the exit of the substation to 
+ground level is longer than 10m of travel, adequate natural or 
+mechanical ventilation installation shall be provided. (For details, 
+refer to the Section on Ventilation Design in this COP) 
+ 
+ 
+ 
+ 
+5.3.7 
+Equipment access can be from a public area inside the building: 
+(i) through a slab opening, or 
+(ii) 
+by a vehicular access 
+ 
+The loading and unloading area for the delivery of equipment in or out 
+of the substation should be within the building area where it is owned 
+or managed by the building owner. Using the public pavement or road 
+outside the substation as loading and unloading area should be 
+avoided. Access passage for equipment shall be at least 3m wide and 
+3m high. 
+ 
+5.3.8 
+In the case of equipment access through a floor opening, the opening 
+shall be provided with three sides R.C. wall of 2-hour FRR 
+construction. The wall opening shall be fitted with steel foldable door 
+of appropriated fire resistance rating in accordance with the relevant 
+statutory requirements. A protected lobby with double leaf door 
+should be provided if higher FRR construction is required from 
+relevant statutory requirements. Other facilities including foldable 
+gate and fall restraint system shall be provided. An I-beam together 
+with a wire type electrical hoist for lifting minimum 9000kg load in 
+the substation shall be provided and maintained by the building owner. 
+The building owner shall conduct point load test on the wire type 
+
+PAGE 15
+Code of Practice No. 101 for Distribution Substation Design 
+Page 13 
+ 
+Version 16          
+ 
+ 
+ 
+December  2025
+ 
+ 
+Information Class: PROPRIETARY 專有 
+electric hoist to prove the minimum 9000kg lifting point load under 
+normal operation. An emergency lowering device with handwheel 
+shall also be provided and operated at ground level. A speed limit 
+switch shall be equipped to control the movement of lifting object. The 
+clear height of the hoisting equipment to the substation floor shall be 
+minimum 3700mm under the hook.  
+ 
+5.3.9 
+A change-over switch shall be provided for the electric hoist to operate 
+from either the customer’s essential supply or the substation local 
+supply. 
+ 
+5.3.10 
+In case of equipment access via external wall opening through 
+retractable hoist beam within the building area, the vertical distance 
+between floor level of substation and the floor level of lifting plant 
+shall not be greater than 6m. The wall opening shall be fitted with steel 
+foldable door of appropriated fire resistance rating in accordance with 
+the relevant statutory requirements. Other facilities including foldable 
+gate, I-beam, electrical hoist and change-over switch shall be 
+provided. Fall restraint system shall be provided. 
+ 
+ 
+ 
+5.3.11 
+Subject to the configuration of the HV supply network, provision of a 
+HV switch room(s) on ground level will be required as a switching 
+substation for the HV cables supplying the building. 
+ 
+5.3.12 
+Independent cable riser rooms shall be provided solely for CLP  
+Power’s cables, constructed to 2-hour FRR and have access from a 
+public area within the building. More than one stack of cable riser 
+rooms shall be provided for multiple upper floor substations in the 
+building to fulfill supply security requirement. 
+ 
+5.3.13 
+Cable riser room access doors shall be 2-hour FRR. Inside the cable 
+riser room, opening on the floor and ceiling slabs shall be provided for 
+installation of cables. The opening shall be sealed up with 2-hour FRR 
+material by the building owner after installation of the cables. 
+ 
+ 
+ 
+5.3.14 
+Normally, the cable riser room height should not be greater than 4m. 
+Otherwise, adequate space shall be reserved inside the cable riser 
+room for the erection of working platform for working at high level 
+inside the room. 
+ 
+ 
+ 
+ 
+5.3.15 
+A lifting beam and trolley shall be provided at the highest or 
+intermediate cable riser room to facilitate cable installation. The 
+requirement of lifting load shall refer to the drawing T-COP-10250-
+D-E33-0101-20.  
+ 
+5.3.16 
+Hooks for fastening of independent lifeline should also be provided at 
+the ceiling of the highest cable riser room, and suitable locations when 
+the access to the lifting beam/trolley is more than 2m above floor. This 
+hook shall be with similar installation method as those haulage lug as 
+shown in drawing T-COP-10250-D-E33-0101-20. The safety loading 
+of each hook is 2 tons. 
+
+PAGE 16
+Code of Practice No. 101 for Distribution Substation Design 
+Page 14 
+ 
+Version 16          
+ 
+ 
+ 
+December  2025
+ 
+ 
+Information Class: PROPRIETARY 專有 
+ 
+ 
+5.3.17 
+Alternative access by a lift in the public area inside the building shall 
+be provided for operational and maintenance purpose. 
+ 
+ 
+ 
+5.4 
+Additional Requirements for High Level Substations (above fifth floor or 17m 
+above ground level) 
+ 
+ 
+ 
+ 
+5.4.1 
+The substations shall be located on the mechanical services plant floor 
+and at the periphery of the building. 
+ 
+ 
+ 
+5.4.2 
+When there is a refuge floor or another mechanical services plant floor 
+is directly above or below the level where the substation is located, an 
+independent staircase shall be provided in the substation to the refuge 
+floor or another mechanical services plant floor as an additional route 
+for emergency evacuation. 
+ 
+ 
+ 
+ 
+ 
+5.4.3 
+Multiple substations on the same floor and are in close proximity may 
+share a separate and independent staircase(s) leading to the refuge 
+floor or another mechanical services plant floor in lieu of one staircase 
+for each substation. 
+ 
+ 
+ 
+5.4.4  
+Subject to the configuration of the HV supply network, provision of a 
+HV switch room(s) on ground level will be required as a switching 
+substation for the HV cables supplying the building. 
+ 
+ 
+ 
+5.4.5 
+The access and exit routes of the high level substation shall always 
+lead to the ground level of the building. Any lockable door, gate, 
+barrier along the route shall be avoided. 
+ 
+ 
+ 
+5.4.6 
+The exit door(s) shall be opened to a protected lobby with self-closing 
+doors fitted with panic bolt leading to the adjacent communal area of 
+the building. 
+ 
+ 
+ 
+5.4.7 
+Clear, durable signage to indicate the location of the substation in the 
+building shall be displayed at suitable places to guide personnel to 
+access the substation. The layout of the signage shall be agreed by 
+CLP Power. Emergency exit route diagram shall be provided in the 
+substation. 
+ 
+ 
+ 
+5.4.8 
+Equipment access shall be by a lift in the public area inside the 
+building. The lift in the building shall be capable to carry the heaviest 
+equipment in the substation such as transformer. This lift shall be able 
+to change-over to the essential supply of the building when its normal 
+supply fails. The building owner shall conduct point load test on the 
+lift to prove the minimum 9000kg lifting point load under normal 
+operation. The lift designer should coordinate with the Principal 
+Manager - Planning and Design of CLP Power on the loading and 
+layout out requirement of the lift. 
+ 
+
+PAGE 17
+Code of Practice No. 101 for Distribution Substation Design 
+Page 15 
+ 
+Version 16          
+ 
+ 
+ 
+December  2025
+ 
+ 
+Information Class: PROPRIETARY 專有 
+Access passage for equipment shall be at least 3m wide and 3m high. 
+Bigger access may be required in case of special applications. 
+ 
+ 
+ 
+5.4.9 
+Independent cable riser room shall be provided solely for CLP 
+Power’s cables, constructed to 2-hour FRR and have access from a 
+public area within the building. More than one stack of cable riser 
+rooms shall be provided for multiple high level substations in the 
+building to fulfill supply security requirement. 
+ 
+ 
+ 
+5.4.10 
+Cable riser room access doors shall be 2-hour FRR. Inside the cable 
+riser room, opening on the floor and ceiling slabs shall be provided for 
+installation of cables. The opening shall be sealed up with 2-hour FRR 
+material by the building owner after installation of the cables. 
+ 
+ 
+ 
+5.4.11 
+Normally, the cable riser room height should not be greater than 4m. 
+Otherwise, permanent steel working platform with wire mesh floor of 
+live load not less than 0.75kPa and proper access shall be provided for 
+every 4m inside the cable riser room for cable laying work at high 
+level. 
+ 
+ 
+ 
+5.4.12 
+A lifting beam and trolley shall be provided at the highest level and 
+when required the intermediate floor level of the cable riser room to 
+facilitate cable installation. The lifting load shall be determined by the 
+weight of the heaviest cable at its full length. Detailed requirement is 
+shown in drawing T-COP-10250-D-E33-0101-20. 
+ 
+ 
+ 
+5.4.13 
+If the total height of cable riser is more than 30 metres, haulage lug 
+shall be installed on the ceiling of riser room(s) in the intermediate 
+levels such that the maximum distance between each 2 haulage lugs is 
+less than 30 metres. The safety loading of each haulage lug is 2 tons. 
+Installation method of haulage lug is shown in drawing T-COP-10250-
+D-E33-0101-20. 
+ 
+ 
+ 
+5.4.14 
+Hooks for fastening of independent lifeline should also be provided at 
+the ceiling of the highest cable riser room, and suitable locations when 
+the access to the lifting beam/trolley/haulage lug is more than 2m 
+above floor. This hook shall be with similar installation method as the 
+haulage lug. The safety loading of each hook is 2 tons. 
+ 
+ 
+ 
+5.4.15 
+Cable jointing room, 3m by 3m, constructed to 2-hour FRR on each 
+mechanical plant floor from the ground to the substation shall be 
+provided to allow future cable repair/replacement. 
+ 
+ 
+ 
+5.4.16 
+A cable unloading area next to the cable riser room on ground level 
+shall be provided for uncoiling the cable from the cable drum and 
+laying to the cable riser room. The space for this unloading area varies 
+for different cases, and shall be determined by CLP Power Planning 
+Engineer. 
+ 
+ 
+ 
+
+PAGE 18
+Code of Practice No. 101 for Distribution Substation Design 
+Page 16 
+ 
+Version 16          
+ 
+ 
+ 
+December  2025
+ 
+ 
+Information Class: PROPRIETARY 專有 
+ 
+5.5 
+Cable Trenches, Cable Ducts and Draw Pits 
+ 
+ 
+ 
+The cross-sectional areas of cable trenches shall not be reduced by ground 
+beams or other civil structures. Power cables of different voltages should be 
+segregated in different cable trenches. The invert level of  cable trenches at the 
+boundary of a substation should be 1050mm (if trench depth is 1200mm) below 
+pavement level.  If ground beams are present at the boundary of a substation, 
+the clearance under the beams shall be 500mm minimum. A recess inside the 
+cable trench should be constructed for placing the sump pump at the lowest level 
+of the trench. 
+ 
+ 
+The cable trench steel chequer plates shall be marked with numbers (left to right 
+and clockwise convention) to avoid being misplaced.  Proper supports such as 
+a removable angle iron should be provided at the bends and tee-points. 
+ 
+ 
+ 
+5.5.1 
+HV Cable Trenches 
+ 
+ 
+ 
+ 
+HV cable trenches shall be generally 1400mm deep. 
+ 
+ 
+ 
+ 
+5.5.1.1 
+1000mm wide for HV switchgear panels; 
+ 
+ 
+ 
+ 
+5.5.1.2 
+600mm wide for HV cables from HV switchgear to 
+transformers; the final section which leads to the 
+transformer HV terminal could be 300mm wide. 
+ 
+ 
+ 
+5.5.2 
+LV Cable Trenches 
+ 
+ 
+ 
+ 
+5.5.2.1 
+LV cable trenches should generally be 800mm wide x 
+1100mm deep. 
+ 
+ 
+ 
+ 
+5.5.2.2 
+Trench for LV single core cables from the transformers to 
+customer main switchroom should be 1000mm wide x 
+1100mm deep for 4 MCT's. The maximum length of LV 
+cables is limited to 20m. 
+ 
+ 
+ 
+5.5.3 
+Pilot Cable Trench 
+ 
+ 
+ 
+ 
+A short trench 400mm wide x 1100mm deep should be extended to 
+where the pilot cable marshalling boxes are installed. 
+ 
+ 
+ 
+5.5.4 
+Trenches, Cable Ducts and Draw Pits Construction 
+ 
+ 
+ 
+ 
+5.5.4.1 
+Except cable trenches inside the substation, all cable 
+trenches, cable ducts and draw pits outside the substation 
+are required to fully fill up with sand, sifted soil or sand bags 
+at all times after cabling by CLP Power is completed.  
+ 
+ 
+ 
+ 
+5.5.4.2 
+All trenches shall be covered with 5mm thick steel chequer 
+plates.  In case of a suspended trench, the trench walls shall 
+be constructed to 2-hour FRR. All junctions of trenches 
+shall be chamfered to 150mm x 150mm. 
+
+PAGE 19
+Code of Practice No. 101 for Distribution Substation Design 
+Page 17 
+ 
+Version 16          
+ 
+ 
+ 
+December  2025
+ 
+ 
+Information Class: PROPRIETARY 專有 
+ 
+ 
+ 
+ 
+5.5.4.3 
+Both sides of the cable trench under the HV switchgear shall 
+be of dense concrete construction to a minimum width of 
+200mm for switchgear support. 
+ 
+ 
+ 
+ 
+5.5.4.4 
+Design of cable trough for inclined surface shall be in 
+compliance with CLP standard. Details refer to CLP 
+Drawing ‘Typical Cable Trough in Slope T-GEN-25500-D-
+E33-0226-01’ when required. 
+ 
+ 
+                          5.5.4.5 
+Cable accommodations (e.g. cable ducts and draw pits, 
+cable trough, or cable riser) between different substations 
+shall be provided within development to fulfill supply 
+security requirement. 
+ 
+ 
+ 
+ 
+ 
+ 
+5.5.5 
+Trench Outlet 
+ 
+ 
+ 
+ 
+5.5.5.1 
+All trench outlets should have the same or larger width as 
+the trench and 150mm  diameter  G.I.  sleeves / UPVC ducts  
+shall  be  provided. 
+ 
+ 
+ 
+ 
+5.5.5.2 
+For basement and upper floor substations, adequate number 
+of MCT holes should be provided for incoming power 
+cables and pilot cables, taking into account the number of 
+HV panels in the substation. 
+ 
+ 
+5.6 
+Doors 
+ 
+ 
+ 
+Substation doors shall be made of stainless steel. Substation which have doors 
+open over a street, the doors shall be built such that when they are fully opened, 
+which will not cause an obstruction to any person or vehicle using the street. 
+For typical substation design, the door should be able to open outwards into an 
+unobstructed space with a 180° swing.  
+ 
+(i) 
+The following notice plate shall be installed by CLP Power: 
+ 
+ 
+ 
+• ‘DANGER’ 
+• Wear safety helmet 
+• Substation nameplate 
+• SF6 gas-filled equipment warning plate for substations with SF6 equipment 
+installed 
+ 
+(ii) 
+Fixed Fire Fighting Installation Notice plate shall be provided by the building 
+owner / customer when required. 
+ 
+(iii) 
+25mm diameter galvanised steel eye bolts should be installed on internal wall 
+on both sides of all doors at 1m above the floor for hanging a temporary caution 
+
+PAGE 20
+Code of Practice No. 101 for Distribution Substation Design 
+Page 18 
+ 
+Version 16          
+ 
+ 
+ 
+December  2025
+ 
+ 
+Information Class: PROPRIETARY 專有 
+notice.  A stainless steel box shall also be provided to store a 3m long red / white 
+plastic chain (Box dimension : 125mm length x 125mm wide x 125mm high). 
+ 
+ 
+ 
+5.6.1 
+Type of Door 
+ 
+ 
+ 
+ 
+5.6.1.1 
+Double leaf door shall be normally 2600mm wide and 
+2800mm high for transformer access. Actual door size is 
+subject to the transformer rating and type. In all case the  
+2600mm wide clearance should be maintained after the 
+doors are opened. Otherwise the width of the door should 
+be adjusted to maintain the minimum clearance for plant 
+delivery through substation door.  
+ 
+ 
+ 
+ 
+ 
+ 
+A 700mm wide x 2100mm high wicket door with handles 
+shall be provided in one leaf for personnel access.  Drawings 
+No. T-COP-10250-D-E33-0103-16 and T-COP-10250-D-
+E33-0103-17 show the details of this type of door. 
+ 
+ 
+ 
+ 
+5.6.1.2 
+Double leaf door 1500mm wide x 2800mm high shall be 
+provided for HV switchgear and personnel access.  Actual 
+door size is subject to the switchgear rating and type. 
+Drawing No. T-COP-10250-D-E33-0103-20 shows this 
+type of door. 
+ 
+ 
+ 
+ 
+5.6.1.3 
+Single door 930mm wide x 2100mm high with handles shall 
+be provided for personnel access and exit.  Drawing No. T-
+COP-10250-D-E33-0103-14 shows this type of door. 
+ 
+5.6.1.4 
+Single leaf door for personnel access opening to a staircase 
+or exit route shall be self-closing. 
+ 
+ 
+ 
+ 
+5.6.1.5 
+For doors which required fire resistance rating (FRR) such 
+as 2-hour in terms of integrity (and insulation when 
+necessary) shall comply with the relevant requirements of 
+the Buildings and Fire Services Regulations such as the 
+Code of Practice for Fire Safety in Building 2011 and latest 
+corrigenda by Buildings Department and shall have relevant 
+approval certificates / documents accepted by Building 
+Department. Where FRR is required for external door by the 
+government bodies or the building owner, the FRR external 
+door should be designed to resist wind force. The design 
+shall be agreed by CLP Power if it is deviated from our 
+standard drawings.  (Note: the drawings in this Code of 
+Practice are only indicative in terms of door design, 
+dimensions, wickets, etc.).  
+      
+ 
+ 
+5.6.2 
+Lock 
+ 
+ 
+ 
+ 
+5.6.2.1 
+A substation shall have only one designated personnel 
+access door and this door shall be fitted with an emergency 
+exit deadlock set with panic bar and flush key hole. 
+
+PAGE 21
+Code of Practice No. 101 for Distribution Substation Design 
+Page 19 
+ 
+Version 16          
+ 
+ 
+ 
+December  2025
+ 
+ 
+Information Class: PROPRIETARY 專有 
+ 
+ 
+ 
+ 
+5.6.2.2 
+A second, or emergency exit door should be provided for 
+substations longer than 10m (possibly a wicket door in a 
+double leaf door).  Such an emergency exit will be provided 
+with a panic bar which will operate top and bottom bolts of 
+the door, without key. 
+ 
+ 
+ 
+ 
+5.6.2.3 
+In case of a double leaf switchgear access door an 
+emergency exit deadlock set with panic bar will operate one 
+leaf of the door if this is the only access. 
+ 
+ 
+ 
+ 
+5.6.2.4 
+Main double leaf transformer access doors will lock by top 
+and bottom bolts inside the substation. 
+ 
+ 
+ 
+5.6.3 
+Controlled Access 
+ 
+ 
+ 
+ 
+The access need to be controlled to ensure that only authorized staff, 
+contractors and visitors pass through by means of access control and 
+intruder detection system. Metallic conduit system for access control 
+should be provided from each access door to the pilot marshalling box. 
+Detail refer to drawing T-COP-72000-D-E33-0103-23-A-A. 
+ 
+ 
+5.7 
+Substation Name 
+ 
+ 
+ 
+The following principles shall be followed when naming distribution 
+substations :- 
+ 
+(i) 
+Building name, or 
+(ii) Street and street number, or 
+(iii) Village name, or 
+(iv) The generally accepted location name. 
+ 
+The substation name shall not be more than 25 characters and the above shall 
+be in both English and Chinese. 
+ 
+ 
+5.8 
+Vermin Proofing 
+ 
+ 
+ 
+5.8.1 
+Some distribution substations are located in buildings with a dusty, 
+damp and vermin infested environment.  Vermin are usually small 
+animals such as rats, lizards and birds, etc. and insects are cockroaches 
+and flies, etc.  To avoid problems of hygiene, corrosion and risk of 
+insulation breakdown inside the electrical equipment caused by the 
+vermin, vermin proofing is normally achieved by a combination of 
+means.  The substation building itself will act as the first line of 
+defense while the electrical equipment design will act as the second. 
+ 
+ 
+ 
+5.8.2 
+In case of indoor substations, the first line of defense shall be by means 
+of : 
+ Substation walls 
+
+PAGE 22
+Code of Practice No. 101 for Distribution Substation Design 
+Page 20 
+ 
+Version 16          
+ 
+ 
+ 
+December  2025
+ 
+ 
+Information Class: PROPRIETARY 專有 
+ Doors 
+ Rat guards at ventilation louvres and grills 
+ Sealing of cable trench openings 
+ 
+ 
+ 
+5.8.3 
+Electrical equipment in substations is designed to different degrees of 
+protection according to IEC 60529. Typical HV switchgear is designed 
+to IP4X while the LV boards are to IP2X. Therefore, the substation 
+design shall provide an effective vermin proofing means as the first 
+line of defense to protect the equipment. 
+ 
+ 
+ 
+5.8.4 
+In case of outdoor substations, vermin proofing mainly depends on the 
+electrical equipment itself. 
+ 
+ 
+ 
+ 
+5.9 
+Stainless Steel for Substation External Steelwork 
+ 
+ 
+ 
+5.9.1 
+Material used shall be Grade 316L stainless steel.  This is a nickel-
+chromium steel containing molybdenum and a small amount of 
+carbon.  This steel is well suited to external applications particularly 
+coastal areas. 
+ 
+ 
+ 
+5.9.2 
+The Japanese standard for this steel is SUS 316L. The American 
+equivalent is AISI 316L. 
+ 
+ 
+ 
+5.9.3 
+The following notes relate to all external steelwork and in particular 
+the doors :- 
+ 
+(i) 
+The hinges of each door leaf must be designed and constructed to 
+withstand the weight of the door plus 50kg and be not less than four in 
+number per leaf. 
+ 
+(ii) 
+Welding treatment must be suitable for Grade 316L stainless steel and 
+must not create weak spots at the weld.  After welding, the weld 
+surface must be brushed clean to remove all welding flux and surface 
+dirt.  The surface shall then be solvent cleaned to remove all residual 
+dirt and grease. 
+ 
+(iii) 
+The doors and other external steelwork shall be covered with plastic 
+sheets at the time of installation and such plastic sheets shall not be 
+removed until the building construction work is completed. 
+ 
+ 
+ 
+5.9.4 
+In order to measure the operational performance of a newly 
+constructed substation door, metal foldable door and gate for 
+substation, door pulling test with force measurement device shall be 
+carried out to measure the manual operational force of the constructed 
+foldable door and gate. The pulling force should not be larger than 
+120N or 12 kg.  
+ 
+ 
+
+PAGE 23
+Code of Practice No. 101 for Distribution Substation Design 
+Page 21 
+ 
+Version 16          
+ 
+ 
+ 
+December  2025
+ 
+ 
+Information Class: PROPRIETARY 專有 
+5.10 
+Requirements of Substation External Decorative Louvre and Louvre Door 
+ 
+ 
+5.10.1  Generally, no external decorative louvre / louvre door should be 
+installed, affixed or attached outside the distribution substation. For 
+special circumstances, the building owner should obtain prior 
+agreement of CLP Power if they wish to add such decoration.  
+ 
+5.10.2 
+Moreover, under such special circumstances, the external decorative 
+louvre and louvre door shall meet all statutory requirements but not 
+limited to: 
+ 
+(i) 
+Decorative louvre / louvre door shall not obstruct the access of any 
+person, operation and transport of equipment/facilities in and out of 
+the substation, nor shall such decorative louvers/ louvre door(s) cause 
+any undue delay. The decorative louvre / louvre door should be 
+designed for easy operation by single person without the need of 
+additional tool for assistance and the pulling force should not exceed 
+120N or 12 kg for real time access of any person. The  building owner 
+shall conduct load test on the decorative louvre / louvre door to prove 
+the maximum 120N or 12 kg pulling force under normal operation. 
+The design shall obtain prior agreement of CLP Power. 
+ 
+(ii) 
+CLP substation exit doors with panic bar installed shall be always free 
+from any possible obstruction to allow for emergency escape. 
+Adequate space shall be allowed such that the exit door should be able 
+to open outwards into an unobstructed space with 180 degree swing. 
+ 
+(iii) 
+External decorative louvre / louvre door should not be fixed directly 
+or indirectly onto substation stainless steel doors and ventilation 
+louvres. 
+ 
+(iv) 
+The weight and the fixing method of the external decorative louvre / 
+louvre door shall be certified by the Authorized Person representing 
+the building owner / customer to ensure that it will not impose hazard 
+to our operation staff and the general public for safety and smooth 
+operation of the door(s). The Authorized Person should also submit 
+this design to the relevant authorities for approval according to 
+relevant statutory regulation. 
+ 
+(v) 
+The external decorative louvre / louvre door shall not affect the 
+substation ventilation. 
+ 
+(vi) 
+The decorative louvre / louvre door shall provide fitting provisions for 
+installing the substation nameplate, danger warning notice etc. and 
+shall not affect the display of the substation nameplate and notice 
+plates.  
+ 
+(vii) 
+The building owner/management company / customer shall be the 
+owner of the external decorative louvre / louvre door and responsible 
+for the maintenance of the decorative louvre / louvre door. Annual 
+
+PAGE 24
+Code of Practice No. 101 for Distribution Substation Design 
+Page 22 
+ 
+Version 16          
+ 
+ 
+ 
+December  2025
+ 
+ 
+Information Class: PROPRIETARY 專有 
+inspection of the louver should be carried out by a competent person 
+to confirm its safety. 
+ 
+(viii) 
+The external decorative louvre / louvre door shall be fabricated with 
+stainless steel or aluminium plate with minimum 3mm thick,  or other 
+fire retardant and corrosion resistant materials to the satisfaction of 
+CLP Power. All coatings for the proposed decorative louvre / louvre 
+door shall be fire retardant and fire resistant non-toxic paint. 
+  
+ 
+5.11 
+Requirements for Vehicular Access 
+ 
+ 
+In general, the minimum requirements for vehicular access shall be : 
+ 
+Lorry dimension  
+Lorry with rigger fully extended  
+ 
+11.5m (L) x 2.7m(W) 
+11.5m (L) x 9m(W) 
+Turning radius of vehicular 
+10m 
+Headroom for loaded lorry movement
+ 
+ 
+ 
+ 
+4.6m 
+Headroom for unloading area 
+6.2m 
+Weight for loaded lorry 
+38000 kg 
+Weight for fluid filled type transformer 
+9000 kg 
+Plant delivery access 
+3m (W) x 3m (H) 
+ 
+ 
+5.12 
+Plant Delivery 
+ 
+5.12.1 
+The maximum allowable gradient of ramp for plant delivery shall be 
+in a ratio of 1:12. Level difference between floor inside substation and 
+public pavement should not be greater than 400mm wherever 
+practical. A landing area of 3m x 3m shall be provided if the horizontal 
+length of the ramp exceeds 20m.   
+ 
+5.12.2 
+If there is a ramp at the plant delivery route, a structural steel haulage 
+lug, 20mm diameter mild steel bar with minimum internal radius 
+80mm, fixing to the external wall structural element with 5000kg 
+horizontal load capacity at the end of a delivery access ramp shall be 
+provided and maintained by the building owner. Appropriate safe load 
+test (horizontal load) certificate by an accredited testing laboratory, 
+and shop drawing with structural calculation shall be submitted to 
+confirm its safety. 
+ 
+
+PAGE 25
+Code of Practice No. 101 for Distribution Substation Design 
+Page 23 
+ 
+Version 16          
+ 
+ 
+ 
+December  2025
+ 
+ 
+Information Class: PROPRIETARY 專有 
+6. 
+VENTILATION DESIGN 
+ 
+ 
+6.1 
+Indoor substations housing transformers shall be adequately ventilated with a 
+fixed ventilation system to cope with the total heat dissipated at full load, with 
+a margin to provide for cyclic overloads.  
+ 
+ 
+6.2 
+The height of the ventilation outlet to free air should be 2.5m above footpath or 
+street level. The hot air outlet stream should be directed away from personnel 
+on the footpath nearby. 
+ 
+ 
+6.3 
+Effective inlet louvre area shall be a minimum of 1.12 sq.m for every 3000kVA 
+of installed transformer capacity. Calculation shall be provided to verify the 
+effective area of the proposed inlet louvre. The design shall obtain prior 
+agreement of CLP Power. 
+ 
+ 
+6.4 
+For each transformer at or above ground level with heat dissipation of about 
+15kW, a 630mm diameter fan and 0.65 sq.m air trunking/duct (maximum 9m 
+long) are required.  If the transformer is in a basement, 800mm fan and 0.85 
+sq.m trunking should be provided. Typical dimensions of the air trunking/duct: 
+ 
+ 
+ 
+Fan Diameter (mm) 
+Air Duct Dimensions (mm) 
+800 
+1200 x 800 /1400 x 600 (minimum) 
+630 
+800 x 800 / 1200 x 600 (minimum) 
+ 
+ 
+6.5 
+The air duct should be painted in grey colour with exhaust air direction labels 
+in black painted on the air duct. 
+ 
+ 
+6.6 
+The standard exhaust fans provided by CLP Power will be one of below types 
+or with equivalent performance:- 
+ 
+Diameter 
+(mm) / 
+Impeller 
+angle 
+RPM 
+Air Extraction 
+Rate 
+(Cu. m/hr.) 
+Static 
+Pressure 
+(N/m2) 
+Maximum 
+Noise 
+Level at 
+1m 
+800 / 20o 
+700 
+7,000 
+100 
+63 dB(A) 
+630 / 20o 
+700 
+3,500 
+70 
+56 dB(A) 
+630 / 30o 
+700 
+4,500 
+70 
+58 dB(A) 
+ 
+ 
+6.7 
+Where weatherproof louvres are adopted, calculation shall be provided to verify 
+that the exhaust fans to be adopted is suitable. The design shall obtain prior 
+agreement of CLP Power. 
+ 
+ 
+6.8 
+Where a long air duct (e.g. 20m) is required, axial flow type fan with ventilation 
+rate of 7000 cu.m/hour may be required in the middle of the air duct to 
+compensate the air pressure drop. This axial fan and associated fan control 
+panel, power supply switches shall be provided and maintained by the building 
+owner. Source of electrical power supply shall be from building owner’s / 
+customer’s essential power supply system. Detailed design of fan system 
+depends on the number of bends and site conditions. Building owner / customer 
+
+PAGE 26
+Code of Practice No. 101 for Distribution Substation Design 
+Page 24 
+ 
+Version 16          
+ 
+ 
+ 
+December  2025
+ 
+ 
+Information Class: PROPRIETARY 專有 
+shall add all necessary acoustic treatment to the axial flow type fan in case the 
+noise level of the selected fan itself exceed the specified upper limit.  
+ 
+ 
+6.9 
+The exhaust fan should be controlled by a temperature sensing device to avoid 
+unnecessary operation.  
+ 
+ 
+ 
+ 
+ 
+6.10 
+Exhaust fan in fan room, which is controlled by the fan control panel located in 
+the substation, shall be fitted with emergency stop push button next to the 
+exhaust fan.  
+ 
+ 
+ 
+ 
+6.11 
+The inlet and exhaust fans, if installed, shall be switched on simultaneously. 
+ 
+ 
+6.12 
+The ventilation air duct shall be constructed with the minimum number of bends 
+and in such a way as to efficiently remove hot air from each transformer. 
+ 
+ 
+6.13 
+The inlet louvres and extraction trunking shall be so designed as to ensure the 
+passage of air across the transformer, and eliminate any possible ‘short circuit’ 
+of the air flow. 
+ 
+ 
+ 
+ 
+6.14 
+Markings should be provided on the air duct to identify the fresh air, exhaust air 
+ducts and the direction of air flow.  
+ 
+ 
+6.15 
+When air exhausting from the air outlet louvre beneath a canopy may be 
+accumulated under the canopy, an air duct not exceeding 2.5 m in straight length 
+shall be provided to direct the exhausted air to open air. For longer air duct, the 
+building owner / customer shall provide suitable ventilation fan to replace the 
+standard fan which is provided by CLP Power and fire resistance air duct if 
+applicable. 
+ 
+ 
+6.16 
+The building owner shall formally prove that the exhausted air will not be 
+trapped underneath the canopy if an extension of air duct beneath the canopy 
+connecting the exhaust air outlet louvre to direct the exhausted air to open air 
+cannot be provided subject to the agreement of CLP Power. 
+ 
+ 
+6.17 
+Where possible the air duct intake associated with the transformer should be 
+positioned such that the wire mesh at the intake mouth can be cleaned with the 
+transformer energised, without endangering the person carrying out the work. 
+ 
+ 
+6.18 
+Indoor substations housing HV switchgear normally have ventilation louvres 
+only, but a mechanical ventilation system should be provided for a large HV 
+switchroom when more than five HV switchgear panels or the length of the 
+switchroom is more than 7.5m from the peripheral wall. Normally, the 
+substation layout should be designed to use the standard exhaust fans which are 
+provided by CLP Power. 
+ 
+ 
+6.19 
+All linings for acoustic and thermal insulation purposes in ductings and 
+concealed locations shall be of Class 1 or 2 Rate of Surface Spread of Flame as 
+per British Standard 476: Part 7 or its international equivalent, or be brought up 
+to that standard by use of an approved fire retardant product according to the 
+requirement of Fire Services Department. 
+ 
+
+PAGE 27
+Code of Practice No. 101 for Distribution Substation Design 
+Page 25 
+ 
+Version 16          
+ 
+ 
+ 
+December  2025
+ 
+ 
+Information Class: PROPRIETARY 專有 
+ 
+6.20 
+The air duct should not pass through public areas.  If this cannot be avoided, the 
+air duct shall be of 2-hour FRR and equipped with facility for maintenance. 
+ 
+  
+ 
+6.21 
+Air duct passing through any floor, wall or ceiling shall be fitted with fire 
+damper operated by fusible links, or fire damper can be omitted when fire 
+resistance air duct is used e.g. Durasteel  in accordance with the regulations.  
+ 
+ 
+6.22 
+The noise level measured from the substation, in condition that  the ventilation 
+system is in operation, shall comply with the requirement of the Noise Control 
+Ordinance. The building owner / customer shall be responsible for further 
+improvement on noise reduction when more stringent noise requirement for the 
+site is raised by other parties like the residents. 
+ 
+ 
+6.23 
+A hoisting hook / eye bolt to withstand 100kg shall be provided at the ceiling 
+next to the removable panel of the air trunking, or above the fan, to facilitate fan 
+replacement. Safe Working Load (SWL) marking shall be displayed next to the 
+hook. 
+ 
+ 
+6.24 
+For substation situated in the basement or upper floor and the access to the 
+substation have to go through enclosed corridor or staircase, mechanical 
+ventilation to supply fresh air and with manual control to the corridor or 
+staircase shall be provided by the building owner / customer. The minimum 
+ventilation rate shall not be less than 5 air changes per hour. 
+ 
+ 
+ 
+7. 
+LIGHTING DESIGN 
+ 
+ 
+7.1 
+Illumination inside the substation should be average 160 lux measured on the 
+floor for general areas and minimum average 400 lux on the vertical surface of 
+the meters and switches. 
+ 
+ 
+7.2 
+The adjacent lighting fittings should be fed from different circuits of the 
+distribution board such that illumination in part of the distribution substation 
+will not be totally lost when one lighting circuit is tripped. 
+ 
+ 
+7.3 
+Twin light tube batten fittings of nominal length 1.2m fitting with T8 LED 
+standard tube with G5 or G13 bi-pin cap base should be used. The fluorescent 
+lighting fittings shall be fixed on the wall or suspended from the ceiling at 2.1m 
+above floor level or suspended from the ceiling at 2.8m above floor along plant 
+delivery route to provide adequate illumination in the working area. 
+ 
+ 
+ 
+7.4 
+Battery operated fixed fluorescent lighting shall be provided to enable a safe 
+exit in the event of loss of power supply.  
+ 
+7.5 
+The emergency lighting should operate for not less than 2 hours. The batteries 
+should be charged from the substation local supply. 
+ 
+7.6 
+Exit sign shall be provided inside the substation. Except ground floor substation 
+with exit door opened directly to public area outside the building boundary. 
+ 
+
+PAGE 28
+Code of Practice No. 101 for Distribution Substation Design 
+Page 26 
+ 
+Version 16          
+ 
+ 
+ 
+December  2025
+ 
+ 
+Information Class: PROPRIETARY 專有 
+7.7 
+Adequate exit signage and emergency lights in compliance with the relevant 
+BD, FSD regulations shall be provided along the emergency exit route of HV 
+distribution substation / transformer room. 
+ 
+ 
+ 8. 
+ELECTRICAL SERVICES DESIGN 
+ 
+ 
+The distribution board, and the electrical wiring for substation lighting and power 
+(power socket and ventilation fan) shall be provided and installed in accordance with 
+the substation layout drawing.  CLP Power will provide the supply source. 
+ 
+8.1 
+Distribution Board 
+ 
+ 
+ 
+The distribution board should be located near the main access door and shall 
+house a 60A 4-pole main switch together with an adequate number of final 
+circuits protected by MCB’s as follows :- 
+ 
+ 
+ 
+8.1.1 
+At least two 6A final circuits for all lighting installations controlled by 
+two single pole switches with pilot lamp located next to the main access 
+door.   
+ 
+ 
+ 
+8.1.2 
+Some of the fluorescent lamps should incorporate an emergency 
+lighting unit as shown on the layout drawings. 
+ 
+ 
+ 
+8.1.3 
+One 16A final circuit for each exhaust fan shall be connected to a 13A 
+fused spur unit adjacent to the exhaust fan.  The exhaust fan shall be 
+controlled by a double pole switch and a temperature sensing device. 
+ 
+ 
+ 
+8.1.4 
+One 16A final circuit shall be provided for HV switchgear heaters.  The 
+rating of the heaters is typically 2 x 50W per switchgear panel. 
+ 
+ 
+ 
+8.1.5 
+An earthing terminal shall be provided adjacent to the distribution 
+board for connecting all exposed metallic parts via appropriate 
+conductors. 
+ 
+ 
+ 
+8.1.6 
+20A radial final circuit or 32A ring final circuit protected by miniature 
+circuit breaker (MCB) with residual current protective device (RCD) 
+for 13A socket outlets as required.  
+ 
+ 
+ 
+8.1.7 
+Lifting hoist when it is installed should use 3 phase supply for the 
+distribution board. 
+ 
+ 
+8.2 
+Essential Supply 
+ 
+ 
+ 
+8.2.1 
+One independent single phase supply shall be provided for the 30V 
+battery charger. 
+ 
+ 
+ 
+8.2.2 
+One independent single phase supply circuit shall be provided for the 
+distribution automation equipment. 
+ 
+
+PAGE 29
+Code of Practice No. 101 for Distribution Substation Design 
+Page 27 
+ 
+Version 16          
+ 
+ 
+ 
+December  2025
+ 
+ 
+Information Class: PROPRIETARY 專有 
+8.3 
+Supply Source 
+ 
+ 
+ 
+8.3.1 
+Source of supply shall be from the local transformer LV terminal. 
+Where a substation houses switchgear only, the supply should be from 
+the nearby CLP Power LV network as normal supply. The standby 
+supply shall be obtained from the customer’s LV main distribution 
+board or from another CLP Power LV network, depending on the 
+availability of nearby CLP Power LV network. There shall be warning 
+notice on the customer’s main distribution board – “Do not switch off 
+this supply to CLP Power substation”. Building owner /customer shall 
+provide LV changeover facility for the two supply sources.  
+ 
+ 
+ 
+8.3.2 
+If no nearby CLP Power LV network, then the supply was solely from 
+the customer’s LV main distribution board. There shall be warning 
+notice on the customer’s main distribution board – “Do not switch off 
+this supply to CLP Power substation”. 
+ 
+ 
+ 
+8.4 
+Installation Requirement 
+ 
+ 
+ 
+8.4.1 
+The electrical wiring shall be run in surface mounted galvanised iron 
+(G.I.) conduits. The conduits other than for fire services shall be painted 
+with 400mm orange colour stripe at suitable interval for identification. 
+For fire service conduits shall be painted with 400mm colour stripe that 
+is 150mm orange at two ends and 100mm red in the middle.  
+ 
+ 
+ 
+ 
+ 
+ 
+8.4.2 
+Wiring installed by CLP Power shall be of minimum 4mm² 2 core 
+PVC/armoured. 
+ 
+ 
+ 
+8.4.3 
+Each circuit from the local transformer LV terminal shall be protected 
+by high rupturing capacity (HRC) fuse, normally 32A for the 
+distribution board and 10A for the 30V battery charger. 
+ 
+ 
+8.5 
+Earth Bonding 
+ 
+ 
+ 
+8.5.1 
+All metallic parts such as steel door frames, exhaust fan air duct, 
+louvres, pipework for fixed fire fighting installation, etc., shall be 
+connected to the earthing terminal at the distribution board by copper 
+conductors not less than 6mm². Flexible tinned earthing braid shall be 
+used for connecting the door. 
+ 
+ 
+ 
+8.5.2 
+One earthing terminal for emergency use should be provided at a 
+suitable position above ground level inside the substation. 
+ 
+ 
+8.6 
+Cable Tray System 
+ 
+ 
+ 
+In order to facilitate the installation of internal wiring and control wiring by CLP 
+Power, a cable tray system shall be provided. 
+
+PAGE 30
+Code of Practice No. 101 for Distribution Substation Design 
+Page 28 
+ 
+Version 16          
+ 
+ 
+ 
+December  2025
+ 
+ 
+Information Class: PROPRIETARY 專有 
+9. 
+FIRE SERVICES DESIGN 
+ 
+9.1 
+Introduction 
+ 
+ 
+The fire services design criteria in this document summarize the Fire Services 
+requirements in relation to electrical equipment of CLP Power installed in 
+distribution substations and are based on the latest documents from the Fire 
+Services Department, in particular the followings: 
+ 
+(i) 
+NP101 latest revision “Fire Services Requirements for Consumer 
+Substations Using Oil Filled Transformer and Switchgear in Buildings” 
+ 
+(ii) 
+Circulation Letter no. 4/96 Part X “Miscellaneous Topics-
+Transformers” 
+ 
+(iii) 
+Circulation Letter no. 5/98  Part X.2 “Miscellaneous Topics-
+Transformers” 
+ 
+ 
+These criteria highlight the type of fire fighting equipment which should be 
+provided corresponding to the type, capacity and quantity of electrical 
+equipment to be installed within the substation. 
+ 
+ 
+9.2 
+Fire Services Requirements 
+ 
+ 
+All distribution substations shall be incorporated in building plans formally 
+approved by the Hong Kong SAR Government, and shall fully comply with the 
+standard requirements of the Fire Services Department.   
+ 
+ 
+9.3 
+Passive Fire Protection – General Requirements 
+ 
+ 
+ 
+These requirements apply to all distribution substations. 
+ 
+ 
+ 
+9.3.1 
+Compartmentation 
+ 
+ 
+ 
+ 
+The substation shall be completely segregated from the remainder of 
+the building.  All walls, floors and ceilings shall be of a minimum of 
+2-hour fire resisting rating.  The substation shall be situated at the 
+periphery of the building. 
+ 
+ 
+ 
+9.3.2 
+Access 
+ 
+ 
+ 
+ 
+9.3.2.1 
+Ground Floor Substations shall be directly accessible from 
+the open air and where possible be provided with an 
+additional door fitted with panic bolt for emergency 
+personnel egress.  There shall be no access way from the 
+substation to the interior of the building. 
+ 
+
+PAGE 31
+Code of Practice No. 101 for Distribution Substation Design 
+Page 29 
+ 
+Version 16          
+ 
+ 
+ 
+December  2025
+ 
+ 
+Information Class: PROPRIETARY 專有 
+ 
+ 
+ 
+9.3.2.2 
+Basement Substations shall be directly accessible from the 
+open air at ground level by a separate and independent 
+staircase for personnel.   
+ 
+ 
+ 
+ 
+9.3.2.3 
+Plant access will be from a public area of the building 
+through an opening or door of 2-hour fire resistance rating 
+(FRR) construction.  A protected lobby with self-closing 
+door fitted with panic bolt leading to a public area of the 
+building adjacent to the substation, shall be provided. 
+ 
+ 
+ 
+ 
+9.3.2.4 
+Upper Floor Substations shall be accessible from a public 
+area of the building and where possible have vehicular 
+access.  A protected lobby with self-closing door fitted with 
+panic bolt leading to a public area (separate from the public 
+area of the main access) adjacent to the substation, shall be 
+provided. 
+ 
+ 
+ 
+9.3.3 
+Openings 
+ 
+ 
+ 
+ 
+There shall be no unsealed openings left in any wall, ceiling or floor 
+other than those which lead outside the building, e.g. door, exhaust fan 
+outlet, ventilation louvres.  Any service opening (e.g. cable trench 
+outlet, trench or opening connecting to customer main switch room) 
+shall be sealed to 2-hour FRR. This should also prevent passage of 
+transformer insulant out of the substation as well as ingress of water 
+into the substation. 
+ 
+ 
+ 
+9.3.4 
+Door Sill 
+ 
+ 
+ 
+ 
+All door openings shall be provided with imperforate fire resisting sill 
+of sufficient height, generally 150mm, to contain the total capacity of 
+transformer insulant within the substation.  This sill will also prevent 
+ingress of water into the substation. 
+ 
+ 
+ 
+9.3.5 
+Ventilation 
+ 
+ 
+ 
+ 
+9.3.5.1 
+Adequate and permanent ventilation to open air must be 
+provided and shall be independent of any other ventilation 
+system of the building. 
+ 
+ 
+ 
+ 
+9.3.5.2 
+In any areas protected by a Fixed Fire Fighting Installation 
+(FFFI), the discharge sequence should include the automatic 
+shutdown of the ventilation system and the closure of all 
+ventilation openings. 
+ 
+ 
+9.4 
+Active Fire Protection – Fire Fighting Equipment 
+ 
+ 
+ 
+9.4.1 
+One 4.5kg CO2 portable fire extinguisher shall be provided by CLP 
+for the main access door of a substation using one or more SF6, silicone 
+fluid filled transformers or equivalent and switchgear with vacuum 
+
+PAGE 32
+Code of Practice No. 101 for Distribution Substation Design 
+Page 30 
+ 
+Version 16          
+ 
+ 
+ 
+December  2025
+ 
+ 
+Information Class: PROPRIETARY 專有 
+circuit breakers (VCBs), or a substation having switchgear with VCBs 
+only, or a substation having silicone fluid filled transformers only. 
+    
+ 
+ 
+9.4.2 
+Automatic Fixed Fire Fighting Installation (FFFI) 
+ 
+For substation using the type of transformer and switchgear mentioned 
+in clause 9.4.1, FFFI is not required. When FFFI is required for a 
+substation, FM200 gas fire suppression system will be used because 
+of the high safety risk of CO2 system. The building owner shall design 
+the system and seek comment from CLP Power. The final design for 
+the FFFI shall be submitted to the Fire Services Department for 
+approval.  
+ 
+ 
+ 
+9.4.3 
+Where FFFI has already been installed, the replacement of a 
+transformer or transformers with SF6, silicone fluid filled type or 
+equivalent will not eliminate the necessity for FFFI. Unless all 
+transformers are SF6 or silicone fluid, the FFFI will be eliminated and 
+portable CO2 fire extinguisher(s) will be installed. Additional CO2 fire 
+extinguishers may be required subject to the actual layout of the 
+substation. 
+ 
+ 
+9.5 
+Automatic and Manual Fire Alarm Installation 
+ 
+Distribution substation/transformer room, switchgear room and cable riser room 
+consist of electrical equipment above 1kV. Automatic Fire Alarm installation 
+(AFA) shall be provided as required by FSD.  The design of the AFA shall be 
+approved by the FSD. 
+ 
+9.5.1 
+Automatic fire alarm system shall be designed and installed to the 
+latest FSD Rules for Fire Detection and Fire Alarm Systems for 
+Building.   
+ 
+9.5.2 
+Heat Detection System shall be applied. Detectors must not be 
+mounted directly above transformer or switchgear and must not be 
+obstructed by ventilation air ducts inside the substation for ease of 
+maintenance. 
+ 
+9.5.3 
+An independent fire detection zone shall be provided for each 
+distribution substation/transformer room and switchgear room. Each 
+detection zone must be provided with a remote fire indicator installed 
+outside every entrance of distribution substation/ transformer room 
+and switchgear room. 
+ 
+9.5.4 
+Visual and audible fire alarms such as bell and siren shall be installed 
+inside substation. The sound alarm should be audible at every location 
+inside the substation.  
+ 
+9.5.5 
+Manual fire call point(s) shall be installed adjacent to the exit door 
+inside substation. 
+ 
+
+PAGE 33
+Code of Practice No. 101 for Distribution Substation Design 
+Page 31 
+ 
+Version 16          
+ 
+ 
+ 
+December  2025
+ 
+ 
+Information Class: PROPRIETARY 專有 
+9.6 
+Equipment Provision and Maintenance 
+ 
+ 
+9.6.1 
+Portable Fire Extinguisher 
+ 
+All portable fire extinguishers are to be provided and maintained by 
+CLP Power. The portable fire extinguisher is generally 4.5kg CO2. 
+ 
+ 
+9.6.2 
+Automatic Fire Alarm System and Fixed Fire Fighting Installation  
+ 
+All AFA and FFFI systems are provided and maintained by the 
+customer or the building owner and must be inspected and tested by a 
+registered contractor according to regulatory requirements.  At the 
+time or any other time when an inspection or maintenance is carried 
+out, the customer / building owner shall send a copy of the Certificate 
+of Fire Service Installations (F.S. 251) to CLP Power. 
+
+PAGE 34
+Code of Practice No. 101 for Distribution Substation Design 
+Page 32 
+ 
+Version 16          
+ 
+ 
+ 
+December  2025
+ 
+ 
+Information Class: PROPRIETARY 專有 
+10. 
+CUSTOMER MAIN SWITCHROOM DESIGN 
+ 
+Customer switchroom shall comply to the latest edition of Electricity (Wiring) 
+Regulations, Code of Practice for the Electricity (Wiring) Regulations, and all relevant 
+statutory requirements (e.g. F&IU, BD & FSD regulations). 
+ 
+Customer Main Switchroom is where the customer main switch receives electricity 
+supply from CLP Power electrical equipment and accommodate the main switch and 
+distribution board for controlling and distributing electricity to all parts of the building. 
+Therefore in designing the Customer Main Switchroom, the following requirements 
+shall be noted. 
+ 
+10.1 
+Position of  the Main Switchroom 
+ 
+ 
+Where the supply is taken from a transformer located within the building, the 
+main switchroom should be located immediately adjacent to, above or below 
+the distribution substation/transformer room so that the length and number of 
+bendings of CLP Power cables connecting to the main switch are kept to 
+minimum. 
+ 
+ 
+Where the supply is taken from a low voltage network, the main switchroom 
+shall be as near to the building entrance as possible. 
+ 
+ 
+10.2 
+Access 
+ 
+ 
+The main switchroom must be readily accessible from a communal area at all 
+times without the need to pass through any individual customer’s premises.  At 
+least one exit of the main switchroom should open outwards and this emergency 
+exit should be identified clearly. 
+ 
+ 
+10.3 
+Routing of Outgoing Circuits 
+ 
+ 
+The outgoing circuits from the main switchroom such as the rising mains and 
+the landlord’s services shall not pass through any individual customer’s 
+premises.  Where this cannot be avoided, suitable concrete ducts must be 
+provided so that the cables installed therein can be replaced without the need to 
+enter any individual customer’s premises at any time. 
+ 
+ 
+10.4 
+Dimensions 
+ 
+ 
+The main switchroom shall be big enough to accommodate all the associated 
+switchgear, distribution board and CLP Power metering equipment, and also 
+have adequate working space to facilitate installation, operation and 
+maintenance of equipment. 
+ 
+ 
+ 
+The working space should meet the minimum requirement of Code of Practice 
+for the Electricity (Wiring) Regulations – Clause 4E. 
+ 
+ 
+ 
+
+PAGE 35
+Code of Practice No. 101 for Distribution Substation Design 
+Page 33 
+ 
+Version 16          
+ 
+ 
+ 
+December  2025
+ 
+ 
+Information Class: PROPRIETARY 專有 
+ 
+10.4.1 Supply from Local Transformers 
+ 
+ 
+ 
+ 
+10.4.1.1 The internal headroom shall be not less than 2.1m. 
+ 
+ 
+ 
+ 
+10.4.1.2 The minimum clearance behind the main switch board shall 
+be 0.65m when the main switchroom is above the substation 
+or adjacent to the substation provided that the customer’s 
+main switch such as air circuit breaker (ACB) in the main 
+switchboard can be positioned in line with the MCT holes.  
+ 
+ 
+ 
+ 
+ 
+ 
+10.4.1.3 When the main switchroom is located below the substation, 
+earthed  metal cover shall be provided for covering CLP 
+Power single core power cables. Additional 0.4m clearance 
+shall be reserved for earthed metal cover. 
+ 
+ 
+ 
+ 
+10.4.1.4 When the main switchroom is adjacent to the substation, 
+and the position of the air circuit breaker is not in line with 
+the respective transformer, an access of 1000mm minimum 
+shall be maintained behind the main switch board. 
+ 
+ 
+ 
+ 
+10.4.1.5 The main switchroom shall be wide enough to provide an 
+unimpeded access of 650mm minimum on one side of the 
+switchboard for gaining access to the rear of the 
+switchboard.  
+ 
+10.4.2 Supply from LV Network 
+ 
+ 
+ 
+ 
+The minimum internal dimensions for accommodating electrical 
+services only shall be as follows:- 
+ 
+ 
+ 
+ 
+ 
+Headroom 
+: 
+2.1m 
+ 
+ 
+ 
+ 
+Width  
+: 
+1.2m 
+ 
+ 
+ 
+ 
+Depth  
+: 
+1.2m 
+ 
+10.4.3 The access door(s) shall be not less than 0.8m wide and 2.1m high and 
+the incoming terminals of the customer’s main switch shall be at least 
+0.6m above the finished floor level. 
+ 
+10.4.4 If the main switchroom is also designed for the purpose of meter room 
+accommodation, the additional requirements for meter room shall be 
+noted : 
+ 
+10.4.4.1 
+To facilitate easy access for monthly meter reading and 
+operation, the door of meter room shall be opened by 
+conventional key without using any tools. 
+ 
+10.4.4.2 
+A dedicated key exclusively for the door of such meter room 
+(i.e. sharing with other utility rooms including lift machine 
+room / lift well is not permitted) shall be kept under the 
+custody of relevant building management. The key shall be 
+
+PAGE 36
+Code of Practice No. 101 for Distribution Substation Design 
+Page 34 
+ 
+Version 16          
+ 
+ 
+ 
+December  2025
+ 
+ 
+Information Class: PROPRIETARY 專有 
+available for CLP staff to facilitate meter reading and 
+maintenance work. A label “Meter Room Key” shall be 
+secured onto the key. 
+ 
+10.4.4.3 
+The locking device for the door of meter room / enclosure, 
+including any front decoration panel, should be installed at 
+height of not less than 1000mm and not more than 1500mm 
+above finished floor level. 
+ 
+10.4.4.4 
+The minimum width of door and clearance path along the 
+exit route in the meter room, for personnel evacuation 
+during emergency, should not be less than 900mm. 
+ 
+10.4.4.5 
+Permanent label indicating both “電錶房” and “Meter 
+Room” of letter dimension not less than 30mm in height 
+should either be printed directly on the door or etched on 
+nameplate to be fixed at a prominent position on the door. 
+ 
+ 
+10.5 
+Cable Containment for Metering Purposes 
+ 
+ 
+10.5.1 
+A metallic surface junction box of 100mm x 100mm at 2300mm above 
+substation floor level shall be provided in both the customer’s main 
+switchroom and the CLP distribution substation to accommodate the 
+communication cable for metering purposes. A 25mm diameter 
+metallic conduit shall be installed for connection between the metallic 
+junction boxes in the main switchroom and substation. The void made 
+in the wall shall be sealed according to the appropriate degree of fire 
+resistance of the wall. 
+ 
+10.5.2 
+Conduits and conduit fittings shall be type-tested for completed 
+compliance with the following standards: 
+ 
+• Conduits shall have Class 4 protection in accordance with BS 4568: 
+Part 1 or IEC 61386. 
+• Conduit fittings shall have Class 4 protection in accordance with BS 
+EN 61386-1 or IEC 61386-1. 
+• Junction boxes shall have protection both inside and outside in 
+accordance with BS 4662 or IEC 60670-1. 
+ 
+10.5.3 
+Regarding the metering detailed requirement for the communication 
+infrastructure not within the substation, please refer to the meter 
+installation guideline “Guide to Supply and Metering Arrangement on 
+Customer’s Internal Distribution System” issued by Customer 
+Supplies and Services Branch. 
+ 
+ 
+
+PAGE 37
+Code of Practice No. 101 for Distribution Substation Design 
+Page 35 
+ 
+Version 16          
+ 
+ 
+ 
+December  2025
+ 
+ 
+Information Class: PROPRIETARY 專有 
+10.6 
+Cable Trench 
+ 
+ 
+10.6.1 
+The width and depth of the cable trench for accommodating CLP 
+Power single-core cables shall normally correspond to that in 
+distribution substation/ transformer room. 
+ 
+ 
+ 
+10.6.2 
+Customer’s outgoing cables and related supporting structures for 
+customer’s switchboard should not share a common cable trench with 
+CLP Power cables.  Where this cannot be achieved, customer’s cables 
+must be mounted permanently on the wall of the cable trench without 
+interfering with CLP Power cables. 
+ 
+ 
+10.7 
+Other Services 
+ 
+ 
+No water pipe or drainage system is permitted within a customer main 
+switchroom.  Where the main switchroom is designed to accommodate other 
+communication equipment such as telephone, communal aerial broadcasting 
+distribution system or security system, such equipment and the associated 
+wiring must be segregated from all electrical services. 
+ 
+ 
+10.8 
+Illumination and Ventilation  
+ 
+The illumination and ventilation should meet the minimum requirement of Code 
+of Practice for the Electricity (Wiring) Regulations – Clause 4F (3). 
+ 
+ 
+10.9 
+Means to Prevent Ingress of Water 
+ 
+ 
+To prevent ingress of water, the main switchroom shall be suitably constructed 
+and not be under an expansion joint.  Where the internal floor level is less than 
+100mm above the external floor level, a kerb of not less than 100mm above the 
+external floor level shall be provided. 
+ 
+ 
+10.10 Approval Procedure 
+ 
+ 
+On the distribution substation/transformer room detailed layout drawing, CLP 
+Power will mark up the suggested trench layout and possible location for 
+customer’s main switch/ACB in the main switchboard for the owner/customer’s 
+consideration.  The owner/customer or his agent must resubmit the detailed 
+main switchroom layout incorporating the finalised cable trench and exact 
+position of each main switch/ACB in the main switchboard for CLP Power 
+approval prior to installation. 
+
+PAGE 38
+Code of Practice No. 101 for Distribution Substation Design 
+Page 36 
+ 
+Version 16          
+ 
+ 
+ 
+December  2025
+ 
+ 
+Information Class: PROPRIETARY 專有 
+11. 
+OUTDOOR SUBSTATION 
+ 
+ 
+The general requirements for outdoor substations are given below.  Depending on the 
+substation site and the surroundings, special design features may have to be 
+incorporated as appropriate. 
+ 
+ 
+ 
+11.1 
+General 
+ 
+ 
+ 
+11.1.1 
+All outdoor substations shall be fenced off and a gate with 180° swing 
+shall be provided for electrical equipment and personnel access.  The 
+fencing and gate(s) shall be not less than 2.5m in height to prevent any 
+unauthorised entry to the substation. 
+ 
+ 
+ 
+11.1.2 
+A roof shall be constructed for outdoor substation located in a 
+construction site. 
+ 
+11.1.3 
+Outdoor substation shall be naturally ventilated and no forced 
+ventilation system shall be required. 
+ 
+ 
+ 
+ 
+11.2 
+Type of Fencing 
+ 
+ 
+ 
+Aluminium corrugated panel shall be used and fixed on steel posts which are 
+connected to the substation earth.  An oil retaining sill of 150mm x 150mm shall 
+be provided at the perimeter. 
+ 
+ 
+ 
+11.3 
+Other Requirements 
+ 
+ 
+ 
+11.3.1 
+The substation ground level shall be 150mm above the outside ground 
+(pavement) level. 
+ 
+ 
+ 
+11.3.2 
+Anti-climbing guard shall be provided at the top of the fencing, for 
+example, outriggers made up of 4 strands of barbed wire. 
+ 
+ 
+ 
+11.3.3 
+‘DANGER’, ‘Wear Safety Helmet’, substation nameplate and SF6 
+gas-filled equipment warning plate if applicable shall be installed on 
+the gate and the fencing. 
+ 
+ 
+ 
+11.3.4 
+All cables inlet/outlet shall be sealed after cabling. All trenches shall 
+be backfilled with fine soil, a layer of gravel and 150mm covering 
+concrete paving. 
+ 
+ 
+ 
+11.3.5 
+The area inside the substation apart from trenches and plant 
+foundations should be 200mm thick reinforced concrete slab.  
+ 
+
+PAGE 39
+Code of Practice No. 101 for Distribution Substation Design 
+Page 37 
+ 
+Version 16          
+ 
+ 
+ 
+December  2025
+ 
+ 
+Information Class: PROPRIETARY 專有 
+11.3.6 
+A 50mm diameter drainage pipe with valve shall be provided adjacent 
+to the gate.  The valve shall normally be closed for oil containment 
+and shall only be opened in order to drain any accumulated rain water. 
+
+PAGE 40
+Code of Practice No. 101 for Distribution Substation Design 
+Page 38 
+ 
+Version 16          
+ 
+ 
+ 
+December  2025
+ 
+ 
+Information Class: PROPRIETARY 專有 
+12. 
+PROVISION, INSTALLATION AND MAINTENANCE OF BUILDING 
+WORKS AND ACCESSORIES IN DISTRIBUTION SUBSTATION  
+ 
+ 
+Provision, Installation and Maintenance of Distribution Substation Buildings and 
+Accessories are detailed as follows :- 
+ 
+ 
+ 
+C -  
+indicates items provided/maintained by CLP Power 
+ 
+ 
+ 
+B - 
+indicates items provided/maintained by Building Owner / Customer 
+ 
+Item 
+Provision 
+of 
+Material 
+Installation 
+Maintenance 
+1. 
+Substation Architectural/Civil Works 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1.1 
+Substation building, cable chase 
+and 
+cable 
+riser 
+room 
+in 
+accordance 
+with 
+substation 
+drawings 
+B 
+B 
+B 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1.2 
+Kerb (built after plant moved in) 
+B 
+B 
+C 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1.3 
+Ladder/working platform 
+B 
+B 
+B 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1.4 
+Re-painting 
+of 
+substation 
+interior after commissioning 
+B 
+N.A. 
+B 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1.5 
+Re-painting 
+of 
+substation 
+external walls 
+B 
+N.A. 
+B 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1.6 
+Fencing/Fence Wall for outdoor 
+substation or package substation 
+B 
+B 
+B 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1.7 
+Fine soil, gravel and concrete for 
+filling and covering the cable 
+trench in outdoor substation 
+B 
+B 
+C 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1.8 
+Signage 
+to 
+indicate 
+the 
+substation location 
+B 
+B 
+B 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1.9 
+Hoisting structure (beam/hook) 
+B 
+B 
+B 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1.10 Hoisting machinery (trolley) 
+B 
+B 
+B 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1.11 Louvre, decorative louvre and 
+louvre door,  including rat guard 
+B 
+B 
+B 
+ 
+ 
+ 
+
+PAGE 41
+Code of Practice No. 101 for Distribution Substation Design 
+Page 39 
+ 
+Version 16          
+ 
+ 
+ 
+December  2025
+ 
+ 
+Information Class: PROPRIETARY 專有 
+Item 
+Provision 
+of 
+Material 
+Installation 
+Maintenance 
+ 
+1.12 
+ 
+ 
+ 
+ 
+1.13 
+Cable trench, duct, draw pit and 
+similar 
+provision 
+for 
+cable 
+installation 
+inside 
+customer 
+property boundaries 
+ 
+Anti-flooding 
+provision 
+as 
+described in clause 5.1.3 
+ 
+B 
+ 
+ 
+ 
+ 
+B 
+B 
+ 
+ 
+ 
+ 
+B 
+B 
+ 
+ 
+ 
+ 
+B 
+ 
+1.14 Transformer plinth 
+B 
+B 
+B 
+ 
+ 
+ 
+ 
+ 
+2. 
+Substation Access 
+ 
+ 
+ 
+ 
+2.1 
+Substation door in accordance 
+with typical drawings 
+B 
+B 
+B 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.2 
+Emergency exit deadlock set 
+with panic bar 
+C 
+B 
+C 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.3 
+Lock for substation door 
+C 
+B 
+C 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.4 
+Panic bolt on exit door without 
+lock 
+B 
+B 
+B 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.5 
+Conduit, 
+junction 
+box 
+and 
+accessories for door contact 
+B 
+B 
+C 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.6 
+Substation statutory notice plates 
+C 
+C 
+C 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.7 
+Notices for treatment of electric 
+shock and for emergency action 
+C 
+C 
+C 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.8 
+Chain box for the storage of 
+access control chain 
+B 
+B 
+B 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.9 
+Keybox for gate 
+ 
+B 
+B 
+B 
+3. 
+Substation Building Works for Cables 
+ 
+ 
+ 
+ 
+3.1 
+Chequer plate 
+B 
+B 
+B 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3.2 
+Steel rack for holding cable 
+cleats 
+B 
+B 
+B 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3.3 
+Cable brackets and cleats in 
+substation 
+B 
+B 
+B 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3.4 
+Cable brackets in cable riser 
+room for high rise building 
+B 
+B 
+B 
+
+PAGE 42
+Code of Practice No. 101 for Distribution Substation Design 
+Page 40 
+ 
+Version 16          
+ 
+ 
+ 
+December  2025
+ 
+ 
+Information Class: PROPRIETARY 專有 
+ 
+ 
+Item 
+Provision 
+of 
+Material 
+Installation 
+Maintenance 
+ 
+3.5 
+Cable cleats in cable riser room 
+for high rise building 
+B 
+B 
+B 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3.6 
+Cable tray in accordance with 
+typical drawing - note (a) 
+B 
+B 
+B 
+ 
+3.7 
+Sealing of cable entry opening 
+except cable riser room for high 
+rise building 
+ 
+ 
+ 
+ 
+ 
+ 
+Before cable entry 
+B 
+B 
+B 
+ 
+ 
+ 
+After cable entry 
+C 
+C 
+C 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3.8 
+Sealing of through floor/wall 
+openings in high level substation 
+and cable riser room for high rise 
+building 
+B 
+B 
+B 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3.9 
+Tinned copper bar bonding 
+terminal for earthing 
+ 
+B 
+B 
+B 
+ 
+3.10 Earthing conductor in cable riser 
+room / chamber 
+ 
+B 
+B 
+B 
+ 
+3.11 Earthing 
+conductor 
+through 
+cable ducts and draw pits 
+ 
+B 
+B 
+B 
+4. 
+Substation Ventilation Installations 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4.1 
+Exhaust fan and associated fan 
+control panel:  
+ 
+ 
+ 
+ 
+a) 
+Propeller type (standard sizes 
+630/800mm diameter) 
+C 
+B 
+C 
+ 
+ 
+b) 
+ 
+Axial type system  
+ 
+ 
+B 
+ 
+B 
+ 
+B 
+ 
+ 
+4.2 
+Fans and associated fan control 
+panel for basement substation 
+ 
+B 
+B 
+B 
+ 
+4.3 
+Air duct, fire damper 
+B 
+B 
+B 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4.4 
+Emergency stop pushbutton (for 
+exhaust fan) 
+B 
+B 
+B 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4.5 
+Drainage pipe with valve 
+B 
+B 
+B 
+
+PAGE 43
+Code of Practice No. 101 for Distribution Substation Design 
+Page 41 
+ 
+Version 16          
+ 
+ 
+ 
+December  2025
+ 
+ 
+Information Class: PROPRIETARY 專有 
+Item 
+Provision 
+of 
+Material 
+Installation 
+Maintenance 
+5. 
+Substation Electrical Installations 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5.1 
+Distribution board for substation 
+supply 
+in 
+accordance 
+with 
+typical drawings – note (b) 
+ 
+B 
+B 
+C* 
+ 
+5.2 
+Electrical fittings in substation 
+including cable conduit, light 
+fitting, emergency lighting unit, 
+socket and internal wiring 
+B 
+B 
+B 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5.3 
+Sump pump (refer to clause 5.1.3 
+and 5.2.11) 
+B 
+B 
+B 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5.4 
+Flooding alarm 
+B 
+B 
+B 
+ 
+ 
+ 
+ 
+ 
+ 
+6. 
+Substation/Cable Riser Room Fire 
+Services Installations 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6.1 
+Portable fire extinguisher (PFE) 
+C 
+C 
+C 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6.2 
+Outdoor cabinet for PFE 
+B 
+B 
+B 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6.3 
+Fire detection/alarm system 
+B 
+B 
+B 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6.4 
+Fixed fire fighting installation 
+B 
+B 
+B 
+ 
+ 
+ 
+ 
+ 
+ 
+7. 
+Substation Plant & Equipment for 
+Provision of Supply 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+7.1 
+Transformer 
+C 
+C 
+C 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+7.2 
+Switchgear 
+C 
+C 
+C 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+7.3 
+Battery charger 
+C 
+C 
+C 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+7.4 
+Fibre Optic/Pilot marshalling 
+box 
+C 
+C 
+C 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+7.5 
+Remote terminal unit 
+C 
+C 
+C 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+7.6 
+Cables 
+C 
+C 
+C 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+7.7 
+Multi-cable 
+transit 
+plug-in 
+(MCT) 
+C 
+C 
+C 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+7.8 
+Metering equipment 
+C 
+C 
+C 
+
+PAGE 44
+Code of Practice No. 101 for Distribution Substation Design 
+Page 42 
+ 
+Version 16          
+ 
+ 
+ 
+December  2025
+ 
+ 
+Information Class: PROPRIETARY 專有 
+ 
+ 
+*Note :   
+ 
+(a) Actual installation location to be advised on site by CLP Power site engineer. 
+ 
+(b) Maintenance works by CLP Power only limited to the wiring and termination of 
+cables into the  distribution board after the first installation of the distribution board. 
+Periodic inspection, testing according to the regulatory requirements such as WR2 
+and repair or replacement of defective components in the distribution board shall 
+be responsible by the building owner / customer. 
+ 
+
+PAGE 45
+Code of Practice No. 101 for Distribution Substation Design 
+Page 43 
+ 
+Version 16          
+ 
+ 
+ 
+December  2025
+ 
+ 
+Information Class: PROPRIETARY 專有 
+13. 
+DRAWINGS 
+ 
+The layout drawings are typical design for the building owner / customer’s agent (e.g. 
+architects or consultants) as reference in designing the substation. The final design of 
+the substation layout plans prepared by the building owner / customer’s agent shall 
+subject to the approval of the Principal Manager - Planning and Design of the relevant 
+Region of CLP Power. 
+ 
+Layout Plans 
+ 
+T-COP-10250-D-E33-0101-02 
+Typical Ground Floor Substation Layout For One Transformer And 
+HV Switchgear 
+ 
+T-COP-10250-D-E33-0101-03 
+Typical Ground Floor Substation Layout For Two Transformers And 
+HV Switchgear 
+ 
+T-COP-10250-D-E33-0101-04 
+Typical Ground Floor Substation Layout For Three Transformers 
+And HV Switchgear 
+ 
+T-COP-10250-D-E33-0101-05 
+Typical Basement Substation Sections 
+ 
+T-COP-10250-D-E33-0101-06 
+Typical Basement Substation Layout For One Transformer And HV 
+Switchgear 
+ 
+T-COP-10250-D-E33-0101-07 
+Typical Basement Substation Layout For Two Transformers And HV 
+Switchgear 
+ 
+T-COP-10250-D-E33-0101-08 
+Typical Basement Substation Layout For Three Transformers And 
+HV Switchgear 
+ 
+T-COP-10250-D-E33-0101-09 
+Typical Upper Floor Substation Sections 
+ 
+T-COP-10250-D-E33-0101-10 
+Typical Upper Floor Substation Layout For One Transformer And 
+HV Switchgear (Independent Staircase) 
+ 
+T-COP-10250-D-E33-0101-11 
+Typical Upper Floor Substation Layout For Two Transformers And 
+HV Switchgear (Independent Staircase) 
+ 
+T-COP-10250-D-E33-0101-12 
+Typical Upper Floor Substation Layout For Three Transformers And 
+HV Switchgear (Independent Staircase) 
+ 
+T-COP-10250-D-E33-0101-13 
+Typical Upper Floor Substation Layout For Housing One 
+Transformer Without Vehicular Access (Independent Staircase) 
+ 
+T-COP-10250-D-E33-0101-14 
+Typical High Level Substation Layout For One/Two/Three 
+Transformers And HV Switchgear In High Rise Building 
+ 
+T-COP-10250-D-E33-0101-15 
+Typical High Level Substation Layout For One Transformer And HV 
+Switchgear In High Rise Building 
+ 
+T-COP-10250-D-E33-0101-16 
+Typical High Level Substation Layout For Two Transformers And 
+HV Switchgear In High Rise Building 
+ 
+T-COP-10250-D-E33-0101-17 
+Typical High Level Substation Layout For Three Transformers And 
+HV Switchgear In High Rise Building 
+ 
+T-COP-10250-D-E33-0101-18 
+Typical Plan Of Cable Riser Room On Ground Floor Or Floor Level 
+Where Cable Entry (Sheet 1 of 4) 
+
+PAGE 46
+Code of Practice No. 101 for Distribution Substation Design 
+Page 44 
+ 
+Version 16          
+ 
+ 
+ 
+December  2025
+ 
+ 
+Information Class: PROPRIETARY 專有 
+T-COP-10250-D-E33-0101-19 
+Typical Layout Of Cable Riser Room (Sheet 2 of 4) 
+ 
+T-COP-10250-D-E33-0101-20 
+Typical Sections Of Cable Riser Room (Sheet 3 of 4) 
+ 
+T-COP-10250-D-E33-0101-21 
+Typical Layout Of Cable Riser Room Cable Mounting Details (Sheet 
+4 of 4) 
+T-COP-10250-D-E33-0101-22 
+Typical Cable Cleats For HV Cables, Pilot Cables And Fibre Optic 
+Cables 
+T-COP-10250-D-E33-0101-23 
+Typical Ground Floor Substation Layout For Two Transformers And 
+HV Switchgear (With Two LV Boards) 
+T-COP-10250-D-E33-0101-24 
+Typical Ground Floor Substation Layout For Three Transformers 
+And HV Switchgear (With Three LV Boards) 
+T-COP-10250-D-E33-0101-25 
+Typical Drawing For Standalone Substation (Sheet 1 of 3) 
+T-COP-10250-D-E33-0101-26 
+Typical Drawing For Standalone Substation (Sheet 2 of 3) 
+T-COP-10250-D-E33-0101-27 
+ 
+ 
+T-COP-10250-D-E33-0101-28 
+ 
+ 
+ 
+T-COP-10250-D-E33-0101-29 
+ 
+T-COP-10250-D-E33-0101-30 
+ 
+ 
+T-COP-10250-D-E33-0101-31 
+ 
+ 
+ 
+T-COP-10250-D-E33-0101-32 
+ 
+Typical Drawing For Standalone Substation (Sheet 3 of 3) 
+ 
+Typical Upper Floor Substation Layout for Housing One 
+Transformer Without Vehicular Access (Indpendent Staircase & 
+Protected Lobby) 
+ 
+Typical Layout for Ground Floor HV Switchgear Room 
+ 
+Typical Layout for First Floor Transformer Room with Two 
+Transformers 
+ 
+Typical Ground Floor Substation Layout For Two Transformers And 
+HV Switchgear (Split Board) 
+ 
+Typical Ground Floor Substation Layout For Customer With HV 
+Supply (Sheet 1 Of 2) 
+ 
+T-COP-10250-D-E33-0101-33 
+Typical Ground Floor Substation Layout For Customer With HV 
+Supply (Sheet 2 Of 2) 
+ 
+Section Plans 
+ 
+T-COP-10250-D-E33-0102-01 
+Minimum Requirements For Customer Main Switchroom Adjacent 
+To Substation For Single Transformer Installation 
+T-COP-10250-D-E33-0102-02 
+Minimum Requirements For Customer Main Switchroom Adjacent 
+To Substation For Multi-Transformer Installation 
+T-COP-10250-D-E33-0102-03 
+Minimum Requirements For Customer Main Switchroom Above 
+Transformer Room 
+T-COP-10250-D-E33-0102-04 
+Minimum Requirements For Customer Main Switchroom Below 
+Transformer Room 
+T-COP-10250-D-E33-0101-01 
+Typical Temporary Substation Layout For One Transformer And HV 
+Switchgear 
+T-COP-10250-D-E33-0102-05 
+Cover For Temporary Substation Located Inside Construction Site 
+
+PAGE 47
+Code of Practice No. 101 for Distribution Substation Design 
+Page 45 
+ 
+Version 16          
+ 
+ 
+ 
+December  2025
+ 
+ 
+Information Class: PROPRIETARY 專有 
+T-COP-10250-D-E33-0102-06 
+Withdrawn in version 12 
+T-COP-10250-D-E33-0102-07 
+Typical Sections Of Transformer Room At Exhaust Fan Position (Not 
+Directly Above Substation Door) (Sheet 1 of 3) 
+T-COP-10250-D-E33-0102-08 
+Typical Sections Of Transformer Room At Exhaust Fan Position 
+(Directly Above Substation Door) (Sheet 2 of 3) 
+ 
+T-COP-10250-D-E33-0102-09 
+Typical Section Of Fan Room (Sheet 3 of 3) 
+T-COP-10250-D-E33-0102-10 
+Double Slab Arrangement For Transformer Room  
+ 
+T-COP-10250-D-E33-0102-11 
+Minimum Requirements For Customer Main Switchroom Not Direct 
+Below Transformer Room (Sheet 1 of 2) 
+T-COP-10250-D-E33-0102-12 
+Minimum Requirements For Customer Main Switchroom Not Direct 
+Below Transformer Room (Sheet 2 of 2) 
+Indoor Substation Details 
+T-COP-10250-D-E33-0103-01 
+Installation Of Four "Multi-Cable Transit" Plug-In In Cable Trench 
+In Two Layers (For Full Neutral Arrangement) 
+T-COP-10250-D-E33-0103-02 
+Installation Of Four "Multi-Cable Transit" Plug-In In Cable Trench 
+In Line (For Full Neutral Arrangement) 
+T-COP-10250-D-E33-0103-03 
+Installation Of Two "Multi-Cable Transit" Plug-In In Cable Trench 
+In Line (1000kVA Or Below Transformer) 
+T-COP-10250-D-E33-0103-04 
+Installation Of "Multi-Cable Transit" Plug-In Through Substation 
+Ceiling 
+T-COP-10250-D-E33-0103-05 
+Installation Of "Multi-Cable Transit" Plug-In Through Substation 
+Floor 
+T-COP-10250-D-E33-0103-06 
+Steel Former For 200mm Dia. "Multi-Cable Transit" Hole 
+T-COP-10250-D-E33-0103-07 
+Steel Former For 150mm Dia. "Multi-Cable Transit" Hole 
+T-COP-10250-D-E33-0103-08 
+Typical Details Of Number Marked On The Cable Trench Cover 
+T-COP-10250-D-E33-0103-09 
+Typical Details Of Cat Ladder 
+T-COP-10250-D-E33-0103-10 
+Typical Details Of Cable Trench (Sheet 1 of 3) 
+T-COP-10250-D-E33-0103-11 
+Typical Details Of Cable Trench (Sheet 2 of 3) 
+T-COP-10250-D-E33-0103-12 
+Typical Details Of Cable Trench (Sheet 3 of 3) 
+T-COP-10250-D-E33-0103-13 
+Cable Trench For Accommodating CLP Power Single-Core Cables 
+In Customer Main Switchroom 
+T-COP-10250-D-E33-0103-50 
+Cable Trench For Accommodating CLP Power Single-Core Cables 
+In Customer HV Main Switchroom 
+T-COP-10250-D-E33-0103-14 
+Typical Details Of Single Leaf Stainless Steel Door  
+T-COP-10250-D-E33-0103-15 
+Typical Details Of Single Leaf Stainless Steel Door Without Lock 
+
+PAGE 48
+Code of Practice No. 101 for Distribution Substation Design 
+Page 46 
+ 
+Version 16          
+ 
+ 
+ 
+December  2025
+ 
+ 
+Information Class: PROPRIETARY 專有 
+T-COP-10250-D-E33-0103-16 
+Typical Details Of Double Leaf Stainless Steel Door With Wicket On 
+The Right 
+T-COP-10250-D-E33-0103-17 
+Typical Details Of Double Leaf Stainless Steel Door With Wicket On 
+The Left 
+T-COP-10250-D-E33-0103-18 
+Typical Details Of Double Leaf Stainless Steel Door With Wicket On 
+The Right And Without Lock 
+T-COP-10250-D-E33-0103-19 
+Typical Details Of Double Leaf Stainless Steel Door With Wicket On 
+The Left And Without Lock 
+T-COP-10250-D-E33-0103-20 
+Typical Details Of Double Leaf Stainless Steel Door (1500W x 
+2500H) For H.V. Switchgear Room 
+T-COP-10250-D-E33-0103-21 
+Typical Details Of Double Leaf Stainless Steel Door Without Lock  
+ 
+T-COP-10250-D-E33-0103-33 
+For Fire Rated Door With Insulation  
+Typical Details Of Single Leaf Laminated Steel Door Without Lock 
+T-COP-10250-D-E33-0103-34 
+For Fire Rated Door With Insulation  
+Typical Details Of Single Leaf Laminated Steel Door  
+T-COP-10250-D-E33-0103-35 
+For Fire Rated Door With Insulation  
+Typical Details Of Double Leaf Laminated Steel Door and Without 
+Lock 
+T-COP-10250-D-E33-0103-36 
+For Fire Rated Door With Insulation  
+Typical Details Of Double Leaf Laminated Steel Door  
+T-COP-10250-D-E33-0103-41 
+ 
+ 
+ 
+ 
+T-COP-10250-D-E33-0103-42 
+ 
+For Fire Rated Door With Insulation  
+Typical Details Of Double Leaf Laminated Steel Door With Lock Eye 
+For Fire Rated Door With Insulation  
+Typical Details Of Single Leaf Laminated Steel Door With Lock Eye 
+ 
+ 
+T-COP-10250-D-E33-0103-46 
+For Fire Rated Door With Insulation 
+Typical Details Of Double Leaf  Laminated Steel Door With Wicket 
+On The Right 
+ 
+ 
+T-COP-10250-D-E33-0103-47 
+ 
+For Fire Rated Door With Insulation 
+Typical Details Of Double Leaf  Laminated Steel Door With Wicket 
+On The Left 
+T-COP-10250-D-E33-0103-22 
+Details Of Emergency Exit Deadlock Set With Panic Bar 
+T-COP-10250-D-E33-0103-23 
+Typical Arrangement Of Panic Bolt and Door Contact Installation For 
+Transformer Room Doors 
+T-COP-10250-D-E33-0103-24 
+Typical Details Of Metal Trunking & Stainless Steel Louvre For 
+630mm Dia. Wall Mounted Exhaust Fan 
+T-COP-10250-D-E33-0103-25 
+Typical Details Of Metal Trunking & Stainless Steel Louvre For 
+800mm Dia. Wall Mounted Exhaust Fan 
+T-COP-10250-D-E33-0103-26 
+Typical Details Of Stainless Steel Louvre 
+T-COP-10250-D-E33-0103-27 
+Plastic Chain Storage Box 
+ 
+
+PAGE 49
+Code of Practice No. 101 for Distribution Substation Design 
+Page 47 
+ 
+Version 16          
+ 
+ 
+ 
+December  2025
+ 
+ 
+Information Class: PROPRIETARY 專有 
+T-COP-10250-D-E33-0103-28 
+Cable Trench Cover For LV Cables Dropping From Transformer LV 
+Terminals Into The Cable Trench 
+ 
+T-COP-10250-D-E33-0103-29 
+Details Of Outlet For Temporary Supply Cables 
+ 
+T-COP-10250-D-E33-0103-32 
+ 
+Typical Details For Upper Floor Substation With Retractable Hoist 
+Beam And Trolley 
+ 
+T-COP-10250-D-E33-0103-43 
+Typical Details For Upper Floor Substation With Hoist Beam And 
+Trolley 
+ 
+T-COP-10250-D-E33-0103-45 
+Typical Details For Upper Floor Substation With Hoist Beam And 
+Trolley And Protected Lobby 
+T-COP-10250-D-E33-0103-37 
+ 
+Typical Details Of Hook for Independent Lifeline 
+T-COP-10250-D-E33-0103-38 
+Typical Design Of Fall Restraint System 
+T-COP-10250-D-E33-0103-39 
+Typical Design Of Ground Floor Entrance For Basement Substation 
+T-COP-10250-D-E33-0103-40 
+Typical Details Of Eyebolt Installation For L.V. Board 
+ 
+T-COP-10250-D-E33-0103-44 
+Steel Cabinet For Single Core Cable Brackets And Cleats In 
+Customer Main Switch Room 
+ 
+T-COP-10250-D-E33-0103-48 
+Typical Details Of Transformer Floating Plinth 
+ 
+T-COP-10250-D-E33-0103-49 
+Typical Details Of Working Platform In Cable Riser Room 
+ 
+T-COP-10250-D-E33-0112-01 
+Details Of Stainless Steel Floodgate For Single/Double Leaf Door 
+ 
+T-COP-10250-D-E33-0112-02 
+Details Of Stainless Steel Floodgate For Ground Floor Louvre 
+ 
+T-COP-10250-D-E33-0112-03 
+ 
+Stainless Steel Floodgate Storage Frame Installation Details 
+ 
+ 
+Outdoor Substation Details 
+T-COP-10250-D-E33-0104-01 
+Details Of Metal Gate And Fence With Steel Post For Outdoor 
+Substation 
+T-COP-10250-D-E33-0104-02 
+Withdrawn in version 11 
+T-COP-10250-D-E33-0104-03 
+Details Of Metal Gate And Brick Wall Surround For Outdoor 
+Substation 
+T-COP-10250-D-E33-0104-04 
+Typical Details Of Cable Trench R.C. Cover 
+T-COP-10250-D-E33-0104-05 
+Typical Details Of Cable Draw-Pit (Straight Application) 
+T-COP-10250-D-E33-0104-06 
+Typical Details Of Cable Draw-Pit (Angle Application) 
+T-COP-10250-D-E33-0104-07 
+Typical Details Of Cable Draw-Pit (Tee Application) 
+T-COP-10250-D-E33-0104-08 
+Roofing With Insulation Parapet & Wall Details 
+T-COP-10250-D-E33-0104-17 
+Typical Details Of uPVC Pipe Connecting Socket 
+ 
+T-COP-10250-D-E33-0104-18 
+Earthing Draw Pit Arrangement For Substation 
+ 
+
+PAGE 50
+Code of Practice No. 101 for Distribution Substation Design 
+Page 48 
+ 
+Version 16          
+ 
+ 
+ 
+December  2025
+ 
+ 
+Information Class: PROPRIETARY 專有 
+T-COP-10250-D-E33-0104-19 
+Typical Details Of Earthing Draw Pit 
+T-COP-10250-D-E33-0104-20 
+Typical Details Of Cover For Earthing Draw Pit 
+T-COP-10250-D-E33-0104-21 
+Typical Details Of Frame For Earthing Draw Pit 
+T-COP-10250-D-E33-0104-22 
+Typical On Grade Slab Detail Outside Substation 
+ 
+ 
+Accessories Details 
+ 
+T-COP-10250-D-E33-0105-01 
+Details Of Substation Statutory Notice Plate – Danger Warning 
+T-COP-10250-D-E33-0105-02 
+Details Of Substation Statutory Notice Plate – Danger & SF6 Gas-
+Filled Equipment Warning 
+T-COP-10250-D-E33-0105-03 
+Details Of  Substation Statutory Notice Plate – Substation Name 
+T-COP-10250-D-E33-0105-04 
+Disposition Of The Danger Plate And Substation Name Plate 
+T-COP-10250-D-E33-0105-05 
+Details Of Steel Wall Bracket And Wooden Cleat For Holding Single 
+Core Cables 
+T-COP-10250-D-E33-0105-06 
+Details Of Steel Wall Bracket And Wooden Cleat For Holding HV 
+Cables (240mm Sq. XLPE Cable, Pilot Cable And Fibre Optic Cable) 
+T-COP-10250-D-E33-0105-07 
+Withdrawn in version 12 
+T-COP-10250-D-E33-0105-08  
+Cable Lug For 960mm Sq. Single Core Stranded Aluminium 
+Conductor L. V. Cable 
+T-COP-10250-D-E33-0105-09 
+ 
+ 
+Schematic Diagrams 
+ 
+Stainless Steel Cabinet For Outdoor 4.5kg CO2 Fire Extinguisher 
+T-COP-10250-D-E33-0106-01 
+LV Schematic Diagram For Distribution Substation (With 
+Transformer And HV Switchgear) 
+T-COP-10250-D-E33-0106-02 
+LV Schematic Diagram For HV Switchroom 
+T-COP-10250-D-E33-0106-03 
+Earthing Schematic Diagram 
+T-COP-10250-D-E33-0106-04 
+General Schematic Diagram Of Sump Pump And Pipe Connections 
+For Basement Substation 
+T-COP-10250-D-E33-0106-05 
+Typical Arrangement Of Cable Tray 
+T-COP-10250-D-E33-0106-06 
+Colour Codes For Pipes And Conduits In Distribution Substation 
+T-COP-10250-D-E33-0106-07 
+Withdrawn in version 13 
+T-COP-10250-D-E33-0106-08 
+Fire Extinguisher Demarcation 
+
+PAGE 51
+Code of Practice No. 101 for Distribution Substation Design 
+ Appendix A 
+Version 16          
+ 
+ 
+ 
+December  2025
+ 
+ 
+Information Class: PROPRIETARY 專有 
+ 
+ 
+ 
+ 

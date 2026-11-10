@@ -1,0 +1,207 @@
+Redirect stdout (file: C:\Users\LYUML-~1\AppData\Local\Temp\accc269082).
+AcCoreConsole: StdOutConsoleMode: processed-output: disabled,auto
+AutoCAD Core Engine Console - Copyright 2026 Autodesk, Inc.  All rights reserved. (X.118.0.0)
+
+Execution Path:
+C:\Program Files\Autodesk\AutoCAD 2027\accoreconsole.exe
+Current Directory: C:\Users\lyuml-win\Desktop\polyu_bse3124
+
+Version Number: X.118.0.0 (UNICODE)
+LogFilePath has been set to the working folder.
+
+************************MessageBox****************************
+AutoCAD Alert
+ C:\Users\lyuml-win\Desktop\polyu_bse3124\05_Calculations\schematic_revision_v02\BSE3124_Final_Rev02.dwg is currently in use by :
+ lyuml-win , LYUML-WIN .
+Would you like to open the file read-only?
+>>>Responding: Yes.
+**************************************************************
+CoreHeartBeat
+Loading AEC Base...
+Loading AEC Base Extended...
+Loading AEC Core...
+Loading AEC Project Base...
+Loading AEC Architectural Base...
+Loading AEC Schedule...
+
+Loading Modeler DLLs.
+Loading AEC Area Base...
+Loading MEP Base...
+Loading MEP HVAC Base...
+Loading MEP Pipe Base...
+Loading MEP Electrical Base...
+Loading MEP COLE Base...
+Loading MEP Plumbing Base...
+Loading MEP Tools...
+Regenerating layout.
+Regenerating model.
+
+**** System Variable Changed ****
+4 of the monitored system variables have changed from the preferred value. Use SYSVARMONITOR command to view changes.
+
+
+AutoCAD menu utilities loaded.
+Command:
+Command:
+
+Command:
+Command: (setvar "FILEDIA" 0)
+0
+
+Command: (setvar "BACKGROUNDPLOT" 0)
+0
+
+Command: (setvar "CTAB" "TASK1-GROUND-OVERVIEW")
+Regenerating layout.
+"TASK1-GROUND-OVERVIEW"
+
+Command: (command "_.REGENALL")
+_.REGENALL Regenerating layout.
+
+Command: nil
+
+Command: (command "_.-PLOT" "_N" "TASK1-GROUND-OVERVIEW" "" "" "C:/Users/lyuml-win/Desktop/polyu_bse3124/05_Calculations/schematic_revision_v02/native_plots/ground.pdf" "_N" "_Y")
+_.-PLOT Detailed plot configuration? [Yes/No] <No>: _N
+Enter a layout name or [?] <TASK1-GROUND-OVERVIEW>: TASK1-GROUND-OVERVIEW
+Enter a page setup name <>: Enter an output device name or [?] <DWG To PDF.pc3>:
+Enter file name <C:\Users\lyuml-win\Desktop\polyu_bse3124\05_Calculations\schematic_revision_v02\BSE3124_Final_Rev02-TASK1-GROUND-OVERVIEW.pdf>: C:/Users/lyuml-win/Desktop/polyu_bse3124/05_Calculations/schematic_revision_v02/native_plots/ground.pdf Save changes to page setup [Yes/No]? <N> _N Proceed with plot [Yes/No] <Y>: _Y Effective plotting area:  420.00 wide by 297.00 high
+Effective plotting area:  289.94 wide by 219.92 high
+
+Plotting viewport 2.
+
+Plotting viewport 1.
+
+Command: nil
+
+Command: (setvar "CTAB" "TASK1-ROOM-REVIEW")
+Restoring cached viewports - Regenerating layout.
+"TASK1-ROOM-REVIEW"
+
+Command: (command "_.REGENALL")
+_.REGENALL Regenerating layout.
+Regenerating model.
+
+Command: nil
+
+Command: (command "_.-PLOT" "_N" "TASK1-ROOM-REVIEW" "" "" "C:/Users/lyuml-win/Desktop/polyu_bse3124/05_Calculations/schematic_revision_v02/native_plots/room.pdf" "_N" "_Y")
+_.-PLOT Detailed plot configuration? [Yes/No] <No>: _N
+Enter a layout name or [?] <TASK1-ROOM-REVIEW>: TASK1-ROOM-REVIEW
+Enter a page setup name <>: Enter an output device name or [?] <DWG To PDF.pc3>:
+Enter file name <C:\Users\lyuml-win\Desktop\polyu_bse3124\05_Calculations\schematic_revision_v02\BSE3124_Final_Rev02-TASK1-ROOM-REVIEW.pdf>: C:/Users/lyuml-win/Desktop/polyu_bse3124/05_Calculations/schematic_revision_v02/native_plots/room.pdf Save changes to page setup [Yes/No]? <N> _N Proceed with plot [Yes/No] <Y>: _Y Effective plotting area:  420.00 wide by 297.00 high
+Effective plotting area:  244.94 wide by 189.95 high
+
+Plotting viewport 2.
+
+Plotting viewport 1.
+
+Command: nil
+
+Command: (setvar "CTAB" "TASK1-MAIN-SCHEMATIC")
+Regenerating layout.
+"TASK1-MAIN-SCHEMATIC"
+
+Command: (command "_.REGENALL")
+_.REGENALL Regenerating layout.
+
+Command: nil
+
+Command: (command "_.-PLOT" "_N" "TASK1-MAIN-SCHEMATIC" "" "" "C:/Users/lyuml-win/Desktop/polyu_bse3124/05_Calculations/schematic_revision_v02/native_plots/main-schematic.pdf" "_N" "_Y")
+_.-PLOT Detailed plot configuration? [Yes/No] <No>: _N
+Enter a layout name or [?] <TASK1-MAIN-SCHEMATIC>: TASK1-MAIN-SCHEMATIC
+Enter a page setup name <>: Enter an output device name or [?] <DWG To PDF.pc3>:
+Enter file name <C:\Users\lyuml-win\Desktop\polyu_bse3124\05_Calculations\schematic_revision_v02\BSE3124_Final_Rev02-TASK1-MAIN-SCHEMATIC.pdf>: C:/Users/lyuml-win/Desktop/polyu_bse3124/05_Calculations/schematic_revision_v02/native_plots/main-schematic.pdf Save changes to page setup [Yes/No]? <N> _N Proceed with plot [Yes/No] <Y>: _Y Effective plotting area:  420.00 wide by 297.00 high
+
+Plotting viewport 1.
+
+Command: nil
+
+Command: (setvar "CTAB" "TASK2-LIGHTING-PLAN")
+Regenerating layout.
+Regenerating model - caching viewports.
+CoreHeartBeat
+"TASK2-LIGHTING-PLAN"
+
+Command: (command "_.REGENALL")
+_.REGENALL Regenerating layout.
+Regenerating model.
+
+Command: nil
+
+Command: (command "_.-PLOT" "_N" "TASK2-LIGHTING-PLAN" "" "" "C:/Users/lyuml-win/Desktop/polyu_bse3124/05_Calculations/schematic_revision_v02/native_plots/office-lighting.pdf" "_N" "_Y")
+_.-PLOT Detailed plot configuration? [Yes/No] <No>: _N
+Enter a layout name or [?] <TASK2-LIGHTING-PLAN>: TASK2-LIGHTING-PLAN
+Enter a page setup name <>: Enter an output device name or [?] <DWG To PDF.pc3>:
+Enter file name <C:\Users\lyuml-win\Desktop\polyu_bse3124\05_Calculations\schematic_revision_v02\BSE3124_Final_Rev02-TASK2-LIGHTING-PLAN.pdf>: C:/Users/lyuml-win/Desktop/polyu_bse3124/05_Calculations/schematic_revision_v02/native_plots/office-lighting.pdf Save changes to page setup [Yes/No]? <N> _N Proceed with plot [Yes/No] <Y>: _Y Effective plotting area:  297.00 wide by 420.00 high
+Effective plotting area:  219.92 wide by 284.95 high
+
+Plotting viewport 2.
+
+Plotting viewport 1.
+
+Command: nil
+
+Command: (setvar "CTAB" "TASK2-POWER-PLAN")
+Regenerating layout.
+Regenerating model - caching viewports.
+"TASK2-POWER-PLAN"
+
+Command: (command "_.REGENALL")
+_.REGENALL Regenerating layout.
+Regenerating model.
+
+Command: nil
+
+Command: (command "_.-PLOT" "_N" "TASK2-POWER-PLAN" "" "" "C:/Users/lyuml-win/Desktop/polyu_bse3124/05_Calculations/schematic_revision_v02/native_plots/office-power.pdf" "_N" "_Y")
+_.-PLOT Detailed plot configuration? [Yes/No] <No>: _N
+Enter a layout name or [?] <TASK2-POWER-PLAN>: TASK2-POWER-PLAN
+Enter a page setup name <>: Enter an output device name or [?] <DWG To PDF.pc3>:
+Enter file name <C:\Users\lyuml-win\Desktop\polyu_bse3124\05_Calculations\schematic_revision_v02\BSE3124_Final_Rev02-TASK2-POWER-PLAN.pdf>: C:/Users/lyuml-win/Desktop/polyu_bse3124/05_Calculations/schematic_revision_v02/native_plots/office-power.pdf Save changes to page setup [Yes/No]? <N> _N Proceed with plot [Yes/No] <Y>: _Y Effective plotting area:  297.00 wide by 420.00 high
+Effective plotting area:  219.92 wide by 284.95 high
+
+Plotting viewport 2.
+
+Plotting viewport 1.
+
+Command: nil
+
+Command: (setvar "CTAB" "TASK2-DB-SCHEMATIC")
+Regenerating layout.
+"TASK2-DB-SCHEMATIC"
+
+Command: (command "_.REGENALL")
+_.REGENALL Regenerating layout.
+
+Command: nil
+
+Command: (command "_.-PLOT" "_N" "TASK2-DB-SCHEMATIC" "" "" "C:/Users/lyuml-win/Desktop/polyu_bse3124/05_Calculations/schematic_revision_v02/native_plots/office-db.pdf" "_N" "_Y")
+_.-PLOT Detailed plot configuration? [Yes/No] <No>: _N
+Enter a layout name or [?] <TASK2-DB-SCHEMATIC>: TASK2-DB-SCHEMATIC
+Enter a page setup name <>: Enter an output device name or [?] <DWG To PDF.pc3>:
+Enter file name <C:\Users\lyuml-win\Desktop\polyu_bse3124\05_Calculations\schematic_revision_v02\BSE3124_Final_Rev02-TASK2-DB-SCHEMATIC.pdf>: C:/Users/lyuml-win/Desktop/polyu_bse3124/05_Calculations/schematic_revision_v02/native_plots/office-db.pdf Save changes to page setup [Yes/No]? <N> _N Proceed with plot [Yes/No] <Y>: _Y Effective plotting area:  420.00 wide by 297.00 high
+
+Plotting viewport 1.
+
+Command: nil
+
+Command: (setvar "CTAB" "DESIGN-DETAILS")
+Regenerating layout.
+"DESIGN-DETAILS"
+
+Command: (command "_.REGENALL")
+_.REGENALL Regenerating layout.
+
+Command: nil
+
+Command: (command "_.-PLOT" "_N" "DESIGN-DETAILS" "" "" "C:/Users/lyuml-win/Desktop/polyu_bse3124/05_Calculations/schematic_revision_v02/native_plots/installation-details.pdf" "_N" "_Y")
+_.-PLOT Detailed plot configuration? [Yes/No] <No>: _N
+Enter a layout name or [?] <DESIGN-DETAILS>: DESIGN-DETAILS
+Enter a page setup name <>: Enter an output device name or [?] <DWG To PDF.pc3>:
+Enter file name <C:\Users\lyuml-win\Desktop\polyu_bse3124\05_Calculations\schematic_revision_v02\BSE3124_Final_Rev02-DESIGN-DETAILS.pdf>: C:/Users/lyuml-win/Desktop/polyu_bse3124/05_Calculations/schematic_revision_v02/native_plots/installation-details.pdf Save changes to page setup [Yes/No]? <N> _N Proceed with plot [Yes/No] <Y>: _Y Effective plotting area:  420.00 wide by 297.00 high
+
+Plotting viewport 1.
+
+Command: nil
+
+Command: (princ "FINAL_PLOTS_COMPLETE")
+FINAL_PLOTS_COMPLETE"FINAL_PLOTS_COMPLETE"
+

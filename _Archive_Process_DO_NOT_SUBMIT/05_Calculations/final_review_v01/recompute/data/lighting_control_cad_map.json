@@ -1,0 +1,70 @@
+{
+  "drawing": "C:\\Users\\lyuml-win\\Desktop\\polyu_bse3124\\03_Design_Drawings\\assignment_working_v02.dwg",
+  "controls": [
+    {
+      "control_id": "S-A",
+      "circuit_id": "LC-A",
+      "handles": [
+        "7BF5",
+        "7BF6",
+        "7BF7"
+      ]
+    },
+    {
+      "control_id": "S-B",
+      "circuit_id": "LC-B",
+      "handles": [
+        "7BF8",
+        "7BF9",
+        "7BFA"
+      ]
+    },
+    {
+      "control_id": "S-C",
+      "circuit_id": "LC-C",
+      "handles": [
+        "7BFB",
+        "7BFC",
+        "7BFD"
+      ]
+    },
+    {
+      "control_id": "S-D",
+      "circuit_id": "LC-D",
+      "handles": [
+        "7BFE",
+        "7BFF",
+        "7C00"
+      ]
+    },
+    {
+      "control_id": "S-E",
+      "circuit_id": "LC-E",
+      "handles": [
+        "7C01",
+        "7C02",
+        "7C03"
+      ]
+    },
+    {
+      "control_id": "S-F",
+      "circuit_id": "LC-F",
+      "handles": [
+        "7C04",
+        "7C05",
+        "7C06"
+      ]
+    },
+    {
+      "control_id": "S-G",
+      "circuit_id": "LC-G",
+      "handles": [
+        "7C07",
+        "7C08",
+        "7C09"
+      ]
+    }
+  ],
+  "saved": true,
+  "scope": "seven passive switches; no power demand added; routes explicitly visit each switch plan point and include5m vertical allowance"
+}

@@ -1,0 +1,17 @@
+{
+  "boundary_handles": [
+    "79C7",
+    "79C9",
+    "79CB"
+  ],
+  "label_handles": [
+    "79C8",
+    "79CA",
+    "79CC"
+  ],
+  "arrow_handles": [],
+  "linetype": "ACCESS_CLEAR",
+  "opening_dimensions_unchanged": true,
+  "arrow_direction": null,
+  "purpose": "Delivery clearance shown by dashed boundary and labels; direction arrows removed in Rev04"
+}

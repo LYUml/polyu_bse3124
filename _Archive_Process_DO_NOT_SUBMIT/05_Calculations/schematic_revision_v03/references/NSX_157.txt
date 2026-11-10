@@ -1,0 +1,120 @@
+TM-D Thermal-Magnetic Trip Unit for 3P and 4P Circuit
+Breakers from 80 A to 250 A
+Introduction
+TM-D thermal-magnetic trip units for 3P/4P circuit breakers from 80 to 250 A are
+interchangeable trip units.
+They are designed to protect conductors in commercial and industrial electrical
+distribution.
+The trip unit exists in two configurations:
+•
+3P, 3D
+•
+4P, 3D
+Description
+The adjustment dials are on the front of the trip unit:
+250
+175
+225
+200
+A
+Ir
+Ii
+TM250 D
+250 A/40°C
+Ir
+Ii
+2000
+2500
+2250
+1500
+1250
+1750
+A
+A
+B
+C
+A Setting range for the TM-D thermal-magnetic trip unit
+B Adjustment dial for the thermal protection pickup Ir
+C Adjustment dial for the magnetic protection pickup Ii (for TM-D 200/250 only)
+Setting the Thermal Protection
+The thermal protection pickup Ir is set by a 4-setting dial.
+Turning the thermal protection adjustment dial (A) modifies the trip curve as
+shown (B).
+250
+175
+225
+200
+A
+Ir
+A
+B
+The following table shows the values of the pickup Ir (in amperes) for thermal
+protection (values indicated on the dial) with respect to every trip unit rating,
+relative to the position of the dial Ir.
+Trip unit rating In (A)
+16
+25
+32
+40
+50
+63
+80
+100
+125
+160
+200
+250
+Pickup Ir (A)
+11
+18
+22
+28
+35
+44
+56
+70
+88
+112
+140
+175
+13
+20
+26
+32
+40
+50
+64
+80
+100
+128
+160
+200
+14
+23
+29
+36
+45
+57
+72
+90
+113
+144
+180
+225
+16
+25
+32
+40
+50
+63
+80
+100
+125
+160
+200
+250
+DOCA0187EN-04
+157
+TM-D, TM-G Thermal-Magnetic and MA Magnetic Trip Units
+ComPacT NSX Circuit Breakers and Switch-Disconnectors
+100-630 A
